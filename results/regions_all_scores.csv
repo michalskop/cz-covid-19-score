@@ -112,7 +112,7 @@ date,code,name,score
 2020-08-08,CZ072,Zlínský kraj,11
 2020-08-08,CZ080,Moravskoslezský kraj,38
 2020-08-09,CZ010,Praha,26
-2020-08-09,CZ020,Středočeský kraj,19
+2020-08-09,CZ020,Středočeský kraj,24
 2020-08-09,CZ031,Jihočeský kraj,4
 2020-08-09,CZ032,Plzeňský kraj,41
 2020-08-09,CZ041,Karlovarský kraj,14
@@ -308,7 +308,7 @@ date,code,name,score
 2020-08-22,CZ072,Zlínský kraj,16
 2020-08-22,CZ080,Moravskoslezský kraj,15
 2020-08-23,CZ010,Praha,26
-2020-08-23,CZ020,Středočeský kraj,28
+2020-08-23,CZ020,Středočeský kraj,23
 2020-08-23,CZ031,Jihočeský kraj,26
 2020-08-23,CZ032,Plzeňský kraj,18
 2020-08-23,CZ041,Karlovarský kraj,39
@@ -392,7 +392,7 @@ date,code,name,score
 2020-08-28,CZ072,Zlínský kraj,21
 2020-08-28,CZ080,Moravskoslezský kraj,15
 2020-08-29,CZ010,Praha,26
-2020-08-29,CZ020,Středočeský kraj,23
+2020-08-29,CZ020,Středočeský kraj,28
 2020-08-29,CZ031,Jihočeský kraj,28
 2020-08-29,CZ032,Plzeňský kraj,21
 2020-08-29,CZ041,Karlovarský kraj,26
@@ -406,7 +406,7 @@ date,code,name,score
 2020-08-29,CZ072,Zlínský kraj,21
 2020-08-29,CZ080,Moravskoslezský kraj,15
 2020-08-30,CZ010,Praha,33
-2020-08-30,CZ020,Středočeský kraj,28
+2020-08-30,CZ020,Středočeský kraj,33
 2020-08-30,CZ031,Jihočeský kraj,23
 2020-08-30,CZ032,Plzeňský kraj,21
 2020-08-30,CZ041,Karlovarský kraj,26
@@ -433,7 +433,7 @@ date,code,name,score
 2020-08-31,CZ071,Olomoucký kraj,23
 2020-08-31,CZ072,Zlínský kraj,23
 2020-08-31,CZ080,Moravskoslezský kraj,15
-2020-09-01,CZ010,Praha,31
+2020-09-01,CZ010,Praha,26
 2020-09-01,CZ020,Středočeský kraj,33
 2020-09-01,CZ031,Jihočeský kraj,16
 2020-09-01,CZ032,Plzeňský kraj,23
@@ -1339,7 +1339,7 @@ date,code,name,score
 2020-11-04,CZ052,Královéhradecký kraj,77
 2020-11-04,CZ053,Pardubický kraj,82
 2020-11-04,CZ063,Kraj Vysočina,82
-2020-11-04,CZ064,Jihomoravský kraj,77
+2020-11-04,CZ064,Jihomoravský kraj,82
 2020-11-04,CZ071,Olomoucký kraj,77
 2020-11-04,CZ072,Zlínský kraj,77
 2020-11-04,CZ080,Moravskoslezský kraj,82
@@ -1403,7 +1403,7 @@ date,code,name,score
 2020-11-09,CZ020,Středočeský kraj,72
 2020-11-09,CZ031,Jihočeský kraj,77
 2020-11-09,CZ032,Plzeňský kraj,72
-2020-11-09,CZ041,Karlovarský kraj,79
+2020-11-09,CZ041,Karlovarský kraj,77
 2020-11-09,CZ042,Ústecký kraj,72
 2020-11-09,CZ051,Liberecký kraj,77
 2020-11-09,CZ052,Královéhradecký kraj,72
@@ -1413,17 +1413,31 @@ date,code,name,score
 2020-11-09,CZ071,Olomoucký kraj,77
 2020-11-09,CZ072,Zlínský kraj,77
 2020-11-09,CZ080,Moravskoslezský kraj,77
-2020-11-10,CZ010,Praha,54
+2020-11-10,CZ010,Praha,49
 2020-11-10,CZ020,Středočeský kraj,72
-2020-11-10,CZ031,Jihočeský kraj,72
+2020-11-10,CZ031,Jihočeský kraj,77
 2020-11-10,CZ032,Plzeňský kraj,72
-2020-11-10,CZ041,Karlovarský kraj,72
-2020-11-10,CZ042,Ústecký kraj,72
-2020-11-10,CZ051,Liberecký kraj,72
+2020-11-10,CZ041,Karlovarský kraj,77
+2020-11-10,CZ042,Ústecký kraj,77
+2020-11-10,CZ051,Liberecký kraj,77
 2020-11-10,CZ052,Královéhradecký kraj,72
-2020-11-10,CZ053,Pardubický kraj,72
+2020-11-10,CZ053,Pardubický kraj,77
 2020-11-10,CZ063,Kraj Vysočina,79
-2020-11-10,CZ064,Jihomoravský kraj,74
+2020-11-10,CZ064,Jihomoravský kraj,79
 2020-11-10,CZ071,Olomoucký kraj,72
 2020-11-10,CZ072,Zlínský kraj,72
-2020-11-10,CZ080,Moravskoslezský kraj,74
+2020-11-10,CZ080,Moravskoslezský kraj,79
+2020-11-11,CZ010,Praha,49
+2020-11-11,CZ020,Středočeský kraj,72
+2020-11-11,CZ031,Jihočeský kraj,72
+2020-11-11,CZ032,Plzeňský kraj,68
+2020-11-11,CZ041,Karlovarský kraj,74
+2020-11-11,CZ042,Ústecký kraj,72
+2020-11-11,CZ051,Liberecký kraj,72
+2020-11-11,CZ052,Královéhradecký kraj,72
+2020-11-11,CZ053,Pardubický kraj,72
+2020-11-11,CZ063,Kraj Vysočina,79
+2020-11-11,CZ064,Jihomoravský kraj,72
+2020-11-11,CZ071,Olomoucký kraj,72
+2020-11-11,CZ072,Zlínský kraj,72
+2020-11-11,CZ080,Moravskoslezský kraj,72
