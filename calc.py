@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 
 # parameters: first date
-first_date = '2020-08-01'
+first_date = '2020-03-16'
 
 # read data from UZIS
 url = "https://onemocneni-aktualne.mzcr.cz/api/account/verejne-distribuovana-data/file/dip%252Fweb_orp.csv"
