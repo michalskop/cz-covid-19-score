@@ -189,6 +189,7 @@ def value_7_to_score(n):
 # define final file
 data = pd.DataFrame(columns=['date', 'code', 'name', 'score'])
 data_regions = pd.DataFrame(columns=['date', 'code', 'name', 'score'])
+data_cz = pd.DataFrame(columns=['date', 'code', 'name', 'score'])
 
 # for each date
 for i in range(0, (last_day - first_day).days + 1):
@@ -202,64 +203,83 @@ for i in range(0, (last_day - first_day).days + 1):
     selected = selected.set_index('code', drop=False)
     selected.sort_index(inplace=True)
     selected_regions = pd.pivot_table(selected, values=['incidence_7', 'incidence_65_7', 'testy_7', 'population', 'population_65'], index=['code_region', 'name_region'], aggfunc=np.sum)
+    selected_cz = pd.pivot_table(selected, values=['incidence_7', 'incidence_65_7', 'testy_7', 'population', 'population_65'], index=['code_cz', 'name_cz'], aggfunc=np.sum)
 
     selected_5 = df[df['datum'] == date_5].merge(orps, left_on='orp_kod', right_on='code')
     selected_5 = selected_5.set_index('code', drop=False)
     selected_5.sort_index(inplace=True)
     selected_5_regions = pd.pivot_table(selected_5, values=['incidence_7', 'incidence_65_7', 'testy_7', 'population', 'population_65'], index=['code_region', 'name_region'], aggfunc=np.sum)
+    selected_5_cz = pd.pivot_table(selected_5, values=['incidence_7', 'incidence_65_7', 'testy_7', 'population', 'population_65'], index=['code_cz', 'name_cz'], aggfunc=np.sum)
 
 
     selected_7 = df[df['datum'] == date_7].merge(orps, left_on='orp_kod', right_on='code')
     selected_7 = selected_7.set_index('code', drop=False)
     selected_7.sort_index(inplace=True)
     selected_7_regions = pd.pivot_table(selected_7, values=['incidence_7', 'incidence_65_7', 'testy_7', 'population', 'population_65'], index=['code_region', 'name_region'], aggfunc=np.sum)
+    selected_7_cz = pd.pivot_table(selected_7, values=['incidence_7', 'incidence_65_7', 'testy_7', 'population', 'population_65'], index=['code_cz', 'name_cz'], aggfunc=np.sum)
+
 
     selected_14 = df[df['datum'] == date_14].merge(orps, left_on='orp_kod', right_on='code')
     selected_14 = selected_14.set_index('code', drop=False)
     selected_14.sort_index(inplace=True)
     selected_14_regions = pd.pivot_table(selected_14, values=['incidence_7', 'incidence_65_7', 'testy_7', 'population', 'population_65'], index=['code_region', 'name_region'], aggfunc=np.sum)
+    selected_14_cz = pd.pivot_table(selected_14, values=['incidence_7', 'incidence_65_7', 'testy_7', 'population', 'population_65'], index=['code_cz', 'name_cz'], aggfunc=np.sum)
 
     # Test 1 - "incidence_14" per 100000
     selected['value_1'] = (selected['incidence_7'] + selected_7['incidence_7']) / selected['population'] * 100000
     selected['score_1'] = selected['value_1'].apply(lambda x: value_1_to_score(x))
     selected_regions['value_1'] = (selected_regions['incidence_7'] + selected_7_regions['incidence_7']) / selected_regions['population'] * 100000
     selected_regions['score_1'] = selected_regions['value_1'].apply(lambda x: value_1_to_score(x))
+    selected_cz['value_1'] = (selected_cz['incidence_7'] + selected_7_cz['incidence_7']) / selected_cz['population'] * 100000
+    selected_cz['score_1'] = selected_cz['value_1'].apply(lambda x: value_1_to_score(x))
 
     # Test 2 - "incidence_14" grows
     selected['value_2'] = selected['value_1'] > ((selected_7['incidence_7'] + selected_14['incidence_7']) / selected_7['population'] * 100000)
     selected['score_2'] = selected['value_2'].apply(lambda x: value_2_to_score(x))
     selected_regions['value_2'] = selected_regions['value_1'] > ((selected_7_regions['incidence_7'] + selected_14_regions['incidence_7']) / selected_7_regions['population'] * 100000)
     selected_regions['score_2'] = selected_regions['value_2'].apply(lambda x: value_2_to_score(x))
+    selected_cz['value_2'] = selected_cz['value_1'] > ((selected_7_cz['incidence_7'] + selected_14_cz['incidence_7']) / selected_7_cz['population'] * 100000)
+    selected_cz['score_2'] = selected_cz['value_2'].apply(lambda x: value_2_to_score(x))
 
     # Test 3 - "incidence_65_14" per 100000
     selected['value_3'] = (selected['incidence_65_7'] + selected_7['incidence_65_7']) / selected['population_65'] * 100000
     selected['score_3'] = selected['value_3'].apply(lambda x: value_3_to_score(x))
     selected_regions['value_3'] = (selected_regions['incidence_65_7'] + selected_7_regions['incidence_65_7']) / selected_regions['population_65'] * 100000
     selected_regions['score_3'] = selected_regions['value_3'].apply(lambda x: value_3_to_score(x))
+    selected_cz['value_3'] = (selected_cz['incidence_65_7'] + selected_7_cz['incidence_65_7']) / selected_cz['population_65'] * 100000
+    selected_cz['score_3'] = selected_cz['value_3'].apply(lambda x: value_3_to_score(x))
 
     # Test 4 - "incidence_65_14" grows
     selected['value_4'] = selected['value_3'] > ((selected_7['incidence_65_7'] + selected_14['incidence_65_7']) / selected_7['population'] * 100000)
     selected['score_4'] = selected['value_4'].apply(lambda x: value_4_to_score(x))
     selected_regions['value_4'] = selected_regions['value_3'] > ((selected_7_regions['incidence_65_7'] + selected_14_regions['incidence_65_7']) / selected_7_regions['population'] * 100000)
     selected_regions['score_4'] = selected_regions['value_4'].apply(lambda x: value_4_to_score(x))
+    selected_cz['value_4'] = selected_cz['value_3'] > ((selected_7_cz['incidence_65_7'] + selected_14_cz['incidence_65_7']) / selected_7_cz['population'] * 100000)
+    selected_cz['score_4'] = selected_cz['value_4'].apply(lambda x: value_4_to_score(x))
 
     # Test 5 - incidence_7 / testy_7
     selected['value_5'] = selected['incidence_7'].div(selected['testy_7']).replace(np.inf, 0) * 100
     selected['score_5'] = selected['value_5'].apply(lambda x: value_5_to_score(x))
     selected_regions['value_5'] = selected_regions['incidence_7'].div(selected_regions['testy_7']).replace(np.inf, 0) * 100
     selected_regions['score_5'] = selected_regions['value_5'].apply(lambda x: value_5_to_score(x))
+    selected_cz['value_5'] = selected_cz['incidence_7'].div(selected_cz['testy_7']).replace(np.inf, 0) * 100
+    selected_cz['score_5'] = selected_cz['value_5'].apply(lambda x: value_5_to_score(x))
 
     # Test 6 - incidence_7 / testy_7 grows
     selected['value_6'] = selected['value_5'] > selected_7['incidence_7'].div(selected_7['testy_7']).replace(np.inf, 0) * 100
     selected['score_6'] = selected['value_6'].apply(lambda x: value_6_to_score(x))
     selected_regions['value_6'] = selected_regions['value_5'] > selected_7_regions['incidence_7'].div(selected_7_regions['testy_7']).replace(np.inf, 0) * 100
     selected_regions['score_6'] = selected_regions['value_6'].apply(lambda x: value_6_to_score(x))
+    selected_cz['value_6'] = selected_cz['value_5'] > selected_7_cz['incidence_7'].div(selected_7_cz['testy_7']).replace(np.inf, 0) * 100
+    selected_cz['score_6'] = selected_cz['value_6'].apply(lambda x: value_6_to_score(x))
 
     # Test 7 - R : incidence_7 / selected_7[incidence_7]
     selected['value_7'] = selected['incidence_7'].div(selected_5['incidence_7']).replace(np.inf, 0)
     selected['score_7'] = selected['value_7'].apply(lambda x: value_7_to_score(x))
     selected_regions['value_7'] = selected_regions['incidence_7'].div(selected_5_regions['incidence_7']).replace(np.inf, 0)
     selected_regions['score_7'] = selected_regions['value_7'].apply(lambda x: value_7_to_score(x))
+    selected_cz['value_7'] = selected_cz['incidence_7'].div(selected_5_cz['incidence_7']).replace(np.inf, 0)
+    selected_cz['score_7'] = selected_cz['value_7'].apply(lambda x: value_7_to_score(x))
 
     # Total score
     selected['score'] = 0
@@ -269,28 +289,39 @@ for i in range(0, (last_day - first_day).days + 1):
     selected_regions['score'] = 0
     for i in range(1, 8):
         selected_regions['score'] = selected_regions['score'] + selected_regions['score_' + str(i)]
+
+    selected_cz['score'] = 0
+    for i in range(1, 8):
+        selected_cz['score'] = selected_cz['score'] + selected_cz['score_' + str(i)]
     
     # save analytical files
     selected.to_csv("results/orp_table_" + date + ".csv", index=False)
     selected_regions['date'] = date
     selected_regions.to_csv("results/regions_table_" + date + ".csv")
+    selected_cz['date'] = date
+    selected_cz.to_csv("results/cz_table_" + date + ".csv")
 
 
     # final files
     data = data.append(selected.loc[:,['code', 'name', 'score', 'datum']].rename(columns={'datum': 'date'}), ignore_index=True)
     selected_regions.reset_index(level=selected_regions.index.names, inplace=True)
     data_regions = data_regions.append(selected_regions.rename(columns={'code_region': 'code', 'name_region': 'name'}).loc[:,['code', 'name', 'score', 'date']], ignore_index=True)
+    selected_cz.reset_index(level=selected_cz.index.names, inplace=True)
+    data_cz = data_cz.append(selected_cz.rename(columns={'code_cz': 'code', 'name_cz': 'name'}).loc[:,['code', 'name', 'score', 'date']], ignore_index=True)
     
 
     # current score - by yesterday
     if day == last_ok_day:
         last_ok_data = selected.loc[:,['datum', 'code', 'name', 'score']].rename(columns={'datum': 'date'})
         last_ok_data_regions = selected_regions.rename(columns={'code_region': 'code', 'name_region': 'name'}).loc[:,['date', 'code', 'name', 'score']]
+        last_ok_data_cz = selected_cz.rename(columns={'code_cz': 'code', 'name_cz': 'name'}).loc[:,['date', 'code', 'name', 'score']]
 
 # save final file
 data.to_csv("results/orp_all_scores.csv", index=False)
 data_regions.to_csv("results/regions_all_scores.csv", index=False)
+data_cz.to_csv("results/cz_all_scores.csv", index=False)
 
 # save current scores - by yesterday
 last_ok_data.to_csv("orp_scores.csv", index=False)
 last_ok_data_regions.to_csv("regions_scores.csv", index=False)
+last_ok_data_cz.to_csv("cz_scores.csv", index=False)
