@@ -1,207 +1,207 @@
-den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2020-05-22,1000,Praha,117,12,4,348,73,47,27,10,5851,1000,Praha,1324277,251166,CZ010,Praha,16.008735332562598,2,True,0,11.14800570140863,2,True,2,1.9996581780892155,0,True,2,1.1037735849056605,10,18
-pátek,2020-05-22,2101,Benešov,2,1,0,6,1,0,0,0,228,2101,Benešov,61022,12125,CZ020,Středočeský kraj,6.555012946150569,0,False,0,8.24742268041237,0,True,2,0.8771929824561403,0,True,2,1.0,10,14
-pátek,2020-05-22,2102,Beroun,1,1,1,2,1,1,0,0,190,2102,Beroun,64927,11392,CZ020,Středočeský kraj,1.5401912917584364,0,True,0,8.77808988764045,0,True,2,0.5263157894736842,0,True,2,0.0,0,4
-pátek,2020-05-22,2103,Brandýs n.L.- St.Boleslav,6,0,0,12,1,1,1,1,360,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,9.710280538832295,0,True,0,0.0,0,False,0,1.6666666666666667,0,True,2,0.8571428571428571,5,7
-pátek,2020-05-22,2104,Čáslav,0,0,0,0,0,0,0,0,57,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,2105,Černošice,9,2,0,17,4,1,0,0,585,2105,Černošice,149338,23399,CZ020,Středočeský kraj,10.713950903319986,2,True,0,17.094747638787982,2,True,2,1.5384615384615385,0,True,2,0.8181818181818182,5,13
-pátek,2020-05-22,2106,Český Brod,0,0,0,0,0,0,0,0,67,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,2107,Dobříš,0,0,0,0,0,0,0,0,42,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,2108,Hořovice,0,0,0,1,0,0,0,0,117,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,2109,Kladno,0,0,0,8,0,0,0,0,563,2109,Kladno,125957,24239,CZ020,Středočeský kraj,5.557452146367411,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,2110,Kolín,3,0,0,11,1,0,0,0,302,2110,Kolín,83500,16849,CZ020,Středočeský kraj,9.580838323353294,0,False,0,0.0,0,False,0,0.9933774834437087,0,False,0,0.75,0,0
-pátek,2020-05-22,2111,Kralupy nad Vltavou,0,0,0,4,0,0,0,0,112,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,12.302014454866985,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
-pátek,2020-05-22,2112,Kutná Hora,2,2,1,2,2,1,2,2,156,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,3.9868434167248084,0,True,0,18.68634962160142,2,True,2,1.282051282051282,0,True,2,0.0,0,6
-pátek,2020-05-22,2113,Lysá nad Labem,1,0,0,2,0,0,0,0,74,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,3.7165049986992233,0,False,0,0.0,0,False,0,1.3513513513513513,0,True,2,0.0,0,2
-pátek,2020-05-22,2114,Mělník,1,0,0,2,0,0,0,0,108,2114,Mělník,44600,8655,CZ020,Středočeský kraj,4.484304932735426,0,False,0,0.0,0,False,0,0.9259259259259258,0,True,2,1.0,10,12
-pátek,2020-05-22,2115,Mladá Boleslav,1,0,0,13,3,0,0,0,522,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,8.002560819462227,0,False,0,0.0,0,False,0,0.19157088122605362,0,False,0,0.125,0,0
-pátek,2020-05-22,2116,Mnichovo Hradiště,0,0,0,0,0,0,0,0,72,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,2117,Neratovice,2,0,0,28,0,0,0,0,127,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,77.67110945412745,7,True,0,0.0,0,False,0,1.574803149606299,0,False,0,0.08695652173913043,0,7
-pátek,2020-05-22,2118,Nymburk,0,0,0,0,0,0,0,0,123,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,2.4886145882587165,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,2119,Poděbrady,0,0,0,0,0,0,0,0,79,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,2120,Příbram,0,0,0,6,0,0,0,0,113,2120,Příbram,69951,14592,CZ020,Středočeský kraj,2.8591442581235436,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,2121,Rakovník,0,0,0,0,0,0,0,0,161,2121,Rakovník,55562,11623,CZ020,Středočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,2122,Říčany,3,1,0,7,0,0,1,1,274,2122,Říčany,71896,11376,CZ020,Středočeský kraj,4.172693891176143,0,False,0,8.79043600562588,0,True,2,1.094890510948905,0,True,2,0.0,0,4
-pátek,2020-05-22,2123,Sedlčany,0,0,0,0,0,0,0,0,44,2123,Sedlčany,22074,4717,CZ020,Středočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,2124,Slaný,0,0,0,2,0,0,0,0,171,2124,Slaný,40526,7771,CZ020,Středočeský kraj,4.935103390416029,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,2125,Vlašim,0,0,0,0,0,0,0,0,89,2125,Vlašim,25947,5665,CZ020,Středočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,2126,Votice,0,0,0,0,0,0,0,0,34,2126,Votice,12445,2654,CZ020,Středočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3101,Blatná,0,0,0,0,0,0,0,0,40,3101,Blatná,13668,3093,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3102,České Budějovice,0,0,0,1,1,0,0,0,331,3102,České Budějovice,162553,31763,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3103,Český Krumlov,0,0,0,0,0,0,0,0,93,3103,Český Krumlov,41687,7954,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3104,Dačice,1,0,0,2,0,0,0,0,29,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,5.323963158174945,0,False,0,0.0,0,False,0,3.4482758620689653,3,True,2,0.0,0,5
-pátek,2020-05-22,3105,Jindřichův Hradec,0,0,0,0,0,0,0,0,61,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3106,Kaplice,0,0,0,0,0,0,0,0,51,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3107,Milevsko,0,0,0,0,0,0,0,0,39,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3108,Písek,0,0,0,0,0,0,0,0,135,3108,Písek,53352,11354,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3109,Prachatice,0,0,0,7,1,1,0,0,177,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,8.9664654193317,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,3110,Soběslav,0,0,0,0,0,0,0,0,64,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3111,Strakonice,0,0,0,0,0,0,0,0,139,3111,Strakonice,45223,9454,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3112,Tábor,0,0,0,3,1,1,0,0,193,3112,Tábor,80648,17257,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3113,Trhové Sviny,0,0,0,0,0,0,0,0,37,3113,Trhové Sviny,19267,3657,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3114,Třeboň,0,0,0,0,0,0,0,0,38,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3115,Týn nad Vltavou,0,0,0,0,0,0,0,0,24,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3116,Vimperk,0,0,0,0,0,0,0,0,77,3116,Vimperk,17520,3591,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3117,Vodňany,0,0,0,0,0,0,0,0,32,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3201,Blovice,1,0,0,1,0,0,0,0,37,3201,Blovice,12185,2566,CZ032,Plzeňský kraj,8.206811653672549,0,False,0,0.0,0,False,0,2.7027027027027026,0,True,2,0.0,0,2
-pátek,2020-05-22,3202,Domažlice,4,2,2,35,10,5,1,1,215,3202,Domažlice,40679,8358,CZ032,Plzeňský kraj,29.499250227390053,4,False,0,35.89375448671931,4,True,2,1.8604651162790697,0,False,0,0.5,0,10
-pátek,2020-05-22,3203,Horažďovice,0,0,0,0,0,0,0,0,31,3203,Horažďovice,11535,2662,CZ032,Plzeňský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3204,Horšovský Týn,1,0,0,3,1,1,1,0,77,3204,Horšovský Týn,14825,2829,CZ032,Plzeňský kraj,6.745362563237774,0,True,0,0.0,0,False,0,1.2987012987012987,0,True,2,1.0,10,12
-pátek,2020-05-22,3205,Klatovy,1,0,0,5,0,0,0,0,119,3205,Klatovy,50720,10750,CZ032,Plzeňský kraj,3.9432176656151423,0,False,0,0.0,0,False,0,0.8403361344537815,0,False,0,1.0,10,10
-pátek,2020-05-22,3206,Kralovice,0,0,0,0,0,0,0,0,72,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3207,Nepomuk,0,0,0,0,0,0,0,0,26,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3208,Nýřany,0,0,0,5,2,1,0,0,186,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3209,Plzeň,0,0,0,10,3,1,3,1,741,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,0.5147210212065061,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,3210,Přeštice,0,0,0,4,1,1,1,0,92,3210,Přeštice,22885,4449,CZ032,Plzeňský kraj,4.369674459252786,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,3211,Rokycany,0,0,0,0,0,0,0,0,120,3211,Rokycany,49349,10085,CZ032,Plzeňský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3212,Stod,1,1,1,2,1,1,1,1,76,3212,Stod,23393,4517,CZ032,Plzeňský kraj,4.274783054759971,0,True,0,22.13858755811379,2,True,2,1.3157894736842104,0,True,2,0.0,0,6
-pátek,2020-05-22,3213,Stříbro,0,0,0,0,0,0,0,0,54,3213,Stříbro,17190,3184,CZ032,Plzeňský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,3214,Sušice,1,0,0,2,1,1,0,0,50,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,4.140786749482402,0,True,0,0.0,0,False,0,2.0,0,True,2,1.0,10,12
-pátek,2020-05-22,3215,Tachov,1,0,0,7,0,0,0,0,174,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,5.3841598018629195,0,False,0,0.0,0,False,0,0.5747126436781609,0,True,2,1.0,10,12
-pátek,2020-05-22,4101,Aš,2,0,0,8,0,0,2,0,170,4101,Aš,17695,3278,CZ041,Karlovarský kraj,33.90788358293303,4,False,0,0.0,0,False,0,1.1764705882352942,0,False,0,0.5,0,4
-pátek,2020-05-22,4102,Cheb,4,0,0,25,3,1,2,1,414,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,22.019817836052447,2,False,0,0.0,0,False,0,0.966183574879227,0,False,0,1.3333333333333333,15,17
-pátek,2020-05-22,4103,Karlovy Vary,0,0,0,-1,0,0,0,0,392,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,4104,Kraslice,1,0,0,1,0,0,0,0,112,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,7.584951456310679,0,True,0,0.0,0,False,0,0.8928571428571428,0,True,2,0.0,0,2
-pátek,2020-05-22,4105,Mariánské Lázně,2,1,0,15,10,5,2,1,150,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,16.677785190126748,2,False,0,55.360767669311684,7,True,2,1.3333333333333335,0,True,2,1.0,10,23
-pátek,2020-05-22,4106,Ostrov,1,1,1,1,1,1,0,0,165,4106,Ostrov,27636,5453,CZ041,Karlovarský kraj,3.618468664061369,0,False,0,18.338529249954153,2,True,2,0.6060606060606061,0,True,2,0.0,0,6
-pátek,2020-05-22,4107,Sokolov,2,0,0,6,1,1,0,0,420,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,5.331342965292957,0,False,0,0.0,0,False,0,0.4761904761904762,0,True,2,1.0,10,12
-pátek,2020-05-22,4201,Bílina,1,1,0,2,1,0,1,0,68,4201,Bílina,22600,3935,CZ042,Ústecký kraj,8.849557522123893,0,True,0,25.412960609911053,4,True,2,1.4705882352941175,0,False,0,0.0,0,6
-pátek,2020-05-22,4202,Děčín,2,1,0,4,2,1,2,2,435,4202,Děčín,76842,16362,CZ042,Ústecký kraj,5.205486582858333,0,True,0,12.223444566678891,2,True,2,0.45977011494252873,0,False,0,1.0,10,14
-pátek,2020-05-22,4203,Chomutov,4,2,0,4,2,1,0,1,368,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,6.122798853812054,0,True,0,20.434575301409986,2,True,2,1.0869565217391304,0,True,2,2.0,30,36
-pátek,2020-05-22,4204,Kadaň,0,0,0,0,0,0,0,0,139,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,4205,Litoměřice,2,0,0,6,1,1,1,0,110,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,3.3835222466587718,0,True,0,0.0,0,False,0,1.8181818181818181,0,True,2,2.0,30,32
-pátek,2020-05-22,4206,Litvínov,0,0,0,1,1,1,0,0,137,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,4207,Louny,0,0,0,0,0,0,0,0,127,4207,Louny,43640,8545,CZ042,Ústecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,4208,Lovosice,0,0,0,2,0,0,0,0,36,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,3.6036036036036037,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,4209,Most,0,0,0,4,2,0,0,0,257,4209,Most,74673,13629,CZ042,Ústecký kraj,1.3391721237930712,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,4210,Podbořany,0,0,0,0,0,0,0,0,46,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,4211,Roudnice nad Labem,0,0,0,1,1,0,0,0,96,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,3.0480370641306997,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,4212,Rumburk,2,0,0,2,0,0,0,0,101,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,6.098490623570666,0,True,0,0.0,0,False,0,1.9801980198019802,0,True,2,0.0,0,2
-pátek,2020-05-22,4213,Teplice,3,1,1,14,3,1,1,0,548,4213,Teplice,106472,21215,CZ042,Ústecký kraj,10.33135472236832,2,True,0,4.71364600518501,0,True,2,0.5474452554744526,0,False,0,0.5,0,4
-pátek,2020-05-22,4214,Ústí nad Labem,3,0,0,2,0,0,0,0,441,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,2.5138681727530208,0,True,0,0.0,0,False,0,0.6802721088435374,0,True,2,3.0,30,32
-pátek,2020-05-22,4215,Varnsdorf,0,0,0,1,0,0,0,0,52,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,5.023863350916855,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,4216,Žatec,0,0,0,0,0,0,0,0,48,4216,Žatec,27373,5216,CZ042,Ústecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5101,Česká Lípa,0,0,0,1,0,0,0,0,91,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5102,Frýdlant,0,0,0,0,0,0,0,0,56,5102,Frýdlant,24479,4944,CZ051,Liberecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5103,Jablonec nad Nisou,1,0,0,4,1,0,0,0,192,5103,Jablonec nad Nisou,56206,11517,CZ051,Liberecký kraj,1.7791694836850158,0,True,0,0.0,0,False,0,0.5208333333333333,0,True,2,1.0,10,12
-pátek,2020-05-22,5104,Jilemnice,0,0,0,0,0,0,0,0,65,5104,Jilemnice,22137,4768,CZ051,Liberecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5105,Liberec,0,0,0,3,1,0,1,0,354,5105,Liberec,145676,28910,CZ051,Liberecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5106,Nový Bor,0,0,0,0,0,0,0,0,32,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5107,Semily,0,0,0,0,0,0,0,0,76,5107,Semily,25675,5599,CZ051,Liberecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5108,Tanvald,1,0,0,2,0,0,0,0,70,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,4.899078973153047,0,False,0,0.0,0,False,0,1.4285714285714286,0,True,2,0.0,0,2
-pátek,2020-05-22,5109,Turnov,0,0,0,1,0,0,0,0,91,5109,Turnov,33623,7134,CZ051,Liberecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5110,Železný Brod,0,0,0,0,0,0,0,0,35,5110,Železný Brod,12182,2797,CZ051,Liberecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5201,Broumov,0,0,0,1,0,0,0,0,39,5201,Broumov,15876,3561,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5202,Dobruška,0,0,0,0,0,0,0,0,54,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5203,Dvůr Králové nad Labem,0,0,0,0,0,0,0,0,91,5203,Dvůr Králové nad Labem,26949,6223,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5204,Hořice,0,0,0,0,0,0,0,0,70,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5205,Hradec Králové,0,0,0,8,1,0,0,0,597,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,1.361479656090239,0,False,0,3.078438615933998,0,True,2,0.0,0,False,0,0.0,0,2
-pátek,2020-05-22,5206,Jaroměř,0,0,0,2,2,1,0,0,68,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5207,Jičín,1,0,0,5,1,0,1,0,159,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,4.133768756975735,0,False,0,0.0,0,False,0,0.628930817610063,0,False,0,1.0,10,10
-pátek,2020-05-22,5208,Kostelec nad Orlicí,0,0,0,0,0,0,0,0,58,5208,Kostelec nad Orlicí,24892,5311,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5209,Náchod,1,0,0,2,0,0,0,0,192,5209,Náchod,60595,13494,CZ052,Královéhradecký kraj,1.6503011799653435,0,False,0,0.0,0,False,0,0.5208333333333333,0,True,2,0.0,0,2
-pátek,2020-05-22,5210,Nová Paka,0,0,0,0,0,0,0,0,49,5210,Nová Paka,13286,2887,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5211,Nové Město nad Metují,0,0,0,1,1,1,0,0,47,5211,Nové Město nad Metují,14214,3321,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5212,Nový Bydžov,0,0,0,0,0,0,0,0,67,5212,Nový Bydžov,17384,3627,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5213,Rychnov nad Kněžnou,0,0,0,0,0,0,0,0,101,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5214,Trutnov,0,0,0,5,0,0,0,0,275,5214,Trutnov,63419,13537,CZ052,Královéhradecký kraj,6.307258077232375,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,5215,Vrchlabí,0,0,0,0,0,0,0,0,67,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5301,Česká Třebová,0,0,0,1,0,0,0,0,84,5301,Česká Třebová,17969,3841,CZ053,Pardubický kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5302,Hlinsko,0,0,0,1,0,0,0,0,54,5302,Hlinsko,21017,4465,CZ053,Pardubický kraj,4.758053004710472,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,5303,Holice,0,0,0,2,0,0,0,0,85,5303,Holice,17910,3461,CZ053,Pardubický kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5304,Chrudim,1,1,0,2,1,0,0,0,260,5304,Chrudim,83596,17211,CZ053,Pardubický kraj,1.196229484664338,0,True,0,5.810237638719424,0,True,2,0.38461538461538464,0,True,2,1.0,10,14
-pátek,2020-05-22,5305,Králíky,0,0,0,0,0,0,0,0,28,5305,Králíky,8676,1838,CZ053,Pardubický kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5306,Lanškroun,0,0,0,0,0,0,0,0,81,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5307,Litomyšl,1,0,0,2,1,1,0,0,113,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,3.6757948906451023,0,True,0,0.0,0,False,0,0.8849557522123894,0,True,2,1.0,10,12
-pátek,2020-05-22,5308,Moravská Třebová,0,0,0,0,0,0,0,0,63,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5309,Pardubice,4,1,0,9,4,3,6,4,519,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,3.037413338800677,0,True,0,3.797228023542814,0,True,2,0.7707129094412332,0,True,2,0.0,0,4
-pátek,2020-05-22,5310,Polička,0,0,0,0,0,0,0,0,73,5310,Polička,19611,3995,CZ053,Pardubický kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5311,Přelouč,0,0,0,5,4,0,1,0,81,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5312,Svitavy,0,0,0,0,0,0,0,0,83,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5313,Ústí nad Orlicí,0,0,0,0,0,0,0,0,124,5313,Ústí nad Orlicí,26573,5651,CZ053,Pardubický kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,5314,Vysoké Mýto,0,0,0,1,1,1,1,1,127,5314,Vysoké Mýto,32454,6661,CZ053,Pardubický kraj,3.0812842792876074,0,False,0,15.012760846719713,2,True,2,0.0,0,False,0,0.0,0,4
-pátek,2020-05-22,5315,Žamberk,0,0,0,0,0,0,0,0,116,5315,Žamberk,29463,5651,CZ053,Pardubický kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6101,Bystřice nad Pernštejnem,0,0,0,0,0,0,0,0,35,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6102,Havlíčkův Brod,0,0,0,8,5,3,0,0,99,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,1.889216353056752,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,6103,Humpolec,0,0,0,0,0,0,0,0,25,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6104,Chotěboř,0,0,0,6,0,0,0,0,61,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6105,Jihlava,2,0,0,2,0,0,0,0,133,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,1.9787482438609334,0,True,0,0.0,0,False,0,1.5037593984962405,0,True,2,0.0,0,2
-pátek,2020-05-22,6106,Moravské Budějovice,0,0,0,0,0,0,0,0,42,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6107,Náměšť nad Oslavou,0,0,0,2,0,0,0,0,37,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6108,Nové Město na Moravě,1,0,0,1,0,0,0,0,49,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,5.158361704322707,0,True,0,0.0,0,False,0,2.0408163265306123,0,True,2,0.0,0,2
-pátek,2020-05-22,6109,Pacov,0,0,0,0,0,0,0,0,10,6109,Pacov,9364,2205,CZ063,Kraj Vysočina,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6110,Pelhřimov,0,0,0,0,0,0,0,0,42,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6111,Světlá nad Sázavou,0,0,0,4,3,2,0,0,41,6111,Světlá nad Sázavou,19690,4322,CZ063,Kraj Vysočina,5.078720162519045,0,False,0,23.137436372049976,2,True,2,0.0,0,False,0,,30,34
-pátek,2020-05-22,6112,Telč,0,0,0,0,0,0,0,0,16,6112,Telč,12975,2736,CZ063,Kraj Vysočina,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6113,Třebíč,1,0,0,2,0,0,0,1,150,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,1.3464024127531236,0,True,0,0.0,0,False,0,0.6666666666666667,0,True,2,1.0,10,12
-pátek,2020-05-22,6114,Velké Meziříčí,0,0,0,0,0,0,0,0,61,6114,Velké Meziříčí,36390,6564,CZ063,Kraj Vysočina,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6115,Žďár nad Sázavou,0,0,0,0,0,0,0,0,50,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6201,Blansko,1,0,0,7,0,0,0,0,117,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,5.25154920701607,0,False,0,0.0,0,False,0,0.8547008547008548,0,False,0,1.0,10,10
-pátek,2020-05-22,6202,Boskovice,0,0,0,0,0,0,0,0,79,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6203,Brno,4,0,0,31,2,0,0,0,847,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,5.506810088476082,0,False,0,1.2585423562429994,0,True,2,0.47225501770956313,0,False,0,0.25,0,2
-pátek,2020-05-22,6204,Břeclav,1,0,0,10,5,4,6,1,189,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,3.34924223394457,0,False,0,0.0,0,False,0,0.5291005291005291,0,True,2,0.0,0,2
-pátek,2020-05-22,6205,Bučovice,0,0,0,0,0,0,0,0,15,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6206,Hodonín,0,0,0,1,0,0,0,0,138,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,1.6478536705940512,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,6207,Hustopeče,0,0,0,1,0,0,0,0,71,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6208,Ivančice,0,0,0,2,0,0,0,0,35,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6209,Kuřim,0,0,0,0,0,0,0,0,38,6209,Kuřim,23345,4177,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6210,Kyjov,0,0,0,1,0,0,0,0,136,6210,Kyjov,55543,11542,CZ064,Jihomoravský kraj,1.8004068919575826,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,6211,Mikulov,0,0,0,1,1,1,1,0,66,6211,Mikulov,20265,3954,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6212,Moravský Krumlov,0,0,0,1,0,0,0,0,45,6212,Moravský Krumlov,22452,4592,CZ064,Jihomoravský kraj,4.453946196329948,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,6213,Pohořelice,0,0,0,0,0,0,0,0,25,6213,Pohořelice,14599,2588,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6214,Rosice,0,0,0,0,0,0,0,0,33,6214,Rosice,26284,5080,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6215,Slavkov u Brna,0,0,0,0,0,0,0,0,43,6215,Slavkov u Brna,24027,4191,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6216,Šlapanice,0,0,0,4,0,0,0,0,119,6216,Šlapanice,70414,12564,CZ064,Jihomoravský kraj,5.680688499446133,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,6217,Tišnov,0,0,0,0,0,0,0,0,63,6217,Tišnov,31725,6213,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6218,Veselí nad Moravou,0,0,0,0,0,0,0,0,67,6218,Veselí nad Moravou,37715,8138,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,6219,Vyškov,5,2,0,9,2,0,0,1,128,6219,Vyškov,52142,10312,CZ064,Jihomoravský kraj,9.58919872655441,0,True,0,19.39487975174554,2,True,2,3.90625,3,True,2,5.0,30,39
-pátek,2020-05-22,6220,Znojmo,0,0,0,2,1,0,0,0,319,6220,Znojmo,91899,18089,CZ064,Jihomoravský kraj,4.352604489711531,0,False,0,11.056443142241141,2,True,2,0.0,0,False,0,0.0,0,4
-pátek,2020-05-22,6221,Židlochovice,0,0,0,0,0,0,0,0,75,6221,Židlochovice,33816,5888,CZ064,Jihomoravský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7101,Hranice,0,0,0,1,0,0,0,0,121,7101,Hranice,34146,6800,CZ071,Olomoucký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7102,Jeseník,0,0,0,0,0,0,0,0,85,7102,Jeseník,37968,8400,CZ071,Olomoucký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7103,Konice,0,0,0,0,0,0,0,0,19,7103,Konice,10634,2373,CZ071,Olomoucký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7104,Lipník nad Bečvou,0,0,0,0,0,0,0,0,50,7104,Lipník nad Bečvou,15130,2913,CZ071,Olomoucký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7105,Litovel,0,0,0,1,1,0,0,0,50,7105,Litovel,23715,4914,CZ071,Olomoucký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7106,Mohelnice,0,0,0,0,0,0,0,0,16,7106,Mohelnice,18362,3710,CZ071,Olomoucký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7107,Olomouc,0,0,0,12,3,2,0,0,613,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,1.8163654527290893,0,False,0,3.054181174027243,0,True,2,0.0,0,False,0,0.0,0,2
-pátek,2020-05-22,7108,Prostějov,3,0,0,35,3,1,0,0,319,7108,Prostějov,98012,20139,CZ071,Olomoucký kraj,18.365098151246787,2,False,0,9.930979691146533,0,True,2,0.9404388714733543,0,False,0,0.1875,0,4
-pátek,2020-05-22,7109,Přerov,0,0,0,3,0,0,0,0,175,7109,Přerov,80236,17534,CZ071,Olomoucký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7110,Šternberk,0,0,0,7,2,2,0,0,73,7110,Šternberk,24164,4837,CZ071,Olomoucký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7111,Šumperk,1,0,0,3,2,0,0,0,120,7111,Šumperk,68988,15147,CZ071,Olomoucký kraj,2.8990549080999592,0,True,0,6.601967386281111,0,True,2,0.8333333333333334,0,True,2,0.5,0,4
-pátek,2020-05-22,7112,Uničov,0,0,0,8,4,3,0,0,70,7112,Uničov,22428,4534,CZ071,Olomoucký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7113,Zábřeh,0,0,0,0,0,0,0,0,44,7113,Zábřeh,33067,6892,CZ071,Olomoucký kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7201,Bystřice pod Hostýnem,1,0,0,2,0,0,0,0,46,7201,Bystřice pod Hostýnem,15242,3294,CZ072,Zlínský kraj,13.121637580370031,2,True,0,0.0,0,False,0,2.1739130434782608,0,True,2,0.5,0,4
-pátek,2020-05-22,7202,Holešov,0,0,0,0,0,0,0,0,33,7202,Holešov,21540,4371,CZ072,Zlínský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7203,Kroměříž,1,0,0,2,1,1,0,0,108,7203,Kroměříž,68561,14596,CZ072,Zlínský kraj,1.4585551552631963,0,True,0,0.0,0,False,0,0.9259259259259258,0,True,2,0.0,0,2
-pátek,2020-05-22,7204,Luhačovice,1,0,0,1,0,0,0,0,47,7204,Luhačovice,18624,3952,CZ072,Zlínský kraj,5.369415807560137,0,True,0,0.0,0,False,0,2.127659574468085,0,True,2,0.0,0,2
-pátek,2020-05-22,7205,Otrokovice,0,0,0,7,2,0,0,0,95,7205,Otrokovice,34276,7438,CZ072,Zlínský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7206,Rožnov pod Radhoštěm,0,0,0,0,0,0,0,0,93,7206,Rožnov pod Radhoštěm,35175,7559,CZ072,Zlínský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7207,Uherské Hradiště,0,0,0,4,0,0,0,0,169,7207,Uherské Hradiště,90117,18605,CZ072,Zlínský kraj,2.2193370840130053,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-05-22,7208,Uherský Brod,0,0,0,4,2,1,1,0,114,7208,Uherský Brod,52109,10911,CZ072,Zlínský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7209,Valašské Klobouky,1,0,0,1,0,0,0,0,44,7209,Valašské Klobouky,23102,4300,CZ072,Zlínský kraj,4.328629555882608,0,True,0,0.0,0,False,0,2.272727272727273,0,True,2,0.0,0,2
-pátek,2020-05-22,7210,Valašské Meziříčí,0,0,0,0,0,0,0,0,120,7210,Valašské Meziříčí,41831,8296,CZ072,Zlínský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7211,Vizovice,0,0,0,0,0,0,0,0,38,7211,Vizovice,17153,3096,CZ072,Zlínský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,7212,Vsetín,1,0,0,3,1,1,0,0,108,7212,Vsetín,65522,13208,CZ072,Zlínský kraj,4.578614816397546,0,True,0,7.571168988491823,0,True,2,0.9259259259259258,0,False,0,1.0,10,12
-pátek,2020-05-22,7213,Zlín,5,0,0,12,3,1,2,1,250,7213,Zlín,99303,21713,CZ072,Zlínský kraj,7.049132453198795,0,True,0,0.0,0,False,0,2.0,0,True,2,2.5,30,32
-pátek,2020-05-22,8101,Bílovec,2,0,0,7,4,3,3,0,144,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,7.805791897588011,0,False,0,0.0,0,False,0,1.3888888888888888,0,True,2,2.0,30,32
-pátek,2020-05-22,8102,Bohumín,4,0,0,10,2,0,0,0,176,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,14.98531439189594,2,True,0,0.0,0,False,0,2.272727272727273,0,True,2,4.0,30,34
-pátek,2020-05-22,8103,Bruntál,0,0,0,2,1,0,0,0,80,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,8104,Český Těšín,12,0,0,14,0,0,0,0,211,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,50.60925760112119,7,True,0,0.0,0,False,0,5.687203791469194,3,True,2,6.0,30,42
-pátek,2020-05-22,8105,Frenštát pod Radhoštěm,0,0,0,0,0,0,0,0,62,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,8106,Frýdek-Místek,6,0,0,33,3,1,2,0,615,8106,Frýdek-Místek,112433,21794,CZ080,Moravskoslezský kraj,12.451860218974856,2,False,0,0.0,0,False,0,0.975609756097561,0,False,0,0.75,0,2
-pátek,2020-05-22,8107,Frýdlant nad Ostravicí,0,0,0,5,4,2,3,0,112,8107,Frýdlant nad Ostravicí,24950,5239,CZ080,Moravskoslezský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,8108,Havířov,43,1,0,53,3,0,1,0,901,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,56.65132841584387,7,True,0,10.835997182640732,2,True,2,4.772475027746948,3,True,2,4.3,30,46
-pátek,2020-05-22,8109,Hlučín,2,1,1,13,3,3,2,1,190,8109,Hlučín,40639,7899,CZ080,Moravskoslezský kraj,17.224833288220676,2,False,0,50.639321433092796,7,True,2,1.0526315789473684,0,False,0,0.3333333333333333,0,11
-pátek,2020-05-22,8110,Jablunkov,2,0,0,2,0,0,0,0,86,8110,Jablunkov,22664,3972,CZ080,Moravskoslezský kraj,8.824567596187787,0,True,0,0.0,0,False,0,2.3255813953488373,0,True,2,0.0,0,2
-pátek,2020-05-22,8111,Karviná,51,0,0,58,1,1,1,1,821,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,81.74301254440847,7,True,0,0.0,0,False,0,6.211936662606577,3,True,2,25.5,30,42
-pátek,2020-05-22,8112,Kopřivnice,1,0,0,5,3,0,1,0,169,8112,Kopřivnice,40755,7907,CZ080,Moravskoslezský kraj,2.45368666421298,0,True,0,0.0,0,False,0,0.591715976331361,0,True,2,0.0,0,2
-pátek,2020-05-22,8113,Kravaře,0,0,0,0,0,0,0,0,124,8113,Kravaře,21356,3656,CZ080,Moravskoslezský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,8114,Krnov,0,0,0,0,0,0,0,0,96,8114,Krnov,39938,8666,CZ080,Moravskoslezský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,8115,Nový Jičín,0,0,0,3,1,0,0,0,168,8115,Nový Jičín,48731,9593,CZ080,Moravskoslezský kraj,2.0520818370236604,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-05-22,8116,Odry,1,0,0,2,0,0,0,0,82,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,5.9073724007561434,0,True,0,0.0,0,False,0,1.2195121951219512,0,True,2,0.0,0,2
-pátek,2020-05-22,8117,Opava,2,0,0,14,0,0,0,1,558,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,6.932958293303753,0,True,0,0.0,0,False,0,0.35842293906810035,0,False,0,0.3333333333333333,0,0
-pátek,2020-05-22,8118,Orlová,21,1,0,28,1,0,1,0,304,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,61.88951376368969,7,True,0,14.766686355581808,2,True,2,6.907894736842106,3,True,2,5.25,30,46
-pátek,2020-05-22,8119,Ostrava,21,0,0,106,25,20,15,1,1693,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,11.557263115150947,2,False,0,3.0943466287093484,0,True,2,1.2404016538688718,0,True,2,1.4,20,26
-pátek,2020-05-22,8120,Rýmařov,1,0,0,1,0,0,0,0,45,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,6.561249261859458,0,True,0,0.0,0,False,0,2.2222222222222223,0,True,2,0.0,0,2
-pátek,2020-05-22,8121,Třinec,1,0,0,6,2,0,0,0,208,8121,Třinec,54613,11066,CZ080,Moravskoslezský kraj,9.15532931719554,0,True,0,18.073377914332188,2,True,2,0.4807692307692308,0,False,0,0.25,0,4
-pátek,2020-05-22,8122,Vítkov,0,0,0,0,0,0,0,0,60,8122,Vítkov,13274,2743,CZ080,Moravskoslezský kraj,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
+pátek,2020-05-22,1000,Praha,117,12,4,348,73,47,27,10,5851,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.008735332562598,2,True,0,11.14800570140863,2,True,2,1.9996581780892155,0,True,2,1.1037735849056605,10,18
+pátek,2020-05-22,2101,Benešov,2,1,0,6,1,0,0,0,228,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,6.555012946150569,0,False,0,8.24742268041237,0,True,2,0.8771929824561403,0,True,2,1.0,10,14
+pátek,2020-05-22,2102,Beroun,1,1,1,2,1,1,0,0,190,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,1.5401912917584364,0,True,0,8.77808988764045,0,True,2,0.5263157894736842,0,True,2,0.0,0,4
+pátek,2020-05-22,2103,Brandýs n.L.- St.Boleslav,6,0,0,12,1,1,1,1,360,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,9.710280538832295,0,True,0,0.0,0,False,0,1.6666666666666667,0,True,2,0.8571428571428571,5,7
+pátek,2020-05-22,2104,Čáslav,0,0,0,0,0,0,0,0,57,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,2105,Černošice,9,2,0,17,4,1,0,0,585,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,10.713950903319986,2,True,0,17.094747638787982,2,True,2,1.5384615384615385,0,True,2,0.8181818181818182,5,13
+pátek,2020-05-22,2106,Český Brod,0,0,0,0,0,0,0,0,67,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,2107,Dobříš,0,0,0,0,0,0,0,0,42,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,2108,Hořovice,0,0,0,1,0,0,0,0,117,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,2109,Kladno,0,0,0,8,0,0,0,0,563,2109,Kladno,125957,24239,CZ020,Středočeský kraj,CZ,ČR,5.557452146367411,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,2110,Kolín,3,0,0,11,1,0,0,0,302,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,9.580838323353294,0,False,0,0.0,0,False,0,0.9933774834437087,0,False,0,0.75,0,0
+pátek,2020-05-22,2111,Kralupy nad Vltavou,0,0,0,4,0,0,0,0,112,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,12.302014454866985,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
+pátek,2020-05-22,2112,Kutná Hora,2,2,1,2,2,1,2,2,156,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,3.9868434167248084,0,True,0,18.68634962160142,2,True,2,1.282051282051282,0,True,2,0.0,0,6
+pátek,2020-05-22,2113,Lysá nad Labem,1,0,0,2,0,0,0,0,74,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,3.7165049986992233,0,False,0,0.0,0,False,0,1.3513513513513513,0,True,2,0.0,0,2
+pátek,2020-05-22,2114,Mělník,1,0,0,2,0,0,0,0,108,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,4.484304932735426,0,False,0,0.0,0,False,0,0.9259259259259258,0,True,2,1.0,10,12
+pátek,2020-05-22,2115,Mladá Boleslav,1,0,0,13,3,0,0,0,522,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,8.002560819462227,0,False,0,0.0,0,False,0,0.19157088122605362,0,False,0,0.125,0,0
+pátek,2020-05-22,2116,Mnichovo Hradiště,0,0,0,0,0,0,0,0,72,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,2117,Neratovice,2,0,0,28,0,0,0,0,127,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,77.67110945412745,7,True,0,0.0,0,False,0,1.574803149606299,0,False,0,0.08695652173913043,0,7
+pátek,2020-05-22,2118,Nymburk,0,0,0,0,0,0,0,0,123,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,2.4886145882587165,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,2119,Poděbrady,0,0,0,0,0,0,0,0,79,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,2120,Příbram,0,0,0,6,0,0,0,0,113,2120,Příbram,69951,14592,CZ020,Středočeský kraj,CZ,ČR,2.8591442581235436,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,2121,Rakovník,0,0,0,0,0,0,0,0,161,2121,Rakovník,55562,11623,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,2122,Říčany,3,1,0,7,0,0,1,1,274,2122,Říčany,71896,11376,CZ020,Středočeský kraj,CZ,ČR,4.172693891176143,0,False,0,8.79043600562588,0,True,2,1.094890510948905,0,True,2,0.0,0,4
+pátek,2020-05-22,2123,Sedlčany,0,0,0,0,0,0,0,0,44,2123,Sedlčany,22074,4717,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,2124,Slaný,0,0,0,2,0,0,0,0,171,2124,Slaný,40526,7771,CZ020,Středočeský kraj,CZ,ČR,4.935103390416029,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,2125,Vlašim,0,0,0,0,0,0,0,0,89,2125,Vlašim,25947,5665,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,2126,Votice,0,0,0,0,0,0,0,0,34,2126,Votice,12445,2654,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3101,Blatná,0,0,0,0,0,0,0,0,40,3101,Blatná,13668,3093,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3102,České Budějovice,0,0,0,1,1,0,0,0,331,3102,České Budějovice,162553,31763,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3103,Český Krumlov,0,0,0,0,0,0,0,0,93,3103,Český Krumlov,41687,7954,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3104,Dačice,1,0,0,2,0,0,0,0,29,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,5.323963158174945,0,False,0,0.0,0,False,0,3.4482758620689653,3,True,2,0.0,0,5
+pátek,2020-05-22,3105,Jindřichův Hradec,0,0,0,0,0,0,0,0,61,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3106,Kaplice,0,0,0,0,0,0,0,0,51,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3107,Milevsko,0,0,0,0,0,0,0,0,39,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3108,Písek,0,0,0,0,0,0,0,0,135,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3109,Prachatice,0,0,0,7,1,1,0,0,177,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,8.9664654193317,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,3110,Soběslav,0,0,0,0,0,0,0,0,64,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3111,Strakonice,0,0,0,0,0,0,0,0,139,3111,Strakonice,45223,9454,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3112,Tábor,0,0,0,3,1,1,0,0,193,3112,Tábor,80648,17257,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3113,Trhové Sviny,0,0,0,0,0,0,0,0,37,3113,Trhové Sviny,19267,3657,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3114,Třeboň,0,0,0,0,0,0,0,0,38,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3115,Týn nad Vltavou,0,0,0,0,0,0,0,0,24,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3116,Vimperk,0,0,0,0,0,0,0,0,77,3116,Vimperk,17520,3591,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3117,Vodňany,0,0,0,0,0,0,0,0,32,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3201,Blovice,1,0,0,1,0,0,0,0,37,3201,Blovice,12185,2566,CZ032,Plzeňský kraj,CZ,ČR,8.206811653672549,0,False,0,0.0,0,False,0,2.7027027027027026,0,True,2,0.0,0,2
+pátek,2020-05-22,3202,Domažlice,4,2,2,35,10,5,1,1,215,3202,Domažlice,40679,8358,CZ032,Plzeňský kraj,CZ,ČR,29.499250227390053,4,False,0,35.89375448671931,4,True,2,1.8604651162790697,0,False,0,0.5,0,10
+pátek,2020-05-22,3203,Horažďovice,0,0,0,0,0,0,0,0,31,3203,Horažďovice,11535,2662,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3204,Horšovský Týn,1,0,0,3,1,1,1,0,77,3204,Horšovský Týn,14825,2829,CZ032,Plzeňský kraj,CZ,ČR,6.745362563237774,0,True,0,0.0,0,False,0,1.2987012987012987,0,True,2,1.0,10,12
+pátek,2020-05-22,3205,Klatovy,1,0,0,5,0,0,0,0,119,3205,Klatovy,50720,10750,CZ032,Plzeňský kraj,CZ,ČR,3.9432176656151423,0,False,0,0.0,0,False,0,0.8403361344537815,0,False,0,1.0,10,10
+pátek,2020-05-22,3206,Kralovice,0,0,0,0,0,0,0,0,72,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3207,Nepomuk,0,0,0,0,0,0,0,0,26,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3208,Nýřany,0,0,0,5,2,1,0,0,186,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3209,Plzeň,0,0,0,10,3,1,3,1,741,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,0.5147210212065061,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,3210,Přeštice,0,0,0,4,1,1,1,0,92,3210,Přeštice,22885,4449,CZ032,Plzeňský kraj,CZ,ČR,4.369674459252786,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,3211,Rokycany,0,0,0,0,0,0,0,0,120,3211,Rokycany,49349,10085,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3212,Stod,1,1,1,2,1,1,1,1,76,3212,Stod,23393,4517,CZ032,Plzeňský kraj,CZ,ČR,4.274783054759971,0,True,0,22.13858755811379,2,True,2,1.3157894736842104,0,True,2,0.0,0,6
+pátek,2020-05-22,3213,Stříbro,0,0,0,0,0,0,0,0,54,3213,Stříbro,17190,3184,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,3214,Sušice,1,0,0,2,1,1,0,0,50,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,CZ,ČR,4.140786749482402,0,True,0,0.0,0,False,0,2.0,0,True,2,1.0,10,12
+pátek,2020-05-22,3215,Tachov,1,0,0,7,0,0,0,0,174,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,5.3841598018629195,0,False,0,0.0,0,False,0,0.5747126436781609,0,True,2,1.0,10,12
+pátek,2020-05-22,4101,Aš,2,0,0,8,0,0,2,0,170,4101,Aš,17695,3278,CZ041,Karlovarský kraj,CZ,ČR,33.90788358293303,4,False,0,0.0,0,False,0,1.1764705882352942,0,False,0,0.5,0,4
+pátek,2020-05-22,4102,Cheb,4,0,0,25,3,1,2,1,414,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,22.019817836052447,2,False,0,0.0,0,False,0,0.966183574879227,0,False,0,1.3333333333333333,15,17
+pátek,2020-05-22,4103,Karlovy Vary,0,0,0,-1,0,0,0,0,392,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,4104,Kraslice,1,0,0,1,0,0,0,0,112,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,7.584951456310679,0,True,0,0.0,0,False,0,0.8928571428571428,0,True,2,0.0,0,2
+pátek,2020-05-22,4105,Mariánské Lázně,2,1,0,15,10,5,2,1,150,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,16.677785190126748,2,False,0,55.360767669311684,7,True,2,1.3333333333333335,0,True,2,1.0,10,23
+pátek,2020-05-22,4106,Ostrov,1,1,1,1,1,1,0,0,165,4106,Ostrov,27636,5453,CZ041,Karlovarský kraj,CZ,ČR,3.618468664061369,0,False,0,18.338529249954153,2,True,2,0.6060606060606061,0,True,2,0.0,0,6
+pátek,2020-05-22,4107,Sokolov,2,0,0,6,1,1,0,0,420,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,5.331342965292957,0,False,0,0.0,0,False,0,0.4761904761904762,0,True,2,1.0,10,12
+pátek,2020-05-22,4201,Bílina,1,1,0,2,1,0,1,0,68,4201,Bílina,22600,3935,CZ042,Ústecký kraj,CZ,ČR,8.849557522123893,0,True,0,25.412960609911053,4,True,2,1.4705882352941175,0,False,0,0.0,0,6
+pátek,2020-05-22,4202,Děčín,2,1,0,4,2,1,2,2,435,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,5.205486582858333,0,True,0,12.223444566678891,2,True,2,0.45977011494252873,0,False,0,1.0,10,14
+pátek,2020-05-22,4203,Chomutov,4,2,0,4,2,1,0,1,368,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,6.122798853812054,0,True,0,20.434575301409986,2,True,2,1.0869565217391304,0,True,2,2.0,30,36
+pátek,2020-05-22,4204,Kadaň,0,0,0,0,0,0,0,0,139,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,4205,Litoměřice,2,0,0,6,1,1,1,0,110,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,3.3835222466587718,0,True,0,0.0,0,False,0,1.8181818181818181,0,True,2,2.0,30,32
+pátek,2020-05-22,4206,Litvínov,0,0,0,1,1,1,0,0,137,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,4207,Louny,0,0,0,0,0,0,0,0,127,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,4208,Lovosice,0,0,0,2,0,0,0,0,36,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,3.6036036036036037,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,4209,Most,0,0,0,4,2,0,0,0,257,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,1.3391721237930712,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,4210,Podbořany,0,0,0,0,0,0,0,0,46,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,4211,Roudnice nad Labem,0,0,0,1,1,0,0,0,96,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,3.0480370641306997,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,4212,Rumburk,2,0,0,2,0,0,0,0,101,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,6.098490623570666,0,True,0,0.0,0,False,0,1.9801980198019802,0,True,2,0.0,0,2
+pátek,2020-05-22,4213,Teplice,3,1,1,14,3,1,1,0,548,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,10.33135472236832,2,True,0,4.71364600518501,0,True,2,0.5474452554744526,0,False,0,0.5,0,4
+pátek,2020-05-22,4214,Ústí nad Labem,3,0,0,2,0,0,0,0,441,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,2.5138681727530208,0,True,0,0.0,0,False,0,0.6802721088435374,0,True,2,3.0,30,32
+pátek,2020-05-22,4215,Varnsdorf,0,0,0,1,0,0,0,0,52,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,5.023863350916855,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,4216,Žatec,0,0,0,0,0,0,0,0,48,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5101,Česká Lípa,0,0,0,1,0,0,0,0,91,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5102,Frýdlant,0,0,0,0,0,0,0,0,56,5102,Frýdlant,24479,4944,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5103,Jablonec nad Nisou,1,0,0,4,1,0,0,0,192,5103,Jablonec nad Nisou,56206,11517,CZ051,Liberecký kraj,CZ,ČR,1.7791694836850158,0,True,0,0.0,0,False,0,0.5208333333333333,0,True,2,1.0,10,12
+pátek,2020-05-22,5104,Jilemnice,0,0,0,0,0,0,0,0,65,5104,Jilemnice,22137,4768,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5105,Liberec,0,0,0,3,1,0,1,0,354,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5106,Nový Bor,0,0,0,0,0,0,0,0,32,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5107,Semily,0,0,0,0,0,0,0,0,76,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5108,Tanvald,1,0,0,2,0,0,0,0,70,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,4.899078973153047,0,False,0,0.0,0,False,0,1.4285714285714286,0,True,2,0.0,0,2
+pátek,2020-05-22,5109,Turnov,0,0,0,1,0,0,0,0,91,5109,Turnov,33623,7134,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5110,Železný Brod,0,0,0,0,0,0,0,0,35,5110,Železný Brod,12182,2797,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5201,Broumov,0,0,0,1,0,0,0,0,39,5201,Broumov,15876,3561,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5202,Dobruška,0,0,0,0,0,0,0,0,54,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5203,Dvůr Králové nad Labem,0,0,0,0,0,0,0,0,91,5203,Dvůr Králové nad Labem,26949,6223,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5204,Hořice,0,0,0,0,0,0,0,0,70,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5205,Hradec Králové,0,0,0,8,1,0,0,0,597,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,1.361479656090239,0,False,0,3.078438615933998,0,True,2,0.0,0,False,0,0.0,0,2
+pátek,2020-05-22,5206,Jaroměř,0,0,0,2,2,1,0,0,68,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5207,Jičín,1,0,0,5,1,0,1,0,159,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,4.133768756975735,0,False,0,0.0,0,False,0,0.628930817610063,0,False,0,1.0,10,10
+pátek,2020-05-22,5208,Kostelec nad Orlicí,0,0,0,0,0,0,0,0,58,5208,Kostelec nad Orlicí,24892,5311,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5209,Náchod,1,0,0,2,0,0,0,0,192,5209,Náchod,60595,13494,CZ052,Královéhradecký kraj,CZ,ČR,1.6503011799653435,0,False,0,0.0,0,False,0,0.5208333333333333,0,True,2,0.0,0,2
+pátek,2020-05-22,5210,Nová Paka,0,0,0,0,0,0,0,0,49,5210,Nová Paka,13286,2887,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5211,Nové Město nad Metují,0,0,0,1,1,1,0,0,47,5211,Nové Město nad Metují,14214,3321,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5212,Nový Bydžov,0,0,0,0,0,0,0,0,67,5212,Nový Bydžov,17384,3627,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5213,Rychnov nad Kněžnou,0,0,0,0,0,0,0,0,101,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5214,Trutnov,0,0,0,5,0,0,0,0,275,5214,Trutnov,63419,13537,CZ052,Královéhradecký kraj,CZ,ČR,6.307258077232375,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,5215,Vrchlabí,0,0,0,0,0,0,0,0,67,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5301,Česká Třebová,0,0,0,1,0,0,0,0,84,5301,Česká Třebová,17969,3841,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5302,Hlinsko,0,0,0,1,0,0,0,0,54,5302,Hlinsko,21017,4465,CZ053,Pardubický kraj,CZ,ČR,4.758053004710472,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,5303,Holice,0,0,0,2,0,0,0,0,85,5303,Holice,17910,3461,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5304,Chrudim,1,1,0,2,1,0,0,0,260,5304,Chrudim,83596,17211,CZ053,Pardubický kraj,CZ,ČR,1.196229484664338,0,True,0,5.810237638719424,0,True,2,0.38461538461538464,0,True,2,1.0,10,14
+pátek,2020-05-22,5305,Králíky,0,0,0,0,0,0,0,0,28,5305,Králíky,8676,1838,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5306,Lanškroun,0,0,0,0,0,0,0,0,81,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5307,Litomyšl,1,0,0,2,1,1,0,0,113,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,3.6757948906451023,0,True,0,0.0,0,False,0,0.8849557522123894,0,True,2,1.0,10,12
+pátek,2020-05-22,5308,Moravská Třebová,0,0,0,0,0,0,0,0,63,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5309,Pardubice,4,1,0,9,4,3,6,4,519,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,3.037413338800677,0,True,0,3.797228023542814,0,True,2,0.7707129094412332,0,True,2,0.0,0,4
+pátek,2020-05-22,5310,Polička,0,0,0,0,0,0,0,0,73,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5311,Přelouč,0,0,0,5,4,0,1,0,81,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5312,Svitavy,0,0,0,0,0,0,0,0,83,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5313,Ústí nad Orlicí,0,0,0,0,0,0,0,0,124,5313,Ústí nad Orlicí,26573,5651,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,5314,Vysoké Mýto,0,0,0,1,1,1,1,1,127,5314,Vysoké Mýto,32454,6661,CZ053,Pardubický kraj,CZ,ČR,3.0812842792876074,0,False,0,15.012760846719713,2,True,2,0.0,0,False,0,0.0,0,4
+pátek,2020-05-22,5315,Žamberk,0,0,0,0,0,0,0,0,116,5315,Žamberk,29463,5651,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6101,Bystřice nad Pernštejnem,0,0,0,0,0,0,0,0,35,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6102,Havlíčkův Brod,0,0,0,8,5,3,0,0,99,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,1.889216353056752,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,6103,Humpolec,0,0,0,0,0,0,0,0,25,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6104,Chotěboř,0,0,0,6,0,0,0,0,61,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6105,Jihlava,2,0,0,2,0,0,0,0,133,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,1.9787482438609334,0,True,0,0.0,0,False,0,1.5037593984962405,0,True,2,0.0,0,2
+pátek,2020-05-22,6106,Moravské Budějovice,0,0,0,0,0,0,0,0,42,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6107,Náměšť nad Oslavou,0,0,0,2,0,0,0,0,37,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6108,Nové Město na Moravě,1,0,0,1,0,0,0,0,49,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,5.158361704322707,0,True,0,0.0,0,False,0,2.0408163265306123,0,True,2,0.0,0,2
+pátek,2020-05-22,6109,Pacov,0,0,0,0,0,0,0,0,10,6109,Pacov,9364,2205,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6110,Pelhřimov,0,0,0,0,0,0,0,0,42,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6111,Světlá nad Sázavou,0,0,0,4,3,2,0,0,41,6111,Světlá nad Sázavou,19690,4322,CZ063,Kraj Vysočina,CZ,ČR,5.078720162519045,0,False,0,23.137436372049976,2,True,2,0.0,0,False,0,,30,34
+pátek,2020-05-22,6112,Telč,0,0,0,0,0,0,0,0,16,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6113,Třebíč,1,0,0,2,0,0,0,1,150,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,1.3464024127531236,0,True,0,0.0,0,False,0,0.6666666666666667,0,True,2,1.0,10,12
+pátek,2020-05-22,6114,Velké Meziříčí,0,0,0,0,0,0,0,0,61,6114,Velké Meziříčí,36390,6564,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6115,Žďár nad Sázavou,0,0,0,0,0,0,0,0,50,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6201,Blansko,1,0,0,7,0,0,0,0,117,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,5.25154920701607,0,False,0,0.0,0,False,0,0.8547008547008548,0,False,0,1.0,10,10
+pátek,2020-05-22,6202,Boskovice,0,0,0,0,0,0,0,0,79,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6203,Brno,4,0,0,31,2,0,0,0,847,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,5.506810088476082,0,False,0,1.2585423562429994,0,True,2,0.47225501770956313,0,False,0,0.25,0,2
+pátek,2020-05-22,6204,Břeclav,1,0,0,10,5,4,6,1,189,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,3.34924223394457,0,False,0,0.0,0,False,0,0.5291005291005291,0,True,2,0.0,0,2
+pátek,2020-05-22,6205,Bučovice,0,0,0,0,0,0,0,0,15,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6206,Hodonín,0,0,0,1,0,0,0,0,138,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,1.6478536705940512,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,6207,Hustopeče,0,0,0,1,0,0,0,0,71,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6208,Ivančice,0,0,0,2,0,0,0,0,35,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6209,Kuřim,0,0,0,0,0,0,0,0,38,6209,Kuřim,23345,4177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6210,Kyjov,0,0,0,1,0,0,0,0,136,6210,Kyjov,55543,11542,CZ064,Jihomoravský kraj,CZ,ČR,1.8004068919575826,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,6211,Mikulov,0,0,0,1,1,1,1,0,66,6211,Mikulov,20265,3954,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6212,Moravský Krumlov,0,0,0,1,0,0,0,0,45,6212,Moravský Krumlov,22452,4592,CZ064,Jihomoravský kraj,CZ,ČR,4.453946196329948,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,6213,Pohořelice,0,0,0,0,0,0,0,0,25,6213,Pohořelice,14599,2588,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6214,Rosice,0,0,0,0,0,0,0,0,33,6214,Rosice,26284,5080,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6215,Slavkov u Brna,0,0,0,0,0,0,0,0,43,6215,Slavkov u Brna,24027,4191,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6216,Šlapanice,0,0,0,4,0,0,0,0,119,6216,Šlapanice,70414,12564,CZ064,Jihomoravský kraj,CZ,ČR,5.680688499446133,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,6217,Tišnov,0,0,0,0,0,0,0,0,63,6217,Tišnov,31725,6213,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6218,Veselí nad Moravou,0,0,0,0,0,0,0,0,67,6218,Veselí nad Moravou,37715,8138,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,6219,Vyškov,5,2,0,9,2,0,0,1,128,6219,Vyškov,52142,10312,CZ064,Jihomoravský kraj,CZ,ČR,9.58919872655441,0,True,0,19.39487975174554,2,True,2,3.90625,3,True,2,5.0,30,39
+pátek,2020-05-22,6220,Znojmo,0,0,0,2,1,0,0,0,319,6220,Znojmo,91899,18089,CZ064,Jihomoravský kraj,CZ,ČR,4.352604489711531,0,False,0,11.056443142241141,2,True,2,0.0,0,False,0,0.0,0,4
+pátek,2020-05-22,6221,Židlochovice,0,0,0,0,0,0,0,0,75,6221,Židlochovice,33816,5888,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7101,Hranice,0,0,0,1,0,0,0,0,121,7101,Hranice,34146,6800,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7102,Jeseník,0,0,0,0,0,0,0,0,85,7102,Jeseník,37968,8400,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7103,Konice,0,0,0,0,0,0,0,0,19,7103,Konice,10634,2373,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7104,Lipník nad Bečvou,0,0,0,0,0,0,0,0,50,7104,Lipník nad Bečvou,15130,2913,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7105,Litovel,0,0,0,1,1,0,0,0,50,7105,Litovel,23715,4914,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7106,Mohelnice,0,0,0,0,0,0,0,0,16,7106,Mohelnice,18362,3710,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7107,Olomouc,0,0,0,12,3,2,0,0,613,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,CZ,ČR,1.8163654527290893,0,False,0,3.054181174027243,0,True,2,0.0,0,False,0,0.0,0,2
+pátek,2020-05-22,7108,Prostějov,3,0,0,35,3,1,0,0,319,7108,Prostějov,98012,20139,CZ071,Olomoucký kraj,CZ,ČR,18.365098151246787,2,False,0,9.930979691146533,0,True,2,0.9404388714733543,0,False,0,0.1875,0,4
+pátek,2020-05-22,7109,Přerov,0,0,0,3,0,0,0,0,175,7109,Přerov,80236,17534,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7110,Šternberk,0,0,0,7,2,2,0,0,73,7110,Šternberk,24164,4837,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7111,Šumperk,1,0,0,3,2,0,0,0,120,7111,Šumperk,68988,15147,CZ071,Olomoucký kraj,CZ,ČR,2.8990549080999592,0,True,0,6.601967386281111,0,True,2,0.8333333333333334,0,True,2,0.5,0,4
+pátek,2020-05-22,7112,Uničov,0,0,0,8,4,3,0,0,70,7112,Uničov,22428,4534,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7113,Zábřeh,0,0,0,0,0,0,0,0,44,7113,Zábřeh,33067,6892,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7201,Bystřice pod Hostýnem,1,0,0,2,0,0,0,0,46,7201,Bystřice pod Hostýnem,15242,3294,CZ072,Zlínský kraj,CZ,ČR,13.121637580370031,2,True,0,0.0,0,False,0,2.1739130434782608,0,True,2,0.5,0,4
+pátek,2020-05-22,7202,Holešov,0,0,0,0,0,0,0,0,33,7202,Holešov,21540,4371,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7203,Kroměříž,1,0,0,2,1,1,0,0,108,7203,Kroměříž,68561,14596,CZ072,Zlínský kraj,CZ,ČR,1.4585551552631963,0,True,0,0.0,0,False,0,0.9259259259259258,0,True,2,0.0,0,2
+pátek,2020-05-22,7204,Luhačovice,1,0,0,1,0,0,0,0,47,7204,Luhačovice,18624,3952,CZ072,Zlínský kraj,CZ,ČR,5.369415807560137,0,True,0,0.0,0,False,0,2.127659574468085,0,True,2,0.0,0,2
+pátek,2020-05-22,7205,Otrokovice,0,0,0,7,2,0,0,0,95,7205,Otrokovice,34276,7438,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7206,Rožnov pod Radhoštěm,0,0,0,0,0,0,0,0,93,7206,Rožnov pod Radhoštěm,35175,7559,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7207,Uherské Hradiště,0,0,0,4,0,0,0,0,169,7207,Uherské Hradiště,90117,18605,CZ072,Zlínský kraj,CZ,ČR,2.2193370840130053,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-05-22,7208,Uherský Brod,0,0,0,4,2,1,1,0,114,7208,Uherský Brod,52109,10911,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7209,Valašské Klobouky,1,0,0,1,0,0,0,0,44,7209,Valašské Klobouky,23102,4300,CZ072,Zlínský kraj,CZ,ČR,4.328629555882608,0,True,0,0.0,0,False,0,2.272727272727273,0,True,2,0.0,0,2
+pátek,2020-05-22,7210,Valašské Meziříčí,0,0,0,0,0,0,0,0,120,7210,Valašské Meziříčí,41831,8296,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7211,Vizovice,0,0,0,0,0,0,0,0,38,7211,Vizovice,17153,3096,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,7212,Vsetín,1,0,0,3,1,1,0,0,108,7212,Vsetín,65522,13208,CZ072,Zlínský kraj,CZ,ČR,4.578614816397546,0,True,0,7.571168988491823,0,True,2,0.9259259259259258,0,False,0,1.0,10,12
+pátek,2020-05-22,7213,Zlín,5,0,0,12,3,1,2,1,250,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,7.049132453198795,0,True,0,0.0,0,False,0,2.0,0,True,2,2.5,30,32
+pátek,2020-05-22,8101,Bílovec,2,0,0,7,4,3,3,0,144,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,7.805791897588011,0,False,0,0.0,0,False,0,1.3888888888888888,0,True,2,2.0,30,32
+pátek,2020-05-22,8102,Bohumín,4,0,0,10,2,0,0,0,176,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,14.98531439189594,2,True,0,0.0,0,False,0,2.272727272727273,0,True,2,4.0,30,34
+pátek,2020-05-22,8103,Bruntál,0,0,0,2,1,0,0,0,80,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,8104,Český Těšín,12,0,0,14,0,0,0,0,211,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,CZ,ČR,50.60925760112119,7,True,0,0.0,0,False,0,5.687203791469194,3,True,2,6.0,30,42
+pátek,2020-05-22,8105,Frenštát pod Radhoštěm,0,0,0,0,0,0,0,0,62,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,8106,Frýdek-Místek,6,0,0,33,3,1,2,0,615,8106,Frýdek-Místek,112433,21794,CZ080,Moravskoslezský kraj,CZ,ČR,12.451860218974856,2,False,0,0.0,0,False,0,0.975609756097561,0,False,0,0.75,0,2
+pátek,2020-05-22,8107,Frýdlant nad Ostravicí,0,0,0,5,4,2,3,0,112,8107,Frýdlant nad Ostravicí,24950,5239,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,8108,Havířov,43,1,0,53,3,0,1,0,901,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,CZ,ČR,56.65132841584387,7,True,0,10.835997182640732,2,True,2,4.772475027746948,3,True,2,4.3,30,46
+pátek,2020-05-22,8109,Hlučín,2,1,1,13,3,3,2,1,190,8109,Hlučín,40639,7899,CZ080,Moravskoslezský kraj,CZ,ČR,17.224833288220676,2,False,0,50.639321433092796,7,True,2,1.0526315789473684,0,False,0,0.3333333333333333,0,11
+pátek,2020-05-22,8110,Jablunkov,2,0,0,2,0,0,0,0,86,8110,Jablunkov,22664,3972,CZ080,Moravskoslezský kraj,CZ,ČR,8.824567596187787,0,True,0,0.0,0,False,0,2.3255813953488373,0,True,2,0.0,0,2
+pátek,2020-05-22,8111,Karviná,51,0,0,58,1,1,1,1,821,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,81.74301254440847,7,True,0,0.0,0,False,0,6.211936662606577,3,True,2,25.5,30,42
+pátek,2020-05-22,8112,Kopřivnice,1,0,0,5,3,0,1,0,169,8112,Kopřivnice,40755,7907,CZ080,Moravskoslezský kraj,CZ,ČR,2.45368666421298,0,True,0,0.0,0,False,0,0.591715976331361,0,True,2,0.0,0,2
+pátek,2020-05-22,8113,Kravaře,0,0,0,0,0,0,0,0,124,8113,Kravaře,21356,3656,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,8114,Krnov,0,0,0,0,0,0,0,0,96,8114,Krnov,39938,8666,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,8115,Nový Jičín,0,0,0,3,1,0,0,0,168,8115,Nový Jičín,48731,9593,CZ080,Moravskoslezský kraj,CZ,ČR,2.0520818370236604,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-05-22,8116,Odry,1,0,0,2,0,0,0,0,82,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,5.9073724007561434,0,True,0,0.0,0,False,0,1.2195121951219512,0,True,2,0.0,0,2
+pátek,2020-05-22,8117,Opava,2,0,0,14,0,0,0,1,558,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,6.932958293303753,0,True,0,0.0,0,False,0,0.35842293906810035,0,False,0,0.3333333333333333,0,0
+pátek,2020-05-22,8118,Orlová,21,1,0,28,1,0,1,0,304,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,61.88951376368969,7,True,0,14.766686355581808,2,True,2,6.907894736842106,3,True,2,5.25,30,46
+pátek,2020-05-22,8119,Ostrava,21,0,0,106,25,20,15,1,1693,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,11.557263115150947,2,False,0,3.0943466287093484,0,True,2,1.2404016538688718,0,True,2,1.4,20,26
+pátek,2020-05-22,8120,Rýmařov,1,0,0,1,0,0,0,0,45,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,CZ,ČR,6.561249261859458,0,True,0,0.0,0,False,0,2.2222222222222223,0,True,2,0.0,0,2
+pátek,2020-05-22,8121,Třinec,1,0,0,6,2,0,0,0,208,8121,Třinec,54613,11066,CZ080,Moravskoslezský kraj,CZ,ČR,9.15532931719554,0,True,0,18.073377914332188,2,True,2,0.4807692307692308,0,False,0,0.25,0,4
+pátek,2020-05-22,8122,Vítkov,0,0,0,0,0,0,0,0,60,8122,Vítkov,13274,2743,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
