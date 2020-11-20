@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2020-07-20,1000,Praha,132,9,1,355,30,17,5,5,3581,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.008735332562598,2,True,0,5.972145911468909,0,True,2,3.6861211951968724,3,True,2,1.4505494505494505,20,29
+pondělí,2020-07-20,1000,Praha,132,9,1,355,29,16,5,5,3581,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.008735332562598,2,True,0,5.972145911468909,0,True,2,3.6861211951968724,3,True,2,1.434782608695652,20,29
 pondělí,2020-07-20,2101,Benešov,2,1,1,4,1,1,0,0,112,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,6.555012946150569,0,True,0,8.24742268041237,0,True,2,1.7857142857142856,0,False,0,1.0,10,12
 pondělí,2020-07-20,2102,Beroun,5,0,0,6,0,0,0,0,149,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,7.700956458792182,0,True,0,0.0,0,False,0,3.3557046979865772,3,True,2,0.0,0,5
 pondělí,2020-07-20,2103,Brandýs n.L.- St.Boleslav,10,1,0,17,1,0,0,0,283,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,14.1240444201197,2,True,0,6.091617933723197,0,True,2,3.53356890459364,3,True,2,1.4285714285714286,20,29
@@ -64,7 +64,7 @@ pondělí,2020-07-20,4103,Karlovy Vary,0,0,0,1,0,0,0,0,60,4103,Karlovy Vary,8718
 pondělí,2020-07-20,4104,Kraslice,0,0,0,0,0,0,0,0,5,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-20,4105,Mariánské Lázně,0,0,0,1,0,0,0,0,21,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-20,4106,Ostrov,0,0,0,0,0,0,0,0,21,4106,Ostrov,27636,5453,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pondělí,2020-07-20,4107,Sokolov,0,0,0,2,1,1,0,0,50,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pondělí,2020-07-20,4107,Sokolov,0,0,0,3,1,1,0,0,50,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-20,4201,Bílina,0,0,0,0,0,0,0,0,6,4201,Bílina,22600,3935,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-20,4202,Děčín,1,0,0,2,0,0,0,0,53,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,1.3013716457145832,0,True,0,0.0,0,False,0,1.8867924528301887,0,True,2,0.0,0,2
 pondělí,2020-07-20,4203,Chomutov,1,0,0,1,0,0,0,0,45,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,1.224559770762411,0,True,0,0.0,0,False,0,2.2222222222222223,0,True,2,1.0,10,12
@@ -161,7 +161,7 @@ pondělí,2020-07-20,7101,Hranice,1,0,0,1,0,0,0,0,57,7101,Hranice,34146,6800,CZ0
 pondělí,2020-07-20,7102,Jeseník,0,0,0,0,0,0,0,0,39,7102,Jeseník,37968,8400,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-20,7103,Konice,0,0,0,0,0,0,0,0,13,7103,Konice,10634,2373,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-20,7104,Lipník nad Bečvou,0,0,0,0,0,0,0,0,25,7104,Lipník nad Bečvou,15130,2913,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pondělí,2020-07-20,7105,Litovel,0,0,0,2,0,1,0,0,22,7105,Litovel,23715,4914,CZ071,Olomoucký kraj,CZ,ČR,4.2167404596247104,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pondělí,2020-07-20,7105,Litovel,0,0,0,1,-1,0,0,0,22,7105,Litovel,23715,4914,CZ071,Olomoucký kraj,CZ,ČR,4.2167404596247104,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2020-07-20,7106,Mohelnice,0,0,0,0,0,0,0,0,11,7106,Mohelnice,18362,3710,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-20,7107,Olomouc,11,0,0,33,1,1,2,2,429,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,CZ,ČR,16.9527442254715,2,True,0,0.0,0,False,0,2.564102564102564,0,False,0,0.55,0,2
 pondělí,2020-07-20,7108,Prostějov,6,0,0,10,0,0,0,0,83,7108,Prostějov,98012,20139,CZ071,Olomoucký kraj,CZ,ČR,7.14198261437375,0,True,0,0.0,0,False,0,7.228915662650602,7,True,2,3.0,30,39

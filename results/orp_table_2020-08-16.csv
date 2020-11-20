@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2020-08-16,1000,Praha,495,29,11,1058,65,31,15,20,7619,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,66.37584130812512,7,True,0,20.30529609899429,2,True,2,6.496915605722537,3,True,2,1.243718592964824,15,31
+neděle,2020-08-16,1000,Praha,495,29,11,1059,64,30,15,20,7619,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,66.37584130812512,7,True,0,20.30529609899429,2,True,2,6.496915605722537,3,True,2,1.243718592964824,15,31
 neděle,2020-08-16,2101,Benešov,7,0,0,24,1,1,0,1,244,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,27.85880502113992,4,False,0,8.24742268041237,0,True,2,2.8688524590163933,0,False,0,0.7,0,6
 neděle,2020-08-16,2102,Beroun,9,1,0,17,1,0,0,0,175,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,26.18325195989342,4,False,0,8.77808988764045,0,True,2,5.142857142857142,3,True,2,1.0,10,21
 neděle,2020-08-16,2103,Brandýs n.L.- St.Boleslav,21,2,1,61,3,1,0,0,505,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,45.90314436538903,4,False,0,12.183235867446394,2,True,2,4.158415841584159,3,False,0,0.7241379310344828,0,11
@@ -64,7 +64,7 @@ neděle,2020-08-16,4103,Karlovy Vary,3,1,0,9,1,0,0,0,172,4103,Karlovy Vary,87182
 neděle,2020-08-16,4104,Kraslice,0,0,0,0,0,0,0,0,6,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-08-16,4105,Mariánské Lázně,0,0,0,4,1,1,0,0,31,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,12.508338892595065,2,False,0,18.453589223103894,2,True,2,0.0,0,False,0,0.0,0,6
 neděle,2020-08-16,4106,Ostrov,0,0,0,0,0,0,0,0,24,4106,Ostrov,27636,5453,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2020-08-16,4107,Sokolov,0,0,0,4,1,1,0,0,73,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,2.6656714826464785,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+neděle,2020-08-16,4107,Sokolov,0,0,0,5,1,1,0,0,73,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,2.6656714826464785,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 neděle,2020-08-16,4201,Bílina,0,0,0,0,0,0,0,0,27,4201,Bílina,22600,3935,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-08-16,4202,Děčín,1,0,0,3,0,0,0,0,103,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,1.3013716457145832,0,False,0,0.0,0,False,0,0.9708737864077669,0,True,2,0.0,0,2
 neděle,2020-08-16,4203,Chomutov,5,0,0,26,1,0,0,0,611,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,30.613994269060274,4,True,0,6.8115251004699955,0,True,2,0.8183306055646482,0,False,0,0.2777777777777778,0,6
@@ -161,7 +161,7 @@ neděle,2020-08-16,7101,Hranice,0,0,0,2,0,0,0,0,83,7101,Hranice,34146,6800,CZ071
 neděle,2020-08-16,7102,Jeseník,0,0,0,0,0,0,0,0,67,7102,Jeseník,37968,8400,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-08-16,7103,Konice,0,0,0,1,0,0,0,0,14,7103,Konice,10634,2373,CZ071,Olomoucký kraj,CZ,ČR,9.40379913485048,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-08-16,7104,Lipník nad Bečvou,1,0,0,3,0,0,0,0,17,7104,Lipník nad Bečvou,15130,2913,CZ071,Olomoucký kraj,CZ,ČR,19.828155981493722,2,False,0,0.0,0,False,0,5.88235294117647,3,False,0,0.5,0,5
-neděle,2020-08-16,7105,Litovel,0,0,0,0,0,1,0,0,41,7105,Litovel,23715,4914,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+neděle,2020-08-16,7105,Litovel,0,0,0,-1,-1,0,0,0,41,7105,Litovel,23715,4914,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-08-16,7106,Mohelnice,1,0,0,1,0,0,0,0,26,7106,Mohelnice,18362,3710,CZ071,Olomoucký kraj,CZ,ČR,5.446029844243546,0,True,0,0.0,0,False,0,3.8461538461538463,3,True,2,0.0,0,5
 neděle,2020-08-16,7107,Olomouc,17,6,4,57,10,7,6,5,399,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,CZ,ČR,24.82366118729755,2,True,0,27.48763056624519,4,True,2,4.260651629072681,3,False,0,1.0625,10,21
 neděle,2020-08-16,7108,Prostějov,9,0,0,21,0,0,0,0,219,7108,Prostějov,98012,20139,CZ071,Olomoucký kraj,CZ,ČR,14.2839652287475,2,False,0,0.0,0,False,0,4.10958904109589,3,True,2,3.0,30,37
