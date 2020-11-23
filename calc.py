@@ -9,7 +9,7 @@ import pandas as pd
 first_date = '2020-03-16'
 
 # read data from UZIS
-url = "https://onemocneni-aktualne.mzcr.cz/api/account/verejne-distribuovana-data/file/dip%252Fweb_orp.csv"
+url = "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/orp.csv"
 df = pd.read_csv(url, delimiter=";")
 
 # correct ORP codes from UZIS to CZSO
@@ -28,23 +28,6 @@ todate = today.isoformat()
 last_day = today
 last_ok_day = today + datetime.timedelta(days=-1)
 
-# Note: I duplicate the tests to score functions (e.g., 2 and 4 and 6) for possible easier manipulation in the future
-# Test 1: value to score
-# def value_1_to_score(n):
-#     if n < 10:
-#         return 0
-#     if n < 20:
-#         return 2
-#     if n < 60:
-#         return 5
-#     if n < 120:
-#         return 7
-#     if n < 240:
-#         return 10
-#     if n < 480:
-#         return 13
-#     return 16
-
 def value_1_to_score(n):
     if n < 10:
         return 0
@@ -62,34 +45,11 @@ def value_1_to_score(n):
         return 16
     return 20
 
-# Test 2: value to score
-# def value_2_to_score(b):
-#     if b:
-#         return 2
-#     else:
-#         return 0
-
 def value_2_to_score(b):
     if b:
         return 0
     else:
         return 0
-
-# Test 3: value to score
-# def value_3_to_score(n):
-#     if n < 10:
-#         return 0
-#     if n < 20:
-#         return 2
-#     if n < 60:
-#         return 5
-#     if n < 120:
-#         return 7
-#     if n < 240:
-#         return 10
-#     if n < 480:
-#         return 13
-#     return 16
 
 def value_3_to_score(n):
     if n < 10:
@@ -116,21 +76,6 @@ def value_4_to_score(b):
         return 0
 
 # Test 5: value to score
-# def value_5_to_score(n):
-#     if n < 3:
-#         return 0
-#     if n < 7:
-#         return 3
-#     if n < 11:
-#         return 7
-#     if n < 15:
-#         return 11
-#     if n < 19:
-#         return 15
-#     if n < 23:
-#         return 20
-#     return 25
-
 def value_5_to_score(n):
     if n < 3:
         return 0
@@ -156,21 +101,6 @@ def value_6_to_score(b):
         return 0
 
 # Test 7: value to score
-# def value_7_to_score(n):
-#     if n < 0.8:
-#         return 0
-#     if n < 1:
-#         return 5
-#     if n < 1.2:
-#         return 10
-#     if n < 1.4:
-#         return 15
-#     if n < 1.6:
-#         return 20
-#     if n < 1.8:
-#         return 25
-#     return 30
-
 def value_7_to_score(n):
     if n < 0.8:
         return 0
