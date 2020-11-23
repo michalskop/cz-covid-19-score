@@ -10,7 +10,7 @@ first_date = '2020-03-16'
 
 # read data from UZIS
 url = "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/orp.csv"
-df = pd.read_csv(url, delimiter=";")
+df = pd.read_csv(url, delimiter=",")
 
 # correct ORP codes from UZIS to CZSO
 df.loc[df['orp_kod'] == 0, 'orp_kod'] = 1000 # Praha
