@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-05-14,1000,Praha,93,16,8,245,64,44,34,15,5170,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.535141817006563,2,True,0,9.953576519114849,0,True,2,1.7988394584139267,0,True,2,1.1071428571428572,10,16
+čtvrtek,2020-05-14,1000,Praha,94,16,8,253,65,44,34,15,5170,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.535141817006563,2,True,0,9.953576519114849,0,True,2,1.8181818181818181,0,True,2,1.1325301204819278,10,16
 čtvrtek,2020-05-14,2101,Benešov,1,0,0,3,0,0,0,0,285,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,4.916259709612926,0,True,0,0.0,0,False,0,0.3508771929824561,0,False,0,0.5,0,0
 čtvrtek,2020-05-14,2102,Beroun,0,0,0,-2,0,0,0,0,186,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,2103,Brandýs n.L.- St.Boleslav,3,0,0,7,3,3,0,0,315,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,5.296516657544888,0,True,0,6.091617933723197,0,True,2,0.9523809523809524,0,True,2,1.5,20,24
@@ -89,7 +89,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-05-14,5106,Nový Bor,0,0,0,0,0,0,0,0,27,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,5107,Semily,0,0,0,0,0,0,0,0,63,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,5108,Tanvald,0,0,0,4,0,0,0,0,86,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,4.899078973153047,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-05-14,5109,Turnov,0,0,0,3,0,0,0,0,96,5109,Turnov,33623,7134,CZ051,Liberecký kraj,CZ,ČR,2.974154596555929,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+čtvrtek,2020-05-14,5109,Turnov,0,0,0,4,1,0,0,0,96,5109,Turnov,33623,7134,CZ051,Liberecký kraj,CZ,ČR,2.974154596555929,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-05-14,5110,Železný Brod,0,0,0,0,0,0,0,0,29,5110,Železný Brod,12182,2797,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,5201,Broumov,0,0,0,0,0,0,0,0,60,5201,Broumov,15876,3561,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,5202,Dobruška,0,0,0,0,0,0,0,0,50,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -138,7 +138,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-05-14,6115,Žďár nad Sázavou,0,0,0,0,0,0,0,0,55,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,6201,Blansko,3,0,0,9,0,0,1,0,121,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,15.75464762104821,2,True,0,0.0,0,False,0,2.479338842975207,0,False,0,0.42857142857142855,0,2
 čtvrtek,2020-05-14,6202,Boskovice,0,0,0,0,0,0,0,0,84,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-05-14,6203,Brno,18,1,0,39,3,0,2,3,968,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,8.129100606798026,0,True,0,2.5170847124859987,0,True,2,1.859504132231405,0,True,2,1.125,10,14
+čtvrtek,2020-05-14,6203,Brno,18,1,0,40,3,0,2,3,968,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,8.129100606798026,0,True,0,2.5170847124859987,0,True,2,1.859504132231405,0,True,2,1.125,10,14
 čtvrtek,2020-05-14,6204,Břeclav,1,0,0,15,6,4,7,0,244,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,3.34924223394457,0,False,0,0.0,0,False,0,0.4098360655737705,0,False,0,1.0,10,10
 čtvrtek,2020-05-14,6205,Bučovice,0,0,0,0,0,0,0,0,33,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,6206,Hodonín,1,0,0,1,0,0,0,0,129,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,1.6478536705940512,0,True,0,0.0,0,False,0,0.7751937984496124,0,True,2,0.0,0,2

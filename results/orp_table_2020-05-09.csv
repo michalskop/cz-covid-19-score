@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2020-05-09,1000,Praha,84,11,7,262,68,50,30,10,6761,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.931038596909861,2,False,0,10.749862640644036,2,True,2,1.2424197603904747,0,False,0,1.024390243902439,10,16
+sobota,2020-05-09,1000,Praha,83,11,7,269,69,50,30,10,6761,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.855525694397773,2,False,0,10.749862640644036,2,True,2,1.2276290489572548,0,False,0,1.0121951219512195,10,16
 sobota,2020-05-09,2101,Benešov,2,0,0,4,0,0,0,0,235,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,0.851063829787234,0,True,2,0.0,0,2
 sobota,2020-05-09,2102,Beroun,0,0,0,-2,0,0,0,0,232,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-09,2103,Brandýs n.L.- St.Boleslav,2,0,0,6,4,4,0,0,353,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,4.413763881287407,0,False,0,6.091617933723197,0,True,2,0.56657223796034,0,False,0,0.6666666666666666,0,2
@@ -89,7 +89,7 @@ sobota,2020-05-09,5105,Liberec,1,0,0,12,1,0,1,1,288,5105,Liberec,145676,28910,CZ
 sobota,2020-05-09,5106,Nový Bor,0,0,0,0,0,0,0,0,30,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-09,5107,Semily,0,0,0,1,0,0,0,0,56,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-09,5108,Tanvald,0,0,0,7,0,0,0,0,60,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,4.899078973153047,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-sobota,2020-05-09,5109,Turnov,1,0,0,4,0,0,0,0,93,5109,Turnov,33623,7134,CZ051,Liberecký kraj,CZ,ČR,2.974154596555929,0,True,0,0.0,0,False,0,1.0752688172043012,0,True,2,0.0,0,2
+sobota,2020-05-09,5109,Turnov,1,0,0,5,1,0,0,0,93,5109,Turnov,33623,7134,CZ051,Liberecký kraj,CZ,ČR,2.974154596555929,0,True,0,0.0,0,False,0,1.0752688172043012,0,True,2,0.0,0,2
 sobota,2020-05-09,5110,Železný Brod,0,0,0,0,0,0,0,0,47,5110,Železný Brod,12182,2797,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-09,5201,Broumov,0,0,0,0,0,0,0,0,45,5201,Broumov,15876,3561,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-09,5202,Dobruška,0,0,0,0,0,0,0,0,34,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -138,7 +138,7 @@ sobota,2020-05-09,6114,Velké Meziříčí,0,0,0,0,0,0,0,0,65,6114,Velké Meziř
 sobota,2020-05-09,6115,Žďár nad Sázavou,0,0,0,1,0,0,0,0,42,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-09,6201,Blansko,7,0,0,7,0,0,1,1,126,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,12.25361481637083,2,True,0,0.0,0,False,0,5.555555555555555,3,True,2,0.0,0,7
 sobota,2020-05-09,6202,Boskovice,0,0,0,0,0,0,0,0,104,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-sobota,2020-05-09,6203,Brno,16,1,0,32,3,1,4,3,1032,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,5.769039140308276,0,True,0,1.2585423562429994,0,True,2,1.550387596899225,0,True,2,1.3333333333333333,15,19
+sobota,2020-05-09,6203,Brno,16,1,0,33,3,1,4,3,1032,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,5.769039140308276,0,True,0,1.2585423562429994,0,True,2,1.550387596899225,0,True,2,1.3333333333333333,15,19
 sobota,2020-05-09,6204,Břeclav,1,0,0,26,8,5,7,0,227,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,8.373105584861426,0,False,0,8.185985592665357,0,True,2,0.4405286343612335,0,False,0,0.3333333333333333,0,2
 sobota,2020-05-09,6205,Bučovice,0,0,0,0,0,0,0,0,41,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-09,6206,Hodonín,0,0,0,0,0,0,0,0,158,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
