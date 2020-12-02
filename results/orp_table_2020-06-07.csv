@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2020-06-07,1000,Praha,93,21,16,185,37,21,21,17,4017,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.157577304446123,2,True,0,10.749862640644036,2,True,2,2.315160567587752,0,True,2,1.0333333333333334,10,18
+neděle,2020-06-07,1000,Praha,93,21,16,177,35,20,21,17,4017,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.157577304446123,2,True,0,10.749862640644036,2,True,2,2.315160567587752,0,True,2,1.0333333333333334,10,18
 neděle,2020-06-07,2101,Benešov,0,0,0,0,0,0,0,0,84,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-07,2102,Beroun,0,0,0,-3,0,0,0,0,118,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-07,2103,Brandýs n.L.- St.Boleslav,0,0,0,2,0,0,0,0,217,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,1.7655055525149626,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -89,7 +89,7 @@ neděle,2020-06-07,5105,Liberec,1,0,0,1,0,0,0,0,181,5105,Liberec,145676,28910,CZ
 neděle,2020-06-07,5106,Nový Bor,0,0,0,0,0,0,0,0,8,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-07,5107,Semily,1,1,0,1,1,0,0,0,30,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,3.8948393378773125,0,True,0,17.86033220217896,2,True,2,3.3333333333333335,3,True,2,0.0,0,9
 neděle,2020-06-07,5108,Tanvald,0,0,0,0,0,0,0,0,36,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2020-06-07,5109,Turnov,0,0,0,2,1,0,0,0,38,5109,Turnov,33623,7134,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+neděle,2020-06-07,5109,Turnov,0,0,0,1,0,0,0,0,38,5109,Turnov,33623,7134,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-07,5110,Železný Brod,0,0,0,0,0,0,0,0,15,5110,Železný Brod,12182,2797,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-07,5201,Broumov,0,0,0,0,0,0,0,0,39,5201,Broumov,15876,3561,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-07,5202,Dobruška,0,0,0,0,0,0,0,0,16,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -138,7 +138,7 @@ neděle,2020-06-07,6114,Velké Meziříčí,0,0,0,0,0,0,0,0,43,6114,Velké Mezi�
 neděle,2020-06-07,6115,Žďár nad Sázavou,0,0,0,-1,0,0,0,0,47,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-07,6201,Blansko,1,0,0,9,0,0,0,0,124,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,10.50309841403214,2,False,0,0.0,0,False,0,0.8064516129032258,0,False,0,0.25,0,2
 neděle,2020-06-07,6202,Boskovice,0,0,0,0,0,0,0,0,67,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2020-06-07,6203,Brno,16,3,2,47,5,3,5,3,868,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,9.964703969623386,0,True,0,7.551254137457996,0,True,2,1.8433179723502304,0,False,0,0.5517241379310345,0,2
+neděle,2020-06-07,6203,Brno,16,3,2,46,5,3,5,3,868,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,9.964703969623386,0,True,0,7.551254137457996,0,True,2,1.8433179723502304,0,False,0,0.5517241379310345,0,2
 neděle,2020-06-07,6204,Břeclav,1,0,0,1,0,0,0,0,137,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,6.69848446788914,0,False,0,16.371971185330715,2,True,2,0.7299270072992701,0,False,0,1.0,10,14
 neděle,2020-06-07,6205,Bučovice,0,0,0,0,0,0,0,0,14,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-07,6206,Hodonín,0,0,0,1,0,0,0,0,91,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,1.6478536705940512,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0

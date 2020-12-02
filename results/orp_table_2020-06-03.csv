@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-06-03,1000,Praha,105,11,6,204,29,12,18,7,4286,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.006551499421949,2,False,0,6.370288972233503,0,True,2,2.4498366775548295,0,True,2,1.875,25,31
+středa,2020-06-03,1000,Praha,106,11,6,197,27,11,18,7,4286,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.082064401934037,2,False,0,6.370288972233503,0,True,2,2.473168455436304,0,True,2,1.8928571428571428,25,31
 středa,2020-06-03,2101,Benešov,0,0,0,0,0,0,0,0,112,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,1.6387532365376423,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-03,2102,Beroun,0,0,0,-2,1,1,0,0,119,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,1.5401912917584364,0,False,0,8.77808988764045,0,True,2,0.0,0,False,0,,30,32
 středa,2020-06-03,2103,Brandýs n.L.- St.Boleslav,0,0,0,5,1,1,0,0,250,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,4.413763881287407,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
@@ -89,7 +89,7 @@ středa,2020-06-03,5105,Liberec,1,0,0,1,0,0,0,0,185,5105,Liberec,145676,28910,CZ
 středa,2020-06-03,5106,Nový Bor,0,0,0,0,0,0,0,0,13,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-03,5107,Semily,0,0,0,0,0,0,0,0,40,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-03,5108,Tanvald,0,0,0,0,0,0,0,0,48,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2020-06-03,5109,Turnov,0,0,0,2,1,0,0,0,50,5109,Turnov,33623,7134,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+středa,2020-06-03,5109,Turnov,0,0,0,1,0,0,0,0,50,5109,Turnov,33623,7134,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-03,5110,Železný Brod,0,0,0,0,0,0,0,0,21,5110,Železný Brod,12182,2797,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-03,5201,Broumov,0,0,0,0,0,0,0,0,50,5201,Broumov,15876,3561,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-03,5202,Dobruška,0,0,0,0,0,0,0,0,16,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -138,7 +138,7 @@ středa,2020-06-03,6114,Velké Meziříčí,0,0,0,0,0,0,0,0,47,6114,Velké Mezi�
 středa,2020-06-03,6115,Žďár nad Sázavou,0,0,0,-1,0,0,0,0,53,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-03,6201,Blansko,0,0,0,8,0,0,0,1,141,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,10.50309841403214,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 středa,2020-06-03,6202,Boskovice,0,0,0,0,0,0,0,0,79,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2020-06-03,6203,Brno,27,5,4,45,4,3,5,3,949,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,8.129100606798026,0,True,0,6.292711781214997,0,True,2,2.845100105374078,0,True,2,1.8,25,29
+středa,2020-06-03,6203,Brno,27,5,4,44,4,3,5,3,949,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,8.129100606798026,0,True,0,6.292711781214997,0,True,2,2.845100105374078,0,True,2,1.8,25,29
 středa,2020-06-03,6204,Břeclav,0,0,0,1,1,1,2,0,205,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,5.023863350916855,0,False,0,16.371971185330715,2,True,2,0.0,0,False,0,0.0,0,4
 středa,2020-06-03,6205,Bučovice,0,0,0,0,0,0,0,0,18,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-03,6206,Hodonín,1,0,0,1,0,0,1,1,96,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,1.6478536705940512,0,True,0,0.0,0,False,0,1.0416666666666665,0,True,2,1.0,10,12

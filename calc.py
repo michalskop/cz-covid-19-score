@@ -122,7 +122,7 @@ data_regions = pd.DataFrame(columns=['date', 'code', 'name', 'score'])
 data_cz = pd.DataFrame(columns=['date', 'code', 'name', 'score'])
 
 # for each date
-for i in range(0, (last_day - first_day).days + 1):
+for i in range(0, (last_ok_day - first_day).days + 1):
     day = first_day + datetime.timedelta(days=i)
     date = day.isoformat()
     date_5 = (day - datetime.timedelta(days=5)).isoformat()
