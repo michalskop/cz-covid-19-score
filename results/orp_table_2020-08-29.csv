@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2020-08-29,1000,Praha,599,33,16,1055,66,40,19,16,9982,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,85.55611854619539,7,True,0,29.860729557344545,4,True,2,6.000801442596674,3,False,0,1.0990825688073393,10,26
+sobota,2020-08-29,1000,Praha,599,33,16,1055,66,40,19,16,9982,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,85.63163144870748,7,True,0,29.860729557344545,4,True,2,6.000801442596674,3,False,0,1.0970695970695972,10,26
 sobota,2020-08-29,2101,Benešov,6,0,0,12,0,0,0,0,252,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,18.02628560191406,2,False,0,0.0,0,False,0,2.380952380952381,0,True,2,1.2,15,19
 sobota,2020-08-29,2102,Beroun,20,1,1,25,1,1,0,0,238,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,43.12535616923622,4,True,0,8.77808988764045,0,True,2,8.403361344537815,7,True,2,2.0,30,45
 sobota,2020-08-29,2103,Brandýs n.L.- St.Boleslav,37,0,0,59,1,1,2,2,599,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,54.73067212796384,7,True,0,0.0,0,False,0,6.176961602671119,3,True,2,1.48,20,32
@@ -72,7 +72,7 @@ sobota,2020-08-29,4204,Kadaň,5,0,0,9,0,0,0,0,83,4204,Kadaň,43284,8078,CZ042,Ú
 sobota,2020-08-29,4205,Litoměřice,7,2,0,9,1,-1,0,0,183,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,20.30113347995263,2,True,0,25.73340195573855,4,True,2,3.825136612021858,3,True,2,0.875,5,18
 sobota,2020-08-29,4206,Litvínov,0,0,0,2,0,0,0,0,57,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,2.7001485081679495,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2020-08-29,4207,Louny,9,1,0,12,1,0,1,1,89,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,27.497708524289642,4,True,0,11.702750146284377,2,True,2,10.112359550561797,7,True,2,3.0,30,47
-sobota,2020-08-29,4208,Lovosice,1,0,0,1,0,0,0,0,53,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,3.6036036036036037,0,False,0,0.0,0,False,0,1.8867924528301887,0,True,2,0.0,0,2
+sobota,2020-08-29,4208,Lovosice,2,0,0,2,0,0,0,0,53,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,7.207207207207207,0,True,0,0.0,0,False,0,3.7735849056603774,3,True,2,0.0,0,5
 sobota,2020-08-29,4209,Most,5,0,0,6,0,0,0,0,124,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,8.035032742758428,0,False,0,0.0,0,False,0,4.032258064516129,3,True,2,5.0,30,35
 sobota,2020-08-29,4210,Podbořany,1,0,0,1,0,0,0,0,26,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,6.378364587319811,0,False,0,0.0,0,False,0,3.8461538461538463,3,True,2,0.0,0,5
 sobota,2020-08-29,4211,Roudnice nad Labem,6,0,0,17,1,0,1,1,134,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,36.5764447695684,4,False,0,0.0,0,False,0,4.477611940298507,3,True,2,1.2,15,24
@@ -149,7 +149,7 @@ sobota,2020-08-29,6210,Kyjov,51,10,4,66,14,4,8,4,339,6210,Kyjov,55543,11542,CZ06
 sobota,2020-08-29,6211,Mikulov,0,0,0,1,0,0,0,0,24,6211,Mikulov,20265,3954,CZ064,Jihomoravský kraj,CZ,ČR,4.934616333580064,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2020-08-29,6212,Moravský Krumlov,0,0,0,0,0,0,0,0,28,6212,Moravský Krumlov,22452,4592,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-08-29,6213,Pohořelice,1,0,0,1,0,0,0,0,30,6213,Pohořelice,14599,2588,CZ064,Jihomoravský kraj,CZ,ČR,6.849784231796698,0,False,0,0.0,0,False,0,3.3333333333333335,3,True,2,0.0,0,5
-sobota,2020-08-29,6214,Rosice,6,0,0,6,0,0,0,0,51,6214,Rosice,26284,5080,CZ064,Jihomoravský kraj,CZ,ČR,22.827575711459446,2,True,0,0.0,0,False,0,11.76470588235294,11,True,2,0.0,0,15
+sobota,2020-08-29,6214,Rosice,5,0,0,5,0,0,0,0,51,6214,Rosice,26284,5080,CZ064,Jihomoravský kraj,CZ,ČR,19.022979759549536,2,True,0,0.0,0,False,0,9.803921568627452,7,True,2,0.0,0,11
 sobota,2020-08-29,6215,Slavkov u Brna,3,0,0,3,0,0,0,0,45,6215,Slavkov u Brna,24027,4191,CZ064,Jihomoravský kraj,CZ,ČR,12.48595330253465,2,True,0,0.0,0,False,0,6.666666666666667,3,True,2,0.0,0,7
 sobota,2020-08-29,6216,Šlapanice,13,2,1,25,5,3,2,1,165,6216,Šlapanice,70414,12564,CZ064,Jihomoravský kraj,CZ,ČR,34.0841309966768,4,True,0,39.79624323463865,4,True,2,7.878787878787878,7,True,2,1.625,25,44
 sobota,2020-08-29,6217,Tišnov,13,1,1,22,2,2,1,1,93,6217,Tišnov,31725,6213,CZ064,Jihomoravský kraj,CZ,ČR,66.19385342789597,7,True,0,32.190568163528084,4,True,2,13.978494623655912,11,False,0,1.8571428571428572,25,49
