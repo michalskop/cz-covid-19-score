@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-08-05,1000,Praha,337,20,11,694,33,14,15,13,8337,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,55.87954785894492,7,True,0,17.51829467364213,2,True,2,4.042221422574068,3,False,0,0.9207650273224044,5,19
+středa,2020-08-05,1000,Praha,337,20,11,693,33,14,15,13,8337,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,55.87954785894492,7,True,0,17.51829467364213,2,True,2,4.042221422574068,3,False,0,0.9182561307901907,5,19
 středa,2020-08-05,2101,Benešov,7,0,0,18,1,0,0,0,252,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,24.581298548064634,2,True,0,8.24742268041237,0,True,2,2.7777777777777777,0,False,0,1.1666666666666667,10,14
 středa,2020-08-05,2102,Beroun,9,0,0,15,1,1,0,0,218,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,27.723443251651855,4,False,0,8.77808988764045,0,True,2,4.128440366972478,3,False,0,1.0,10,19
 středa,2020-08-05,2103,Brandýs n.L.- St.Boleslav,12,0,0,48,2,2,1,1,562,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,39.72387493158666,4,False,0,12.183235867446394,2,True,2,2.135231316725979,0,False,0,0.4444444444444444,0,8
@@ -121,7 +121,7 @@ středa,2020-08-05,5312,Svitavy,0,0,0,3,0,0,1,0,73,5312,Svitavy,31379,6533,CZ053
 středa,2020-08-05,5313,Ústí nad Orlicí,2,0,0,4,0,0,0,0,55,5313,Ústí nad Orlicí,26573,5651,CZ053,Pardubický kraj,CZ,ČR,15.052873217175327,2,True,0,0.0,0,False,0,3.6363636363636362,3,False,0,2.0,30,35
 středa,2020-08-05,5314,Vysoké Mýto,10,1,0,24,2,1,0,0,187,5314,Vysoké Mýto,32454,6661,CZ053,Pardubický kraj,CZ,ČR,73.95082270290257,7,True,0,30.025521693439426,4,True,2,5.347593582887701,3,False,0,0.5555555555555556,0,16
 středa,2020-08-05,5315,Žamberk,2,0,0,2,0,0,0,0,46,5315,Žamberk,29463,5651,CZ053,Pardubický kraj,CZ,ČR,6.788174999151479,0,True,0,0.0,0,False,0,4.3478260869565215,3,True,2,2.0,30,35
-středa,2020-08-05,6101,Bystřice nad Pernštejnem,6,0,0,6,0,0,0,0,28,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,35.43406732472792,4,True,0,0.0,0,False,0,21.428571428571427,20,True,2,2.0,30,56
+středa,2020-08-05,6101,Bystřice nad Pernštejnem,6,0,0,7,0,0,0,0,28,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,40.496076942546196,4,True,0,0.0,0,False,0,21.428571428571427,20,True,2,1.5,20,46
 středa,2020-08-05,6102,Havlíčkův Brod,4,1,1,16,4,1,1,2,115,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,37.784327061135045,4,False,0,83.56545961002786,7,True,2,3.4782608695652173,3,False,0,0.36363636363636365,0,16
 středa,2020-08-05,6103,Humpolec,1,0,0,3,0,0,0,0,21,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,16.80483979386063,2,True,0,0.0,0,False,0,4.761904761904762,3,False,0,0.5,0,5
 středa,2020-08-05,6104,Chotěboř,0,0,0,2,0,0,1,0,31,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,9.1441111923921,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
