@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2020-08-04,1000,Praha,367,20,11,759,43,18,16,15,8536,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,57.465318811698765,7,True,0,17.51829467364213,2,True,2,4.2994376757263355,3,False,0,0.9267676767676768,5,19
+úterý,2020-08-04,1000,Praha,367,20,11,760,43,18,16,15,8536,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,57.465318811698765,7,True,0,17.51829467364213,2,True,2,4.2994376757263355,3,False,0,0.9267676767676768,5,19
 úterý,2020-08-04,2101,Benešov,6,0,0,17,1,0,0,0,244,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,27.85880502113992,4,True,0,8.24742268041237,0,True,2,2.459016393442623,0,False,0,0.8571428571428571,5,11
 úterý,2020-08-04,2102,Beroun,10,0,0,20,1,1,0,0,233,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,30.803825835168727,4,True,0,8.77808988764045,0,True,2,4.291845493562231,3,False,0,0.7692307692307693,0,9
 úterý,2020-08-04,2103,Brandýs n.L.- St.Boleslav,17,1,1,48,2,2,1,1,578,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,44.137638812874066,4,True,0,12.183235867446394,2,True,2,2.941176470588235,0,False,0,0.5666666666666667,0,8
@@ -59,7 +59,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-08-04,3214,Sušice,0,0,0,1,0,0,0,0,33,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,CZ,ČR,4.140786749482402,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2020-08-04,3215,Tachov,2,0,0,2,0,0,0,0,40,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,8.076239702794378,0,True,0,0.0,0,False,0,5.0,3,True,2,2.0,30,35
 úterý,2020-08-04,4101,Aš,0,0,0,0,0,0,0,0,53,4101,Aš,17695,3278,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2020-08-04,4102,Cheb,8,1,0,9,2,0,0,0,121,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,16.014412971674506,2,True,0,10.197838058331634,2,True,2,6.6115702479338845,3,True,2,4.0,30,41
+úterý,2020-08-04,4102,Cheb,7,1,0,8,2,0,0,0,121,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,14.012611350215192,2,True,0,10.197838058331634,2,True,2,5.785123966942149,3,True,2,3.5,30,41
 úterý,2020-08-04,4103,Karlovy Vary,7,0,0,8,0,0,0,0,175,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,9.176206097588953,0,True,0,0.0,0,False,0,4.0,3,True,2,1.75,25,30
 úterý,2020-08-04,4104,Kraslice,0,0,0,0,0,0,0,0,11,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-08-04,4105,Mariánské Lázně,2,0,0,2,0,0,0,0,66,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,8.338892595063374,0,True,0,0.0,0,False,0,3.0303030303030303,3,True,2,0.0,0,5
@@ -85,7 +85,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-08-04,5102,Frýdlant,1,0,0,2,0,0,0,0,55,5102,Frýdlant,24479,4944,CZ051,Liberecký kraj,CZ,ČR,4.08513419665836,0,False,0,0.0,0,False,0,1.8181818181818181,0,True,2,1.0,10,12
 úterý,2020-08-04,5103,Jablonec nad Nisou,2,0,0,26,2,0,0,0,380,5103,Jablonec nad Nisou,56206,11517,CZ051,Liberecký kraj,CZ,ČR,28.466711738960253,4,False,0,17.365633411478683,2,True,2,0.5263157894736842,0,False,0,0.25,0,8
 úterý,2020-08-04,5104,Jilemnice,0,0,0,0,0,0,0,0,17,5104,Jilemnice,22137,4768,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2020-08-04,5105,Liberec,9,0,0,33,2,1,0,0,334,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,15.102007194047065,2,True,0,0.0,0,False,0,2.694610778443114,0,False,0,0.5294117647058824,0,2
+úterý,2020-08-04,5105,Liberec,10,0,0,34,2,1,0,0,334,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,15.788462066503747,2,True,0,0.0,0,False,0,2.9940119760479043,0,False,0,0.5882352941176471,0,2
 úterý,2020-08-04,5106,Nový Bor,2,0,0,2,0,0,0,0,33,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,7.603984487871645,0,True,0,0.0,0,False,0,6.0606060606060606,3,True,2,2.0,30,35
 úterý,2020-08-04,5107,Semily,3,0,0,4,0,0,0,0,36,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,11.684518013631937,2,False,0,0.0,0,False,0,8.333333333333332,7,True,2,0.0,0,11
 úterý,2020-08-04,5108,Tanvald,1,0,0,3,2,1,0,0,73,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,4.899078973153047,0,False,0,0.0,0,False,0,1.36986301369863,0,True,2,1.0,10,12

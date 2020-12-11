@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2020-08-08,1000,Praha,375,21,9,728,37,14,15,12,8481,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,55.42647044387239,7,True,0,16.32386549134835,2,True,2,4.421648390519986,3,False,0,1.0744985673352436,10,24
+sobota,2020-08-08,1000,Praha,375,21,9,729,37,14,15,12,8481,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,55.42647044387239,7,True,0,16.32386549134835,2,True,2,4.421648390519986,3,False,0,1.0744985673352436,10,24
 sobota,2020-08-08,2101,Benešov,8,0,0,19,1,0,0,0,282,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,26.220051784602276,4,False,0,8.24742268041237,0,True,2,2.8368794326241136,0,False,0,1.0,10,16
 sobota,2020-08-08,2102,Beroun,8,0,0,17,0,0,0,0,193,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,27.723443251651855,4,False,0,0.0,0,False,0,4.145077720207254,3,False,0,0.8,5,12
 sobota,2020-08-08,2103,Brandýs n.L.- St.Boleslav,26,0,0,48,2,2,0,0,610,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,43.25488603661658,4,False,0,6.091617933723197,0,True,2,4.2622950819672125,3,True,2,1.2380952380952381,15,26
@@ -59,7 +59,7 @@ sobota,2020-08-08,3213,Stříbro,0,0,0,0,0,0,0,0,24,3213,Stříbro,17190,3184,CZ
 sobota,2020-08-08,3214,Sušice,0,0,0,0,0,0,0,0,62,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-08-08,3215,Tachov,0,0,0,1,0,0,0,0,43,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,5.3841598018629195,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2020-08-08,4101,Aš,2,0,0,2,0,0,0,0,28,4101,Aš,17695,3278,CZ041,Karlovarský kraj,CZ,ČR,11.302627860977676,2,True,0,0.0,0,False,0,7.142857142857142,7,True,2,0.0,0,11
-sobota,2020-08-08,4102,Cheb,5,0,0,10,2,0,0,0,108,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,18.01621459313382,2,True,0,10.197838058331634,2,True,2,4.62962962962963,3,True,2,0.8333333333333334,5,16
+sobota,2020-08-08,4102,Cheb,4,0,0,9,2,0,0,0,108,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,16.014412971674506,2,True,0,10.197838058331634,2,True,2,3.7037037037037033,3,False,0,0.6666666666666666,0,9
 sobota,2020-08-08,4103,Karlovy Vary,4,0,0,10,0,0,0,0,180,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,11.470257621986189,2,True,0,0.0,0,False,0,2.2222222222222223,0,False,0,0.5714285714285714,0,2
 sobota,2020-08-08,4104,Kraslice,0,0,0,0,0,0,0,0,11,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-08-08,4105,Mariánské Lázně,3,1,1,4,1,1,0,0,69,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,16.677785190126748,2,True,0,18.453589223103894,2,True,2,4.3478260869565215,3,True,2,3.0,30,41
@@ -85,7 +85,7 @@ sobota,2020-08-08,5101,Česká Lípa,9,0,0,18,1,0,1,0,159,5101,Česká Lípa,769
 sobota,2020-08-08,5102,Frýdlant,0,0,0,2,0,0,0,0,48,5102,Frýdlant,24479,4944,CZ051,Liberecký kraj,CZ,ČR,4.08513419665836,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2020-08-08,5103,Jablonec nad Nisou,4,0,0,22,2,0,0,0,340,5103,Jablonec nad Nisou,56206,11517,CZ051,Liberecký kraj,CZ,ČR,14.233355869480127,2,False,0,0.0,0,False,0,1.1764705882352942,0,False,0,2.0,30,32
 sobota,2020-08-08,5104,Jilemnice,4,1,0,4,1,0,0,0,25,5104,Jilemnice,22137,4768,CZ051,Liberecký kraj,CZ,ČR,18.069295749198176,2,True,0,20.973154362416107,2,True,2,16.0,15,True,2,0.0,0,23
-sobota,2020-08-08,5105,Liberec,10,0,0,31,0,0,0,0,332,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,19.907191301243856,2,True,0,0.0,0,False,0,3.0120481927710845,3,False,0,0.47619047619047616,0,5
+sobota,2020-08-08,5105,Liberec,11,0,0,32,0,0,0,0,332,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,20.59364617370054,2,True,0,0.0,0,False,0,3.313253012048193,3,False,0,0.5238095238095238,0,5
 sobota,2020-08-08,5106,Nový Bor,0,0,0,2,0,0,0,0,27,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,7.603984487871645,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2020-08-08,5107,Semily,5,0,0,6,0,0,0,0,42,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,19.474196689386563,2,True,0,0.0,0,False,0,11.904761904761903,11,True,2,2.5,30,45
 sobota,2020-08-08,5108,Tanvald,0,0,0,2,1,1,0,0,57,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,4.899078973153047,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
