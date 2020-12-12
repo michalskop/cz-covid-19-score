@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-08-26,1000,Praha,570,42,22,1029,64,35,20,22,8966,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,79.4395734427163,7,True,0,27.471871192756982,4,True,2,6.357349988846754,3,True,2,1.156186612576065,10,28
+středa,2020-08-26,1000,Praha,570,42,22,1029,64,35,20,22,8966,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,79.3640605402042,7,True,0,27.471871192756982,4,True,2,6.357349988846754,3,True,2,1.1538461538461537,10,28
 středa,2020-08-26,2101,Benešov,3,0,0,10,0,0,0,0,222,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,14.74877912883878,2,False,0,0.0,0,False,0,1.3513513513513513,0,False,0,0.6,0,2
 středa,2020-08-26,2102,Beroun,15,1,1,19,2,1,0,0,214,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,30.803825835168727,4,True,0,17.5561797752809,2,True,2,7.009345794392523,7,True,2,3.75,30,47
 středa,2020-08-26,2103,Brandýs n.L.- St.Boleslav,26,0,0,50,1,1,0,0,577,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,41.48938048410162,4,False,0,0.0,0,False,0,4.506065857885615,3,True,2,1.1304347826086956,10,19
@@ -87,7 +87,7 @@ středa,2020-08-26,5103,Jablonec nad Nisou,5,3,1,14,5,2,0,0,212,5103,Jablonec na
 středa,2020-08-26,5104,Jilemnice,5,1,0,5,1,0,0,0,63,5104,Jilemnice,22137,4768,CZ051,Liberecký kraj,CZ,ČR,22.58661968649772,2,False,0,20.973154362416107,2,True,2,7.936507936507936,7,True,2,0.0,0,15
 středa,2020-08-26,5105,Liberec,24,1,0,49,1,0,1,1,388,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,24.71237540844065,2,True,0,3.4590107229332414,0,True,2,6.185567010309279,3,True,2,1.6,25,34
 středa,2020-08-26,5106,Nový Bor,1,1,0,2,2,1,0,0,64,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,3.8019922439358225,0,False,0,17.433751743375172,2,True,2,1.5625,0,True,2,0.0,0,6
-středa,2020-08-26,5107,Semily,1,1,1,5,1,1,0,0,61,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,11.684518013631937,2,False,0,17.86033220217896,2,True,2,1.639344262295082,0,False,0,0.5,0,6
+středa,2020-08-26,5107,Semily,1,1,1,6,1,1,0,0,61,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,11.684518013631937,2,False,0,17.86033220217896,2,True,2,1.639344262295082,0,False,0,0.5,0,6
 středa,2020-08-26,5108,Tanvald,0,0,0,2,1,1,0,0,31,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-08-26,5109,Turnov,3,0,0,7,0,0,0,0,89,5109,Turnov,33623,7134,CZ051,Liberecký kraj,CZ,ČR,11.896618386223716,2,False,0,0.0,0,False,0,3.3707865168539324,3,True,2,3.0,30,37
 středa,2020-08-26,5110,Železný Brod,2,2,1,3,2,1,1,1,24,5110,Železný Brod,12182,2797,CZ051,Liberecký kraj,CZ,ČR,24.62649811196848,2,True,0,71.50518412584913,7,True,2,8.333333333333332,7,True,2,0.0,0,20
