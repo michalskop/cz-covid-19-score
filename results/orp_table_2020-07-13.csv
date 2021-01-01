@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2020-07-13,1000,Praha,80,6,3,176,17,9,7,4,3277,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.024883766764809,2,False,0,3.5832875468813454,0,True,2,2.4412572474824534,0,True,2,1.25,15,21
+pondělí,2020-07-13,1000,Praha,80,6,3,178,17,9,7,4,3277,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.100396669276895,2,False,0,3.5832875468813454,0,True,2,2.4412572474824534,0,True,2,1.2307692307692308,15,21
 pondělí,2020-07-13,2101,Benešov,2,0,0,2,0,0,0,0,90,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,2.2222222222222223,0,True,2,2.0,30,32
 pondělí,2020-07-13,2102,Beroun,0,0,0,1,0,0,0,0,90,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,3.0803825835168728,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2020-07-13,2103,Brandýs n.L.- St.Boleslav,6,0,0,14,0,0,0,0,202,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,13.241291643862219,2,False,0,0.0,0,False,0,2.9702970297029703,0,False,0,0.8571428571428571,5,7
@@ -78,7 +78,7 @@ pondělí,2020-07-13,4210,Podbořany,0,0,0,0,0,0,0,0,9,4210,Podbořany,15678,310
 pondělí,2020-07-13,4211,Roudnice nad Labem,0,0,0,0,0,0,0,0,28,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,4212,Rumburk,0,0,0,1,0,0,0,0,20,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,4213,Teplice,1,0,0,0,0,0,0,0,60,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,0.9392140656698474,0,True,0,0.0,0,False,0,1.6666666666666667,0,True,2,1.0,10,12
-pondělí,2020-07-13,4214,Ústí nad Labem,0,0,0,3,0,0,0,0,73,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pondělí,2020-07-13,4214,Ústí nad Labem,0,0,0,3,1,1,0,0,73,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,4215,Varnsdorf,0,0,0,0,0,0,0,0,4,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,4216,Žatec,0,0,0,0,0,0,0,0,15,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,5101,Česká Lípa,1,0,0,1,0,0,0,0,56,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,1.2987350320787552,0,True,0,0.0,0,False,0,1.7857142857142856,0,True,2,0.0,0,2
@@ -196,7 +196,7 @@ pondělí,2020-07-13,8110,Jablunkov,2,0,0,11,0,0,0,0,119,8110,Jablunkov,22664,39
 pondělí,2020-07-13,8111,Karviná,52,6,0,232,12,4,14,9,980,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,268.8087527902663,13,False,0,82.07117809445647,7,True,2,5.3061224489795915,3,False,0,0.5591397849462365,0,25
 pondělí,2020-07-13,8112,Kopřivnice,1,0,0,3,0,0,0,0,171,8112,Kopřivnice,40755,7907,CZ080,Moravskoslezský kraj,CZ,ČR,2.45368666421298,0,False,0,0.0,0,False,0,0.5847953216374269,0,True,2,0.0,0,2
 pondělí,2020-07-13,8113,Kravaře,1,0,0,1,0,0,0,0,22,8113,Kravaře,21356,3656,CZ080,Moravskoslezský kraj,CZ,ČR,4.682524817381532,0,True,0,0.0,0,False,0,4.545454545454546,3,True,2,0.0,0,5
-pondělí,2020-07-13,8114,Krnov,1,0,0,2,0,0,0,0,71,8114,Krnov,39938,8666,CZ080,Moravskoslezský kraj,CZ,ČR,5.00776203114828,0,True,0,0.0,0,False,0,1.4084507042253522,0,False,0,1.0,10,10
+pondělí,2020-07-13,8114,Krnov,2,0,0,3,0,0,0,0,71,8114,Krnov,39938,8666,CZ080,Moravskoslezský kraj,CZ,ČR,7.511643046722419,0,True,0,0.0,0,False,0,2.8169014084507045,0,True,2,1.0,10,12
 pondělí,2020-07-13,8115,Nový Jičín,11,0,0,17,0,0,0,0,137,8115,Nový Jičín,48731,9593,CZ080,Moravskoslezský kraj,CZ,ČR,32.83330939237857,4,True,0,0.0,0,False,0,8.02919708029197,7,True,2,1.375,15,28
 pondělí,2020-07-13,8116,Odry,1,0,0,2,0,0,0,0,49,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,11.814744801512287,2,True,0,0.0,0,False,0,2.0408163265306123,0,False,0,1.0,10,12
 pondělí,2020-07-13,8117,Opava,1,0,0,2,0,0,0,0,158,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,1.980845226658215,0,True,0,0.0,0,False,0,0.6329113924050633,0,False,0,1.0,10,10
