@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2020-08-15,1000,Praha,491,30,12,884,52,21,20,22,7727,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,65.31866067295589,7,True,0,20.30529609899429,2,True,2,6.354341917950045,3,True,2,1.2557544757033248,15,31
+sobota,2020-08-15,1000,Praha,492,30,12,885,52,21,20,22,7727,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,65.39417357546797,7,True,0,20.30529609899429,2,True,2,6.367283551184159,3,True,2,1.258312020460358,15,31
 sobota,2020-08-15,2101,Benešov,9,1,1,23,1,1,0,1,246,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,27.85880502113992,4,True,0,8.24742268041237,0,True,2,3.6585365853658534,3,True,2,0.9,5,16
 sobota,2020-08-15,2102,Beroun,10,1,0,16,1,0,0,0,191,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,27.723443251651855,4,False,0,8.77808988764045,0,True,2,5.2356020942408374,3,True,2,1.25,15,26
 sobota,2020-08-15,2103,Brandýs n.L.- St.Boleslav,24,2,1,51,2,1,0,0,494,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,44.137638812874066,4,True,0,12.183235867446394,2,True,2,4.8582995951417,3,True,2,0.8571428571428571,5,18
@@ -14,7 +14,7 @@ sobota,2020-08-15,2111,Kralupy nad Vltavou,6,1,0,11,1,0,0,0,97,2111,Kralupy nad 
 sobota,2020-08-15,2112,Kutná Hora,6,0,0,15,0,0,0,0,165,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,27.90790391707366,4,True,0,0.0,0,False,0,3.6363636363636362,3,False,0,0.6666666666666666,0,7
 sobota,2020-08-15,2113,Lysá nad Labem,6,0,0,6,0,0,0,0,115,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,26.01553499089456,4,False,0,0.0,0,False,0,5.217391304347826,3,True,2,0.0,0,9
 sobota,2020-08-15,2114,Mělník,4,0,0,5,0,0,0,0,119,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,11.210762331838565,2,False,0,0.0,0,False,0,3.361344537815126,3,True,2,4.0,30,37
-sobota,2020-08-15,2115,Mladá Boleslav,17,1,0,41,1,0,0,0,525,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,31.12106985346422,4,False,0,4.85366208804543,0,True,2,3.2380952380952377,3,False,0,1.0625,10,19
+sobota,2020-08-15,2115,Mladá Boleslav,17,1,0,42,1,0,0,0,525,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,31.12106985346422,4,False,0,4.85366208804543,0,True,2,3.2380952380952377,3,False,0,1.0625,10,19
 sobota,2020-08-15,2116,Mnichovo Hradiště,0,0,0,0,0,0,0,0,33,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-08-15,2117,Neratovice,5,0,0,8,0,0,0,0,149,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,31.068443781650977,4,False,0,0.0,0,False,0,3.3557046979865772,3,True,2,1.0,10,19
 sobota,2020-08-15,2118,Nymburk,6,1,0,11,1,0,0,0,150,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,29.863375059104595,4,False,0,12.244398187829068,2,True,2,4.0,3,True,2,1.0,10,23
@@ -78,7 +78,7 @@ sobota,2020-08-15,4210,Podbořany,1,0,0,3,0,0,0,0,36,4210,Podbořany,15678,3106,
 sobota,2020-08-15,4211,Roudnice nad Labem,11,1,0,20,2,0,1,1,113,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,51.8166300902219,7,True,0,30.075187969924812,4,True,2,9.734513274336283,7,True,2,3.6666666666666665,30,52
 sobota,2020-08-15,4212,Rumburk,1,0,0,2,0,0,0,0,105,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,3.049245311785333,0,True,0,0.0,0,False,0,0.9523809523809524,0,True,2,0.0,0,2
 sobota,2020-08-15,4213,Teplice,7,0,0,9,0,0,0,0,242,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,8.452926591028627,0,True,0,0.0,0,False,0,2.8925619834710745,0,True,2,3.5,30,32
-sobota,2020-08-15,4214,Ústí nad Labem,6,0,0,9,2,0,3,1,218,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,8.379560575843403,0,False,0,8.343414959743022,0,True,2,2.7522935779816518,0,True,2,1.5,20,24
+sobota,2020-08-15,4214,Ústí nad Labem,6,0,0,10,2,0,3,1,218,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,8.379560575843403,0,False,0,8.343414959743022,0,True,2,2.7522935779816518,0,True,2,1.5,20,24
 sobota,2020-08-15,4215,Varnsdorf,0,0,0,0,0,0,0,0,27,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-08-15,4216,Žatec,7,1,1,9,1,1,0,0,93,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,32.879114455850655,4,True,0,19.171779141104295,2,True,2,7.526881720430108,7,True,2,1.4,20,37
 sobota,2020-08-15,5101,Česká Lípa,1,0,0,11,0,0,0,0,192,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,12.987350320787554,2,False,0,0.0,0,False,0,0.5208333333333333,0,False,0,0.16666666666666666,0,2
