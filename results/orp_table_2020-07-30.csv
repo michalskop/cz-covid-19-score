@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-07-30,1000,Praha,397,23,6,671,35,11,16,15,7118,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,49.8385156579779,4,True,0,14.333150187525382,2,True,2,5.577409384658612,3,False,0,1.0906593406593406,10,21
+čtvrtek,2020-07-30,1000,Praha,397,23,6,671,35,11,16,15,7118,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,49.763002755465806,4,True,0,14.333150187525382,2,True,2,5.577409384658612,3,False,0,1.09366391184573,10,21
 čtvrtek,2020-07-30,2101,Benešov,7,1,0,12,1,0,0,0,161,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,19.665038838451704,2,True,0,8.24742268041237,0,True,2,4.3478260869565215,3,False,0,0.875,5,12
 čtvrtek,2020-07-30,2102,Beroun,13,1,1,22,1,1,0,0,211,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,33.8842084186856,4,True,0,8.77808988764045,0,True,2,6.161137440758294,3,True,2,1.1818181818181819,10,21
 čtvrtek,2020-07-30,2103,Brandýs n.L.- St.Boleslav,30,2,2,52,3,2,0,0,524,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,46.78589714164651,4,True,0,18.27485380116959,2,True,2,5.7251908396946565,3,False,0,1.1111111111111112,10,21
@@ -70,7 +70,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-30,4203,Chomutov,2,0,0,3,0,0,0,0,110,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,2.449119541524822,0,True,0,0.0,0,False,0,1.8181818181818181,0,True,2,2.0,30,32
 čtvrtek,2020-07-30,4204,Kadaň,2,0,0,2,0,0,0,0,42,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,4.62064504204787,0,True,0,0.0,0,False,0,4.761904761904762,3,True,2,0.0,0,5
 čtvrtek,2020-07-30,4205,Litoměřice,8,0,0,15,0,0,0,0,172,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,25.376416849940785,4,True,0,0.0,0,False,0,4.651162790697675,3,False,0,0.8888888888888888,5,12
-čtvrtek,2020-07-30,4206,Litvínov,1,0,0,4,0,0,0,0,59,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,10.800594032671798,2,True,0,0.0,0,False,0,1.694915254237288,0,False,0,0.3333333333333333,0,2
+čtvrtek,2020-07-30,4206,Litvínov,0,0,0,3,0,0,0,0,59,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,8.100445524503849,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-07-30,4207,Louny,0,0,0,0,0,0,0,0,46,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-30,4208,Lovosice,3,0,0,4,0,0,0,0,43,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,14.414414414414415,2,True,0,0.0,0,False,0,6.976744186046512,3,True,2,3.0,30,37
 čtvrtek,2020-07-30,4209,Most,5,1,0,8,1,0,0,1,90,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,10.71337699034457,2,True,0,7.337295472888694,0,True,2,5.555555555555555,3,False,0,1.25,15,22
