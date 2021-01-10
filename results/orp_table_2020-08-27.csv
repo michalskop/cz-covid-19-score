@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-08-27,1000,Praha,624,50,31,1051,67,39,20,21,9329,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,79.89265085778882,7,True,0,29.462586496579952,4,True,2,6.688819809197128,3,True,2,1.1663551401869159,10,28
+čtvrtek,2020-08-27,1000,Praha,625,50,31,1052,67,39,20,21,9329,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,79.9681637603009,7,True,0,29.462586496579952,4,True,2,6.6995390717118655,3,True,2,1.1704119850187267,10,28
 čtvrtek,2020-08-27,2101,Benešov,7,0,0,13,0,0,0,0,211,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,False,0,0.0,0,False,0,3.3175355450236967,3,True,2,1.4,20,27
 čtvrtek,2020-08-27,2102,Beroun,17,1,1,20,1,1,0,0,198,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,32.34401712692716,4,True,0,8.77808988764045,0,True,2,8.585858585858585,7,True,2,2.125,30,45
 čtvrtek,2020-08-27,2103,Brandýs n.L.- St.Boleslav,28,0,0,52,1,1,1,1,602,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,43.25488603661658,4,False,0,0.0,0,False,0,4.651162790697675,3,True,2,1.12,10,19
@@ -9,7 +9,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-08-27,2107,Dobříš,4,0,0,12,0,0,0,0,91,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,43.32943368430175,4,False,0,0.0,0,False,0,4.395604395604396,3,True,2,0.8,5,14
 čtvrtek,2020-08-27,2108,Hořovice,3,0,0,1,0,0,0,0,129,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,19.913046364209617,2,False,0,0.0,0,False,0,2.3255813953488373,0,False,0,1.5,20,22
 čtvrtek,2020-08-27,2109,Kladno,19,1,1,35,4,4,2,1,280,2109,Kladno,125957,24239,CZ020,Středočeský kraj,CZ,ČR,30.16902593742309,4,False,0,16.502330954247288,2,True,2,6.785714285714286,3,False,0,1.0555555555555556,10,21
-čtvrtek,2020-08-27,2110,Kolín,37,2,1,60,6,1,0,0,351,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,67.06586826347305,7,True,0,29.675351652917087,4,True,2,10.541310541310542,7,True,2,1.0,10,32
+čtvrtek,2020-08-27,2110,Kolín,37,2,1,61,7,2,0,0,351,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,67.06586826347305,7,True,0,29.675351652917087,4,True,2,10.541310541310542,7,True,2,1.0,10,32
 čtvrtek,2020-08-27,2111,Kralupy nad Vltavou,3,1,0,5,1,0,0,0,99,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,15.377518068583731,2,False,0,16.98081168279844,2,True,2,3.0303030303030303,3,True,2,1.5,20,31
 čtvrtek,2020-08-27,2112,Kutná Hora,11,2,1,17,3,2,1,0,214,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,33.88816904216087,4,True,0,28.02952443240213,4,True,2,5.14018691588785,3,True,2,1.2222222222222223,15,30
 čtvrtek,2020-08-27,2113,Lysá nad Labem,6,1,0,7,1,0,0,0,115,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,26.01553499089456,4,True,0,29.00232018561485,4,True,2,5.217391304347826,3,True,2,3.0,30,45
@@ -199,7 +199,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-08-27,8114,Krnov,1,0,0,2,1,1,1,0,134,8114,Krnov,39938,8666,CZ080,Moravskoslezský kraj,CZ,ČR,5.00776203114828,0,True,0,11.539349180706209,2,True,2,0.7462686567164178,0,False,0,1.0,10,14
 čtvrtek,2020-08-27,8115,Nový Jičín,1,0,0,4,0,0,0,0,212,8115,Nový Jičín,48731,9593,CZ080,Moravskoslezský kraj,CZ,ČR,6.156245511070981,0,False,0,0.0,0,False,0,0.4716981132075472,0,False,0,1.0,10,10
 čtvrtek,2020-08-27,8116,Odry,0,0,0,0,0,0,0,0,68,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-08-27,8117,Opava,21,2,1,59,10,4,3,1,823,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,52.4923985064427,7,True,0,49.11591355599214,4,True,2,2.551640340218712,0,False,0,0.875,5,18
+čtvrtek,2020-08-27,8117,Opava,21,2,1,58,10,4,3,1,823,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,52.4923985064427,7,True,0,49.11591355599214,4,True,2,2.551640340218712,0,False,0,0.875,5,18
 čtvrtek,2020-08-27,8118,Orlová,0,0,0,3,1,1,0,0,471,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,8.072545273524742,0,False,0,14.766686355581808,2,True,2,0.0,0,False,0,0.0,0,4
 čtvrtek,2020-08-27,8119,Ostrava,56,10,2,87,15,4,8,4,2110,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,26.862827781161663,4,True,0,21.660426400965434,2,True,2,2.654028436018957,0,True,2,1.1666666666666667,10,20
 čtvrtek,2020-08-27,8120,Rýmařov,1,0,0,1,0,0,0,0,30,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,CZ,ČR,6.561249261859458,0,True,0,0.0,0,False,0,3.3333333333333335,3,True,2,0.0,0,5
