@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2020-06-27,1000,Praha,96,3,1,276,33,20,15,0,3796,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.555657917490072,2,False,0,7.564718154527285,0,True,2,2.528977871443625,0,False,0,0.9696969696969697,5,9
+sobota,2020-06-27,1000,Praha,96,3,1,275,33,20,15,0,3796,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.555657917490072,2,False,0,7.564718154527285,0,True,2,2.528977871443625,0,False,0,0.9696969696969697,5,9
 sobota,2020-06-27,2101,Benešov,2,0,0,3,0,0,0,0,77,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,True,0,0.0,0,False,0,2.5974025974025974,0,True,2,0.0,0,2
 sobota,2020-06-27,2102,Beroun,1,0,0,9,3,1,0,0,149,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,10.781339042309055,2,False,0,17.5561797752809,2,True,2,0.6711409395973155,0,False,0,0.16666666666666666,0,6
 sobota,2020-06-27,2103,Brandýs n.L.- St.Boleslav,7,0,0,20,0,0,1,1,257,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,10.593033315089777,2,False,0,0.0,0,False,0,2.7237354085603114,0,False,0,1.4,20,22
@@ -14,7 +14,7 @@ sobota,2020-06-27,2111,Kralupy nad Vltavou,0,0,0,1,0,0,0,0,44,2111,Kralupy nad V
 sobota,2020-06-27,2112,Kutná Hora,0,0,0,1,0,0,0,0,26,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,1.9934217083624042,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-06-27,2113,Lysá nad Labem,0,0,0,0,0,0,0,0,29,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-06-27,2114,Mělník,1,0,0,1,0,0,0,0,38,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,2.242152466367713,0,True,0,0.0,0,False,0,2.631578947368421,0,True,2,0.0,0,2
-sobota,2020-06-27,2115,Mladá Boleslav,1,0,0,11,1,0,0,0,140,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,0.8891734243846919,0,False,0,0.0,0,False,0,0.7142857142857143,0,True,2,0.0,0,2
+sobota,2020-06-27,2115,Mladá Boleslav,1,0,0,12,1,0,0,0,140,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,0.8891734243846919,0,False,0,0.0,0,False,0,0.7142857142857143,0,True,2,0.0,0,2
 sobota,2020-06-27,2116,Mnichovo Hradiště,0,0,0,0,0,0,0,0,13,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-06-27,2117,Neratovice,2,0,0,2,0,0,0,0,55,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,9.320533134495292,0,True,0,0.0,0,False,0,3.6363636363636362,3,True,2,1.0,10,15
 sobota,2020-06-27,2118,Nymburk,4,0,0,4,0,0,0,0,29,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,9.954458353034866,0,True,0,0.0,0,False,0,13.793103448275861,11,True,2,2.0,30,43
@@ -59,7 +59,7 @@ sobota,2020-06-27,3213,Stříbro,0,0,0,0,0,0,0,0,29,3213,Stříbro,17190,3184,CZ
 sobota,2020-06-27,3214,Sušice,0,0,0,3,1,1,0,0,14,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-06-27,3215,Tachov,0,0,0,0,0,0,0,0,172,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-06-27,4101,Aš,0,0,0,0,0,0,1,0,27,4101,Aš,17695,3278,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-sobota,2020-06-27,4102,Cheb,0,0,0,1,1,0,0,0,77,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+sobota,2020-06-27,4102,Cheb,0,0,0,2,2,1,0,0,77,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-06-27,4103,Karlovy Vary,0,0,0,0,0,0,0,0,108,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-06-27,4104,Kraslice,0,0,0,0,0,0,0,0,14,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-06-27,4105,Mariánské Lázně,0,0,0,0,0,0,0,0,55,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

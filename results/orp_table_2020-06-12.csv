@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2020-06-12,1000,Praha,84,8,6,208,40,23,21,4,3699,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,14.196425672272493,2,True,0,11.944291822937817,2,True,2,2.2708840227088403,0,False,0,0.8936170212765957,5,11
+pátek,2020-06-12,1000,Praha,83,8,6,206,40,23,21,4,3699,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,14.120912769760405,2,True,0,11.944291822937817,2,True,2,2.2438496891051636,0,False,0,0.8924731182795699,5,11
 pátek,2020-06-12,2101,Benešov,1,0,0,1,0,0,0,0,67,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,1.6387532365376423,0,True,0,0.0,0,False,0,1.4925373134328357,0,True,2,0.0,0,2
 pátek,2020-06-12,2102,Beroun,2,1,0,2,1,0,0,0,95,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,3.0803825835168728,0,True,0,8.77808988764045,0,True,2,2.1052631578947367,0,True,2,0.0,0,4
 pátek,2020-06-12,2103,Brandýs n.L.- St.Boleslav,13,0,0,14,0,0,0,0,211,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,12.358538867604738,2,True,0,0.0,0,False,0,6.161137440758294,3,True,2,0.0,0,7
@@ -14,7 +14,7 @@ pátek,2020-06-12,2111,Kralupy nad Vltavou,0,0,0,1,0,0,0,0,44,2111,Kralupy nad V
 pátek,2020-06-12,2112,Kutná Hora,0,0,0,1,0,0,0,0,41,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,1.9934217083624042,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-06-12,2113,Lysá nad Labem,0,0,0,0,0,0,0,0,35,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,2114,Mělník,0,0,0,0,0,0,0,0,43,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-06-12,2115,Mladá Boleslav,4,0,0,13,1,0,0,0,154,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,6.224213970692844,0,True,0,0.0,0,False,0,2.5974025974025974,0,True,2,1.0,10,12
+pátek,2020-06-12,2115,Mladá Boleslav,4,0,0,14,1,0,0,0,154,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,6.224213970692844,0,True,0,0.0,0,False,0,2.5974025974025974,0,True,2,1.0,10,12
 pátek,2020-06-12,2116,Mnichovo Hradiště,0,0,0,0,0,0,0,0,15,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,2117,Neratovice,0,0,0,1,0,0,0,0,55,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,3.1068443781650976,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,2118,Nymburk,0,0,0,0,0,0,0,0,29,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -59,7 +59,7 @@ pátek,2020-06-12,3213,Stříbro,0,0,0,0,0,0,0,0,31,3213,Stříbro,17190,3184,CZ
 pátek,2020-06-12,3214,Sušice,0,0,0,4,2,1,1,0,16,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,CZ,ČR,4.140786749482402,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-06-12,3215,Tachov,0,0,0,0,0,0,0,0,40,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,4101,Aš,0,0,0,1,0,0,1,0,42,4101,Aš,17695,3278,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-06-12,4102,Cheb,3,2,0,11,1,0,1,1,142,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,24.021619457511758,2,False,0,30.593514174994905,4,True,2,2.112676056338028,0,False,0,0.2727272727272727,0,8
+pátek,2020-06-12,4102,Cheb,3,2,0,12,2,1,1,1,142,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,24.021619457511758,2,False,0,30.593514174994905,4,True,2,2.112676056338028,0,False,0,0.2727272727272727,0,8
 pátek,2020-06-12,4103,Karlovy Vary,2,0,0,0,0,0,0,0,104,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,3.4410772865958568,0,True,0,5.194805194805195,0,True,2,1.9230769230769231,0,True,2,1.0,10,14
 pátek,2020-06-12,4104,Kraslice,0,0,0,1,0,0,0,0,16,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,7.584951456310679,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-06-12,4105,Mariánské Lázně,0,0,0,0,0,0,0,0,42,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
