@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2020-08-28,1000,Praha,628,40,21,1136,76,44,17,19,9621,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,84.64996371605034,7,True,0,31.055158739638326,4,True,2,6.527388005404844,3,True,2,1.1804511278195489,10,28
+pátek,2020-08-28,1000,Praha,628,40,21,1134,76,44,17,19,9621,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,84.49893791102618,7,True,0,31.055158739638326,4,True,2,6.527388005404844,3,True,2,1.182674199623352,10,28
 pátek,2020-08-28,2101,Benešov,5,0,0,11,0,0,0,0,243,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,False,0,0.0,0,False,0,2.05761316872428,0,False,0,1.0,10,12
 pátek,2020-08-28,2102,Beroun,22,1,1,26,1,1,0,0,212,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,40.04497358571935,4,True,0,8.77808988764045,0,True,2,10.377358490566039,7,True,2,2.4444444444444446,30,45
 pátek,2020-08-28,2103,Brandýs n.L.- St.Boleslav,36,0,0,56,1,1,1,1,614,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,52.08241379919141,7,True,0,0.0,0,False,0,5.863192182410423,3,True,2,1.44,20,32
@@ -182,7 +182,7 @@ pátek,2020-08-28,7209,Valašské Klobouky,1,0,0,1,0,0,0,0,60,7209,Valašské Kl
 pátek,2020-08-28,7210,Valašské Meziříčí,0,0,0,2,0,0,0,0,85,7210,Valašské Meziříčí,41831,8296,CZ072,Zlínský kraj,CZ,ČR,4.781143171332266,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-08-28,7211,Vizovice,1,0,0,4,0,0,0,0,58,7211,Vizovice,17153,3096,CZ072,Zlínský kraj,CZ,ČR,23.31953594123477,2,False,0,0.0,0,False,0,1.7241379310344827,0,False,0,0.3333333333333333,0,2
 pátek,2020-08-28,7212,Vsetín,5,0,0,7,0,0,0,0,161,7212,Vsetín,65522,13208,CZ072,Zlínský kraj,CZ,ČR,9.157229632795092,0,False,0,0.0,0,False,0,3.1055900621118013,3,True,2,5.0,30,35
-pátek,2020-08-28,7213,Zlín,19,4,1,21,4,1,0,0,365,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,23.16143520336747,2,True,0,18.422143416386497,2,True,2,5.205479452054795,3,True,2,6.333333333333333,30,41
+pátek,2020-08-28,7213,Zlín,19,4,1,21,5,2,0,0,365,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,23.16143520336747,2,True,0,18.422143416386497,2,True,2,5.205479452054795,3,True,2,6.333333333333333,30,41
 pátek,2020-08-28,8101,Bílovec,0,0,0,2,0,0,0,1,146,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,7.805791897588011,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-08-28,8102,Bohumín,1,1,0,8,2,0,2,0,257,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,20.97944014865432,2,False,0,29.935638377488402,4,True,2,0.38910505836575876,0,False,0,0.16666666666666666,0,8
 pátek,2020-08-28,8103,Bruntál,0,0,0,0,0,0,0,0,78,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

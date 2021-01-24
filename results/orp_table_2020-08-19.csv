@@ -1,8 +1,8 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-08-19,1000,Praha,483,27,17,900,47,22,15,18,7894,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,70.1514864337295,7,True,0,19.5090099774651,2,True,2,6.118571066632886,3,True,2,0.9757575757575757,5,21
+středa,2020-08-19,1000,Praha,483,27,17,900,47,22,15,18,7899,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,70.1514864337295,7,True,0,19.5090099774651,2,True,2,6.114698063045955,3,True,2,0.9737903225806451,5,21
 středa,2020-08-19,2101,Benešov,6,0,0,18,1,1,0,0,227,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,27.85880502113992,4,False,0,8.24742268041237,0,True,2,2.643171806167401,0,False,0,0.6666666666666666,0,6
 středa,2020-08-19,2102,Beroun,5,1,0,14,1,0,0,0,167,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,24.643060668134982,2,False,0,8.77808988764045,0,True,2,2.9940119760479043,0,False,0,0.45454545454545453,0,4
-středa,2020-08-19,2103,Brandýs n.L.- St.Boleslav,21,0,0,52,2,1,0,0,484,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,47.66864991790399,4,True,0,12.183235867446394,2,True,2,4.338842975206612,3,False,0,0.7777777777777778,0,11
+středa,2020-08-19,2103,Brandýs n.L.- St.Boleslav,21,0,0,52,2,1,0,0,486,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,47.66864991790399,4,True,0,12.183235867446394,2,True,2,4.320987654320987,3,False,0,0.7777777777777778,0,11
 středa,2020-08-19,2104,Čáslav,0,0,0,4,1,0,2,0,114,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,7.793321123796907,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2020-08-19,2105,Černošice,26,2,2,56,3,2,1,0,693,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,32.811474641417455,4,False,0,8.547373819393991,0,True,2,3.751803751803752,3,True,2,1.1818181818181819,10,21
 středa,2020-08-19,2106,Český Brod,4,0,0,5,0,0,0,0,70,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,23.215861076287318,2,True,0,0.0,0,False,0,5.714285714285714,3,True,2,2.0,30,37
@@ -104,7 +104,7 @@ středa,2020-08-19,5210,Nová Paka,5,2,1,6,2,1,1,1,33,5210,Nová Paka,13286,2887
 středa,2020-08-19,5211,Nové Město nad Metují,3,1,0,5,1,0,0,0,32,5211,Nové Město nad Metují,14214,3321,CZ052,Královéhradecký kraj,CZ,ČR,35.17658646404953,4,True,0,30.111412225233362,4,True,2,9.375,7,True,2,1.5,20,39
 středa,2020-08-19,5212,Nový Bydžov,2,0,0,5,0,0,0,0,25,5212,Nový Bydžov,17384,3627,CZ052,Královéhradecký kraj,CZ,ČR,28.762080073630923,4,False,0,0.0,0,False,0,8.0,7,False,0,1.0,10,21
 středa,2020-08-19,5213,Rychnov nad Kněžnou,7,0,0,9,0,0,0,0,233,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,26.238302090318065,4,True,0,0.0,0,False,0,3.004291845493562,3,True,2,2.3333333333333335,30,39
-středa,2020-08-19,5214,Trutnov,0,0,0,2,0,0,0,0,192,5214,Trutnov,63419,13537,CZ052,Královéhradecký kraj,CZ,ČR,1.5768145193080938,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+středa,2020-08-19,5214,Trutnov,0,0,0,2,0,0,0,0,193,5214,Trutnov,63419,13537,CZ052,Královéhradecký kraj,CZ,ČR,1.5768145193080938,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2020-08-19,5215,Vrchlabí,0,0,0,1,1,1,1,0,33,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-08-19,5301,Česká Třebová,0,0,0,1,0,0,0,0,21,5301,Česká Třebová,17969,3841,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-08-19,5302,Hlinsko,1,0,0,3,0,0,0,0,55,5302,Hlinsko,21017,4465,CZ053,Pardubický kraj,CZ,ČR,14.274159014131417,2,True,0,0.0,0,False,0,1.8181818181818181,0,False,0,0.5,0,2
@@ -182,7 +182,7 @@ středa,2020-08-19,7209,Valašské Klobouky,1,0,0,2,0,0,0,0,54,7209,Valašské K
 středa,2020-08-19,7210,Valašské Meziříčí,2,0,0,3,0,0,0,0,70,7210,Valašské Meziříčí,41831,8296,CZ072,Zlínský kraj,CZ,ČR,7.171714756998399,0,False,0,0.0,0,False,0,2.857142857142857,0,True,2,2.0,30,32
 středa,2020-08-19,7211,Vizovice,3,0,0,7,0,0,0,0,57,7211,Vizovice,17153,3096,CZ072,Zlínský kraj,CZ,ČR,40.80918789716085,4,True,0,0.0,0,False,0,5.263157894736842,3,False,0,0.6,0,7
 středa,2020-08-19,7212,Vsetín,2,0,0,8,0,0,0,0,144,7212,Vsetín,65522,13208,CZ072,Zlínský kraj,CZ,ČR,10.683434571594272,2,False,0,0.0,0,False,0,1.3888888888888888,0,False,0,0.3333333333333333,0,2
-středa,2020-08-19,7213,Zlín,2,0,0,15,2,0,0,0,229,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,13.09124598451205,2,False,0,9.211071708193248,0,True,2,0.8733624454148471,0,False,0,0.25,0,4
+středa,2020-08-19,7213,Zlín,2,0,0,15,3,1,0,0,229,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,13.09124598451205,2,False,0,9.211071708193248,0,True,2,0.8733624454148471,0,False,0,0.25,0,4
 středa,2020-08-19,8101,Bílovec,0,0,0,1,0,0,0,0,154,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,3.9028959487940056,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2020-08-19,8102,Bohumín,7,1,0,18,4,0,3,2,259,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,53.9471318108254,7,False,0,59.871276754976805,7,True,2,2.7027027027027026,0,False,0,0.7777777777777778,0,16
 středa,2020-08-19,8103,Bruntál,0,0,0,0,0,0,0,0,126,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
