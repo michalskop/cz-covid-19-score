@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2020-06-12,1000,Praha,83,8,6,206,40,23,21,4,3699,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,14.045399867248316,2,True,0,11.944291822937817,2,True,2,2.2438496891051636,0,False,0,0.9021739130434783,5,11
+pátek,2020-06-12,1000,Praha,84,8,6,206,40,23,21,4,3699,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,14.120912769760405,2,True,0,11.944291822937817,2,True,2,2.2708840227088403,0,False,0,0.9032258064516129,5,11
 pátek,2020-06-12,2101,Benešov,1,0,0,1,0,0,0,0,67,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,1.6387532365376423,0,True,0,0.0,0,False,0,1.4925373134328357,0,True,2,0.0,0,2
 pátek,2020-06-12,2102,Beroun,2,1,0,2,1,0,0,0,95,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,3.0803825835168728,0,True,0,8.77808988764045,0,True,2,2.1052631578947367,0,True,2,0.0,0,4
 pátek,2020-06-12,2103,Brandýs n.L.- St.Boleslav,13,0,0,14,0,0,0,0,211,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,12.358538867604738,2,True,0,0.0,0,False,0,6.161137440758294,3,True,2,0.0,0,7
@@ -32,7 +32,7 @@ pátek,2020-06-12,3103,Český Krumlov,0,0,0,0,0,0,0,0,32,3103,Český Krumlov,4
 pátek,2020-06-12,3104,Dačice,0,0,0,0,0,0,0,0,11,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,3105,Jindřichův Hradec,0,0,0,0,0,0,0,0,32,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,3106,Kaplice,0,0,0,0,0,0,0,0,20,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,5.032965926820676,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-06-12,3107,Milevsko,0,0,0,0,0,0,0,0,25,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-06-12,3107,Milevsko,0,0,0,-1,0,0,0,0,25,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,3108,Písek,1,0,0,4,0,0,0,0,86,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,1.8743439796071373,0,False,0,0.0,0,False,0,1.1627906976744187,0,True,2,0.0,0,2
 pátek,2020-06-12,3109,Prachatice,1,0,0,3,0,0,0,0,42,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,2.9888218064439,0,False,0,0.0,0,False,0,2.380952380952381,0,True,2,1.0,10,12
 pátek,2020-06-12,3110,Soběslav,0,0,0,0,0,0,0,0,18,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -69,7 +69,7 @@ pátek,2020-06-12,4201,Bílina,0,0,0,0,0,0,0,0,17,4201,Bílina,22600,3935,CZ042,
 pátek,2020-06-12,4202,Děčín,0,0,0,0,0,0,0,0,68,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,1.3013716457145832,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,4203,Chomutov,0,0,0,0,0,0,0,0,91,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,4204,Kadaň,0,0,0,0,0,0,0,0,41,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,2.310322521023935,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2020-06-12,4205,Litoměřice,0,0,0,9,0,0,0,0,66,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,11.842327863305702,2,False,0,42.88900325956425,4,True,2,0.0,0,False,0,0.0,0,8
+pátek,2020-06-12,4205,Litoměřice,0,0,0,8,0,0,0,0,66,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,11.842327863305702,2,False,0,42.88900325956425,4,True,2,0.0,0,False,0,0.0,0,8
 pátek,2020-06-12,4206,Litvínov,0,0,0,0,0,0,0,0,41,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,4207,Louny,0,0,0,1,0,0,0,0,43,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-12,4208,Lovosice,0,0,0,2,1,1,0,0,43,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,3.6036036036036037,0,False,0,17.22949689869056,2,True,2,0.0,0,False,0,,30,34

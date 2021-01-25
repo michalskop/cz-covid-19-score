@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2020-07-13,1000,Praha,80,6,3,178,17,9,7,4,3277,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.100396669276895,2,False,0,3.5832875468813454,0,True,2,2.4412572474824534,0,True,2,1.2307692307692308,15,21
+pondělí,2020-07-13,1000,Praha,80,6,3,174,17,9,7,4,3277,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.024883766764809,2,False,0,3.5832875468813454,0,True,2,2.4412572474824534,0,True,2,1.25,15,21
 pondělí,2020-07-13,2101,Benešov,2,0,0,2,0,0,0,0,90,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,2.2222222222222223,0,True,2,2.0,30,32
 pondělí,2020-07-13,2102,Beroun,0,0,0,1,0,0,0,0,90,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,3.0803825835168728,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2020-07-13,2103,Brandýs n.L.- St.Boleslav,6,0,0,14,0,0,0,0,202,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,13.241291643862219,2,False,0,0.0,0,False,0,2.9702970297029703,0,False,0,0.8571428571428571,5,7
@@ -32,7 +32,7 @@ pondělí,2020-07-13,3103,Český Krumlov,0,0,0,0,0,0,0,0,21,3103,Český Krumlo
 pondělí,2020-07-13,3104,Dačice,0,0,0,0,0,0,0,0,10,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,3105,Jindřichův Hradec,1,0,0,2,0,0,0,0,56,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,4.245112813873029,0,True,0,0.0,0,False,0,1.7857142857142856,0,False,0,0.5,0,0
 pondělí,2020-07-13,3106,Kaplice,0,0,0,0,0,0,0,0,17,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pondělí,2020-07-13,3107,Milevsko,0,0,0,0,0,0,0,0,15,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pondělí,2020-07-13,3107,Milevsko,0,0,0,-1,0,0,0,0,15,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,3108,Písek,0,0,0,0,0,0,0,0,42,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,3109,Prachatice,0,0,0,1,0,0,0,0,30,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,3110,Soběslav,0,0,0,0,0,0,0,0,9,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -69,7 +69,7 @@ pondělí,2020-07-13,4201,Bílina,0,0,0,0,0,0,0,0,8,4201,Bílina,22600,3935,CZ04
 pondělí,2020-07-13,4202,Děčín,0,0,0,0,0,0,0,0,27,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,4203,Chomutov,0,0,0,0,0,0,0,0,31,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,4204,Kadaň,0,0,0,0,0,0,0,0,16,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pondělí,2020-07-13,4205,Litoměřice,0,0,0,0,0,0,0,0,40,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pondělí,2020-07-13,4205,Litoměřice,0,0,0,-1,0,0,0,0,40,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,4206,Litvínov,0,0,0,0,0,0,0,0,18,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,4207,Louny,0,0,0,0,0,0,0,0,26,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-13,4208,Lovosice,0,0,0,0,0,0,0,0,13,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

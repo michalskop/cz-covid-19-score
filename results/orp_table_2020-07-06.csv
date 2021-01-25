@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2020-07-06,1000,Praha,67,3,0,233,21,11,12,6,3144,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.006551499421949,2,False,0,3.1851444861167515,0,True,2,2.1310432569974553,0,False,0,0.9178082191780822,5,9
+pondělí,2020-07-06,1000,Praha,66,3,0,231,21,11,12,6,3144,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.931038596909861,2,False,0,3.1851444861167515,0,True,2,2.099236641221374,0,False,0,0.9041095890410958,5,9
 pondělí,2020-07-06,2101,Benešov,0,0,0,2,0,0,0,0,76,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2020-07-06,2102,Beroun,2,0,0,11,3,1,0,0,84,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,4.620573875275309,0,False,0,0.0,0,False,0,2.380952380952381,0,True,2,2.0,30,32
 pondělí,2020-07-06,2103,Brandýs n.L.- St.Boleslav,9,0,0,19,0,0,0,0,211,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,15.006797196377182,2,True,0,0.0,0,False,0,4.265402843601896,3,True,2,2.25,30,37
@@ -32,7 +32,7 @@ pondělí,2020-07-06,3103,Český Krumlov,0,0,0,0,0,0,0,0,16,3103,Český Krumlo
 pondělí,2020-07-06,3104,Dačice,0,0,0,0,0,0,0,0,5,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-06,3105,Jindřichův Hradec,1,0,0,1,0,0,0,0,25,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,2.1225564069365146,0,True,0,0.0,0,False,0,4.0,3,True,2,0.0,0,5
 pondělí,2020-07-06,3106,Kaplice,0,0,0,0,0,0,0,0,7,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pondělí,2020-07-06,3107,Milevsko,0,0,0,0,0,0,0,0,14,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pondělí,2020-07-06,3107,Milevsko,0,0,0,-1,0,0,0,0,14,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-06,3108,Písek,0,0,0,0,0,0,0,0,60,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-06,3109,Prachatice,0,0,0,4,0,0,0,0,26,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,11.9552872257756,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 pondělí,2020-07-06,3110,Soběslav,0,0,0,0,0,0,0,0,10,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -69,7 +69,7 @@ pondělí,2020-07-06,4201,Bílina,0,0,0,0,0,0,0,0,10,4201,Bílina,22600,3935,CZ0
 pondělí,2020-07-06,4202,Děčín,0,0,0,1,0,0,0,0,46,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,1.3013716457145832,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-06,4203,Chomutov,0,0,0,0,0,0,0,0,38,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-06,4204,Kadaň,0,0,0,0,0,0,0,0,33,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pondělí,2020-07-06,4205,Litoměřice,0,0,0,1,0,0,0,0,42,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,1.6917611233293859,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pondělí,2020-07-06,4205,Litoměřice,0,0,0,0,0,0,0,0,42,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,1.6917611233293859,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2020-07-06,4206,Litvínov,0,0,0,0,0,0,0,0,23,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-06,4207,Louny,0,0,0,2,0,0,0,0,20,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-07-06,4208,Lovosice,0,0,0,3,1,1,0,0,15,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

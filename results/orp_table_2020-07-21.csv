@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2020-07-21,1000,Praha,183,9,1,286,22,8,7,7,3824,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,20.539509483287862,2,True,0,6.7684320329980965,0,True,2,4.785564853556486,3,True,2,2.033333333333333,30,39
+úterý,2020-07-21,1000,Praha,183,9,1,283,22,8,7,7,3824,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,20.539509483287862,2,True,0,6.7684320329980965,0,True,2,4.785564853556486,3,True,2,2.033333333333333,30,39
 úterý,2020-07-21,2101,Benešov,1,0,0,3,1,1,0,0,99,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,4.916259709612926,0,False,0,8.24742268041237,0,True,2,1.0101010101010102,0,False,0,0.5,0,2
 úterý,2020-07-21,2102,Beroun,7,0,0,7,0,0,0,0,159,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,10.781339042309055,2,True,0,0.0,0,False,0,4.40251572327044,3,True,2,0.0,0,7
 úterý,2020-07-21,2103,Brandýs n.L.- St.Boleslav,13,1,0,17,1,0,0,0,290,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,16.772302748892145,2,True,0,6.091617933723197,0,True,2,4.482758620689655,3,True,2,2.6,30,39
@@ -32,7 +32,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-07-21,3104,Dačice,5,1,0,5,1,0,0,0,23,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,26.619815790874725,4,True,0,25.246149962130776,4,True,2,21.73913043478261,20,True,2,0.0,0,32
 úterý,2020-07-21,3105,Jindřichův Hradec,1,0,0,1,0,0,0,0,52,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,2.1225564069365146,0,False,0,0.0,0,False,0,1.9230769230769231,0,True,2,0.0,0,2
 úterý,2020-07-21,3106,Kaplice,0,0,0,0,0,0,0,0,11,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2020-07-21,3107,Milevsko,0,0,0,0,0,0,0,0,17,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+úterý,2020-07-21,3107,Milevsko,0,0,0,-1,0,0,0,0,17,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-07-21,3108,Písek,3,0,0,3,0,0,0,0,67,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,5.623031938821413,0,True,0,0.0,0,False,0,4.477611940298507,3,True,2,0.0,0,5
 úterý,2020-07-21,3109,Prachatice,2,0,0,3,0,0,0,0,56,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,8.9664654193317,0,True,0,0.0,0,False,0,3.571428571428571,3,True,2,0.6666666666666666,0,5
 úterý,2020-07-21,3110,Soběslav,0,0,0,0,0,0,0,0,24,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -69,7 +69,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-07-21,4202,Děčín,3,0,0,3,0,0,0,0,102,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,3.9041149371437496,0,True,0,0.0,0,False,0,2.941176470588235,0,True,2,0.0,0,2
 úterý,2020-07-21,4203,Chomutov,1,0,0,1,0,0,0,0,54,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,1.224559770762411,0,True,0,0.0,0,False,0,1.8518518518518516,0,True,2,1.0,10,12
 úterý,2020-07-21,4204,Kadaň,0,0,0,0,0,0,0,0,24,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2020-07-21,4205,Litoměřice,3,0,0,3,0,0,0,0,57,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,5.075283369988157,0,True,0,0.0,0,False,0,5.263157894736842,3,True,2,0.0,0,5
+úterý,2020-07-21,4205,Litoměřice,3,0,0,2,0,0,0,0,57,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,5.075283369988157,0,True,0,0.0,0,False,0,5.263157894736842,3,True,2,0.0,0,5
 úterý,2020-07-21,4206,Litvínov,0,0,0,0,0,0,0,0,26,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-07-21,4207,Louny,0,0,0,0,0,0,0,0,25,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-07-21,4208,Lovosice,1,0,0,1,0,0,0,0,13,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,3.6036036036036037,0,True,0,0.0,0,False,0,7.6923076923076925,7,True,2,0.0,0,9

@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2020-05-24,1000,Praha,93,9,3,288,59,38,26,11,5912,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.102580502417547,2,True,0,8.759147336821066,0,True,2,1.5730717185385656,0,False,0,0.7153846153846154,0,4
+neděle,2020-05-24,1000,Praha,93,9,3,290,59,38,26,11,5912,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.253606307441721,2,True,0,8.759147336821066,0,True,2,1.5730717185385656,0,False,0,0.7099236641221374,0,4
 neděle,2020-05-24,2101,Benešov,2,1,0,5,1,0,0,0,220,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,6.555012946150569,0,False,0,8.24742268041237,0,True,2,0.9090909090909091,0,True,2,0.6666666666666666,0,4
 neděle,2020-05-24,2102,Beroun,1,1,1,1,1,1,1,1,203,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,1.5401912917584364,0,True,0,8.77808988764045,0,True,2,0.49261083743842365,0,True,2,0.0,0,4
 neděle,2020-05-24,2103,Brandýs n.L.- St.Boleslav,4,0,0,11,1,1,1,1,372,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,9.710280538832295,0,True,0,0.0,0,False,0,1.0752688172043012,0,False,0,0.5714285714285714,0,0
@@ -32,7 +32,7 @@ neděle,2020-05-24,3103,Český Krumlov,0,0,0,0,0,0,0,0,96,3103,Český Krumlov,
 neděle,2020-05-24,3104,Dačice,1,0,0,2,0,0,0,0,27,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,5.323963158174945,0,False,0,0.0,0,False,0,3.7037037037037033,3,True,2,0.0,0,5
 neděle,2020-05-24,3105,Jindřichův Hradec,0,0,0,0,0,0,0,0,56,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-05-24,3106,Kaplice,0,0,0,0,0,0,0,0,47,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2020-05-24,3107,Milevsko,0,0,0,0,0,0,0,0,35,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+neděle,2020-05-24,3107,Milevsko,0,0,0,-1,0,0,0,0,35,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-05-24,3108,Písek,0,0,0,0,0,0,0,0,137,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-05-24,3109,Prachatice,0,0,0,7,1,1,0,0,162,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,8.9664654193317,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 neděle,2020-05-24,3110,Soběslav,0,0,0,0,0,0,0,0,57,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -69,7 +69,7 @@ neděle,2020-05-24,4201,Bílina,1,1,0,2,1,0,0,0,80,4201,Bílina,22600,3935,CZ042
 neděle,2020-05-24,4202,Děčín,2,1,0,2,1,1,1,1,417,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,5.205486582858333,0,True,0,12.223444566678891,2,True,2,0.4796163069544364,0,False,0,0.6666666666666666,0,4
 neděle,2020-05-24,4203,Chomutov,3,1,0,4,2,1,0,0,376,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,6.122798853812054,0,True,0,20.434575301409986,2,True,2,0.7978723404255319,0,True,2,0.75,0,6
 neděle,2020-05-24,4204,Kadaň,0,0,0,-1,0,0,0,0,139,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2020-05-24,4205,Litoměřice,1,0,0,-1,-5,-2,0,0,99,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,3.3835222466587718,0,True,0,0.0,0,False,0,1.0101010101010102,0,True,2,0.5,0,2
+neděle,2020-05-24,4205,Litoměřice,1,0,0,-2,-5,-2,0,0,99,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,3.3835222466587718,0,True,0,0.0,0,False,0,1.0101010101010102,0,True,2,0.5,0,2
 neděle,2020-05-24,4206,Litvínov,0,0,0,0,0,0,0,0,131,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-05-24,4207,Louny,0,0,0,0,0,0,0,0,123,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-05-24,4208,Lovosice,2,0,0,3,-1,0,1,1,31,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,10.81081081081081,2,True,0,0.0,0,False,0,6.451612903225806,3,True,2,2.0,30,37
