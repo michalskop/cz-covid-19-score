@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2020-04-11,1000,Praha,262,85,51,999,213,122,107,42,4609,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,48.25274470522405,4,False,0,63.30474666157044,7,True,2,5.684530266869169,3,False,0,0.6858638743455497,0,16
+sobota,2020-04-11,1000,Praha,262,85,51,1000,213,122,107,42,4609,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,48.25274470522405,4,False,0,63.30474666157044,7,True,2,5.684530266869169,3,False,0,0.6858638743455497,0,16
 sobota,2020-04-11,2101,Benešov,15,2,1,41,7,2,3,1,246,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,40.96883091344105,4,True,0,32.98969072164948,4,True,2,6.097560975609756,3,True,2,2.142857142857143,30,45
 sobota,2020-04-11,2102,Beroun,3,0,0,14,0,0,0,1,96,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,10.781339042309055,2,False,0,0.0,0,False,0,3.125,3,False,0,0.6,0,5
 sobota,2020-04-11,2103,Brandýs n.L.- St.Boleslav,8,2,2,57,9,4,2,1,302,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,26.482583287724438,4,False,0,36.54970760233918,4,True,2,2.6490066225165565,0,False,0,0.4,0,10
@@ -32,7 +32,7 @@ sobota,2020-04-11,3103,Český Krumlov,1,0,0,17,3,3,0,1,48,3103,Český Krumlov,
 sobota,2020-04-11,3104,Dačice,0,0,0,0,0,0,0,0,24,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-04-11,3105,Jindřichův Hradec,4,0,0,13,1,0,0,2,80,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,25.47067688323817,4,True,0,9.862905611993293,0,True,2,5.0,3,False,0,0.5,0,9
 sobota,2020-04-11,3106,Kaplice,0,0,0,0,0,0,0,0,7,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-sobota,2020-04-11,3107,Milevsko,0,0,0,1,2,2,0,0,24,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+sobota,2020-04-11,3107,Milevsko,0,0,0,2,2,2,0,0,24,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-04-11,3108,Písek,1,0,0,6,0,0,0,0,90,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,11.246063877642825,2,True,0,0.0,0,False,0,1.1111111111111112,0,False,0,0.3333333333333333,0,2
 sobota,2020-04-11,3109,Prachatice,1,0,0,6,1,0,2,2,20,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,8.9664654193317,0,False,0,30.783438510081577,4,True,2,5.0,3,False,0,1.0,10,19
 sobota,2020-04-11,3110,Soběslav,0,0,0,1,0,0,0,0,11,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,4.556431402925229,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

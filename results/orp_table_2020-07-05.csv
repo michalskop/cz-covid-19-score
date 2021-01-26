@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2020-07-05,1000,Praha,60,5,2,227,23,12,14,5,3545,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.931038596909861,2,False,0,3.1851444861167515,0,True,2,1.692524682651622,0,False,0,0.7228915662650602,0,4
+neděle,2020-07-05,1000,Praha,61,5,2,228,23,12,14,5,3545,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.006551499421949,2,False,0,3.1851444861167515,0,True,2,1.7207334273624826,0,False,0,0.7349397590361446,0,4
 neděle,2020-07-05,2101,Benešov,0,0,0,2,0,0,0,0,92,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 neděle,2020-07-05,2102,Beroun,2,0,0,11,3,1,0,0,107,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,4.620573875275309,0,False,0,0.0,0,False,0,1.8691588785046727,0,True,2,0.0,0,2
 neděle,2020-07-05,2103,Brandýs n.L.- St.Boleslav,7,0,0,18,0,0,0,0,234,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,13.241291643862219,2,True,0,0.0,0,False,0,2.9914529914529915,0,False,0,1.0,10,12
@@ -32,7 +32,7 @@ neděle,2020-07-05,3103,Český Krumlov,0,0,0,0,0,0,0,0,18,3103,Český Krumlov,
 neděle,2020-07-05,3104,Dačice,0,0,0,0,0,0,0,0,7,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-07-05,3105,Jindřichův Hradec,1,0,0,1,0,0,0,0,35,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,2.1225564069365146,0,True,0,0.0,0,False,0,2.857142857142857,0,True,2,0.0,0,2
 neděle,2020-07-05,3106,Kaplice,0,0,0,0,0,0,0,0,9,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2020-07-05,3107,Milevsko,0,0,0,-1,0,0,0,0,20,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+neděle,2020-07-05,3107,Milevsko,0,0,0,0,0,0,0,0,20,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-07-05,3108,Písek,0,0,0,0,0,0,0,0,77,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-07-05,3109,Prachatice,0,0,0,4,0,0,0,0,45,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,11.9552872257756,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 neděle,2020-07-05,3110,Soběslav,0,0,0,0,0,0,0,0,13,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -186,7 +186,7 @@ neděle,2020-07-05,7213,Zlín,2,0,0,3,1,1,0,0,76,7213,Zlín,99303,21713,CZ072,Zl
 neděle,2020-07-05,8101,Bílovec,2,0,0,3,0,0,0,0,56,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,11.708687846382016,2,True,0,0.0,0,False,0,3.571428571428571,3,True,2,2.0,30,37
 neděle,2020-07-05,8102,Bohumín,18,0,0,51,2,1,2,0,259,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,131.87076664868428,10,True,0,14.967819188744201,2,True,2,6.94980694980695,3,False,0,0.5142857142857142,0,17
 neděle,2020-07-05,8103,Bruntál,0,0,0,0,0,0,0,0,51,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2020-07-05,8104,Český Těšín,29,3,1,75,3,1,2,4,243,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,CZ,ČR,260.83232763654763,13,True,0,80.64516129032258,7,True,2,11.934156378600823,11,True,2,0.6170212765957447,0,35
+neděle,2020-07-05,8104,Český Těšín,30,4,2,76,4,2,2,4,243,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,CZ,ČR,264.7253474520185,13,True,0,100.80645161290322,7,True,2,12.345679012345679,11,True,2,0.6382978723404256,0,35
 neděle,2020-07-05,8105,Frenštát pod Radhoštěm,0,0,0,3,0,0,0,0,48,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,15.352336113811985,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 neděle,2020-07-05,8106,Frýdek-Místek,19,1,1,57,2,2,1,1,1177,8106,Frýdek-Místek,112433,21794,CZ080,Moravskoslezský kraj,CZ,ČR,45.360347940551264,4,True,0,9.176837661741764,0,True,2,1.6142735768903995,0,False,0,0.5277777777777778,0,6
 neděle,2020-07-05,8107,Frýdlant nad Ostravicí,4,1,1,14,1,1,1,1,201,8107,Frýdlant nad Ostravicí,24950,5239,CZ080,Moravskoslezský kraj,CZ,ČR,52.104208416833664,7,True,0,19.08761213972132,2,True,2,1.9900497512437811,0,False,0,0.5,0,11
