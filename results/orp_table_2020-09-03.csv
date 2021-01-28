@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-09-03,1000,Praha,874,50,23,1411,83,40,30,25,12856,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,113.1938408656195,7,True,0,39.814306076459395,4,True,2,6.79838207840697,3,True,2,1.454242928452579,20,38
+čtvrtek,2020-09-03,1000,Praha,873,50,23,1408,83,40,30,25,12856,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,113.11832796310742,7,True,0,39.814306076459395,4,True,2,6.790603609209707,3,True,2,1.4525790349417638,20,38
 čtvrtek,2020-09-03,2101,Benešov,12,1,0,20,1,0,0,0,334,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,31.136311494215203,4,True,0,8.24742268041237,0,True,2,3.592814371257485,3,True,2,2.0,30,41
 čtvrtek,2020-09-03,2102,Beroun,44,0,0,61,1,1,0,0,408,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,93.95166879726463,7,True,0,8.77808988764045,0,True,2,10.784313725490197,7,True,2,2.2,30,48
 čtvrtek,2020-09-03,2103,Brandýs n.L.- St.Boleslav,53,1,0,82,1,0,4,4,765,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,71.50297487685599,7,True,0,6.091617933723197,0,True,2,6.928104575163399,3,True,2,1.4324324324324325,20,34
@@ -27,7 +27,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-09-03,2125,Vlašim,6,0,0,8,0,0,0,0,77,2125,Vlašim,25947,5665,CZ020,Středočeský kraj,CZ,ČR,34.6860908775581,4,True,0,17.6522506619594,2,True,2,7.792207792207792,7,True,2,2.0,30,47
 čtvrtek,2020-09-03,2126,Votice,1,0,0,4,0,0,0,0,38,2126,Votice,12445,2654,CZ020,Středočeský kraj,CZ,ČR,32.14142225793491,4,False,0,0.0,0,False,0,2.631578947368421,0,False,0,0.3333333333333333,0,4
 čtvrtek,2020-09-03,3101,Blatná,0,0,0,0,0,0,0,0,60,3101,Blatná,13668,3093,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-09-03,3102,České Budějovice,46,1,0,97,6,0,1,2,664,3102,České Budějovice,162553,31763,CZ031,Jihočeský kraj,CZ,ČR,61.51839707664577,7,True,0,12.593268897774141,2,True,2,6.927710843373494,3,False,0,0.9019607843137255,5,19
+čtvrtek,2020-09-03,3102,České Budějovice,47,1,0,98,6,0,1,2,664,3102,České Budějovice,162553,31763,CZ031,Jihočeský kraj,CZ,ČR,62.13358104741223,7,True,0,12.593268897774141,2,True,2,7.078313253012049,7,False,0,0.9215686274509803,5,23
 čtvrtek,2020-09-03,3103,Český Krumlov,10,0,0,14,1,0,0,0,109,3103,Český Krumlov,41687,7954,CZ031,Jihočeský kraj,CZ,ČR,35.98244056900233,4,True,0,12.572290671360323,2,True,2,9.174311926605505,7,True,2,1.6666666666666667,25,42
 čtvrtek,2020-09-03,3104,Dačice,0,0,0,2,1,1,0,0,25,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,15.971889474524836,2,False,0,25.246149962130776,4,True,2,0.0,0,False,0,0.0,0,8
 čtvrtek,2020-09-03,3105,Jindřichův Hradec,7,3,1,15,3,1,1,1,127,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,38.206015324857255,4,True,0,29.58871683597988,4,True,2,5.511811023622047,3,False,0,0.875,5,18
