@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2020-04-13,1000,Praha,213,70,47,943,203,112,98,35,3693,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,44.9301769946922,4,False,0,60.51774523621828,7,True,2,5.767668562144598,3,False,0,0.6301775147928994,0,16
+pondělí,2020-04-13,1000,Praha,213,70,47,943,203,112,98,35,3693,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,44.85466409218011,4,False,0,60.51774523621828,7,True,2,5.767668562144598,3,False,0,0.6320474777448071,0,16
 pondělí,2020-04-13,2101,Benešov,14,2,1,40,6,2,2,1,162,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,34.413817967290484,4,True,0,32.98969072164948,4,True,2,8.641975308641975,7,True,2,1.0,10,29
 pondělí,2020-04-13,2102,Beroun,2,0,0,13,0,0,0,1,89,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,10.781339042309055,2,False,0,0.0,0,False,0,2.247191011235955,0,False,0,0.5,0,2
 pondělí,2020-04-13,2103,Brandýs n.L.- St.Boleslav,7,2,2,53,9,4,2,1,257,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,23.834324958951996,2,False,0,24.366471734892787,2,True,2,2.7237354085603114,0,False,0,0.4375,0,6
@@ -145,7 +145,7 @@ pondělí,2020-04-13,6206,Hodonín,0,0,0,1,0,0,0,0,49,6206,Hodonín,60685,12248,
 pondělí,2020-04-13,6207,Hustopeče,4,3,3,9,4,3,2,0,50,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,27.539863953072068,4,True,0,71.6229766509096,7,True,2,8.0,7,False,0,0.5714285714285714,0,20
 pondělí,2020-04-13,6208,Ivančice,1,0,0,1,0,0,1,1,24,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,CZ,ČR,8.176949180260845,0,True,0,20.81165452653486,2,True,2,4.166666666666666,3,False,0,1.0,10,17
 pondělí,2020-04-13,6209,Kuřim,0,0,0,0,0,0,0,0,19,6209,Kuřim,23345,4177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pondělí,2020-04-13,6210,Kyjov,1,1,0,1,1,0,0,0,128,6210,Kyjov,55543,11542,CZ064,Jihomoravský kraj,CZ,ČR,1.8004068919575826,0,False,0,8.66400970369087,0,True,2,0.78125,0,True,2,1.0,10,14
+pondělí,2020-04-13,6210,Kyjov,1,1,0,2,1,0,0,0,128,6210,Kyjov,55543,11542,CZ064,Jihomoravský kraj,CZ,ČR,3.6008137839151653,0,False,0,8.66400970369087,0,True,2,0.78125,0,False,0,0.5,0,2
 pondělí,2020-04-13,6211,Mikulov,0,0,0,4,2,1,4,0,46,6211,Mikulov,20265,3954,CZ064,Jihomoravský kraj,CZ,ČR,24.67308166790032,2,False,0,75.87253414264036,7,True,2,0.0,0,False,0,0.0,0,11
 pondělí,2020-04-13,6212,Moravský Krumlov,0,0,0,1,0,0,0,0,18,6212,Moravský Krumlov,22452,4592,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-04-13,6213,Pohořelice,0,0,0,3,0,0,0,0,24,6213,Pohořelice,14599,2588,CZ064,Jihomoravský kraj,CZ,ČR,13.699568463593396,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
