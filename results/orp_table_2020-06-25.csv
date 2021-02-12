@@ -78,7 +78,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-06-25,4211,Roudnice nad Labem,0,0,0,1,0,0,0,0,25,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,3.0480370641306997,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-06-25,4212,Rumburk,0,0,0,1,0,0,0,0,19,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-25,4213,Teplice,0,0,0,1,0,0,0,0,77,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-06-25,4214,Ústí nad Labem,0,0,0,4,0,0,0,0,95,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+čtvrtek,2020-06-25,4214,Ústí nad Labem,0,0,0,4,1,1,0,0,95,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-25,4215,Varnsdorf,0,0,0,0,0,0,0,0,9,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-25,4216,Žatec,0,0,0,1,0,0,0,0,23,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-25,5101,Česká Lípa,0,0,0,0,0,0,0,0,38,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -138,7 +138,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-06-25,6115,Žďár nad Sázavou,0,0,0,-1,0,0,0,0,24,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-25,6201,Blansko,0,0,0,4,0,0,0,0,50,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-25,6202,Boskovice,0,0,0,0,0,0,0,0,56,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-06-25,6203,Brno,28,4,4,65,10,8,9,4,678,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,11.013620176952164,2,True,0,7.551254137457996,0,True,2,4.129793510324483,3,True,2,2.0,30,39
+čtvrtek,2020-06-25,6203,Brno,29,4,4,66,10,8,9,4,678,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,11.275849228784358,2,True,0,7.551254137457996,0,True,2,4.277286135693215,3,True,2,1.9333333333333333,30,39
 čtvrtek,2020-06-25,6204,Břeclav,0,0,0,0,0,0,0,0,22,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-25,6205,Bučovice,0,0,0,0,0,0,0,0,9,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-25,6206,Hodonín,0,0,0,0,0,0,0,0,56,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -201,7 +201,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-06-25,8116,Odry,1,0,0,5,0,0,0,0,42,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,17.722117202268432,2,False,0,0.0,0,False,0,2.380952380952381,0,False,0,1.0,10,12
 čtvrtek,2020-06-25,8117,Opava,0,0,0,1,0,0,0,0,107,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,0.9904226133291075,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-25,8118,Orlová,14,3,1,40,3,1,2,1,317,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,56.5078169146732,7,False,0,44.30005906674542,4,True,2,4.416403785488959,3,True,2,2.3333333333333335,30,48
-čtvrtek,2020-06-25,8119,Ostrava,20,0,0,36,1,1,1,0,876,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,7.184244639147885,0,True,0,0.0,0,False,0,2.28310502283105,0,True,2,2.2222222222222223,30,32
+čtvrtek,2020-06-25,8119,Ostrava,19,0,0,35,1,1,1,0,876,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,6.871886176576239,0,True,0,0.0,0,False,0,2.1689497716894977,0,True,2,2.375,30,32
 čtvrtek,2020-06-25,8120,Rýmařov,0,0,0,0,0,0,0,0,14,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-25,8121,Třinec,33,19,17,56,31,25,4,3,787,8121,Třinec,54613,11066,CZ080,Moravskoslezský kraj,CZ,ČR,87.89116144507717,7,True,0,271.1006687149828,13,True,2,4.193138500635324,3,False,0,0.8918918918918919,5,30
 čtvrtek,2020-06-25,8122,Vítkov,1,0,0,1,0,0,0,0,16,8122,Vítkov,13274,2743,CZ080,Moravskoslezský kraj,CZ,ČR,7.533524182612626,0,True,0,0.0,0,False,0,6.25,3,True,2,0.0,0,5
