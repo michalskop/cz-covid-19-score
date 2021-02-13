@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-09-03,1000,Praha,873,50,23,1412,84,40,30,25,12856,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,113.04281506059532,7,True,0,39.814306076459395,4,True,2,6.790603609209707,3,True,2,1.4525790349417638,20,38
+čtvrtek,2020-09-03,1000,Praha,873,50,23,1412,84,40,30,25,12856,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,113.04281506059532,7,True,0,39.814306076459395,4,True,2,6.790603609209707,3,True,2,1.455,20,38
 čtvrtek,2020-09-03,2101,Benešov,12,1,0,20,1,0,0,0,334,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,31.136311494215203,4,True,0,8.24742268041237,0,True,2,3.592814371257485,3,True,2,2.0,30,41
 čtvrtek,2020-09-03,2102,Beroun,44,0,0,61,1,1,0,0,408,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,93.95166879726463,7,True,0,8.77808988764045,0,True,2,10.784313725490197,7,True,2,2.2,30,48
 čtvrtek,2020-09-03,2103,Brandýs n.L.- St.Boleslav,53,1,0,83,1,0,4,4,765,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,71.50297487685599,7,True,0,6.091617933723197,0,True,2,6.928104575163399,3,True,2,1.4324324324324325,20,34
@@ -70,7 +70,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-09-03,4203,Chomutov,7,0,0,15,2,0,1,0,186,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,18.368396561436164,2,True,0,13.623050200939991,2,True,2,3.763440860215054,3,False,0,0.7777777777777778,0,9
 čtvrtek,2020-09-03,4204,Kadaň,2,0,0,9,0,0,0,0,95,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,20.792902689215413,2,False,0,0.0,0,False,0,2.1052631578947367,0,False,0,0.4,0,2
 čtvrtek,2020-09-03,4205,Litoměřice,5,1,0,8,2,0,1,1,160,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,18.609372356623243,2,True,0,17.155601303825698,2,True,2,3.125,3,False,0,0.7142857142857143,0,9
-čtvrtek,2020-09-03,4206,Litvínov,0,0,0,1,0,0,0,0,61,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+čtvrtek,2020-09-03,4206,Litvínov,0,0,0,2,0,0,0,0,61,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-09-03,4207,Louny,9,0,0,19,1,0,1,1,113,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,45.82951420714941,4,True,0,11.702750146284377,2,True,2,7.964601769911504,7,False,0,1.0,10,25
 čtvrtek,2020-09-03,4208,Lovosice,7,0,0,7,0,0,0,0,90,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,25.225225225225223,4,True,0,0.0,0,False,0,7.777777777777778,7,True,2,3.5,30,43
 čtvrtek,2020-09-03,4209,Most,14,0,0,17,0,0,0,0,167,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,22.765926104482208,2,True,0,0.0,0,False,0,8.383233532934131,7,True,2,2.8,30,41
@@ -125,7 +125,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-09-03,6102,Havlíčkův Brod,6,1,1,21,1,1,0,0,158,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,39.6735434141918,4,False,0,9.285051067780872,0,True,2,3.79746835443038,3,False,0,0.4,0,9
 čtvrtek,2020-09-03,6103,Humpolec,17,11,8,22,11,8,0,0,52,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,128.83710508626484,10,True,0,291.5451895043732,13,True,2,32.69230769230769,30,True,2,4.25,30,87
 čtvrtek,2020-09-03,6104,Chotěboř,1,0,0,6,1,0,1,0,72,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,27.432333577176298,4,False,0,20.815986677768528,2,True,2,1.3888888888888888,0,False,0,0.25,0,8
-čtvrtek,2020-09-03,6105,Jihlava,26,4,0,54,7,1,1,1,284,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,52.43682846231474,7,True,0,35.520373471355356,4,True,2,9.15492957746479,7,False,0,0.7647058823529411,0,20
+čtvrtek,2020-09-03,6105,Jihlava,26,4,0,53,7,1,1,1,284,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,52.43682846231474,7,True,0,35.520373471355356,4,True,2,9.15492957746479,7,False,0,0.7647058823529411,0,20
 čtvrtek,2020-09-03,6106,Moravské Budějovice,2,0,0,4,0,0,1,1,67,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,17.317516668109793,2,True,0,0.0,0,False,0,2.9850746268656714,0,False,0,0.6666666666666666,0,2
 čtvrtek,2020-09-03,6107,Náměšť nad Oslavou,6,0,0,7,0,0,0,0,84,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,59.52380952380953,7,True,0,0.0,0,False,0,7.142857142857142,7,False,0,3.0,30,44
 čtvrtek,2020-09-03,6108,Nové Město na Moravě,3,1,0,6,4,3,0,1,80,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,25.791808521613536,4,False,0,74.68259895444362,7,True,2,3.75,3,False,0,0.75,0,16
