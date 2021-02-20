@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2020-06-28,1000,Praha,98,3,1,281,34,21,17,2,3736,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.178093404929633,2,False,0,6.370288972233503,0,True,2,2.6231263383297643,0,False,0,0.9514563106796117,5,9
+neděle,2020-06-28,1000,Praha,98,3,1,280,34,21,17,2,3736,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.178093404929633,2,False,0,6.370288972233503,0,True,2,2.6231263383297643,0,False,0,0.9514563106796117,5,9
 neděle,2020-06-28,2101,Benešov,2,0,0,3,0,0,0,0,74,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,True,0,0.0,0,False,0,2.7027027027027026,0,True,2,0.0,0,2
 neděle,2020-06-28,2102,Beroun,1,0,0,9,3,1,0,0,141,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,10.781339042309055,2,False,0,17.5561797752809,2,True,2,0.7092198581560284,0,False,0,0.2,0,6
 neděle,2020-06-28,2103,Brandýs n.L.- St.Boleslav,8,0,0,21,0,0,1,1,231,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,11.475786091347258,2,False,0,0.0,0,False,0,3.463203463203463,3,True,2,2.0,30,37
@@ -14,7 +14,7 @@ neděle,2020-06-28,2111,Kralupy nad Vltavou,0,0,0,0,0,0,0,0,44,2111,Kralupy nad 
 neděle,2020-06-28,2112,Kutná Hora,0,0,0,1,0,0,0,0,26,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,1.9934217083624042,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-28,2113,Lysá nad Labem,0,0,0,0,0,0,0,0,27,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-28,2114,Mělník,1,0,0,1,0,0,0,0,39,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,2.242152466367713,0,True,0,0.0,0,False,0,2.564102564102564,0,True,2,0.0,0,2
-neděle,2020-06-28,2115,Mladá Boleslav,1,0,0,13,2,0,0,0,137,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,0.8891734243846919,0,False,0,0.0,0,False,0,0.7299270072992701,0,True,2,1.0,10,12
+neděle,2020-06-28,2115,Mladá Boleslav,1,0,0,14,2,0,0,0,137,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,0.8891734243846919,0,False,0,0.0,0,False,0,0.7299270072992701,0,True,2,1.0,10,12
 neděle,2020-06-28,2116,Mnichovo Hradiště,0,0,0,0,0,0,0,0,12,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-28,2117,Neratovice,2,0,0,2,0,0,0,0,53,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,9.320533134495292,0,True,0,0.0,0,False,0,3.7735849056603774,3,True,2,1.0,10,15
 neděle,2020-06-28,2118,Nymburk,4,0,0,4,0,0,0,0,29,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,9.954458353034866,0,True,0,0.0,0,False,0,13.793103448275861,11,True,2,2.0,30,43
@@ -151,7 +151,7 @@ neděle,2020-06-28,6212,Moravský Krumlov,0,0,0,1,0,0,0,0,19,6212,Moravský Krum
 neděle,2020-06-28,6213,Pohořelice,0,0,0,1,1,0,0,0,20,6213,Pohořelice,14599,2588,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-28,6214,Rosice,1,0,0,4,0,0,0,0,29,6214,Rosice,26284,5080,CZ064,Jihomoravský kraj,CZ,ČR,3.804595951909907,0,False,0,0.0,0,False,0,3.4482758620689653,3,True,2,0.0,0,5
 neděle,2020-06-28,6215,Slavkov u Brna,0,0,0,1,0,0,0,0,35,6215,Slavkov u Brna,24027,4191,CZ064,Jihomoravský kraj,CZ,ČR,4.161984434178216,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-neděle,2020-06-28,6216,Šlapanice,2,1,0,7,1,0,0,0,98,6216,Šlapanice,70414,12564,CZ064,Jihomoravský kraj,CZ,ČR,5.680688499446133,0,True,0,7.959248646927731,0,True,2,2.0408163265306123,0,False,0,2.0,30,32
+neděle,2020-06-28,6216,Šlapanice,2,1,0,8,1,0,0,0,98,6216,Šlapanice,70414,12564,CZ064,Jihomoravský kraj,CZ,ČR,5.680688499446133,0,True,0,7.959248646927731,0,True,2,2.0408163265306123,0,False,0,2.0,30,32
 neděle,2020-06-28,6217,Tišnov,0,0,0,1,0,0,0,0,36,6217,Tišnov,31725,6213,CZ064,Jihomoravský kraj,CZ,ČR,3.152088258471237,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-28,6218,Veselí nad Moravou,0,0,0,0,0,0,0,0,33,6218,Veselí nad Moravou,37715,8138,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-06-28,6219,Vyškov,0,0,0,2,2,1,1,0,61,6219,Vyškov,52142,10312,CZ064,Jihomoravský kraj,CZ,ČR,5.753519235932646,0,False,0,19.39487975174554,2,True,2,0.0,0,False,0,0.0,0,4
