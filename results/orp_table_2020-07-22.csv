@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-07-22,1000,Praha,228,11,2,333,23,10,11,8,4089,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,24.164128803868074,2,True,0,7.564718154527285,0,True,2,5.575935436537051,3,True,2,2.6206896551724137,30,39
+středa,2020-07-22,1000,Praha,228,11,2,332,23,10,11,8,4089,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,24.088615901355986,2,True,0,7.564718154527285,0,True,2,5.575935436537051,3,True,2,2.6511627906976742,30,39
 středa,2020-07-22,2101,Benešov,4,0,0,6,1,1,0,0,96,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,9.832519419225852,0,True,0,8.24742268041237,0,True,2,4.166666666666666,3,True,2,4.0,30,37
 středa,2020-07-22,2102,Beroun,9,0,0,9,0,0,0,0,168,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,13.861721625825927,2,True,0,0.0,0,False,0,5.357142857142857,3,True,2,4.5,30,37
 středa,2020-07-22,2103,Brandýs n.L.- St.Boleslav,20,1,0,26,1,0,0,0,349,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,23.834324958951996,2,True,0,6.091617933723197,0,True,2,5.730659025787966,3,True,2,4.0,30,39
@@ -9,7 +9,7 @@ středa,2020-07-22,2106,Český Brod,3,1,0,3,1,0,0,0,49,2106,Český Brod,21537,
 středa,2020-07-22,2107,Dobříš,0,0,0,1,0,0,0,0,31,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-22,2108,Hořovice,2,0,0,2,0,0,0,0,76,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,9.956523182104808,0,True,0,0.0,0,False,0,2.631578947368421,0,True,2,2.0,30,32
 středa,2020-07-22,2109,Kladno,9,0,0,13,0,0,0,0,223,2109,Kladno,125957,24239,CZ020,Středočeský kraj,CZ,ČR,10.320982557539478,2,True,0,0.0,0,False,0,4.0358744394618835,3,True,2,1.8,25,32
-středa,2020-07-22,2110,Kolín,2,1,1,10,4,3,0,0,118,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,5.9880239520958085,0,False,0,5.935070330583418,0,True,2,1.694915254237288,0,False,0,1.0,10,12
+středa,2020-07-22,2110,Kolín,2,1,1,11,5,4,0,0,118,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,5.9880239520958085,0,False,0,5.935070330583418,0,True,2,1.694915254237288,0,False,0,1.0,10,12
 středa,2020-07-22,2111,Kralupy nad Vltavou,3,0,0,4,0,0,0,0,46,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,9.226510841150239,0,True,0,0.0,0,False,0,6.521739130434782,3,True,2,0.0,0,5
 středa,2020-07-22,2112,Kutná Hora,3,1,0,37,4,0,0,0,217,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,37.87501245888568,4,False,0,9.34317481080071,0,True,2,1.3824884792626728,0,False,0,0.42857142857142855,0,6
 středa,2020-07-22,2113,Lysá nad Labem,5,0,0,6,0,0,0,0,32,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,18.582524993496115,2,True,0,0.0,0,False,0,15.625,15,True,2,0.0,0,19
