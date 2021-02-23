@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-07-01,1000,Praha,73,5,2,251,32,20,15,3,3662,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,13.743348257199967,2,False,0,4.379573668410533,0,True,2,1.9934462042599674,0,False,0,0.8021978021978022,5,9
+středa,2020-07-01,1000,Praha,73,5,2,252,32,20,15,3,3662,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,13.743348257199967,2,False,0,4.379573668410533,0,True,2,1.9934462042599674,0,False,0,0.8021978021978022,5,9
 středa,2020-07-01,2101,Benešov,2,0,0,2,0,0,0,0,81,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,True,0,0.0,0,False,0,2.4691358024691357,0,True,2,1.0,10,12
 středa,2020-07-01,2102,Beroun,1,0,0,10,3,1,0,0,151,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,9.241147750550619,0,False,0,0.0,0,False,0,0.6622516556291391,0,False,0,0.3333333333333333,0,0
 středa,2020-07-01,2103,Brandýs n.L.- St.Boleslav,4,0,0,19,0,0,0,0,215,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,9.710280538832295,0,False,0,0.0,0,False,0,1.8604651162790697,0,False,0,0.5714285714285714,0,0
@@ -114,7 +114,7 @@ středa,2020-07-01,5305,Králíky,0,0,0,0,0,0,0,0,8,5305,Králíky,8676,1838,CZ0
 středa,2020-07-01,5306,Lanškroun,0,0,0,0,0,0,0,0,8,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-01,5307,Litomyšl,0,0,0,1,1,0,0,0,25,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-01,5308,Moravská Třebová,0,0,0,0,0,0,0,0,28,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2020-07-01,5309,Pardubice,2,0,0,4,0,0,0,0,202,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,3.037413338800677,0,True,0,0.0,0,False,0,0.9900990099009901,0,False,0,1.0,10,10
+středa,2020-07-01,5309,Pardubice,2,0,0,5,0,0,0,0,202,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,3.037413338800677,0,True,0,0.0,0,False,0,0.9900990099009901,0,False,0,1.0,10,10
 středa,2020-07-01,5310,Polička,0,0,0,0,0,0,0,0,24,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-01,5311,Přelouč,0,0,0,1,1,0,0,0,22,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,3.8699690402476783,0,False,0,19.334880123743233,2,True,2,0.0,0,False,0,0.0,0,4
 středa,2020-07-01,5312,Svitavy,0,0,0,0,0,0,0,0,17,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -184,7 +184,7 @@ středa,2020-07-01,7211,Vizovice,0,0,0,0,0,0,0,0,26,7211,Vizovice,17153,3096,CZ0
 středa,2020-07-01,7212,Vsetín,0,0,0,0,0,0,0,0,41,7212,Vsetín,65522,13208,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-01,7213,Zlín,1,0,0,1,0,0,0,0,83,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,1.0070189218855423,0,True,0,0.0,0,False,0,1.2048192771084338,0,True,2,0.0,0,2
 středa,2020-07-01,8101,Bílovec,2,0,0,3,0,0,0,0,49,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,11.708687846382016,2,True,0,0.0,0,False,0,4.081632653061225,3,True,2,2.0,30,37
-středa,2020-07-01,8102,Bohumín,30,0,0,45,2,1,2,1,278,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,119.88251513516752,7,True,0,14.967819188744201,2,True,2,10.79136690647482,7,True,2,2.142857142857143,30,50
+středa,2020-07-01,8102,Bohumín,31,0,0,46,2,1,2,1,278,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,122.87957801354673,10,True,0,14.967819188744201,2,True,2,11.151079136690647,11,True,2,2.2142857142857144,30,57
 středa,2020-07-01,8103,Bruntál,0,0,0,1,0,0,0,0,25,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,2.74589488714372,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-01,8104,Český Těšín,47,2,1,67,2,1,2,2,381,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,CZ,ČR,229.6881691127808,10,True,0,40.32258064516129,4,True,2,12.335958005249344,11,True,2,2.473684210526316,30,59
 středa,2020-07-01,8105,Frenštát pod Radhoštěm,3,0,0,3,0,0,0,0,41,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,15.352336113811985,2,True,0,0.0,0,False,0,7.317073170731707,7,True,2,3.0,30,41
@@ -193,7 +193,7 @@ středa,2020-07-01,8107,Frýdlant nad Ostravicí,6,1,1,12,1,1,1,1,160,8107,Frýd
 středa,2020-07-01,8108,Havířov,244,10,2,354,16,5,7,7,1814,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,CZ,ČR,371.12400860175273,13,True,0,92.10597605244624,7,True,2,13.45093715545755,11,True,2,2.8045977011494254,30,65
 středa,2020-07-01,8109,Hlučín,5,0,0,6,1,0,0,0,91,8109,Hlučín,40639,7899,CZ080,Moravskoslezský kraj,CZ,ČR,12.303452348729055,2,True,0,0.0,0,False,0,5.4945054945054945,3,True,2,5.0,30,37
 středa,2020-07-01,8110,Jablunkov,9,0,0,15,2,0,0,0,255,8110,Jablunkov,22664,3972,CZ080,Moravskoslezský kraj,CZ,ČR,61.77197317331451,7,True,0,0.0,0,False,0,3.5294117647058822,3,True,2,3.0,30,42
-středa,2020-07-01,8111,Karviná,309,7,5,431,17,11,14,8,1508,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,606.7846700411859,16,True,0,89.53219428486159,7,True,2,20.49071618037135,20,True,2,3.5113636363636362,30,77
+středa,2020-07-01,8111,Karviná,308,7,5,430,17,11,14,8,1508,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,605.2126890307165,16,True,0,89.53219428486159,7,True,2,20.424403183023873,20,True,2,3.5,30,77
 středa,2020-07-01,8112,Kopřivnice,2,0,0,3,0,0,0,0,74,8112,Kopřivnice,40755,7907,CZ080,Moravskoslezský kraj,CZ,ČR,4.90737332842596,0,True,0,0.0,0,False,0,2.7027027027027026,0,True,2,0.0,0,2
 středa,2020-07-01,8113,Kravaře,0,0,0,0,0,0,0,0,30,8113,Kravaře,21356,3656,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-01,8114,Krnov,1,0,0,1,0,0,0,0,58,8114,Krnov,39938,8666,CZ080,Moravskoslezský kraj,CZ,ČR,2.50388101557414,0,True,0,0.0,0,False,0,1.7241379310344827,0,True,2,0.0,0,2

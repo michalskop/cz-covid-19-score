@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2020-07-05,1000,Praha,61,5,2,231,24,13,14,5,3545,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.006551499421949,2,False,0,3.1851444861167515,0,True,2,1.7207334273624826,0,False,0,0.7349397590361446,0,4
+neděle,2020-07-05,1000,Praha,60,5,2,231,24,13,14,5,3545,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.931038596909861,2,False,0,3.1851444861167515,0,True,2,1.692524682651622,0,False,0,0.7228915662650602,0,4
 neděle,2020-07-05,2101,Benešov,0,0,0,2,0,0,0,0,92,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 neděle,2020-07-05,2102,Beroun,2,0,0,11,3,1,0,0,107,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,4.620573875275309,0,False,0,0.0,0,False,0,1.8691588785046727,0,True,2,0.0,0,2
 neděle,2020-07-05,2103,Brandýs n.L.- St.Boleslav,7,0,0,18,0,0,0,0,234,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,13.241291643862219,2,True,0,0.0,0,False,0,2.9914529914529915,0,False,0,1.0,10,12
@@ -114,7 +114,7 @@ neděle,2020-07-05,5305,Králíky,0,0,0,0,0,0,0,0,6,5305,Králíky,8676,1838,CZ0
 neděle,2020-07-05,5306,Lanškroun,0,0,0,0,0,0,0,0,6,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-07-05,5307,Litomyšl,0,0,0,1,1,0,0,0,31,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-07-05,5308,Moravská Třebová,0,0,0,0,0,0,0,0,22,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2020-07-05,5309,Pardubice,0,0,0,3,0,0,0,0,200,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,1.5187066694003386,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+neděle,2020-07-05,5309,Pardubice,0,0,0,4,0,0,0,0,200,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,1.5187066694003386,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 neděle,2020-07-05,5310,Polička,0,0,0,0,0,0,0,0,25,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-07-05,5311,Přelouč,0,0,0,1,1,0,0,0,27,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,3.8699690402476783,0,False,0,19.334880123743233,2,True,2,0.0,0,False,0,,30,34
 neděle,2020-07-05,5312,Svitavy,0,0,0,0,0,0,0,0,22,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -184,7 +184,7 @@ neděle,2020-07-05,7211,Vizovice,0,0,0,0,0,0,0,0,23,7211,Vizovice,17153,3096,CZ0
 neděle,2020-07-05,7212,Vsetín,1,1,0,1,1,0,0,0,36,7212,Vsetín,65522,13208,CZ072,Zlínský kraj,CZ,ČR,1.5262049387991818,0,True,0,7.571168988491823,0,True,2,2.7777777777777777,0,True,2,0.0,0,4
 neděle,2020-07-05,7213,Zlín,2,0,0,2,0,0,0,0,76,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,2.0140378437710846,0,True,0,0.0,0,False,0,2.631578947368421,0,True,2,0.0,0,2
 neděle,2020-07-05,8101,Bílovec,2,0,0,3,0,0,0,0,56,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,11.708687846382016,2,True,0,0.0,0,False,0,3.571428571428571,3,True,2,2.0,30,37
-neděle,2020-07-05,8102,Bohumín,18,0,0,51,2,1,2,0,259,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,131.87076664868428,10,True,0,14.967819188744201,2,True,2,6.94980694980695,3,False,0,0.5142857142857142,0,17
+neděle,2020-07-05,8102,Bohumín,18,0,0,52,2,1,2,0,259,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,134.8678295270635,10,True,0,14.967819188744201,2,True,2,6.94980694980695,3,False,0,0.5,0,17
 neděle,2020-07-05,8103,Bruntál,0,0,0,0,0,0,0,0,51,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-07-05,8104,Český Těšín,30,4,2,76,4,2,2,4,243,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,CZ,ČR,264.7253474520185,13,True,0,100.80645161290322,7,True,2,12.345679012345679,11,True,2,0.6382978723404256,0,35
 neděle,2020-07-05,8105,Frenštát pod Radhoštěm,0,0,0,3,0,0,0,0,48,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,15.352336113811985,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
@@ -193,7 +193,7 @@ neděle,2020-07-05,8107,Frýdlant nad Ostravicí,4,1,1,14,1,1,1,1,201,8107,Frýd
 neděle,2020-07-05,8108,Havířov,183,13,4,416,24,7,13,10,1668,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,CZ,ČR,427.7753370175966,13,True,0,113.77797041772769,7,True,2,10.971223021582734,7,False,0,0.7379032258064516,0,29
 neděle,2020-07-05,8109,Hlučín,5,2,2,11,3,2,0,0,109,8109,Hlučín,40639,7899,CZ080,Moravskoslezský kraj,CZ,ČR,24.60690469745811,2,True,0,25.319660716546398,4,True,2,4.587155963302752,3,False,0,1.0,10,21
 neděle,2020-07-05,8110,Jablunkov,4,0,0,15,1,0,0,0,249,8110,Jablunkov,22664,3972,CZ080,Moravskoslezský kraj,CZ,ČR,61.77197317331451,7,True,0,0.0,0,False,0,1.6064257028112447,0,False,0,0.4,0,7
-neděle,2020-07-05,8111,Karviná,168,6,3,449,15,9,10,6,1147,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,630.3643851982268,16,True,0,74.61016190405132,7,True,2,14.646904969485613,11,False,0,0.5419354838709678,0,36
+neděle,2020-07-05,8111,Karviná,168,6,3,448,15,9,10,6,1147,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,628.7924041877574,16,True,0,74.61016190405132,7,True,2,14.646904969485613,11,False,0,0.5436893203883495,0,36
 neděle,2020-07-05,8112,Kopřivnice,1,0,0,3,0,0,0,0,94,8112,Kopřivnice,40755,7907,CZ080,Moravskoslezský kraj,CZ,ČR,4.90737332842596,0,True,0,0.0,0,False,0,1.0638297872340425,0,False,0,0.5,0,0
 neděle,2020-07-05,8113,Kravaře,0,0,0,0,0,0,0,0,33,8113,Kravaře,21356,3656,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-07-05,8114,Krnov,1,0,0,1,0,0,0,0,86,8114,Krnov,39938,8666,CZ080,Moravskoslezský kraj,CZ,ČR,2.50388101557414,0,True,0,0.0,0,False,0,1.1627906976744187,0,True,2,1.0,10,12
