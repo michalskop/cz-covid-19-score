@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2020-03-22,1000,Praha,276,35,11,381,47,13,37,40,1287,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,28.09079973449663,4,True,0,18.712723855935916,2,True,2,21.445221445221446,20,False,0,2.3,30,58
+neděle,2020-03-22,1000,Praha,275,35,11,380,47,13,37,40,1287,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,28.015286831984547,4,True,0,18.712723855935916,2,True,2,21.367521367521366,20,False,0,2.2916666666666665,30,58
 neděle,2020-03-22,2101,Benešov,20,1,0,20,1,0,0,0,30,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,32.775064730752845,4,True,0,8.24742268041237,0,True,2,66.66666666666666,30,False,0,2.5,30,66
 neděle,2020-03-22,2102,Beroun,7,0,0,7,0,0,0,0,21,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,10.781339042309055,2,True,0,0.0,0,False,0,33.33333333333333,30,False,0,0.0,0,32
 neděle,2020-03-22,2103,Brandýs n.L.- St.Boleslav,14,1,0,16,1,0,1,1,60,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,14.1240444201197,2,True,0,6.091617933723197,0,True,2,23.333333333333332,25,False,0,1.75,25,54
@@ -140,7 +140,7 @@ neděle,2020-03-22,6201,Blansko,2,0,0,2,0,0,1,1,13,6201,Blansko,57126,11918,CZ06
 neděle,2020-03-22,6202,Boskovice,1,0,0,1,0,0,0,0,9,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,1.9227071716977504,0,True,0,0.0,0,False,0,11.11111111111111,11,True,2,0.0,0,13
 neděle,2020-03-22,6203,Brno,37,0,0,47,5,4,4,4,220,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,12.324765436113136,2,True,0,6.292711781214997,0,True,2,16.818181818181817,15,True,2,2.466666666666667,30,51
 neděle,2020-03-22,6204,Břeclav,10,0,0,13,0,0,1,1,110,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,21.770074520639707,2,True,0,0.0,0,False,0,9.090909090909092,7,True,2,1.6666666666666667,25,36
-neděle,2020-03-22,6205,Bučovice,0,0,0,0,0,0,0,0,4,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+neděle,2020-03-22,6205,Bučovice,0,0,0,-1,0,0,0,0,4,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-03-22,6206,Hodonín,1,0,0,1,0,0,0,0,20,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,1.6478536705940512,0,True,0,0.0,0,False,0,5.0,3,True,2,1.0,10,15
 neděle,2020-03-22,6207,Hustopeče,2,0,0,2,0,0,1,1,25,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,5.5079727906144145,0,True,0,0.0,0,False,0,8.0,7,True,2,0.0,0,9
 neděle,2020-03-22,6208,Ivančice,0,0,0,0,0,0,0,0,5,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
