@@ -78,7 +78,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-09,4211,Roudnice nad Labem,0,0,0,0,0,0,0,0,24,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,4212,Rumburk,0,0,0,1,0,0,0,0,14,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,4213,Teplice,1,0,0,0,0,0,0,0,61,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,0.9392140656698474,0,True,0,0.0,0,False,0,1.639344262295082,0,True,2,0.0,0,2
-čtvrtek,2020-07-09,4214,Ústí nad Labem,0,0,0,3,1,1,0,0,63,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,0.8379560575843403,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+čtvrtek,2020-07-09,4214,Ústí nad Labem,0,0,0,3,0,0,0,0,63,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,0.8379560575843403,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-07-09,4215,Varnsdorf,0,0,0,0,0,0,0,0,11,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,4216,Žatec,0,0,0,0,0,0,0,0,16,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,5101,Česká Lípa,1,0,0,1,0,0,0,0,53,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,1.2987350320787552,0,True,0,0.0,0,False,0,1.8867924528301887,0,True,2,0.0,0,2
@@ -114,7 +114,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-09,5306,Lanškroun,0,0,0,0,0,0,0,0,7,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,5307,Litomyšl,1,0,0,2,1,0,0,0,20,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,3.6757948906451023,0,True,0,0.0,0,False,0,5.0,3,True,2,0.0,0,5
 čtvrtek,2020-07-09,5308,Moravská Třebová,1,0,0,1,0,0,0,0,19,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,3.8258474252046826,0,True,0,0.0,0,False,0,5.263157894736842,3,True,2,0.0,0,5
-čtvrtek,2020-07-09,5309,Pardubice,1,1,0,5,1,0,0,0,149,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,2.278060004100508,0,False,0,3.797228023542814,0,True,2,0.6711409395973155,0,False,0,0.0,0,2
+čtvrtek,2020-07-09,5309,Pardubice,1,1,0,4,1,0,0,0,149,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,2.278060004100508,0,False,0,3.797228023542814,0,True,2,0.6711409395973155,0,False,0,0.0,0,2
 čtvrtek,2020-07-09,5310,Polička,0,0,0,0,0,0,0,0,15,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,5311,Přelouč,0,0,0,1,1,0,0,0,24,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,5312,Svitavy,0,0,0,0,0,0,0,0,27,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -140,7 +140,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-09,6202,Boskovice,0,0,0,0,0,0,0,0,41,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,6203,Brno,11,3,0,22,3,0,1,2,512,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,4.982351984811693,0,False,0,5.0341694249719975,0,True,2,2.1484375,0,True,2,1.0,10,14
 čtvrtek,2020-07-09,6204,Břeclav,1,0,0,1,0,0,0,0,54,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,1.674621116972285,0,True,0,0.0,0,False,0,1.8518518518518516,0,True,2,0.0,0,2
-čtvrtek,2020-07-09,6205,Bučovice,0,0,0,-1,0,0,0,0,8,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+čtvrtek,2020-07-09,6205,Bučovice,0,0,0,0,0,0,0,0,8,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,6206,Hodonín,0,0,0,0,0,0,0,0,45,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,6207,Hustopeče,0,0,0,0,0,0,0,0,35,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,6208,Ivančice,2,0,0,2,0,0,0,0,20,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,CZ,ČR,8.176949180260845,0,True,0,0.0,0,False,0,10.0,7,True,2,0.0,0,9

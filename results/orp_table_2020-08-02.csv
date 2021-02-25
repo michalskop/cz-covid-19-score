@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2020-08-02,1000,Praha,348,16,4,734,39,15,15,16,8081,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,54.52031561372734,7,True,0,14.333150187525382,2,True,2,4.3063977230540775,3,False,0,0.883248730964467,5,19
+neděle,2020-08-02,1000,Praha,349,16,4,735,39,15,15,16,8081,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,54.59582851623943,7,True,0,14.333150187525382,2,True,2,4.318772429154808,3,False,0,0.8857868020304569,5,19
 neděle,2020-08-02,2101,Benešov,8,1,0,16,1,0,0,0,191,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,26.220051784602276,4,True,0,8.24742268041237,0,True,2,4.18848167539267,3,False,0,0.7272727272727273,0,9
 neděle,2020-08-02,2102,Beroun,11,0,0,24,1,1,0,0,230,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,32.34401712692716,4,True,0,8.77808988764045,0,True,2,4.782608695652174,3,False,0,1.1,10,19
 neděle,2020-08-02,2103,Brandýs n.L.- St.Boleslav,22,1,1,49,2,2,1,1,566,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,43.25488603661658,4,True,0,12.183235867446394,2,True,2,3.8869257950530036,3,False,0,0.6666666666666666,0,11
@@ -114,7 +114,7 @@ neděle,2020-08-02,5305,Králíky,2,0,0,2,0,0,0,0,18,5305,Králíky,8676,1838,CZ
 neděle,2020-08-02,5306,Lanškroun,3,0,0,12,0,0,0,0,89,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,56.17977528089888,7,True,0,0.0,0,False,0,3.3707865168539324,3,False,0,0.3,0,10
 neděle,2020-08-02,5307,Litomyšl,18,0,0,24,1,0,1,1,188,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,88.21907737548244,7,True,0,18.772292096865026,2,True,2,9.574468085106384,7,True,2,1.6363636363636365,25,45
 neděle,2020-08-02,5308,Moravská Třebová,0,0,0,0,0,0,0,0,31,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2020-08-02,5309,Pardubice,7,0,0,12,0,0,0,0,374,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,8.352886681701863,0,True,0,0.0,0,False,0,1.8716577540106951,0,True,2,1.75,25,27
+neděle,2020-08-02,5309,Pardubice,7,0,0,11,0,0,0,0,374,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,8.352886681701863,0,True,0,0.0,0,False,0,1.8716577540106951,0,True,2,1.75,25,27
 neděle,2020-08-02,5310,Polička,0,0,0,0,0,0,0,0,46,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-08-02,5311,Přelouč,0,0,0,0,0,0,0,0,45,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-08-02,5312,Svitavy,2,0,0,4,1,1,1,0,84,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,12.74737882023009,2,True,0,15.306903413439462,2,True,2,2.380952380952381,0,False,0,0.5,0,6
@@ -140,7 +140,7 @@ neděle,2020-08-02,6201,Blansko,3,0,0,5,0,0,0,0,68,6201,Blansko,57126,11918,CZ06
 neděle,2020-08-02,6202,Boskovice,0,0,0,0,0,0,0,0,67,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-08-02,6203,Brno,78,2,0,123,7,2,4,2,1019,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,31.991944323527715,4,True,0,10.068338849943995,2,True,2,7.654563297350343,7,True,2,1.7727272727272727,25,42
 neděle,2020-08-02,6204,Břeclav,11,4,2,22,5,3,3,2,138,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,31.817801222473417,4,True,0,40.92992796332678,4,True,2,7.971014492753622,7,False,0,1.375,15,32
-neděle,2020-08-02,6205,Bučovice,0,0,0,-1,0,0,0,0,24,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+neděle,2020-08-02,6205,Bučovice,0,0,0,0,0,0,0,0,24,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-08-02,6206,Hodonín,7,2,0,10,4,1,0,0,156,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,18.126390376534562,2,True,0,40.822991508817765,4,True,2,4.487179487179487,3,True,2,1.0,10,23
 neděle,2020-08-02,6207,Hustopeče,8,3,0,17,4,1,1,0,97,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,46.81776872022252,4,True,0,71.6229766509096,7,True,2,8.24742268041237,7,False,0,0.8888888888888888,5,25
 neděle,2020-08-02,6208,Ivančice,1,0,0,1,0,0,0,0,41,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,CZ,ČR,4.0884745901304225,0,False,0,0.0,0,False,0,2.4390243902439024,0,True,2,0.0,0,2

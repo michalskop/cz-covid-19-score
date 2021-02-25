@@ -78,7 +78,7 @@ sobota,2020-05-23,4210,Podbořany,0,0,0,-1,0,0,0,0,44,4210,Podbořany,15678,3106
 sobota,2020-05-23,4211,Roudnice nad Labem,0,0,0,1,1,0,0,0,99,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,3.0480370641306997,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2020-05-23,4212,Rumburk,2,0,0,2,0,0,0,0,99,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,6.098490623570666,0,True,0,0.0,0,False,0,2.0202020202020203,0,True,2,2.0,30,32
 sobota,2020-05-23,4213,Teplice,3,1,1,13,2,0,1,0,524,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,10.33135472236832,2,True,0,4.71364600518501,0,True,2,0.5725190839694656,0,False,0,0.42857142857142855,0,4
-sobota,2020-05-23,4214,Ústí nad Labem,2,1,1,-2,1,1,0,0,408,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,2.5138681727530208,0,True,0,4.171707479871511,0,True,2,0.49019607843137253,0,True,2,1.0,10,14
+sobota,2020-05-23,4214,Ústí nad Labem,2,0,0,-2,0,0,0,0,408,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,2.5138681727530208,0,True,0,0.0,0,False,0,0.49019607843137253,0,True,2,1.0,10,12
 sobota,2020-05-23,4215,Varnsdorf,0,0,0,1,0,0,0,0,59,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,5.023863350916855,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2020-05-23,4216,Žatec,0,0,0,0,0,0,0,0,48,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-23,5101,Česká Lípa,0,0,0,1,0,0,0,0,90,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -114,7 +114,7 @@ sobota,2020-05-23,5305,Králíky,0,0,0,0,0,0,0,0,24,5305,Králíky,8676,1838,CZ0
 sobota,2020-05-23,5306,Lanškroun,0,0,0,0,0,0,0,0,89,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-23,5307,Litomyšl,0,0,0,1,0,0,0,0,116,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,3.6757948906451023,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2020-05-23,5308,Moravská Třebová,0,0,0,0,0,0,0,0,55,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-sobota,2020-05-23,5309,Pardubice,4,1,0,8,3,2,6,4,526,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,3.037413338800677,0,True,0,3.797228023542814,0,True,2,0.7604562737642585,0,True,2,0.0,0,4
+sobota,2020-05-23,5309,Pardubice,4,1,0,7,3,2,6,4,526,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,3.037413338800677,0,True,0,3.797228023542814,0,True,2,0.7604562737642585,0,True,2,0.0,0,4
 sobota,2020-05-23,5310,Polička,0,0,0,0,0,0,0,0,72,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-23,5311,Přelouč,0,0,0,4,3,0,1,0,85,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-23,5312,Svitavy,0,0,0,0,0,0,0,0,78,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -140,7 +140,7 @@ sobota,2020-05-23,6201,Blansko,2,0,0,8,0,0,0,0,127,6201,Blansko,57126,11918,CZ06
 sobota,2020-05-23,6202,Boskovice,0,0,0,0,0,0,0,0,82,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-23,6203,Brno,4,0,0,29,2,0,1,1,885,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,5.244581036643888,0,False,0,1.2585423562429994,0,True,2,0.4519774011299435,0,False,0,0.5,0,2
 sobota,2020-05-23,6204,Břeclav,1,0,0,8,5,4,6,1,190,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,3.34924223394457,0,False,0,0.0,0,False,0,0.5263157894736842,0,True,2,1.0,10,12
-sobota,2020-05-23,6205,Bučovice,0,0,0,-1,0,0,0,0,16,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+sobota,2020-05-23,6205,Bučovice,0,0,0,0,0,0,0,0,16,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-23,6206,Hodonín,0,0,0,1,0,0,0,0,141,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,1.6478536705940512,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2020-05-23,6207,Hustopeče,0,0,0,1,0,0,0,0,73,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-23,6208,Ivančice,0,0,0,2,0,0,0,0,34,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

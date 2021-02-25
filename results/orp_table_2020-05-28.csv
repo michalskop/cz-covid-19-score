@@ -78,7 +78,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-05-28,4211,Roudnice nad Labem,2,0,0,3,1,0,0,0,60,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,6.0960741282613995,0,True,0,0.0,0,False,0,3.3333333333333335,3,True,2,0.0,0,5
 čtvrtek,2020-05-28,4212,Rumburk,0,0,0,2,0,0,0,0,57,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,6.098490623570666,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-05-28,4213,Teplice,1,0,0,8,1,0,0,0,385,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,4.696070328349237,0,False,0,4.71364600518501,0,True,2,0.2597402597402597,0,False,0,0.3333333333333333,0,2
-čtvrtek,2020-05-28,4214,Ústí nad Labem,0,0,0,-2,1,1,0,0,310,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,2.5138681727530208,0,False,0,4.171707479871511,0,True,2,0.0,0,False,0,0.0,0,2
+čtvrtek,2020-05-28,4214,Ústí nad Labem,0,0,0,-2,0,0,0,0,310,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,2.5138681727530208,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-05-28,4215,Varnsdorf,0,0,0,0,0,0,0,0,34,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-28,4216,Žatec,1,0,0,1,0,0,0,0,65,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,3.6532349395389616,0,True,0,0.0,0,False,0,1.5384615384615385,0,True,2,0.0,0,2
 čtvrtek,2020-05-28,5101,Česká Lípa,0,0,0,1,0,0,0,0,69,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -114,7 +114,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-05-28,5306,Lanškroun,0,0,0,0,0,0,0,0,73,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-28,5307,Litomyšl,0,0,0,1,0,0,0,0,109,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,3.6757948906451023,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-28,5308,Moravská Třebová,0,0,0,0,0,0,0,0,58,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-05-28,5309,Pardubice,3,0,0,6,2,1,4,2,464,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,3.796766673500847,0,True,0,3.797228023542814,0,True,2,0.646551724137931,0,True,2,0.75,0,4
+čtvrtek,2020-05-28,5309,Pardubice,3,0,0,5,2,1,4,2,464,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,3.796766673500847,0,True,0,3.797228023542814,0,True,2,0.646551724137931,0,True,2,0.75,0,4
 čtvrtek,2020-05-28,5310,Polička,0,0,0,0,0,0,0,0,77,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-28,5311,Přelouč,0,0,0,2,1,0,1,0,70,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-28,5312,Svitavy,0,0,0,0,0,0,0,0,70,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -140,7 +140,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-05-28,6202,Boskovice,0,0,0,0,0,0,0,0,94,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-28,6203,Brno,8,0,0,31,2,0,3,3,848,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,2.884519570154138,0,False,0,0.0,0,False,0,0.9433962264150944,0,True,2,2.0,30,32
 čtvrtek,2020-05-28,6204,Břeclav,3,2,2,4,3,2,2,1,228,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,6.69848446788914,0,True,0,16.371971185330715,2,True,2,1.3157894736842104,0,True,2,3.0,30,36
-čtvrtek,2020-05-28,6205,Bučovice,0,0,0,-1,0,0,0,0,27,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+čtvrtek,2020-05-28,6205,Bučovice,0,0,0,0,0,0,0,0,27,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-28,6206,Hodonín,0,0,0,0,0,0,1,1,141,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-28,6207,Hustopeče,0,0,0,0,0,0,0,0,68,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-28,6208,Ivančice,0,0,0,1,0,0,0,0,29,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
