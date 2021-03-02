@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2020-08-23,1000,Praha,533,43,29,1027,70,39,21,20,8477,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,78.08034119749871,7,True,0,28.666300375050763,4,True,2,6.287601745900673,3,False,0,1.1058091286307055,10,26
+neděle,2020-08-23,1000,Praha,531,43,29,1026,70,39,21,20,8477,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,78.00482829498662,7,True,0,28.666300375050763,4,True,2,6.264008493570838,3,False,0,1.0993788819875776,10,26
 neděle,2020-08-23,2101,Benešov,5,0,0,16,1,1,0,0,223,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,19.665038838451704,2,False,0,0.0,0,False,0,2.242152466367713,0,False,0,0.7142857142857143,0,2
 neděle,2020-08-23,2102,Beroun,9,0,0,16,1,0,0,0,198,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,26.18325195989342,4,True,0,8.77808988764045,0,True,2,4.545454545454546,3,True,2,1.2857142857142858,15,26
 neděle,2020-08-23,2103,Brandýs n.L.- St.Boleslav,25,0,0,53,2,1,0,0,518,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,40.60662770784414,4,False,0,12.183235867446394,2,True,2,4.826254826254826,3,True,2,0.9615384615384616,5,18
@@ -123,7 +123,7 @@ neděle,2020-08-23,5314,Vysoké Mýto,6,0,0,8,0,0,0,0,136,5314,Vysoké Mýto,324
 neděle,2020-08-23,5315,Žamberk,16,0,0,16,0,0,0,0,88,5315,Žamberk,29463,5651,CZ053,Pardubický kraj,CZ,ČR,54.30539999321183,7,True,0,0.0,0,False,0,18.181818181818183,15,True,2,0.0,0,24
 neděle,2020-08-23,6101,Bystřice nad Pernštejnem,1,0,0,2,0,0,0,0,40,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,10.124019235636549,2,False,0,0.0,0,False,0,2.5,0,False,0,1.0,10,12
 neděle,2020-08-23,6102,Havlíčkův Brod,10,1,0,22,2,0,0,1,154,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,41.562759767248544,4,True,0,18.570102135561743,2,True,2,6.493506493506493,3,False,0,0.625,0,11
-neděle,2020-08-23,6103,Humpolec,7,0,0,8,0,0,0,0,43,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,44.812906116961685,4,True,0,0.0,0,False,0,16.27906976744186,15,True,2,7.0,30,51
+neděle,2020-08-23,6103,Humpolec,7,0,0,9,0,0,0,0,43,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,44.812906116961685,4,True,0,0.0,0,False,0,16.27906976744186,15,True,2,7.0,30,51
 neděle,2020-08-23,6104,Chotěboř,3,3,0,5,3,0,2,2,29,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,22.86027798098025,2,True,0,62.44796003330558,7,True,2,10.344827586206897,7,True,2,1.5,20,40
 neděle,2020-08-23,6105,Jihlava,15,3,1,30,4,2,0,0,170,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,29.681223657914003,4,True,0,25.3716953366824,4,True,2,8.823529411764707,7,True,2,1.0714285714285714,10,29
 neděle,2020-08-23,6106,Moravské Budějovice,0,0,0,0,0,0,0,0,43,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -185,7 +185,7 @@ neděle,2020-08-23,7212,Vsetín,1,0,0,7,0,0,0,0,110,7212,Vsetín,65522,13208,CZ0
 neděle,2020-08-23,7213,Zlín,3,0,0,12,2,0,0,0,251,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,11.077208140740964,2,False,0,9.211071708193248,0,True,2,1.1952191235059761,0,False,0,1.0,10,14
 neděle,2020-08-23,8101,Bílovec,2,0,0,3,0,0,1,1,134,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,11.708687846382016,2,True,0,0.0,0,False,0,1.4925373134328357,0,True,2,0.0,0,4
 neděle,2020-08-23,8102,Bohumín,6,1,0,14,3,0,4,2,256,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,38.96181741892945,4,False,0,14.967819188744201,2,True,2,2.34375,0,True,2,0.75,0,10
-neděle,2020-08-23,8103,Bruntál,0,0,0,0,0,0,0,0,80,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+neděle,2020-08-23,8103,Bruntál,0,0,0,1,0,0,0,0,80,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-08-23,8104,Český Těšín,8,2,0,14,3,1,1,0,314,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,CZ,ČR,50.60925760112119,7,False,0,40.32258064516129,4,True,2,2.547770700636943,0,False,0,2.0,30,43
 neděle,2020-08-23,8105,Frenštát pod Radhoštěm,6,3,0,6,3,0,0,1,91,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,30.70467222762397,4,True,0,77.90184367696703,7,True,2,6.593406593406594,3,True,2,0.0,0,18
 neděle,2020-08-23,8106,Frýdek-Místek,8,0,0,19,3,1,2,2,722,8106,Frýdek-Místek,112433,21794,CZ080,Moravskoslezský kraj,CZ,ČR,18.677790328462283,2,False,0,13.765256492612645,2,True,2,1.10803324099723,0,False,0,0.8888888888888888,5,11

@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2020-08-14,1000,Praha,495,29,13,868,50,22,22,19,7862,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,64.6390445503471,7,True,0,18.712723855935916,2,True,2,6.296107860595268,3,True,2,1.2924281984334203,15,31
+pátek,2020-08-14,1000,Praha,496,29,13,868,50,22,22,19,7862,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,64.6390445503471,7,True,0,18.712723855935916,2,True,2,6.308827270414653,3,True,2,1.2984293193717278,15,31
 pátek,2020-08-14,2101,Benešov,9,1,1,23,1,1,1,1,256,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,31.136311494215203,4,True,0,8.24742268041237,0,True,2,3.515625,3,False,0,0.9,5,14
 pátek,2020-08-14,2102,Beroun,11,1,0,16,1,0,0,0,214,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,27.723443251651855,4,True,0,8.77808988764045,0,True,2,5.14018691588785,3,True,2,1.375,15,26
 pátek,2020-08-14,2103,Brandýs n.L.- St.Boleslav,27,2,1,49,2,1,0,0,517,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,42.37213326035911,4,False,0,12.183235867446394,2,True,2,5.222437137330754,3,True,2,0.8709677419354839,5,18
@@ -123,7 +123,7 @@ pátek,2020-08-14,5314,Vysoké Mýto,1,0,0,11,1,0,0,0,138,5314,Vysoké Mýto,324
 pátek,2020-08-14,5315,Žamberk,0,0,0,1,0,0,0,0,58,5315,Žamberk,29463,5651,CZ053,Pardubický kraj,CZ,ČR,3.3940874995757393,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-08-14,6101,Bystřice nad Pernštejnem,0,0,0,3,0,0,0,0,25,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,15.186028853454822,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 pátek,2020-08-14,6102,Havlíčkův Brod,9,1,0,16,3,1,1,0,162,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,28.33824529585128,4,False,0,27.85515320334262,4,True,2,5.555555555555555,3,True,2,1.5,20,35
-pátek,2020-08-14,6103,Humpolec,1,0,0,3,0,0,0,0,36,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,16.80483979386063,2,False,0,0.0,0,False,0,2.7777777777777777,0,False,0,0.5,0,2
+pátek,2020-08-14,6103,Humpolec,1,0,0,4,0,0,0,0,36,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,16.80483979386063,2,False,0,0.0,0,False,0,2.7777777777777777,0,False,0,0.5,0,2
 pátek,2020-08-14,6104,Chotěboř,2,0,0,2,0,0,0,0,53,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,9.1441111923921,0,True,0,0.0,0,False,0,3.7735849056603774,3,True,2,0.0,0,5
 pátek,2020-08-14,6105,Jihlava,14,2,2,29,7,6,0,0,277,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,22.755604804400736,2,False,0,15.223017202009437,2,True,2,5.054151624548736,3,True,2,1.5555555555555556,20,31
 pátek,2020-08-14,6106,Moravské Budějovice,0,0,0,2,0,0,0,0,30,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,8.658758334054896,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
@@ -185,7 +185,7 @@ pátek,2020-08-14,7212,Vsetín,6,0,0,9,0,0,0,0,145,7212,Vsetín,65522,13208,CZ07
 pátek,2020-08-14,7213,Zlín,8,2,0,15,2,0,0,0,242,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,15.105283828283133,2,False,0,9.211071708193248,0,True,2,3.3057851239669422,3,True,2,1.3333333333333333,15,24
 pátek,2020-08-14,8101,Bílovec,1,0,0,2,0,0,0,0,153,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,7.805791897588011,0,False,0,0.0,0,False,0,0.6535947712418301,0,False,0,1.0,10,10
 pátek,2020-08-14,8102,Bohumín,9,2,0,26,6,1,4,4,317,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,68.93244620272134,7,False,0,74.83909594372099,7,True,2,2.8391167192429023,0,False,0,0.75,0,16
-pátek,2020-08-14,8103,Bruntál,0,0,0,0,0,0,0,0,135,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-08-14,8103,Bruntál,0,0,0,1,0,0,0,0,135,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-08-14,8104,Český Těšín,5,0,0,20,2,1,1,0,195,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,CZ,ČR,70.0743566784755,7,False,0,0.0,0,False,0,2.564102564102564,0,False,0,0.4166666666666667,0,7
 pátek,2020-08-14,8105,Frenštát pod Radhoštěm,0,0,0,1,0,0,0,0,86,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,5.117445371270661,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-08-14,8106,Frýdek-Místek,13,3,1,42,11,3,2,1,902,8106,Frýdek-Místek,112433,21794,CZ080,Moravskoslezský kraj,CZ,ČR,32.90848772157641,4,False,0,45.88418830870882,4,True,2,1.441241685144124,0,False,0,0.5416666666666666,0,10
