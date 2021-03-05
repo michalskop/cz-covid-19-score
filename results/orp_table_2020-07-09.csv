@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-07-09,1000,Praha,69,2,0,176,15,7,8,6,3037,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,10.647319254204369,2,False,0,2.7870014253521576,0,True,2,2.271978926572275,0,True,2,1.0952380952380953,10,16
+čtvrtek,2020-07-09,1000,Praha,69,2,0,177,15,7,8,6,3037,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,10.722832156716457,2,False,0,2.7870014253521576,0,True,2,2.271978926572275,0,True,2,1.078125,10,16
 čtvrtek,2020-07-09,2101,Benešov,1,0,0,2,0,0,0,0,79,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,1.2658227848101267,0,True,2,0.0,0,2
 čtvrtek,2020-07-09,2102,Beroun,1,0,0,10,3,1,0,0,69,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,3.0803825835168728,0,False,0,0.0,0,False,0,1.4492753623188406,0,True,2,0.5,0,2
 čtvrtek,2020-07-09,2103,Brandýs n.L.- St.Boleslav,10,0,0,14,0,0,0,0,205,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,13.241291643862219,2,True,0,0.0,0,False,0,4.878048780487805,3,True,2,1.4285714285714286,20,27
@@ -64,7 +64,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-09,4104,Kraslice,0,0,0,0,0,0,0,0,9,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,4105,Mariánské Lázně,0,0,0,0,0,0,0,0,19,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,4106,Ostrov,0,0,0,0,0,0,0,0,23,4106,Ostrov,27636,5453,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-07-09,4107,Sokolov,0,0,0,1,0,0,0,0,39,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+čtvrtek,2020-07-09,4107,Sokolov,0,0,0,2,0,0,0,0,39,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,4201,Bílina,0,0,0,0,0,0,0,0,9,4201,Bílina,22600,3935,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,4202,Děčín,0,0,0,1,0,0,0,0,35,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,4203,Chomutov,0,0,0,0,0,0,0,0,30,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -85,7 +85,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-09,5102,Frýdlant,0,0,0,1,0,0,0,0,42,5102,Frýdlant,24479,4944,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,5103,Jablonec nad Nisou,3,0,0,12,0,0,0,0,163,5103,Jablonec nad Nisou,56206,11517,CZ051,Liberecký kraj,CZ,ČR,19.570864320535176,2,True,0,0.0,0,False,0,1.8404907975460123,0,False,0,0.3333333333333333,0,2
 čtvrtek,2020-07-09,5104,Jilemnice,0,0,0,0,0,0,0,0,13,5104,Jilemnice,22137,4768,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-07-09,5105,Liberec,14,0,0,49,2,1,1,1,328,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,22.653010791070592,2,False,0,3.4590107229332414,0,True,2,4.2682926829268295,3,False,0,0.4827586206896552,0,7
+čtvrtek,2020-07-09,5105,Liberec,14,0,0,48,2,1,1,1,328,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,22.653010791070592,2,False,0,3.4590107229332414,0,True,2,4.2682926829268295,3,False,0,0.4827586206896552,0,7
 čtvrtek,2020-07-09,5106,Nový Bor,0,0,0,1,0,0,0,0,23,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,7.603984487871645,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-07-09,5107,Semily,0,0,0,3,0,0,0,0,19,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,5108,Tanvald,0,0,0,0,0,0,0,0,15,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
