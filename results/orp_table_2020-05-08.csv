@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2020-05-08,1000,Praha,74,8,4,296,72,50,31,11,6834,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.157577304446123,2,False,0,10.351719579879441,2,True,2,1.082821188176763,0,False,0,0.9866666666666667,5,11
+pátek,2020-05-08,1000,Praha,74,8,4,295,72,50,31,11,6834,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.082064401934037,2,False,0,10.351719579879441,2,True,2,1.082821188176763,0,False,0,1.0,10,16
 pátek,2020-05-08,2101,Benešov,2,0,0,9,0,0,0,0,217,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,0.9216589861751152,0,True,2,0.0,0,2
 pátek,2020-05-08,2102,Beroun,0,0,0,1,0,0,0,0,231,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-05-08,2103,Brandýs n.L.- St.Boleslav,3,1,1,6,4,4,0,0,353,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,4.413763881287407,0,False,0,6.091617933723197,0,True,2,0.84985835694051,0,True,2,1.0,10,14
@@ -51,7 +51,7 @@ pátek,2020-05-08,3205,Klatovy,1,0,0,12,2,2,1,0,68,3205,Klatovy,50720,10750,CZ03
 pátek,2020-05-08,3206,Kralovice,0,0,0,0,0,0,0,0,62,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-05-08,3207,Nepomuk,0,0,0,2,2,0,1,0,33,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-05-08,3208,Nýřany,6,2,1,9,2,1,0,0,166,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,12.150246476428523,2,True,0,19.164430816404753,2,True,2,3.614457831325301,3,True,2,3.0,30,41
-pátek,2020-05-08,3209,Plzeň,5,0,0,24,5,2,5,1,562,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,6.691373275684579,0,False,0,7.42831674342594,0,True,2,0.8896797153024912,0,False,0,0.5555555555555556,0,2
+pátek,2020-05-08,3209,Plzeň,5,0,0,25,5,2,5,1,562,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,7.206094296891085,0,False,0,7.42831674342594,0,True,2,0.8896797153024912,0,False,0,0.5,0,2
 pátek,2020-05-08,3210,Přeštice,2,2,1,11,2,1,1,1,67,3210,Přeštice,22885,4449,CZ032,Plzeňský kraj,CZ,ČR,30.5877212147695,4,False,0,44.95392222971454,4,True,2,2.9850746268656714,0,False,0,0.3333333333333333,0,10
 pátek,2020-05-08,3211,Rokycany,0,0,0,3,2,0,0,0,96,3211,Rokycany,49349,10085,CZ032,Plzeňský kraj,CZ,ČR,2.0263835133437356,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-05-08,3212,Stod,0,0,0,3,1,0,0,0,59,3212,Stod,23393,4517,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
