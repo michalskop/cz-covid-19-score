@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-08-27,1000,Praha,623,51,31,1053,70,40,20,21,9329,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,80.19470246783716,7,True,0,29.860729557344545,4,True,2,6.678100546682388,3,True,2,1.162313432835821,10,28
+čtvrtek,2020-08-27,1000,Praha,625,51,31,1056,70,40,20,21,9329,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,80.34572827286135,7,True,0,29.860729557344545,4,True,2,6.6995390717118655,3,True,2,1.166044776119403,10,28
 čtvrtek,2020-08-27,2101,Benešov,7,0,0,13,0,0,0,0,211,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,False,0,0.0,0,False,0,3.3175355450236967,3,True,2,1.4,20,27
 čtvrtek,2020-08-27,2102,Beroun,17,1,1,20,1,1,0,0,198,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,32.34401712692716,4,True,0,8.77808988764045,0,True,2,8.585858585858585,7,True,2,2.125,30,45
 čtvrtek,2020-08-27,2103,Brandýs n.L.- St.Boleslav,29,0,0,56,2,2,1,1,602,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,45.02039158913155,4,False,0,0.0,0,False,0,4.817275747508306,3,True,2,1.1153846153846154,10,19
@@ -38,7 +38,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-08-27,3110,Soběslav,0,0,0,1,0,0,0,0,46,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,4.556431402925229,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-08-27,3111,Strakonice,3,1,1,12,7,3,1,1,145,3111,Strakonice,45223,9454,CZ031,Jihočeský kraj,CZ,ČR,24.323905977047076,2,False,0,74.0427332346097,7,True,2,2.0689655172413794,0,False,0,0.375,0,11
 čtvrtek,2020-08-27,3112,Tábor,14,0,0,24,1,0,0,0,205,3112,Tábor,80648,17257,CZ031,Jihočeský kraj,CZ,ČR,30.998908838408887,4,True,0,5.794749956539375,0,True,2,6.829268292682928,3,True,2,0.875,5,16
-čtvrtek,2020-08-27,3113,Trhové Sviny,1,0,0,2,0,0,0,0,23,3113,Trhové Sviny,19267,3657,CZ031,Jihočeský kraj,CZ,ČR,10.380443244926559,2,True,0,0.0,0,False,0,4.3478260869565215,3,False,0,0.0,0,5
+čtvrtek,2020-08-27,3113,Trhové Sviny,0,0,0,1,0,0,0,0,23,3113,Trhové Sviny,19267,3657,CZ031,Jihočeský kraj,CZ,ČR,5.190221622463279,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-08-27,3114,Třeboň,1,0,0,2,0,0,0,0,43,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,CZ,ČR,8.065817067268915,0,False,0,0.0,0,False,0,2.3255813953488373,0,False,0,1.0,10,10
 čtvrtek,2020-08-27,3115,Týn nad Vltavou,3,0,0,4,0,0,0,0,43,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,28.403039125186396,4,True,0,0.0,0,False,0,6.976744186046512,3,True,2,1.0,10,19
 čtvrtek,2020-08-27,3116,Vimperk,1,0,0,2,0,0,0,0,41,3116,Vimperk,17520,3591,CZ031,Jihočeský kraj,CZ,ČR,11.415525114155251,2,True,0,0.0,0,False,0,2.4390243902439024,0,False,0,1.0,10,12
@@ -85,7 +85,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-08-27,5102,Frýdlant,0,0,0,1,0,0,0,0,25,5102,Frýdlant,24479,4944,CZ051,Liberecký kraj,CZ,ČR,4.08513419665836,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-08-27,5103,Jablonec nad Nisou,7,4,1,15,5,1,0,0,212,5103,Jablonec nad Nisou,56206,11517,CZ051,Liberecký kraj,CZ,ČR,14.233355869480127,2,True,0,43.41408352869671,4,True,2,3.30188679245283,3,True,2,3.5,30,43
 čtvrtek,2020-08-27,5104,Jilemnice,5,1,0,5,1,0,0,0,74,5104,Jilemnice,22137,4768,CZ051,Liberecký kraj,CZ,ČR,22.58661968649772,2,True,0,20.973154362416107,2,True,2,6.756756756756757,3,True,2,0.0,0,11
-čtvrtek,2020-08-27,5105,Liberec,30,1,0,55,1,0,1,1,405,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,29.517559515637444,4,True,0,3.4590107229332414,0,True,2,7.4074074074074066,7,True,2,1.7647058823529411,25,40
+čtvrtek,2020-08-27,5105,Liberec,31,1,0,56,1,0,1,1,405,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,30.20401438809413,4,True,0,3.4590107229332414,0,True,2,7.654320987654321,7,True,2,1.8235294117647058,25,40
 čtvrtek,2020-08-27,5106,Nový Bor,1,1,0,2,2,1,0,0,47,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,3.8019922439358225,0,False,0,17.433751743375172,2,True,2,2.127659574468085,0,True,2,0.0,0,6
 čtvrtek,2020-08-27,5107,Semily,1,1,1,6,1,1,1,1,62,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,11.684518013631937,2,False,0,17.86033220217896,2,True,2,1.6129032258064515,0,False,0,0.5,0,6
 čtvrtek,2020-08-27,5108,Tanvald,0,0,0,2,1,1,0,0,34,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
