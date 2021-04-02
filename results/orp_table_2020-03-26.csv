@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-03-26,1000,Praha,372,65,38,612,92,44,86,93,2186,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,44.17504796957132,4,True,0,37.42544771187183,4,True,2,17.017383348581884,15,False,0,1.282758620689655,15,40
+čtvrtek,2020-03-26,1000,Praha,371,65,38,611,92,44,86,93,2186,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,44.099535067059236,4,True,0,37.42544771187183,4,True,2,16.97163769441903,15,False,0,1.2837370242214532,15,40
 čtvrtek,2020-03-26,2101,Benešov,8,1,0,22,2,0,1,1,62,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,36.05257120382812,4,True,0,16.49484536082474,2,True,2,12.903225806451612,11,False,0,0.4,0,19
 čtvrtek,2020-03-26,2102,Beroun,8,0,0,10,0,0,0,0,47,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,15.401912917584363,2,True,0,0.0,0,False,0,17.02127659574468,15,False,0,2.0,30,47
 čtvrtek,2020-03-26,2103,Brandýs n.L.- St.Boleslav,26,5,3,36,6,3,5,5,139,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,31.779099945269326,4,True,0,36.54970760233918,4,True,2,18.705035971223023,15,False,0,1.625,25,50
@@ -48,7 +48,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-03-26,3203,Horažďovice,0,0,0,0,0,0,0,0,4,3203,Horažďovice,11535,2662,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-03-26,3204,Horšovský Týn,1,0,0,2,0,0,0,0,6,3204,Horšovský Týn,14825,2829,CZ032,Plzeňský kraj,CZ,ČR,13.490725126475548,2,True,0,0.0,0,False,0,16.666666666666664,15,False,0,1.0,10,27
 čtvrtek,2020-03-26,3205,Klatovy,5,0,0,5,0,0,0,0,35,3205,Klatovy,50720,10750,CZ032,Plzeňský kraj,CZ,ČR,9.858044164037855,0,True,0,0.0,0,False,0,14.285714285714285,11,True,2,0.0,0,13
-čtvrtek,2020-03-26,3206,Kralovice,1,0,0,1,0,0,0,0,16,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,4.470872267179327,0,True,0,0.0,0,False,0,6.25,3,True,2,0.0,0,5
+čtvrtek,2020-03-26,3206,Kralovice,1,0,0,0,0,0,0,0,16,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,4.470872267179327,0,True,0,0.0,0,False,0,6.25,3,True,2,0.0,0,5
 čtvrtek,2020-03-26,3207,Nepomuk,0,0,0,0,0,0,0,0,5,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-03-26,3208,Nýřany,1,0,0,2,0,0,0,0,48,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,3.471498993265292,0,True,0,0.0,0,False,0,2.083333333333333,0,False,0,1.0,10,10
 čtvrtek,2020-03-26,3209,Plzeň,11,1,1,22,3,1,2,1,170,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,10.809141445336627,2,True,0,7.42831674342594,0,True,2,6.470588235294119,3,False,0,1.1,10,17
@@ -56,7 +56,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-03-26,3211,Rokycany,0,0,0,0,0,0,0,0,32,3211,Rokycany,49349,10085,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-03-26,3212,Stod,0,0,0,0,0,0,0,0,10,3212,Stod,23393,4517,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-03-26,3213,Stříbro,0,0,0,0,0,0,0,0,6,3213,Stříbro,17190,3184,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-03-26,3214,Sušice,0,0,0,0,0,0,0,0,6,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+čtvrtek,2020-03-26,3214,Sušice,0,0,0,-1,-1,0,0,0,6,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-03-26,3215,Tachov,8,1,0,8,1,0,0,0,25,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,21.536639207451678,2,True,0,15.518311607697083,2,True,2,32.0,30,True,2,0.0,0,38
 čtvrtek,2020-03-26,4101,Aš,1,0,0,1,0,0,1,1,3,4101,Aš,17695,3278,CZ041,Karlovarský kraj,CZ,ČR,5.651313930488838,0,True,0,0.0,0,False,0,33.33333333333333,30,False,0,0.0,0,30
 čtvrtek,2020-03-26,4102,Cheb,14,0,0,15,0,0,0,0,18,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,30.0270243218897,4,True,0,0.0,0,False,0,77.77777777777779,30,True,2,2.0,30,66
