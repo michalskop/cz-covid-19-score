@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-06-10,1000,Praha,74,17,14,208,45,26,23,13,3677,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,13.441296647151617,2,True,0,11.14800570140863,2,True,2,2.0125101985314116,0,False,0,0.7254901960784313,0,6
+středa,2020-06-10,1000,Praha,74,17,14,206,45,26,23,13,3677,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,13.441296647151617,2,True,0,11.14800570140863,2,True,2,2.0125101985314116,0,False,0,0.7254901960784313,0,6
 středa,2020-06-10,2101,Benešov,0,0,0,0,0,0,0,0,73,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,2102,Beroun,0,0,0,0,0,0,0,0,104,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,2103,Brandýs n.L.- St.Boleslav,6,0,0,8,0,0,0,0,197,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,6.179269433802369,0,True,0,0.0,0,False,0,3.0456852791878175,3,True,2,6.0,30,35
@@ -51,7 +51,7 @@ středa,2020-06-10,3205,Klatovy,0,0,0,3,0,0,0,0,43,3205,Klatovy,50720,10750,CZ03
 středa,2020-06-10,3206,Kralovice,0,0,0,-1,0,0,0,0,55,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,3207,Nepomuk,0,0,0,0,0,0,0,0,32,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,3208,Nýřany,0,0,0,0,0,0,0,0,129,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2020-06-10,3209,Plzeň,0,0,0,5,0,0,0,0,472,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,0.5147210212065061,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+středa,2020-06-10,3209,Plzeň,0,0,0,6,0,0,0,0,472,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,0.5147210212065061,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,3210,Přeštice,0,0,0,0,0,0,0,0,42,3210,Přeštice,22885,4449,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,3211,Rokycany,0,0,0,0,0,0,0,0,83,3211,Rokycany,49349,10085,CZ032,Plzeňský kraj,CZ,ČR,2.0263835133437356,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2020-06-10,3212,Stod,0,0,0,0,0,0,0,0,39,3212,Stod,23393,4517,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -59,7 +59,7 @@ středa,2020-06-10,3213,Stříbro,0,0,0,0,0,0,0,0,44,3213,Stříbro,17190,3184,C
 středa,2020-06-10,3214,Sušice,1,0,0,3,1,1,1,0,23,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,CZ,ČR,8.281573498964804,0,True,0,18.031013342949876,2,True,2,4.3478260869565215,3,True,2,1.0,10,19
 středa,2020-06-10,3215,Tachov,0,0,0,0,0,0,0,0,75,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,4101,Aš,0,0,0,1,0,0,1,0,45,4101,Aš,17695,3278,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2020-06-10,4102,Cheb,9,3,0,12,2,1,1,1,160,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,24.021619457511758,2,True,0,30.593514174994905,4,True,2,5.625,3,True,2,1.0,10,23
+středa,2020-06-10,4102,Cheb,9,3,0,13,3,1,1,1,160,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,24.021619457511758,2,True,0,30.593514174994905,4,True,2,5.625,3,True,2,1.0,10,23
 středa,2020-06-10,4103,Karlovy Vary,2,1,0,-1,0,0,0,0,116,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,2.294051524397238,0,True,0,5.194805194805195,0,True,2,1.7241379310344827,0,True,2,2.0,30,34
 středa,2020-06-10,4104,Kraslice,1,0,0,1,0,0,0,0,16,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,7.584951456310679,0,True,0,0.0,0,False,0,6.25,3,True,2,1.0,10,15
 středa,2020-06-10,4105,Mariánské Lázně,0,0,0,0,0,0,0,0,60,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -78,7 +78,7 @@ středa,2020-06-10,4210,Podbořany,0,0,0,0,0,0,0,0,21,4210,Podbořany,15678,3106
 středa,2020-06-10,4211,Roudnice nad Labem,0,0,0,1,0,0,0,0,29,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,6.0960741282613995,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,4212,Rumburk,0,0,0,1,0,0,0,0,44,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,4213,Teplice,1,0,0,4,1,0,1,0,174,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,4.696070328349237,0,False,0,14.140938015555033,2,True,2,0.5747126436781609,0,False,0,0.2,0,4
-středa,2020-06-10,4214,Ústí nad Labem,0,0,0,8,1,1,0,0,199,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,8.379560575843403,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+středa,2020-06-10,4214,Ústí nad Labem,0,0,0,8,0,0,0,0,199,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,8.379560575843403,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2020-06-10,4215,Varnsdorf,0,0,0,0,0,0,0,0,30,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,4216,Žatec,0,0,0,1,0,0,0,0,48,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,3.6532349395389616,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,5101,Česká Lípa,0,0,0,0,0,0,0,0,43,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

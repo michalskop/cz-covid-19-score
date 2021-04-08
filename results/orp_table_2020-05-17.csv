@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2020-05-17,1000,Praha,108,13,5,292,65,41,26,8,5602,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.102580502417547,2,True,0,10.351719579879441,2,True,2,1.9278828989646553,0,True,2,1.3333333333333333,15,23
+neděle,2020-05-17,1000,Praha,108,13,5,292,65,41,26,8,5602,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.102580502417547,2,True,0,10.351719579879441,2,True,2,1.9278828989646553,0,True,2,1.3170731707317074,15,23
 neděle,2020-05-17,2101,Benešov,2,0,0,4,0,0,0,0,283,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,6.555012946150569,0,True,0,0.0,0,False,0,0.7067137809187279,0,False,0,2.0,30,30
 neděle,2020-05-17,2102,Beroun,0,0,0,1,0,0,0,0,173,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-05-17,2103,Brandýs n.L.- St.Boleslav,7,0,0,9,1,1,0,0,381,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,7.944774986317332,0,True,0,0.0,0,False,0,1.837270341207349,0,True,2,1.75,25,27
@@ -59,7 +59,7 @@ neděle,2020-05-17,3213,Stříbro,0,0,0,0,0,0,0,0,56,3213,Stříbro,17190,3184,C
 neděle,2020-05-17,3214,Sušice,1,0,0,4,1,2,0,0,44,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,CZ,ČR,4.140786749482402,0,False,0,0.0,0,False,0,2.272727272727273,0,True,2,0.0,0,2
 neděle,2020-05-17,3215,Tachov,1,0,0,13,0,0,0,0,236,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,16.152479405588757,2,False,0,0.0,0,False,0,0.423728813559322,0,False,0,0.2,0,2
 neděle,2020-05-17,4101,Aš,4,0,0,7,0,0,2,2,163,4101,Aš,17695,3278,CZ041,Karlovarský kraj,CZ,ČR,45.210511443910704,4,True,0,0.0,0,False,0,2.4539877300613497,0,True,2,1.0,10,16
-neděle,2020-05-17,4102,Cheb,3,0,0,33,6,4,1,1,378,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,56.05044540086077,7,False,0,40.791352233326535,4,True,2,0.7936507936507936,0,False,0,0.21428571428571427,0,13
+neděle,2020-05-17,4102,Cheb,3,0,0,34,7,4,1,1,378,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,56.05044540086077,7,False,0,40.791352233326535,4,True,2,0.7936507936507936,0,False,0,0.21428571428571427,0,13
 neděle,2020-05-17,4103,Karlovy Vary,0,0,0,-1,0,0,0,0,462,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,1.147025762198619,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-05-17,4104,Kraslice,0,0,0,0,0,0,0,0,128,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2020-05-17,4105,Mariánské Lázně,2,2,1,27,19,11,2,1,161,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,45.863909272848566,4,False,0,110.72153533862337,7,True,2,1.2422360248447204,0,False,0,1.0,10,23
