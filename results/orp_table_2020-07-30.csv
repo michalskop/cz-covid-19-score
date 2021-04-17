@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-07-30,1000,Praha,396,23,6,671,36,12,16,15,7118,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,49.763002755465806,4,True,0,14.333150187525382,2,True,2,5.563360494520933,3,False,0,1.0879120879120878,10,21
+čtvrtek,2020-07-30,1000,Praha,396,23,6,670,36,12,16,15,7118,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,49.763002755465806,4,True,0,14.333150187525382,2,True,2,5.563360494520933,3,False,0,1.0879120879120878,10,21
 čtvrtek,2020-07-30,2101,Benešov,7,1,0,12,1,0,0,0,161,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,19.665038838451704,2,True,0,8.24742268041237,0,True,2,4.3478260869565215,3,False,0,0.875,5,12
 čtvrtek,2020-07-30,2102,Beroun,13,1,1,22,1,1,0,0,211,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,33.8842084186856,4,True,0,8.77808988764045,0,True,2,6.161137440758294,3,True,2,1.1818181818181819,10,21
 čtvrtek,2020-07-30,2103,Brandýs n.L.- St.Boleslav,30,2,2,53,3,2,0,0,524,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,46.78589714164651,4,True,0,18.27485380116959,2,True,2,5.7251908396946565,3,False,0,1.1111111111111112,10,21
@@ -176,8 +176,8 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-30,7204,Luhačovice,2,0,0,2,0,0,0,0,36,7204,Luhačovice,18624,3952,CZ072,Zlínský kraj,CZ,ČR,10.738831615120274,2,True,0,0.0,0,False,0,5.555555555555555,3,True,2,0.0,0,7
 čtvrtek,2020-07-30,7205,Otrokovice,0,0,0,0,0,0,0,0,57,7205,Otrokovice,34276,7438,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-30,7206,Rožnov pod Radhoštěm,0,0,0,0,0,0,0,0,104,7206,Rožnov pod Radhoštěm,35175,7559,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-07-30,7207,Uherské Hradiště,4,1,0,15,3,1,0,0,296,7207,Uherské Hradiště,90117,18605,CZ072,Zlínský kraj,CZ,ČR,6.658011252039016,0,False,0,10.749798441279227,2,True,2,1.3513513513513513,0,True,2,0.8,5,11
-čtvrtek,2020-07-30,7208,Uherský Brod,10,3,1,32,4,1,1,0,205,7208,Uherský Brod,52109,10911,CZ072,Zlínský kraj,CZ,ČR,61.40973728146769,7,False,0,45.82531390340024,4,True,2,4.878048780487805,3,False,0,0.5263157894736842,0,16
+čtvrtek,2020-07-30,7207,Uherské Hradiště,4,1,0,15,3,1,0,0,299,7207,Uherské Hradiště,90117,18605,CZ072,Zlínský kraj,CZ,ČR,6.658011252039016,0,False,0,10.749798441279227,2,True,2,1.3377926421404682,0,True,2,0.8,5,11
+čtvrtek,2020-07-30,7208,Uherský Brod,10,3,1,32,4,1,1,0,206,7208,Uherský Brod,52109,10911,CZ072,Zlínský kraj,CZ,ČR,61.40973728146769,7,False,0,45.82531390340024,4,True,2,4.854368932038835,3,False,0,0.5263157894736842,0,16
 čtvrtek,2020-07-30,7209,Valašské Klobouky,4,0,0,4,0,0,0,0,55,7209,Valašské Klobouky,23102,4300,CZ072,Zlínský kraj,CZ,ČR,17.31451822353043,2,True,0,0.0,0,False,0,7.2727272727272725,7,True,2,0.0,0,11
 čtvrtek,2020-07-30,7210,Valašské Meziříčí,0,0,0,2,0,0,0,0,116,7210,Valašské Meziříčí,41831,8296,CZ072,Zlínský kraj,CZ,ČR,2.390571585666133,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-07-30,7211,Vizovice,1,0,0,2,0,0,0,0,36,7211,Vizovice,17153,3096,CZ072,Zlínský kraj,CZ,ČR,11.659767970617384,2,False,0,0.0,0,False,0,2.7777777777777777,0,False,0,0.0,0,2
