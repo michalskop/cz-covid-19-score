@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-07-16,1000,Praha,91,8,3,186,19,10,11,6,3192,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.082064401934037,2,True,0,3.9814306076459394,0,True,2,2.850877192982456,0,True,2,1.1518987341772151,10,16
+čtvrtek,2020-07-16,1000,Praha,91,8,3,187,19,10,11,6,3192,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.082064401934037,2,True,0,3.9814306076459394,0,True,2,2.850877192982456,0,True,2,1.1518987341772151,10,16
 čtvrtek,2020-07-16,2101,Benešov,2,1,1,3,1,1,0,0,106,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,4.916259709612926,0,True,0,8.24742268041237,0,True,2,1.8867924528301887,0,True,2,1.0,10,14
 čtvrtek,2020-07-16,2102,Beroun,0,0,0,1,0,0,0,0,88,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,1.5401912917584364,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-16,2103,Brandýs n.L.- St.Boleslav,5,0,0,14,0,0,0,0,196,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,13.241291643862219,2,False,0,0.0,0,False,0,2.5510204081632653,0,False,0,0.5555555555555556,0,2
@@ -15,7 +15,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-16,2113,Lysá nad Labem,0,0,0,1,0,0,0,0,35,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,3.7165049986992233,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-07-16,2114,Mělník,8,0,0,8,0,0,0,0,53,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,17.937219730941703,2,True,0,0.0,0,False,0,15.09433962264151,15,True,2,0.0,0,19
 čtvrtek,2020-07-16,2115,Mladá Boleslav,0,0,0,14,1,0,0,0,109,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,2.667520273154076,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-čtvrtek,2020-07-16,2116,Mnichovo Hradiště,0,0,0,1,0,0,0,0,15,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+čtvrtek,2020-07-16,2116,Mnichovo Hradiště,0,0,0,0,0,0,0,0,15,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-16,2117,Neratovice,13,2,0,12,2,0,0,0,65,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,40.38897691614627,4,True,0,33.85813441679363,4,True,2,20.0,20,True,2,0.0,0,32
 čtvrtek,2020-07-16,2118,Nymburk,1,0,0,1,0,0,1,1,50,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,2.4886145882587165,0,True,0,0.0,0,False,0,2.0,0,True,2,0.0,0,2
 čtvrtek,2020-07-16,2119,Poděbrady,4,0,0,7,1,1,3,1,66,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,CZ,ČR,22.30578038365942,2,True,0,14.52854859799506,2,True,2,6.0606060606060606,3,True,2,0.8,5,16
@@ -42,7 +42,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-16,3114,Třeboň,1,0,0,2,0,0,0,0,36,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,CZ,ČR,8.065817067268915,0,True,0,0.0,0,False,0,2.7777777777777777,0,False,0,1.0,10,10
 čtvrtek,2020-07-16,3115,Týn nad Vltavou,0,0,0,0,0,0,0,0,10,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-16,3116,Vimperk,0,0,0,0,0,0,0,0,11,3116,Vimperk,17520,3591,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-07-16,3117,Vodňany,0,0,0,0,0,0,0,0,75,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+čtvrtek,2020-07-16,3117,Vodňany,0,0,0,1,0,0,0,0,75,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-16,3201,Blovice,0,0,0,0,0,0,0,0,8,3201,Blovice,12185,2566,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-16,3202,Domažlice,0,0,0,0,0,0,0,0,16,3202,Domažlice,40679,8358,CZ032,Plzeňský kraj,CZ,ČR,2.4582708522825043,0,False,0,11.964584828906437,2,True,2,0.0,0,False,0,,30,34
 čtvrtek,2020-07-16,3203,Horažďovice,0,0,0,0,0,0,0,0,4,3203,Horažďovice,11535,2662,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

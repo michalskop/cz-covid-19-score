@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2020-06-01,1000,Praha,76,10,5,231,35,16,22,8,4636,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.024883766764809,2,False,0,5.972145911468909,0,True,2,1.639344262295082,0,True,2,1.3818181818181818,15,21
+pondělí,2020-06-01,1000,Praha,77,10,5,233,35,16,22,8,4636,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.100396669276895,2,False,0,5.972145911468909,0,True,2,1.6609145815358068,0,True,2,1.4,20,26
 pondělí,2020-06-01,2101,Benešov,0,0,0,2,1,0,0,0,125,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,8.24742268041237,0,True,2,0.0,0,False,0,0.0,0,2
 pondělí,2020-06-01,2102,Beroun,0,0,0,1,1,1,1,0,137,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,1.5401912917584364,0,False,0,8.77808988764045,0,True,2,0.0,0,False,0,0.0,0,2
 pondělí,2020-06-01,2103,Brandýs n.L.- St.Boleslav,1,0,0,8,1,1,1,0,300,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,5.296516657544888,0,False,0,0.0,0,False,0,0.33333333333333337,0,False,0,0.25,0,0
@@ -15,7 +15,7 @@ pondělí,2020-06-01,2112,Kutná Hora,0,0,0,0,0,0,0,0,55,2112,Kutná Hora,50165,
 pondělí,2020-06-01,2113,Lysá nad Labem,0,0,0,2,0,0,0,0,68,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,3.7165049986992233,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2020-06-01,2114,Mělník,0,0,0,1,0,0,0,0,95,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-06-01,2115,Mladá Boleslav,1,0,0,16,3,0,0,0,333,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,3.5566936975387677,0,False,0,4.85366208804543,0,True,2,0.3003003003003003,0,False,0,0.25,0,2
-pondělí,2020-06-01,2116,Mnichovo Hradiště,1,0,0,1,0,0,0,0,53,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,5.5862800960840175,0,True,0,0.0,0,False,0,1.8867924528301887,0,True,2,0.0,0,2
+pondělí,2020-06-01,2116,Mnichovo Hradiště,0,0,0,0,0,0,0,0,53,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-06-01,2117,Neratovice,2,0,0,22,0,0,0,0,109,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,9.320533134495292,0,False,0,0.0,0,False,0,1.834862385321101,0,True,2,0.0,0,2
 pondělí,2020-06-01,2118,Nymburk,0,0,0,0,0,0,0,0,76,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-06-01,2119,Poděbrady,12,9,7,12,10,8,10,10,129,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,CZ,ČR,41.42502071251035,4,True,0,145.2854859799506,10,True,2,9.30232558139535,7,True,2,6.0,30,55
@@ -42,7 +42,7 @@ pondělí,2020-06-01,3113,Trhové Sviny,1,0,0,1,0,0,0,0,37,3113,Trhové Sviny,19
 pondělí,2020-06-01,3114,Třeboň,0,0,0,0,0,0,0,0,51,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-06-01,3115,Týn nad Vltavou,0,0,0,0,0,0,0,0,16,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-06-01,3116,Vimperk,0,0,0,0,0,0,0,0,141,3116,Vimperk,17520,3591,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pondělí,2020-06-01,3117,Vodňany,0,0,0,0,0,0,0,0,25,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pondělí,2020-06-01,3117,Vodňany,0,0,0,1,0,0,0,0,25,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-06-01,3201,Blovice,0,0,0,1,0,0,0,0,30,3201,Blovice,12185,2566,CZ032,Plzeňský kraj,CZ,ČR,8.206811653672549,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2020-06-01,3202,Domažlice,0,0,0,10,4,3,0,0,220,3202,Domažlice,40679,8358,CZ032,Plzeňský kraj,CZ,ČR,7.374812556847513,0,False,0,23.929169657812874,2,True,2,0.0,0,False,0,0.0,0,4
 pondělí,2020-06-01,3203,Horažďovice,0,0,0,0,0,0,0,0,33,3203,Horažďovice,11535,2662,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

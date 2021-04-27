@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2020-05-23,1000,Praha,102,11,4,292,62,40,26,11,5897,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.555657917490072,2,True,0,9.953576519114849,0,True,2,1.7296930642699677,0,False,0,0.8429752066115702,5,9
+sobota,2020-05-23,1000,Praha,102,11,4,291,62,40,26,11,5897,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.480145014977985,2,True,0,9.953576519114849,0,True,2,1.7296930642699677,0,False,0,0.85,5,9
 sobota,2020-05-23,2101,Benešov,2,1,0,5,1,0,0,0,235,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,6.555012946150569,0,False,0,8.24742268041237,0,True,2,0.851063829787234,0,True,2,1.0,10,14
 sobota,2020-05-23,2102,Beroun,1,1,1,1,1,1,1,1,201,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,1.5401912917584364,0,True,0,8.77808988764045,0,True,2,0.4975124378109453,0,True,2,0.0,0,4
 sobota,2020-05-23,2103,Brandýs n.L.- St.Boleslav,4,0,0,10,1,1,1,1,356,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,8.827527762574814,0,True,0,0.0,0,False,0,1.1235955056179776,0,False,0,0.6666666666666666,0,0
@@ -42,7 +42,7 @@ sobota,2020-05-23,3113,Trhové Sviny,0,0,0,0,0,0,0,0,36,3113,Trhové Sviny,19267
 sobota,2020-05-23,3114,Třeboň,0,0,0,0,0,0,0,0,38,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-23,3115,Týn nad Vltavou,0,0,0,0,0,0,0,0,20,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-23,3116,Vimperk,0,0,0,0,0,0,0,0,85,3116,Vimperk,17520,3591,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-sobota,2020-05-23,3117,Vodňany,0,0,0,0,0,0,0,0,29,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+sobota,2020-05-23,3117,Vodňany,0,0,0,1,0,0,0,0,29,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-05-23,3201,Blovice,1,0,0,1,0,0,0,0,40,3201,Blovice,12185,2566,CZ032,Plzeňský kraj,CZ,ČR,8.206811653672549,0,False,0,0.0,0,False,0,2.5,0,True,2,0.0,0,2
 sobota,2020-05-23,3202,Domažlice,4,2,2,34,10,6,1,1,223,3202,Domažlice,40679,8358,CZ032,Plzeňský kraj,CZ,ČR,29.499250227390053,4,True,0,35.89375448671931,4,True,2,1.7937219730941705,0,False,0,0.5,0,10
 sobota,2020-05-23,3203,Horažďovice,0,0,0,0,0,0,0,0,35,3203,Horažďovice,11535,2662,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
