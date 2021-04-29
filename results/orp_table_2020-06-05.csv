@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2020-06-05,1000,Praha,104,22,15,221,42,23,22,16,4133,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.006551499421949,2,False,0,9.953576519114849,0,True,2,2.5163319622550206,0,True,2,1.5294117647058822,20,26
+pátek,2020-06-05,1000,Praha,103,22,15,219,42,23,22,16,4133,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.931038596909861,2,False,0,9.953576519114849,0,True,2,2.492136462617953,0,True,2,1.537313432835821,20,26
 pátek,2020-06-05,2101,Benešov,0,0,0,0,0,0,0,0,105,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-05,2102,Beroun,0,0,0,0,0,0,0,0,117,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-05,2103,Brandýs n.L.- St.Boleslav,1,0,0,4,1,1,0,0,234,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,3.531011105029925,0,False,0,0.0,0,False,0,0.4273504273504274,0,False,0,0.3333333333333333,0,0
@@ -73,12 +73,12 @@ pátek,2020-06-05,4205,Litoměřice,7,5,2,8,0,0,0,0,161,4205,Litoměřice,59110,
 pátek,2020-06-05,4206,Litvínov,0,0,0,0,0,0,0,0,68,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-05,4207,Louny,0,0,0,1,0,0,0,0,69,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,2.2914757103574703,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-06-05,4208,Lovosice,1,1,0,5,1,1,1,0,71,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,18.01801801801802,2,True,0,34.45899379738112,4,True,2,1.4084507042253522,0,False,0,0.3333333333333333,0,8
-pátek,2020-06-05,4209,Most,1,1,1,0,0,0,0,0,129,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,1.3391721237930712,0,True,0,7.337295472888694,0,True,2,0.7751937984496124,0,True,2,1.0,10,14
+pátek,2020-06-05,4209,Most,2,1,1,1,0,0,0,0,129,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,2.6783442475861423,0,True,0,7.337295472888694,0,True,2,1.550387596899225,0,True,2,1.0,10,14
 pátek,2020-06-05,4210,Podbořany,1,0,0,0,0,0,0,0,25,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,6.378364587319811,0,True,0,0.0,0,False,0,4.0,3,True,2,1.0,10,15
 pátek,2020-06-05,4211,Roudnice nad Labem,0,0,0,2,0,0,0,0,62,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,6.0960741282613995,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-06-05,4212,Rumburk,0,0,0,1,0,0,0,0,84,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-05,4213,Teplice,5,3,2,6,3,1,1,3,269,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,4.696070328349237,0,True,0,14.140938015555033,2,True,2,1.858736059479554,0,True,2,0.0,0,6
-pátek,2020-06-05,4214,Ústí nad Labem,10,0,0,8,1,1,0,0,289,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,8.379560575843403,0,True,0,0.0,0,False,0,3.4602076124567476,3,True,2,5.0,30,35
+pátek,2020-06-05,4214,Ústí nad Labem,10,0,0,8,0,0,0,0,289,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,8.379560575843403,0,True,0,0.0,0,False,0,3.4602076124567476,3,True,2,5.0,30,35
 pátek,2020-06-05,4215,Varnsdorf,0,0,0,0,0,0,0,0,37,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-06-05,4216,Žatec,0,0,0,2,0,0,0,0,49,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,7.306469879077923,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-06-05,5101,Česká Lípa,0,0,0,1,0,0,0,0,46,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
