@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2020-08-24,1000,Praha,549,40,27,1011,66,39,16,18,8411,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,79.21303473518003,7,True,0,28.666300375050763,4,True,2,6.527166805373915,3,True,2,1.125,10,28
+pondělí,2020-08-24,1000,Praha,547,40,27,1009,66,39,16,18,8411,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,78.98649602764377,7,True,0,28.666300375050763,4,True,2,6.503388419926287,3,True,2,1.1232032854209446,10,28
 pondělí,2020-08-24,2101,Benešov,5,0,0,14,0,0,0,0,230,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,19.665038838451704,2,False,0,0.0,0,False,0,2.1739130434782608,0,False,0,0.8333333333333334,5,7
 pondělí,2020-08-24,2102,Beroun,10,0,0,16,1,0,0,0,205,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,26.18325195989342,4,True,0,8.77808988764045,0,True,2,4.878048780487805,3,True,2,2.0,30,41
 pondělí,2020-08-24,2103,Brandýs n.L.- St.Boleslav,25,0,0,50,2,2,0,0,504,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,41.48938048410162,4,False,0,12.183235867446394,2,True,2,4.9603174603174605,3,True,2,1.1363636363636365,10,23
@@ -124,7 +124,7 @@ pondělí,2020-08-24,5315,Žamberk,16,0,0,16,0,0,0,0,99,5315,Žamberk,29463,5651
 pondělí,2020-08-24,6101,Bystřice nad Pernštejnem,1,0,0,2,0,0,0,0,37,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,10.124019235636549,2,False,0,0.0,0,False,0,2.7027027027027026,0,False,0,1.0,10,12
 pondělí,2020-08-24,6102,Havlíčkův Brod,13,0,0,28,2,0,0,1,163,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,52.89805788558906,7,True,0,18.570102135561743,2,True,2,7.975460122699387,7,True,2,0.9285714285714286,5,25
 pondělí,2020-08-24,6103,Humpolec,7,0,0,9,0,0,0,0,46,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,44.812906116961685,4,True,0,0.0,0,False,0,15.217391304347828,15,True,2,3.5,30,51
-pondělí,2020-08-24,6104,Chotěboř,3,3,0,5,3,0,2,2,34,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,22.86027798098025,2,True,0,62.44796003330558,7,True,2,8.823529411764707,7,True,2,0.75,0,20
+pondělí,2020-08-24,6104,Chotěboř,3,3,0,4,2,-1,2,2,34,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,22.86027798098025,2,True,0,62.44796003330558,7,True,2,8.823529411764707,7,True,2,0.75,0,20
 pondělí,2020-08-24,6105,Jihlava,22,2,1,39,4,2,0,0,204,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,37.596216633357734,4,True,0,25.3716953366824,4,True,2,10.784313725490197,7,True,2,1.6923076923076923,25,44
 pondělí,2020-08-24,6106,Moravské Budějovice,2,0,0,2,0,0,0,0,35,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,8.658758334054896,0,True,0,0.0,0,False,0,5.714285714285714,3,True,2,0.0,0,5
 pondělí,2020-08-24,6107,Náměšť nad Oslavou,2,0,0,2,0,0,0,0,22,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,14.880952380952383,2,True,0,0.0,0,False,0,9.090909090909092,7,True,2,0.0,0,11

@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2020-07-10,1000,Praha,73,4,1,178,17,8,6,6,2982,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,10.949370864252721,2,False,0,3.5832875468813454,0,True,2,2.448021462105969,0,True,2,1.2166666666666666,15,21
+pátek,2020-07-10,1000,Praha,73,4,1,179,17,8,6,6,2982,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,10.949370864252721,2,False,0,3.5832875468813454,0,True,2,2.448021462105969,0,True,2,1.2166666666666666,15,21
 pátek,2020-07-10,2101,Benešov,2,0,0,2,0,0,0,0,68,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,2.941176470588235,0,True,2,0.0,0,2
 pátek,2020-07-10,2102,Beroun,1,0,0,1,0,0,0,0,77,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,3.0803825835168728,0,False,0,0.0,0,False,0,1.2987012987012987,0,True,2,0.5,0,2
 pátek,2020-07-10,2103,Brandýs n.L.- St.Boleslav,9,0,0,13,0,0,0,0,193,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,13.241291643862219,2,True,0,0.0,0,False,0,4.66321243523316,3,True,2,1.2857142857142858,15,22
@@ -78,7 +78,7 @@ pátek,2020-07-10,4210,Podbořany,0,0,0,0,0,0,0,0,10,4210,Podbořany,15678,3106,
 pátek,2020-07-10,4211,Roudnice nad Labem,0,0,0,0,0,0,0,0,21,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-10,4212,Rumburk,0,0,0,1,0,0,0,0,18,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-10,4213,Teplice,1,0,0,0,0,0,0,0,59,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,0.9392140656698474,0,True,0,0.0,0,False,0,1.694915254237288,0,True,2,0.0,0,2
-pátek,2020-07-10,4214,Ústí nad Labem,0,0,0,3,0,0,0,0,62,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,0.8379560575843403,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2020-07-10,4214,Ústí nad Labem,0,0,0,3,1,1,0,0,62,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,0.8379560575843403,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-07-10,4215,Varnsdorf,0,0,0,0,0,0,0,0,6,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-10,4216,Žatec,0,0,0,0,0,0,0,0,14,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-10,5101,Česká Lípa,1,0,0,1,0,0,0,0,42,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,1.2987350320787552,0,True,0,0.0,0,False,0,2.380952380952381,0,True,2,0.0,0,2
@@ -124,7 +124,7 @@ pátek,2020-07-10,5315,Žamberk,0,0,0,0,0,0,0,0,11,5315,Žamberk,29463,5651,CZ05
 pátek,2020-07-10,6101,Bystřice nad Pernštejnem,1,0,0,1,0,0,0,0,15,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,5.0620096178182745,0,True,0,0.0,0,False,0,6.666666666666667,3,True,2,0.0,0,5
 pátek,2020-07-10,6102,Havlíčkův Brod,0,0,0,-3,-3,-3,0,0,56,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-10,6103,Humpolec,0,0,0,0,0,0,0,0,6,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-07-10,6104,Chotěboř,0,0,0,0,0,0,0,0,17,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2020-07-10,6104,Chotěboř,0,0,0,-1,-1,-1,0,0,17,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-10,6105,Jihlava,23,2,2,27,2,2,0,0,221,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,24.734353048261667,2,True,0,10.148678134672958,2,True,2,10.407239819004525,7,True,2,11.5,30,45
 pátek,2020-07-10,6106,Moravské Budějovice,0,0,0,0,0,0,0,0,22,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-10,6107,Náměšť nad Oslavou,0,0,0,0,0,0,0,0,7,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

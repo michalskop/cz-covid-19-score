@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-05-14,1000,Praha,92,16,8,272,69,46,34,15,5170,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.459628914494475,2,True,0,9.953576519114849,0,True,2,1.7794970986460348,0,True,2,1.0952380952380953,10,16
+čtvrtek,2020-05-14,1000,Praha,94,16,8,275,69,46,34,15,5170,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.610654719518651,2,True,0,9.953576519114849,0,True,2,1.8181818181818181,0,True,2,1.119047619047619,10,16
 čtvrtek,2020-05-14,2101,Benešov,1,0,0,3,0,0,0,0,285,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,4.916259709612926,0,True,0,0.0,0,False,0,0.3508771929824561,0,False,0,0.5,0,0
 čtvrtek,2020-05-14,2102,Beroun,0,0,0,1,0,0,0,0,186,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,2103,Brandýs n.L.- St.Boleslav,3,0,0,7,3,3,0,0,315,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,5.296516657544888,0,True,0,6.091617933723197,0,True,2,0.9523809523809524,0,True,2,1.5,20,24
@@ -124,7 +124,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-05-14,6101,Bystřice nad Pernštejnem,0,0,0,0,0,0,0,0,25,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,6102,Havlíčkův Brod,1,0,0,8,5,3,0,0,96,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,1.889216353056752,0,True,0,0.0,0,False,0,1.0416666666666665,0,True,2,0.0,0,2
 čtvrtek,2020-05-14,6103,Humpolec,0,0,0,0,0,0,0,0,22,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-05-14,6104,Chotěboř,1,0,0,10,0,0,0,0,56,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,4.57205559619605,0,True,0,0.0,0,False,0,1.7857142857142856,0,True,2,1.0,10,12
+čtvrtek,2020-05-14,6104,Chotěboř,1,0,0,9,-1,-1,0,0,56,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,4.57205559619605,0,True,0,0.0,0,False,0,1.7857142857142856,0,True,2,1.0,10,12
 čtvrtek,2020-05-14,6105,Jihlava,0,0,0,0,0,0,0,0,115,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,6106,Moravské Budějovice,0,0,0,0,0,0,0,0,78,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-05-14,6107,Náměšť nad Oslavou,0,0,0,2,0,0,0,0,39,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,7.440476190476192,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
