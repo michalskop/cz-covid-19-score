@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2020-05-19,1000,Praha,130,15,5,302,66,42,27,8,5568,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.008735332562598,2,True,0,10.351719579879441,2,True,2,2.3347701149425286,0,True,2,1.3829787234042554,15,23
+úterý,2020-05-19,1000,Praha,129,15,5,300,66,42,27,8,5568,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.857709527538423,2,True,0,10.351719579879441,2,True,2,2.3168103448275863,0,True,2,1.4021739130434783,20,28
 úterý,2020-05-19,2101,Benešov,3,1,0,5,1,0,0,0,256,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,6.555012946150569,0,True,0,8.24742268041237,0,True,2,1.171875,0,True,2,3.0,30,34
 úterý,2020-05-19,2102,Beroun,0,0,0,0,0,0,0,0,183,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-05-19,2103,Brandýs n.L.- St.Boleslav,7,0,0,11,1,1,1,1,365,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,9.710280538832295,0,True,0,0.0,0,False,0,1.9178082191780823,0,True,2,2.3333333333333335,30,32
@@ -78,7 +78,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-05-19,4211,Roudnice nad Labem,1,0,0,8,2,0,0,0,102,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,6.0960741282613995,0,False,0,0.0,0,False,0,0.9803921568627451,0,False,0,1.0,10,10
 úterý,2020-05-19,4212,Rumburk,2,0,0,2,0,0,0,0,84,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,6.098490623570666,0,True,0,0.0,0,False,0,2.380952380952381,0,True,2,0.0,0,2
 úterý,2020-05-19,4213,Teplice,6,1,1,12,3,1,1,1,491,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,9.392140656698475,0,True,0,4.71364600518501,0,True,2,1.2219959266802443,0,True,2,1.0,10,14
-úterý,2020-05-19,4214,Ústí nad Labem,3,1,1,0,2,1,1,0,448,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,2.5138681727530208,0,True,0,4.171707479871511,0,True,2,0.6696428571428571,0,True,2,0.0,0,4
+úterý,2020-05-19,4214,Ústí nad Labem,3,0,0,0,1,0,1,0,448,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,2.5138681727530208,0,True,0,0.0,0,False,0,0.6696428571428571,0,True,2,0.0,0,2
 úterý,2020-05-19,4215,Varnsdorf,1,0,0,1,0,0,0,0,40,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,5.023863350916855,0,True,0,0.0,0,False,0,2.5,0,True,2,1.0,10,12
 úterý,2020-05-19,4216,Žatec,0,0,0,0,0,0,0,0,53,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-05-19,5101,Česká Lípa,0,0,0,1,0,0,0,0,79,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,1.2987350320787552,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
