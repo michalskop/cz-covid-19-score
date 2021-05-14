@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-04-23,1000,Praha,132,40,35,532,152,101,69,33,4693,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,21.672203020969178,2,False,0,28.666300375050763,4,True,2,2.812699765608353,0,False,0,0.88,5,13
+čtvrtek,2020-04-23,1000,Praha,132,40,35,534,152,101,69,33,4693,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,21.672203020969178,2,False,0,28.666300375050763,4,True,2,2.812699765608353,0,False,0,0.88,5,13
 čtvrtek,2020-04-23,2101,Benešov,3,0,0,26,3,1,1,1,240,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,False,0,8.24742268041237,0,True,2,1.25,0,False,0,1.5,20,24
 čtvrtek,2020-04-23,2102,Beroun,0,0,0,9,1,0,0,0,128,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,3.0803825835168728,0,False,0,8.77808988764045,0,True,2,0.0,0,False,0,0.0,0,2
 čtvrtek,2020-04-23,2103,Brandýs n.L.- St.Boleslav,10,1,0,37,7,4,1,0,405,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,17.655055525149628,2,False,0,24.366471734892787,2,True,2,2.4691358024691357,0,False,0,0.7692307692307693,0,6
@@ -27,7 +27,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-04-23,2125,Vlašim,0,0,0,17,5,0,1,0,111,2125,Vlašim,25947,5665,CZ020,Středočeský kraj,CZ,ČR,23.12406058503873,2,False,0,17.6522506619594,2,True,2,0.0,0,False,0,0.0,0,6
 čtvrtek,2020-04-23,2126,Votice,0,0,0,3,0,0,0,0,114,2126,Votice,12445,2654,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-04-23,3101,Blatná,0,0,0,1,0,0,0,0,55,3101,Blatná,13668,3093,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-04-23,3102,České Budějovice,0,0,0,24,5,1,1,3,159,3102,České Budějovice,162553,31763,CZ031,Jihočeský kraj,CZ,ČR,9.842943532263323,0,False,0,12.593268897774141,2,True,2,0.0,0,False,0,0.0,0,4
+čtvrtek,2020-04-23,3102,České Budějovice,0,0,0,24,5,1,1,3,159,3102,České Budějovice,162553,31763,CZ031,Jihočeský kraj,CZ,ČR,9.227759561496866,0,False,0,12.593268897774141,2,True,2,0.0,0,False,0,0.0,0,4
 čtvrtek,2020-04-23,3103,Český Krumlov,0,0,0,4,3,3,0,0,31,3103,Český Krumlov,41687,7954,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-04-23,3104,Dačice,0,0,0,0,0,0,0,0,10,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-04-23,3105,Jindřichův Hradec,0,0,0,0,0,0,0,0,13,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -37,7 +37,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-04-23,3109,Prachatice,4,2,2,6,3,2,1,0,88,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,14.944109032219501,2,True,0,46.175157765122364,4,True,2,4.545454545454546,3,False,0,4.0,30,41
 čtvrtek,2020-04-23,3110,Soběslav,0,0,0,1,0,0,0,0,21,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-04-23,3111,Strakonice,1,0,0,6,1,0,0,0,178,3111,Strakonice,45223,9454,CZ031,Jihočeský kraj,CZ,ČR,4.422528359463105,0,False,0,0.0,0,False,0,0.5617977528089888,0,False,0,1.0,10,10
-čtvrtek,2020-04-23,3112,Tábor,4,1,1,11,2,1,0,0,50,3112,Tábor,80648,17257,CZ031,Jihočeský kraj,CZ,ČR,4.959825414145422,0,True,0,5.794749956539375,0,True,2,8.0,7,True,2,4.0,30,41
+čtvrtek,2020-04-23,3112,Tábor,4,1,1,11,2,1,0,0,50,3112,Tábor,80648,17257,CZ031,Jihočeský kraj,CZ,ČR,6.1997817676817775,0,True,0,5.794749956539375,0,True,2,8.0,7,True,2,2.0,30,41
 čtvrtek,2020-04-23,3113,Trhové Sviny,0,0,0,0,0,0,0,0,13,3113,Trhové Sviny,19267,3657,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-04-23,3114,Třeboň,0,0,0,0,0,0,0,0,19,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-04-23,3115,Týn nad Vltavou,0,0,0,0,0,0,0,0,12,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
