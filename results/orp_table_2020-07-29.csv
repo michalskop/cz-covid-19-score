@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-07-29,1000,Praha,403,24,7,642,36,12,15,13,6758,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,47.64864148512736,4,True,0,13.93500712676079,2,True,2,5.963302752293578,3,True,2,1.1852941176470588,10,23
+středa,2020-07-29,1000,Praha,403,24,7,644,37,13,15,13,6758,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,47.57312858261527,4,True,0,13.93500712676079,2,True,2,5.963302752293578,3,True,2,1.1887905604719764,10,23
 středa,2020-07-29,2101,Benešov,8,1,0,12,1,0,0,0,173,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,19.665038838451704,2,True,0,8.24742268041237,0,True,2,4.624277456647398,3,True,2,1.0,10,19
 středa,2020-07-29,2102,Beroun,9,1,1,18,1,1,0,0,193,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,27.723443251651855,4,True,0,8.77808988764045,0,True,2,4.66321243523316,3,False,0,0.75,0,9
 středa,2020-07-29,2103,Brandýs n.L.- St.Boleslav,33,2,2,54,3,2,0,1,540,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,46.78589714164651,4,True,0,18.27485380116959,2,True,2,6.111111111111111,3,True,2,1.2692307692307692,15,28
@@ -80,7 +80,7 @@ středa,2020-07-29,4212,Rumburk,1,0,0,2,0,0,0,0,47,4212,Rumburk,32795,6681,CZ042
 středa,2020-07-29,4213,Teplice,7,2,0,10,3,0,0,0,133,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,9.392140656698475,0,True,0,14.140938015555033,2,True,2,5.263157894736842,3,True,2,1.4,20,29
 středa,2020-07-29,4214,Ústí nad Labem,13,1,0,15,2,1,0,1,182,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,11.731384806180763,2,True,0,8.343414959743022,0,True,2,7.142857142857142,7,True,2,2.1666666666666665,30,43
 středa,2020-07-29,4215,Varnsdorf,0,0,0,0,0,0,0,0,23,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2020-07-29,4216,Žatec,0,0,0,0,0,0,0,0,26,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+středa,2020-07-29,4216,Žatec,0,0,0,1,0,0,0,0,26,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-29,5101,Česká Lípa,4,0,0,11,0,0,0,0,215,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,12.987350320787554,2,True,0,0.0,0,False,0,1.8604651162790697,0,False,0,4.0,30,32
 středa,2020-07-29,5102,Frýdlant,1,0,0,3,1,0,0,0,42,5102,Frýdlant,24479,4944,CZ051,Liberecký kraj,CZ,ČR,12.25540258997508,2,True,0,20.22653721682848,2,True,2,2.380952380952381,0,False,0,0.0,0,6
 středa,2020-07-29,5103,Jablonec nad Nisou,11,2,0,38,2,0,0,0,389,5103,Jablonec nad Nisou,56206,11517,CZ051,Liberecký kraj,CZ,ČR,56.933423477920506,7,True,0,26.048450117218025,4,True,2,2.827763496143959,0,False,0,0.55,0,13
