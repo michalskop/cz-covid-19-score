@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-08-05,1000,Praha,339,20,11,762,42,18,15,13,8337,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,56.03057366396909,7,True,0,17.51829467364213,2,True,2,4.066210867218424,3,False,0,0.9287671232876712,5,19
+středa,2020-08-05,1000,Praha,338,20,11,759,41,17,15,13,8337,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,55.95506076145701,7,True,0,17.51829467364213,2,True,2,4.0542161448962455,3,False,0,0.9260273972602739,5,19
 středa,2020-08-05,2101,Benešov,7,0,0,18,1,0,0,0,252,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,24.581298548064634,2,True,0,8.24742268041237,0,True,2,2.7777777777777777,0,False,0,1.1666666666666667,10,14
 středa,2020-08-05,2102,Beroun,9,0,0,18,1,1,0,0,218,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,27.723443251651855,4,False,0,8.77808988764045,0,True,2,4.128440366972478,3,False,0,1.0,10,19
 středa,2020-08-05,2103,Brandýs n.L.- St.Boleslav,12,0,0,49,2,2,1,1,562,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,39.72387493158666,4,False,0,12.183235867446394,2,True,2,2.135231316725979,0,False,0,0.4444444444444444,0,8
@@ -51,7 +51,7 @@ středa,2020-08-05,3205,Klatovy,1,0,0,7,1,0,1,0,98,3205,Klatovy,50720,10750,CZ03
 středa,2020-08-05,3206,Kralovice,0,0,0,-1,0,0,0,0,30,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-08-05,3207,Nepomuk,0,0,0,0,0,0,0,0,26,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-08-05,3208,Nýřany,5,2,0,6,2,0,2,2,77,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,10.414496979795876,2,True,0,19.164430816404753,2,True,2,6.493506493506493,3,True,2,1.6666666666666667,25,36
-středa,2020-08-05,3209,Plzeň,21,0,0,32,0,0,0,1,359,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,18.015235742227713,2,True,0,0.0,0,False,0,5.8495821727019495,3,True,2,1.5,20,27
+středa,2020-08-05,3209,Plzeň,21,0,0,33,1,1,0,1,359,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,18.015235742227713,2,True,0,0.0,0,False,0,5.8495821727019495,3,True,2,1.5,20,27
 středa,2020-08-05,3210,Přeštice,3,1,0,4,2,0,0,0,54,3210,Přeštice,22885,4449,CZ032,Plzeňský kraj,CZ,ČR,17.478697837011143,2,True,0,44.95392222971454,4,True,2,5.555555555555555,3,True,2,1.5,20,33
 středa,2020-08-05,3211,Rokycany,2,0,0,7,0,0,0,0,123,3211,Rokycany,49349,10085,CZ032,Plzeňský kraj,CZ,ČR,14.184684593406148,2,True,0,0.0,0,False,0,1.6260162601626018,0,False,0,0.4,0,2
 středa,2020-08-05,3212,Stod,2,0,0,2,0,0,0,0,32,3212,Stod,23393,4517,CZ032,Plzeňský kraj,CZ,ČR,8.549566109519942,0,True,0,0.0,0,False,0,6.25,3,True,2,0.0,0,5
