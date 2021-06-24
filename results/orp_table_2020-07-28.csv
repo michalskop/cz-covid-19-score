@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2020-07-28,1000,Praha,394,24,8,596,38,14,15,13,6328,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,43.64645765198671,4,True,0,13.138721005231599,2,True,2,6.226295828065739,3,True,2,1.4924242424242424,20,33
+úterý,2020-07-28,1000,Praha,394,24,8,595,38,14,15,13,6328,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,43.57094474947462,4,True,0,13.138721005231599,2,True,2,6.226295828065739,3,True,2,1.4980988593155893,20,33
 úterý,2020-07-28,2101,Benešov,11,1,0,12,1,0,0,0,155,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,19.665038838451704,2,True,0,8.24742268041237,0,True,2,7.096774193548387,7,True,2,2.2,30,43
 úterý,2020-07-28,2102,Beroun,10,1,1,17,1,1,0,0,178,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,26.18325195989342,4,True,0,8.77808988764045,0,True,2,5.617977528089887,3,True,2,1.1111111111111112,10,21
 úterý,2020-07-28,2103,Brandýs n.L.- St.Boleslav,33,1,1,47,2,1,0,1,518,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,40.60662770784414,4,True,0,12.183235867446394,2,True,2,6.370656370656371,3,True,2,1.434782608695652,20,33
@@ -48,7 +48,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-07-28,3203,Horažďovice,0,0,0,0,0,0,0,0,6,3203,Horažďovice,11535,2662,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-07-28,3204,Horšovský Týn,0,0,0,0,0,0,0,0,7,3204,Horšovský Týn,14825,2829,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-07-28,3205,Klatovy,6,1,0,8,1,0,1,1,99,3205,Klatovy,50720,10750,CZ032,Plzeňský kraj,CZ,ČR,15.77287066246057,2,True,0,9.302325581395348,0,True,2,6.0606060606060606,3,True,2,2.0,30,39
-úterý,2020-07-28,3206,Kralovice,0,0,0,-1,0,0,0,0,22,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+úterý,2020-07-28,3206,Kralovice,0,0,0,0,0,0,0,0,22,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-07-28,3207,Nepomuk,0,0,0,0,0,0,0,0,4,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-07-28,3208,Nýřany,1,0,0,4,0,0,0,0,64,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,6.942997986530584,0,True,0,0.0,0,False,0,1.5625,0,False,0,0.3333333333333333,0,0
 úterý,2020-07-28,3209,Plzeň,13,0,0,20,0,0,0,0,271,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,8.235536339304097,0,True,0,0.0,0,False,0,4.797047970479705,3,True,2,1.8571428571428572,25,30
@@ -124,7 +124,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-07-28,6101,Bystřice nad Pernštejnem,1,0,0,1,0,0,0,0,14,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,5.0620096178182745,0,False,0,0.0,0,False,0,7.142857142857142,7,True,2,0.0,0,9
 úterý,2020-07-28,6102,Havlíčkův Brod,15,7,4,16,4,0,1,0,129,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,35.895110708078285,4,True,0,74.28040854224697,7,True,2,11.627906976744185,11,True,2,2.5,30,56
 úterý,2020-07-28,6103,Humpolec,2,0,0,2,0,0,0,0,26,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,11.203226529240421,2,True,0,0.0,0,False,0,7.6923076923076925,7,True,2,0.0,0,11
-úterý,2020-07-28,6104,Chotěboř,2,0,0,1,-1,-1,1,1,49,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,9.1441111923921,0,True,0,0.0,0,False,0,4.081632653061225,3,True,2,2.0,30,35
+úterý,2020-07-28,6104,Chotěboř,2,0,0,1,0,0,1,1,49,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,9.1441111923921,0,True,0,0.0,0,False,0,4.081632653061225,3,True,2,2.0,30,35
 úterý,2020-07-28,6105,Jihlava,77,38,36,103,40,38,0,0,484,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,86.07554860795061,7,True,0,197.89922362612268,10,True,2,15.909090909090908,15,True,2,2.3333333333333335,30,66
 úterý,2020-07-28,6106,Moravské Budějovice,0,0,0,1,0,0,0,0,19,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,4.329379167027448,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2020-07-28,6107,Náměšť nad Oslavou,0,0,0,0,0,0,0,0,12,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

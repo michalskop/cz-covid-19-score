@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2020-08-17,1000,Praha,500,32,13,870,50,21,15,19,8174,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,67.28199613827017,7,True,0,19.907153038229698,2,True,2,6.11695620259359,3,True,2,1.1135857461024499,10,26
+pondělí,2020-08-17,1000,Praha,500,32,13,871,50,21,15,19,8174,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,67.35750904078226,7,True,0,19.907153038229698,2,True,2,6.11695620259359,3,True,2,1.1135857461024499,10,26
 pondělí,2020-08-17,2101,Benešov,7,0,0,18,1,1,0,1,239,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,27.85880502113992,4,False,0,8.24742268041237,0,True,2,2.928870292887029,0,False,0,0.6363636363636364,0,6
 pondělí,2020-08-17,2102,Beroun,7,1,0,13,1,0,0,0,179,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,23.102869376376546,2,False,0,8.77808988764045,0,True,2,3.910614525139665,3,False,0,0.6363636363636364,0,7
 pondělí,2020-08-17,2103,Brandýs n.L.- St.Boleslav,22,2,1,55,3,2,0,0,549,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,44.137638812874066,4,True,0,12.183235867446394,2,True,2,4.007285974499089,3,False,0,0.6666666666666666,0,11
@@ -124,7 +124,7 @@ pondělí,2020-08-17,5315,Žamberk,0,0,0,1,0,0,0,0,56,5315,Žamberk,29463,5651,C
 pondělí,2020-08-17,6101,Bystřice nad Pernštejnem,1,0,0,3,0,0,0,0,24,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,15.186028853454822,2,False,0,0.0,0,False,0,4.166666666666666,3,False,0,0.0,0,5
 pondělí,2020-08-17,6102,Havlíčkův Brod,15,2,0,21,4,1,1,0,189,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,37.784327061135045,4,True,0,27.85515320334262,4,True,2,7.936507936507936,7,True,2,1.875,25,44
 pondělí,2020-08-17,6103,Humpolec,1,0,0,4,0,0,0,0,35,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,16.80483979386063,2,False,0,0.0,0,False,0,2.857142857142857,0,False,0,0.5,0,2
-pondělí,2020-08-17,6104,Chotěboř,2,0,0,1,-1,-1,0,0,36,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,9.1441111923921,0,True,0,0.0,0,False,0,5.555555555555555,3,True,2,0.0,0,5
+pondělí,2020-08-17,6104,Chotěboř,2,0,0,1,0,0,0,0,36,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,9.1441111923921,0,True,0,0.0,0,False,0,5.555555555555555,3,True,2,0.0,0,5
 pondělí,2020-08-17,6105,Jihlava,16,3,2,28,6,4,0,0,239,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,23.744978926331203,2,True,0,20.297356269345915,2,True,2,6.694560669456067,3,True,2,2.0,30,41
 pondělí,2020-08-17,6106,Moravské Budějovice,0,0,0,0,0,0,0,0,47,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,4.329379167027448,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-08-17,6107,Náměšť nad Oslavou,0,0,0,0,0,0,0,0,21,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -145,7 +145,7 @@ pondělí,2020-08-17,6206,Hodonín,8,0,0,12,1,0,3,3,139,6206,Hodonín,60685,1224
 pondělí,2020-08-17,6207,Hustopeče,0,0,0,2,1,0,1,0,57,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,2.7539863953072072,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2020-08-17,6208,Ivančice,0,0,0,0,0,0,0,0,37,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2020-08-17,6209,Kuřim,1,0,0,5,0,0,0,0,67,6209,Kuřim,23345,4177,CZ064,Jihomoravský kraj,CZ,ČR,21.417862497322766,2,False,0,0.0,0,False,0,1.4925373134328357,0,False,0,0.25,0,2
-pondělí,2020-08-17,6210,Kyjov,21,0,0,27,0,-1,3,3,200,6210,Kyjov,55543,11542,CZ064,Jihomoravský kraj,CZ,ČR,57.613020542642644,7,True,0,8.66400970369087,0,True,2,10.5,7,True,2,1.4,20,38
+pondělí,2020-08-17,6210,Kyjov,21,0,0,27,0,0,3,3,200,6210,Kyjov,55543,11542,CZ064,Jihomoravský kraj,CZ,ČR,57.613020542642644,7,True,0,8.66400970369087,0,True,2,10.5,7,True,2,1.4,20,38
 pondělí,2020-08-17,6211,Mikulov,1,0,0,2,1,1,1,0,54,6211,Mikulov,20265,3954,CZ064,Jihomoravský kraj,CZ,ČR,9.869232667160128,0,False,0,25.290844714213456,4,True,2,1.8518518518518516,0,True,2,1.0,10,18
 pondělí,2020-08-17,6212,Moravský Krumlov,1,0,0,2,0,0,0,0,28,6212,Moravský Krumlov,22452,4592,CZ064,Jihomoravský kraj,CZ,ČR,8.907892392659896,0,True,0,0.0,0,False,0,3.571428571428571,3,False,0,1.0,10,13
 pondělí,2020-08-17,6213,Pohořelice,1,0,0,2,0,0,0,0,17,6213,Pohořelice,14599,2588,CZ064,Jihomoravský kraj,CZ,ČR,13.699568463593396,2,False,0,0.0,0,False,0,5.88235294117647,3,True,2,1.0,10,17
