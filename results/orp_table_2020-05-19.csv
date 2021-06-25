@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2020-05-19,1000,Praha,130,15,5,301,66,42,27,8,5568,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,15.93322243005051,2,True,0,10.351719579879441,2,True,2,2.3347701149425286,0,True,2,1.4130434782608696,20,28
+úterý,2020-05-19,1000,Praha,130,15,5,301,66,42,27,8,5568,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.008735332562598,2,True,0,10.351719579879441,2,True,2,2.3347701149425286,0,True,2,1.3829787234042554,15,23
 úterý,2020-05-19,2101,Benešov,3,1,0,5,1,0,0,0,256,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,6.555012946150569,0,True,0,8.24742268041237,0,True,2,1.171875,0,True,2,3.0,30,34
 úterý,2020-05-19,2102,Beroun,0,0,0,0,0,0,0,0,183,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-05-19,2103,Brandýs n.L.- St.Boleslav,7,0,0,11,1,1,1,1,365,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,9.710280538832295,0,True,0,0.0,0,False,0,1.9178082191780823,0,True,2,2.3333333333333335,30,32
@@ -197,7 +197,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-05-19,8112,Kopřivnice,1,0,0,6,4,0,1,0,181,8112,Kopřivnice,40755,7907,CZ080,Moravskoslezský kraj,CZ,ČR,2.45368666421298,0,False,0,0.0,0,False,0,0.5524861878453038,0,True,2,0.0,0,2
 úterý,2020-05-19,8113,Kravaře,0,0,0,1,0,0,0,0,109,8113,Kravaře,21356,3656,CZ080,Moravskoslezský kraj,CZ,ČR,4.682524817381532,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-05-19,8114,Krnov,0,0,0,0,0,0,0,0,81,8114,Krnov,39938,8666,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2020-05-19,8115,Nový Jičín,0,0,0,3,1,0,1,0,173,8115,Nový Jičín,48731,9593,CZ080,Moravskoslezský kraj,CZ,ČR,4.104163674047321,0,False,0,10.424267695194413,2,True,2,0.0,0,False,0,0.0,0,4
+úterý,2020-05-19,8115,Nový Jičín,0,0,0,3,1,0,1,1,173,8115,Nový Jičín,48731,9593,CZ080,Moravskoslezský kraj,CZ,ČR,4.104163674047321,0,False,0,10.424267695194413,2,True,2,0.0,0,False,0,0.0,0,4
 úterý,2020-05-19,8116,Odry,1,0,0,1,0,0,0,0,98,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,5.9073724007561434,0,False,0,0.0,0,False,0,1.0204081632653061,0,True,2,0.0,0,2
 úterý,2020-05-19,8117,Opava,6,0,0,19,1,1,1,1,554,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,6.932958293303753,0,True,0,0.0,0,False,0,1.083032490974729,0,True,2,2.0,30,32
 úterý,2020-05-19,8118,Orlová,15,1,0,21,1,0,2,1,234,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,45.74442321664021,4,True,0,14.766686355581808,2,True,2,6.41025641025641,3,True,2,15.0,30,43
