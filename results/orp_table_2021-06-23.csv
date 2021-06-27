@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-06-23,1000,Praha,218,12,8,344,0,0,16,14,17682,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,28.845928759617514,4,False,0,10.351719579879441,2,True,2,1.2328922067639407,0,True,2,1.1065989847715736,10,20
+středa,2021-06-23,1000,Praha,218,12,8,346,0,0,16,14,17682,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,28.845928759617514,4,False,0,10.351719579879441,2,True,2,1.2328922067639407,0,True,2,1.1065989847715736,10,20
 středa,2021-06-23,2101,Benešov,5,0,0,0,0,0,0,0,382,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,9.832519419225852,0,False,0,0.0,0,False,0,1.3089005235602094,0,True,2,2.5,30,32
 středa,2021-06-23,2102,Beroun,0,0,0,6,2,0,0,0,374,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,6.1607651670337455,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-06-23,2103,Brandýs n.L.- St.Boleslav,9,0,0,26,0,0,0,0,1154,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,15.006797196377182,2,False,0,0.0,0,False,0,0.779896013864818,0,True,2,1.0,10,14
@@ -133,7 +133,7 @@ středa,2021-06-23,6109,Pacov,0,0,0,0,0,0,1,0,15,6109,Pacov,9364,2205,CZ063,Kraj
 středa,2021-06-23,6110,Pelhřimov,2,0,0,15,9,9,1,1,101,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,8.871933637936388,0,False,0,0.0,0,False,0,1.9801980198019802,0,False,0,1.0,10,10
 středa,2021-06-23,6111,Světlá nad Sázavou,0,0,0,0,0,1,1,0,47,6111,Světlá nad Sázavou,19690,4322,CZ063,Kraj Vysočina,CZ,ČR,5.078720162519045,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-23,6112,Telč,1,0,0,2,0,0,0,0,45,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,15.414258188824665,2,False,0,0.0,0,False,0,2.2222222222222223,0,False,0,1.0,10,12
-středa,2021-06-23,6113,Třebíč,0,0,0,1,0,0,0,0,171,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,4.039207238259371,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+středa,2021-06-23,6113,Třebíč,0,0,0,0,0,0,0,0,171,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,4.039207238259371,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-23,6114,Velké Meziříčí,1,0,0,15,8,6,0,0,181,6114,Velké Meziříčí,36390,6564,CZ063,Kraj Vysočina,CZ,ČR,8.244023083264633,0,False,0,15.234613040828764,2,True,2,0.5524861878453038,0,False,0,0.5,0,4
 středa,2021-06-23,6115,Žďár nad Sázavou,7,0,0,25,3,2,0,0,253,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,37.53489572336782,4,False,0,0.0,0,False,0,2.766798418972332,0,False,0,0.7777777777777778,0,4
 středa,2021-06-23,6201,Blansko,0,0,0,0,0,0,0,0,223,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,3.5010328046773798,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
@@ -182,7 +182,7 @@ středa,2021-06-23,7209,Valašské Klobouky,1,0,0,4,0,0,0,0,111,7209,Valašské 
 středa,2021-06-23,7210,Valašské Meziříčí,0,0,0,11,3,2,1,1,150,7210,Valašské Meziříčí,41831,8296,CZ072,Zlínský kraj,CZ,ČR,16.73400109966293,2,False,0,12.054001928640309,2,True,2,0.0,0,False,0,0.0,0,6
 středa,2021-06-23,7211,Vizovice,3,0,0,12,3,3,0,0,117,7211,Vizovice,17153,3096,CZ072,Zlínský kraj,CZ,ČR,40.80918789716085,4,False,0,0.0,0,False,0,2.564102564102564,0,False,0,0.6,0,4
 středa,2021-06-23,7212,Vsetín,4,0,0,2,0,0,1,0,214,7212,Vsetín,65522,13208,CZ072,Zlínský kraj,CZ,ČR,18.314459265590184,2,False,0,15.142337976983645,2,True,2,1.8691588785046727,0,False,0,0.8,5,11
-středa,2021-06-23,7213,Zlín,19,0,0,40,0,0,2,2,689,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,29.203548734680723,4,True,0,0.0,0,False,0,2.7576197387518144,0,True,2,1.1176470588235294,10,16
+středa,2021-06-23,7213,Zlín,19,0,0,41,0,0,2,2,689,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,29.203548734680723,4,True,0,0.0,0,False,0,2.7576197387518144,0,True,2,1.1176470588235294,10,16
 středa,2021-06-23,8101,Bílovec,2,0,0,7,0,0,0,0,117,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,11.708687846382016,2,False,0,0.0,0,False,0,1.7094017094017095,0,True,2,1.0,10,14
 středa,2021-06-23,8102,Bohumín,0,0,0,16,4,0,0,0,250,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,11.988251513516753,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 středa,2021-06-23,8103,Bruntál,1,0,0,6,1,2,0,0,81,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,5.49178977428744,0,False,0,0.0,0,False,0,1.2345679012345678,0,True,2,0.5,0,2
