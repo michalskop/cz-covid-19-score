@@ -1,8 +1,8 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-07-29,1000,Praha,403,24,7,644,36,12,15,13,6758,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,47.64864148512736,4,True,0,13.93500712676079,2,True,2,5.963302752293578,3,True,2,1.1852941176470588,10,23
+středa,2020-07-29,1000,Praha,403,24,7,641,36,12,15,13,6758,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,47.57312858261527,4,True,0,13.93500712676079,2,True,2,5.963302752293578,3,True,2,1.1887905604719764,10,23
 středa,2020-07-29,2101,Benešov,8,1,0,12,1,0,0,0,173,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,19.665038838451704,2,True,0,8.24742268041237,0,True,2,4.624277456647398,3,True,2,1.0,10,19
 středa,2020-07-29,2102,Beroun,9,1,1,18,1,1,0,0,193,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,27.723443251651855,4,True,0,8.77808988764045,0,True,2,4.66321243523316,3,False,0,0.75,0,9
-středa,2020-07-29,2103,Brandýs n.L.- St.Boleslav,33,2,2,54,3,2,0,1,540,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,46.78589714164651,4,True,0,18.27485380116959,2,True,2,6.111111111111111,3,True,2,1.2692307692307692,15,28
+středa,2020-07-29,2103,Brandýs n.L.- St.Boleslav,33,2,2,53,3,2,0,1,540,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,46.78589714164651,4,True,0,18.27485380116959,2,True,2,6.111111111111111,3,True,2,1.2692307692307692,15,28
 středa,2020-07-29,2104,Čáslav,0,0,0,3,0,0,0,0,55,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,3.8966605618984533,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-29,2105,Černošice,44,4,3,80,4,3,0,0,692,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,49.552022927854935,4,True,0,17.094747638787982,2,True,2,6.358381502890173,3,False,0,1.2571428571428571,15,26
 středa,2020-07-29,2106,Český Brod,6,0,0,6,0,0,0,0,47,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,27.859033291544783,4,True,0,0.0,0,False,0,12.76595744680851,11,True,2,0.0,0,17
@@ -95,7 +95,7 @@ středa,2020-07-29,5201,Broumov,0,0,0,0,0,0,0,0,12,5201,Broumov,15876,3561,CZ052
 středa,2020-07-29,5202,Dobruška,0,0,0,2,0,0,0,0,34,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,9.905894006934126,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-29,5203,Dvůr Králové nad Labem,0,0,0,0,0,0,0,0,34,5203,Dvůr Králové nad Labem,26949,6223,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-07-29,5204,Hořice,0,0,0,0,0,0,0,0,21,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2020-07-29,5205,Hradec Králové,17,1,0,25,1,0,0,0,458,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,15.657016045037746,2,True,0,3.078438615933998,0,True,2,3.711790393013101,3,True,2,1.5454545454545454,20,29
+středa,2020-07-29,5205,Hradec Králové,17,1,0,26,1,0,0,0,458,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,15.657016045037746,2,True,0,3.078438615933998,0,True,2,3.711790393013101,3,True,2,1.5454545454545454,20,29
 středa,2020-07-29,5206,Jaroměř,1,0,0,2,1,0,0,0,86,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,5.188605821615732,0,True,0,0.0,0,False,0,1.1627906976744187,0,True,2,0.0,0,2
 středa,2020-07-29,5207,Jičín,1,1,1,8,2,2,1,1,59,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,8.26753751395147,0,False,0,9.893153937475267,0,True,2,1.694915254237288,0,False,0,1.0,10,12
 středa,2020-07-29,5208,Kostelec nad Orlicí,7,0,0,7,0,0,0,0,62,5208,Kostelec nad Orlicí,24892,5311,CZ052,Královéhradecký kraj,CZ,ČR,28.121484814398205,4,True,0,0.0,0,False,0,11.29032258064516,11,True,2,3.5,30,47
