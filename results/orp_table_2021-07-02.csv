@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2021-07-02,1000,Praha,374,8,6,499,0,0,9,6,23331,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,44.32607377459549,4,True,0,6.7684320329980965,0,True,2,1.603017444601603,0,True,2,1.626086956521739,25,33
+pátek,2021-07-02,1000,Praha,374,8,6,501,0,0,9,6,23331,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,44.32607377459549,4,True,0,6.7684320329980965,0,True,2,1.603017444601603,0,True,2,1.626086956521739,25,33
 pátek,2021-07-02,2101,Benešov,4,1,1,0,0,0,0,0,359,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,True,0,8.24742268041237,0,True,2,1.1142061281337048,0,False,0,1.0,10,14
 pátek,2021-07-02,2102,Beroun,4,0,0,8,2,0,0,0,924,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,9.241147750550619,0,True,0,0.0,0,False,0,0.4329004329004329,0,False,0,2.0,30,30
 pátek,2021-07-02,2103,Brandýs n.L.- St.Boleslav,18,0,0,43,0,0,0,0,1851,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,31.779099945269326,4,True,0,0.0,0,False,0,0.9724473257698543,0,False,0,1.0588235294117647,10,14
@@ -78,7 +78,7 @@ pátek,2021-07-02,4210,Podbořany,0,0,0,1,1,0,0,0,41,4210,Podbořany,15678,3106,
 pátek,2021-07-02,4211,Roudnice nad Labem,0,0,0,0,0,0,0,0,168,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,4212,Rumburk,2,0,0,1,0,0,0,0,129,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,6.098490623570666,0,True,0,0.0,0,False,0,1.550387596899225,0,True,2,0.0,0,2
 pátek,2021-07-02,4213,Teplice,1,0,0,4,0,0,0,0,733,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,7.5137125253587795,0,False,0,14.140938015555033,2,True,2,0.1364256480218281,0,False,0,0.16666666666666666,0,4
-pátek,2021-07-02,4214,Ústí nad Labem,6,1,0,36,16,3,0,0,863,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,11.731384806180763,2,False,0,4.171707479871511,0,True,2,0.6952491309385863,0,False,0,0.8571428571428571,5,9
+pátek,2021-07-02,4214,Ústí nad Labem,6,1,0,35,15,3,0,0,863,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,11.731384806180763,2,False,0,4.171707479871511,0,True,2,0.6952491309385863,0,False,0,0.8571428571428571,5,9
 pátek,2021-07-02,4215,Varnsdorf,2,0,0,1,0,0,0,0,63,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,15.071590052750564,2,False,0,0.0,0,False,0,3.1746031746031744,3,True,2,2.0,30,37
 pátek,2021-07-02,4216,Žatec,0,0,0,1,0,0,0,0,96,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,5101,Česká Lípa,3,0,0,0,0,0,0,0,329,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,6.493675160393777,0,False,0,7.124536905101169,0,True,2,0.911854103343465,0,True,2,1.0,10,14
@@ -103,7 +103,7 @@ pátek,2021-07-02,5209,Náchod,0,0,0,0,0,0,1,1,674,5209,Náchod,60595,13494,CZ05
 pátek,2021-07-02,5210,Nová Paka,0,0,0,2,1,0,0,0,70,5210,Nová Paka,13286,2887,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,5211,Nové Město nad Metují,0,0,0,0,0,0,0,0,149,5211,Nové Město nad Metují,14214,3321,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,5212,Nový Bydžov,0,0,0,0,0,0,0,0,78,5212,Nový Bydžov,17384,3627,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2021-07-02,5213,Rychnov nad Kněžnou,0,0,0,2,2,0,0,0,265,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2021-07-02,5213,Rychnov nad Kněžnou,0,0,0,1,1,0,0,0,265,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,5214,Trutnov,0,0,0,0,0,0,0,0,492,5214,Trutnov,63419,13537,CZ052,Královéhradecký kraj,CZ,ČR,1.5768145193080938,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2021-07-02,5215,Vrchlabí,0,0,0,0,0,0,0,0,149,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,5301,Česká Třebová,0,0,0,1,1,2,0,0,73,5301,Česká Třebová,17969,3841,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -201,7 +201,7 @@ pátek,2021-07-02,8115,Nový Jičín,2,0,0,7,0,0,0,0,1067,8115,Nový Jičín,487
 pátek,2021-07-02,8116,Odry,1,0,0,4,3,0,0,0,522,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,5.9073724007561434,0,False,0,0.0,0,False,0,0.19157088122605362,0,True,2,1.0,10,12
 pátek,2021-07-02,8117,Opava,7,1,1,78,45,24,1,1,657,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,11.88507135994929,2,False,0,4.911591355599214,0,True,2,1.06544901065449,0,True,2,1.1666666666666667,10,16
 pátek,2021-07-02,8118,Orlová,1,1,0,3,0,0,1,0,199,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,8.072545273524742,0,False,0,29.533372711163615,4,True,2,0.5025125628140703,0,False,0,0.5,0,6
-pátek,2021-07-02,8119,Ostrava,38,1,1,101,13,1,3,3,2885,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,26.23811085601837,4,False,0,12.377386514837394,2,True,2,1.317157712305026,0,False,0,0.9047619047619048,5,13
+pátek,2021-07-02,8119,Ostrava,38,1,1,102,13,1,3,3,2885,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,26.23811085601837,4,False,0,12.377386514837394,2,True,2,1.317157712305026,0,False,0,0.9047619047619048,5,13
 pátek,2021-07-02,8120,Rýmařov,0,0,0,0,0,0,0,0,49,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,8121,Třinec,3,0,0,0,0,0,0,0,447,8121,Třinec,54613,11066,CZ080,Moravskoslezský kraj,CZ,ČR,5.493197590317323,0,True,0,0.0,0,False,0,0.6711409395973155,0,True,2,0.0,0,2
 pátek,2021-07-02,8122,Vítkov,2,0,0,8,6,0,0,0,154,8122,Vítkov,13274,2743,CZ080,Moravskoslezský kraj,CZ,ČR,15.067048365225252,2,True,0,0.0,0,False,0,1.2987012987012987,0,True,2,0.0,0,4

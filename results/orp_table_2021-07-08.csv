@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2021-07-08,1000,Praha,450,14,9,719,0,0,8,6,15791,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,61.08993813227897,7,True,0,8.361004276056473,0,True,2,2.8497245266290925,0,True,2,1.1363636363636365,10,21
+čtvrtek,2021-07-08,1000,Praha,450,14,9,721,0,0,8,6,15791,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,61.08993813227897,7,True,0,8.361004276056473,0,True,2,2.8497245266290925,0,True,2,1.1363636363636365,10,21
 čtvrtek,2021-07-08,2101,Benešov,17,0,0,6,0,0,0,0,283,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,36.05257120382812,4,True,0,8.24742268041237,0,True,2,6.007067137809187,3,True,2,3.4,30,41
 čtvrtek,2021-07-08,2102,Beroun,12,0,0,17,2,0,0,0,511,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,26.18325195989342,4,True,0,0.0,0,False,0,2.3483365949119372,0,True,2,2.0,30,36
 čtvrtek,2021-07-08,2103,Brandýs n.L.- St.Boleslav,21,1,0,38,0,0,1,1,1053,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,34.42735827404177,4,True,0,6.091617933723197,0,True,2,1.9943019943019942,0,True,2,1.2352941176470589,15,23
@@ -51,7 +51,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-07-08,3206,Kralovice,4,0,0,3,0,0,0,0,80,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,22.354361335896634,2,True,0,0.0,0,False,0,5.0,3,True,2,4.0,30,37
 čtvrtek,2021-07-08,3207,Nepomuk,2,0,0,8,4,2,0,0,56,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,CZ,ČR,17.2666839333506,2,True,0,0.0,0,False,0,3.571428571428571,3,True,2,0.0,0,7
 čtvrtek,2021-07-08,3208,Nýřany,19,0,0,11,0,0,0,0,283,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,36.45073942928557,4,True,0,0.0,0,False,0,6.713780918727916,3,True,2,2.7142857142857144,30,39
-čtvrtek,2021-07-08,3209,Plzeň,56,0,0,99,11,4,0,0,1175,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,42.72184476014001,4,True,0,0.0,0,False,0,4.76595744680851,3,True,2,1.4736842105263157,20,29
+čtvrtek,2021-07-08,3209,Plzeň,57,0,0,100,11,4,0,0,1175,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,43.236565781346506,4,True,0,0.0,0,False,0,4.851063829787234,3,True,2,1.5,20,29
 čtvrtek,2021-07-08,3210,Přeštice,6,0,0,8,0,0,0,0,151,3210,Přeštice,22885,4449,CZ032,Plzeňský kraj,CZ,ČR,39.32707013327507,4,True,0,0.0,0,False,0,3.9735099337748347,3,True,2,1.5,20,29
 čtvrtek,2021-07-08,3211,Rokycany,12,1,0,12,0,0,0,0,206,3211,Rokycany,49349,10085,CZ032,Plzeňský kraj,CZ,ČR,26.34298567346856,4,True,0,9.91571641051066,0,True,2,5.825242718446602,3,True,2,12.0,30,41
 čtvrtek,2021-07-08,3212,Stod,11,0,0,21,2,0,0,0,142,3212,Stod,23393,4517,CZ032,Plzeňský kraj,CZ,ČR,85.49566109519942,7,True,0,0.0,0,False,0,7.746478873239436,7,True,2,0.7857142857142857,0,16
@@ -78,7 +78,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-07-08,4211,Roudnice nad Labem,0,0,0,0,0,0,0,0,175,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-07-08,4212,Rumburk,2,0,0,0,0,0,0,0,115,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,6.098490623570666,0,True,0,0.0,0,False,0,1.7391304347826086,0,True,2,1.0,10,12
 čtvrtek,2021-07-08,4213,Teplice,8,1,0,9,0,0,0,0,505,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,7.5137125253587795,0,False,0,4.71364600518501,0,True,2,1.5841584158415842,0,True,2,8.0,30,34
-čtvrtek,2021-07-08,4214,Ústí nad Labem,6,0,0,34,16,3,1,1,741,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,13.407296921349445,2,True,0,4.171707479871511,0,True,2,0.8097165991902834,0,False,0,1.0,10,14
+čtvrtek,2021-07-08,4214,Ústí nad Labem,6,0,0,33,15,3,1,1,741,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,13.407296921349445,2,True,0,4.171707479871511,0,True,2,0.8097165991902834,0,False,0,1.0,10,14
 čtvrtek,2021-07-08,4215,Varnsdorf,3,1,1,3,0,0,0,0,61,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,25.119316754584275,4,True,0,23.747328425552126,2,True,2,4.918032786885246,3,True,2,1.5,20,33
 čtvrtek,2021-07-08,4216,Žatec,0,0,0,1,0,0,0,0,99,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-07-08,5101,Česká Lípa,2,0,0,0,0,0,0,0,303,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,5.194940128315021,0,False,0,0.0,0,False,0,0.6600660066006601,0,True,2,0.6666666666666666,0,2
@@ -103,7 +103,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-07-08,5210,Nová Paka,0,0,0,2,1,0,0,0,43,5210,Nová Paka,13286,2887,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-07-08,5211,Nové Město nad Metují,1,0,0,0,0,0,0,0,134,5211,Nové Město nad Metují,14214,3321,CZ052,Královéhradecký kraj,CZ,ČR,7.035317292809905,0,True,0,0.0,0,False,0,0.7462686567164178,0,True,2,0.0,0,2
 čtvrtek,2021-07-08,5212,Nový Bydžov,1,0,0,1,0,0,0,0,83,5212,Nový Bydžov,17384,3627,CZ052,Královéhradecký kraj,CZ,ČR,5.752416014726185,0,True,0,0.0,0,False,0,1.2048192771084338,0,True,2,1.0,10,12
-čtvrtek,2021-07-08,5213,Rychnov nad Kněžnou,4,0,0,6,2,0,0,0,210,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,11.661467595696918,2,True,0,0.0,0,False,0,1.9047619047619049,0,True,2,0.0,0,4
+čtvrtek,2021-07-08,5213,Rychnov nad Kněžnou,4,0,0,5,1,0,0,0,210,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,11.661467595696918,2,True,0,0.0,0,False,0,1.9047619047619049,0,True,2,0.0,0,4
 čtvrtek,2021-07-08,5214,Trutnov,0,0,0,0,0,0,0,0,386,5214,Trutnov,63419,13537,CZ052,Královéhradecký kraj,CZ,ČR,1.5768145193080938,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-07-08,5215,Vrchlabí,0,0,0,0,0,0,0,0,144,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-07-08,5301,Česká Třebová,1,0,0,2,1,2,0,0,95,5301,Česká Třebová,17969,3841,CZ053,Pardubický kraj,CZ,ČR,5.565139963270076,0,True,0,0.0,0,False,0,1.0526315789473684,0,True,2,0.0,0,2
@@ -201,7 +201,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-07-08,8116,Odry,0,0,0,4,3,0,0,0,57,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,5.9073724007561434,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2021-07-08,8117,Opava,4,0,0,78,45,24,1,0,536,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,11.88507135994929,2,False,0,4.911591355599214,0,True,2,0.7462686567164178,0,False,0,0.5714285714285714,0,4
 čtvrtek,2021-07-08,8118,Orlová,0,0,0,1,0,0,1,0,198,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,2.6908484245082476,0,False,0,14.766686355581808,2,True,2,0.0,0,False,0,0.0,0,4
-čtvrtek,2021-07-08,8119,Ostrava,28,3,1,92,13,0,3,0,2624,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,22.17745084258695,2,False,0,7.735866571773371,0,True,2,1.0670731707317074,0,False,0,0.6666666666666666,0,4
+čtvrtek,2021-07-08,8119,Ostrava,28,3,1,93,13,0,3,0,2624,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,22.17745084258695,2,False,0,7.735866571773371,0,True,2,1.0670731707317074,0,False,0,0.6666666666666666,0,4
 čtvrtek,2021-07-08,8120,Rýmařov,0,0,0,0,0,0,0,0,58,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-07-08,8121,Třinec,3,0,0,2,0,0,0,0,344,8121,Třinec,54613,11066,CZ080,Moravskoslezský kraj,CZ,ČR,9.15532931719554,0,True,0,0.0,0,False,0,0.872093023255814,0,True,2,0.75,0,2
 čtvrtek,2021-07-08,8122,Vítkov,1,0,0,9,6,0,0,0,37,8122,Vítkov,13274,2743,CZ080,Moravskoslezský kraj,CZ,ČR,22.600572547837878,2,True,0,0.0,0,False,0,2.7027027027027026,0,True,2,0.5,0,4

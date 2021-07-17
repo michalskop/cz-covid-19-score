@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2021-07-05,1000,Praha,414,11,8,599,0,0,8,8,23711,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,50.97120919565921,7,True,0,7.962861215291879,0,True,2,1.7460250516637847,0,True,2,1.2583586626139818,15,26
+pondělí,2021-07-05,1000,Praha,414,11,8,601,0,0,8,8,23711,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,50.97120919565921,7,True,0,7.962861215291879,0,True,2,1.7460250516637847,0,True,2,1.2583586626139818,15,26
 pondělí,2021-07-05,2101,Benešov,10,1,1,0,0,0,0,0,370,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,21.303792074989346,2,True,0,8.24742268041237,0,True,2,2.7027027027027026,0,True,2,3.3333333333333335,30,36
 pondělí,2021-07-05,2102,Beroun,10,0,0,14,2,0,0,0,898,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,18.482295501101238,2,True,0,0.0,0,False,0,1.1135857461024499,0,True,2,2.5,30,34
 pondělí,2021-07-05,2103,Brandýs n.L.- St.Boleslav,17,0,0,41,0,0,0,0,1459,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,30.89634716901185,4,True,0,0.0,0,False,0,1.1651816312542838,0,True,2,0.8095238095238095,5,11
@@ -78,7 +78,7 @@ pondělí,2021-07-05,4210,Podbořany,0,0,0,1,1,0,0,0,47,4210,Podbořany,15678,31
 pondělí,2021-07-05,4211,Roudnice nad Labem,0,0,0,0,0,0,0,0,194,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2021-07-05,4212,Rumburk,2,0,0,1,0,0,0,0,133,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,6.098490623570666,0,True,0,0.0,0,False,0,1.5037593984962405,0,True,2,0.0,0,2
 pondělí,2021-07-05,4213,Teplice,2,0,0,5,0,0,0,0,760,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,7.5137125253587795,0,False,0,14.140938015555033,2,True,2,0.2631578947368421,0,False,0,0.0,0,4
-pondělí,2021-07-05,4214,Ústí nad Labem,6,0,0,38,16,3,1,1,864,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,12.569340863765104,2,False,0,4.171707479871511,0,True,2,0.6944444444444444,0,False,0,0.6666666666666666,0,4
+pondělí,2021-07-05,4214,Ústí nad Labem,6,0,0,37,15,3,1,1,864,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,12.569340863765104,2,False,0,4.171707479871511,0,True,2,0.6944444444444444,0,False,0,0.6666666666666666,0,4
 pondělí,2021-07-05,4215,Varnsdorf,2,0,0,1,0,0,0,0,68,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,15.071590052750564,2,True,0,0.0,0,False,0,2.941176470588235,0,True,2,1.0,10,14
 pondělí,2021-07-05,4216,Žatec,0,0,0,1,0,0,0,0,100,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2021-07-05,5101,Česká Lípa,2,0,0,0,0,0,0,0,356,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,5.194940128315021,0,False,0,0.0,0,False,0,0.5617977528089888,0,False,0,1.0,10,10
@@ -103,7 +103,7 @@ pondělí,2021-07-05,5209,Náchod,2,0,0,0,0,0,1,0,776,5209,Náchod,60595,13494,C
 pondělí,2021-07-05,5210,Nová Paka,0,0,0,2,1,0,0,0,70,5210,Nová Paka,13286,2887,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2021-07-05,5211,Nové Město nad Metují,0,0,0,0,0,0,0,0,181,5211,Nové Město nad Metují,14214,3321,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2021-07-05,5212,Nový Bydžov,1,0,0,1,0,0,0,0,87,5212,Nový Bydžov,17384,3627,CZ052,Královéhradecký kraj,CZ,ČR,5.752416014726185,0,True,0,0.0,0,False,0,1.1494252873563218,0,True,2,0.0,0,2
-pondělí,2021-07-05,5213,Rychnov nad Kněžnou,0,0,0,2,2,0,0,0,279,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pondělí,2021-07-05,5213,Rychnov nad Kněžnou,0,0,0,1,1,0,0,0,279,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2021-07-05,5214,Trutnov,0,0,0,0,0,0,0,0,497,5214,Trutnov,63419,13537,CZ052,Královéhradecký kraj,CZ,ČR,1.5768145193080938,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2021-07-05,5215,Vrchlabí,0,0,0,0,0,0,0,0,173,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2021-07-05,5301,Česká Třebová,1,0,0,2,1,2,0,0,123,5301,Česká Třebová,17969,3841,CZ053,Pardubický kraj,CZ,ČR,5.565139963270076,0,True,0,0.0,0,False,0,0.8130081300813009,0,True,2,0.0,0,2
@@ -201,7 +201,7 @@ pondělí,2021-07-05,8115,Nový Jičín,3,0,0,7,0,0,1,1,376,8115,Nový Jičín,4
 pondělí,2021-07-05,8116,Odry,0,0,0,4,3,0,0,0,396,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,5.9073724007561434,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2021-07-05,8117,Opava,8,1,1,78,45,24,1,1,650,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,11.88507135994929,2,False,0,4.911591355599214,0,True,2,1.2307692307692308,0,True,2,1.3333333333333333,15,21
 pondělí,2021-07-05,8118,Orlová,1,1,0,3,0,0,1,0,197,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,2.6908484245082476,0,False,0,14.766686355581808,2,True,2,0.5076142131979695,0,True,2,0.0,0,6
-pondělí,2021-07-05,8119,Ostrava,32,2,1,94,12,0,3,2,3288,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,25.301035468303425,4,False,0,10.830213200482717,2,True,2,0.9732360097323601,0,False,0,0.7272727272727273,0,8
+pondělí,2021-07-05,8119,Ostrava,32,2,1,95,12,0,3,2,3288,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,25.301035468303425,4,False,0,10.830213200482717,2,True,2,0.9732360097323601,0,False,0,0.7272727272727273,0,8
 pondělí,2021-07-05,8120,Rýmařov,0,0,0,0,0,0,0,0,47,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2021-07-05,8121,Třinec,3,0,0,1,0,0,0,0,449,8121,Třinec,54613,11066,CZ080,Moravskoslezský kraj,CZ,ČR,7.324263453756431,0,True,0,0.0,0,False,0,0.6681514476614699,0,True,2,3.0,30,32
 pondělí,2021-07-05,8122,Vítkov,2,0,0,8,6,0,0,0,147,8122,Vítkov,13274,2743,CZ080,Moravskoslezský kraj,CZ,ČR,15.067048365225252,2,True,0,0.0,0,False,0,1.3605442176870748,0,True,2,0.0,0,4
