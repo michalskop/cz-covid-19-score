@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2021-06-22,1000,Praha,224,21,17,282,0,0,19,16,18701,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,29.07246746715377,4,False,0,10.749862640644036,2,True,2,1.1977969092561895,0,True,2,1.1914893617021276,10,20
+úterý,2021-06-22,1000,Praha,225,21,17,281,0,0,19,16,18701,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,29.07246746715377,4,False,0,10.749862640644036,2,True,2,1.2031442168867974,0,True,2,1.2032085561497325,15,25
 úterý,2021-06-22,2101,Benešov,6,0,0,0,0,0,0,0,398,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,9.832519419225852,0,False,0,0.0,0,False,0,1.507537688442211,0,True,2,3.0,30,32
 úterý,2021-06-22,2102,Beroun,0,0,0,6,2,0,0,0,397,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,6.1607651670337455,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2021-06-22,2103,Brandýs n.L.- St.Boleslav,10,0,0,26,0,0,0,0,1226,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,16.772302748892145,2,False,0,0.0,0,False,0,0.8156606851549755,0,True,2,1.0,10,14
@@ -20,7 +20,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-06-22,2118,Nymburk,2,0,0,3,0,0,0,0,170,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,17.420302117811016,2,False,0,0.0,0,False,0,1.1764705882352942,0,False,0,0.4,0,2
 úterý,2021-06-22,2119,Poděbrady,3,0,0,15,0,3,0,0,160,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,CZ,ČR,54.17118093174431,7,False,0,0.0,0,False,0,1.875,0,False,0,0.25,0,7
 úterý,2021-06-22,2120,Příbram,11,0,0,56,27,16,0,0,319,2120,Příbram,69951,14592,CZ020,Středočeský kraj,CZ,ČR,32.88015896842075,4,True,0,13.706140350877192,2,True,2,3.4482758620689653,3,False,0,0.6875,0,11
-úterý,2021-06-22,2121,Rakovník,3,1,0,17,14,8,0,0,224,2121,Rakovník,55562,11623,CZ020,Středočeský kraj,CZ,ČR,8.998956121089954,0,False,0,8.603630732168975,0,True,2,1.3392857142857142,0,True,2,0.75,0,4
+úterý,2021-06-22,2121,Rakovník,3,1,0,16,14,8,0,0,224,2121,Rakovník,55562,11623,CZ020,Středočeský kraj,CZ,ČR,8.998956121089954,0,False,0,8.603630732168975,0,True,2,1.3392857142857142,0,True,2,0.75,0,4
 úterý,2021-06-22,2122,Říčany,13,2,1,11,0,0,1,1,1836,2122,Říčany,71896,11376,CZ020,Středočeský kraj,CZ,ČR,29.208857238233005,4,False,0,26.371308016877634,4,True,2,0.7080610021786492,0,False,0,1.4444444444444444,20,30
 úterý,2021-06-22,2123,Sedlčany,9,2,0,26,15,9,0,0,292,2123,Sedlčany,22074,4717,CZ020,Středočeský kraj,CZ,ČR,49.83238198785902,4,True,0,42.3998304006784,4,True,2,3.0821917808219177,3,True,2,2.25,30,45
 úterý,2021-06-22,2124,Slaný,1,0,0,5,2,0,0,0,320,2124,Slaný,40526,7771,CZ020,Středočeský kraj,CZ,ČR,4.935103390416029,0,False,0,12.868356710848026,2,True,2,0.3125,0,False,0,0.0,0,4
@@ -47,7 +47,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-06-22,3202,Domažlice,4,0,0,12,2,2,0,0,68,3202,Domažlice,40679,8358,CZ032,Plzeňský kraj,CZ,ČR,22.12443767054254,2,False,0,0.0,0,False,0,5.88235294117647,3,False,0,1.0,10,15
 úterý,2021-06-22,3203,Horažďovice,1,0,0,0,0,0,0,0,30,3203,Horažďovice,11535,2662,CZ032,Plzeňský kraj,CZ,ČR,17.338534893801473,2,True,0,0.0,0,False,0,3.3333333333333335,3,True,2,0.0,0,7
 úterý,2021-06-22,3204,Horšovský Týn,3,0,0,4,0,0,0,0,26,3204,Horšovský Týn,14825,2829,CZ032,Plzeňský kraj,CZ,ČR,20.236087689713322,2,True,0,0.0,0,False,0,11.538461538461538,11,True,2,1.5,20,35
-úterý,2021-06-22,3205,Klatovy,0,0,0,10,1,0,0,0,114,3205,Klatovy,50720,10750,CZ032,Plzeňský kraj,CZ,ČR,5.9148264984227135,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+úterý,2021-06-22,3205,Klatovy,0,0,0,11,1,0,0,0,114,3205,Klatovy,50720,10750,CZ032,Plzeňský kraj,CZ,ČR,5.9148264984227135,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2021-06-22,3206,Kralovice,0,0,0,0,0,0,0,0,40,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-06-22,3207,Nepomuk,0,0,0,6,4,2,0,0,33,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-06-22,3208,Nýřany,0,0,0,0,0,0,1,0,228,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,12.150246476428523,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
