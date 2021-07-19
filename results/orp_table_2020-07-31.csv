@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2020-07-31,1000,Praha,365,24,8,711,38,13,13,16,7480,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,53.31210917353394,7,True,0,14.333150187525382,2,True,2,4.879679144385027,3,False,0,0.9733333333333334,5,19
+pátek,2020-07-31,1000,Praha,365,24,8,711,38,13,13,16,7480,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,53.38762207604602,7,True,0,14.333150187525382,2,True,2,4.879679144385027,3,False,0,0.9733333333333334,5,19
 pátek,2020-07-31,2101,Benešov,6,1,0,14,1,0,0,0,190,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,22.942545311526988,2,True,0,8.24742268041237,0,True,2,3.1578947368421053,3,False,0,0.75,0,7
 pátek,2020-07-31,2102,Beroun,9,0,0,22,1,1,0,0,207,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,32.34401712692716,4,True,0,8.77808988764045,0,True,2,4.3478260869565215,3,False,0,0.9,5,14
 pátek,2020-07-31,2103,Brandýs n.L.- St.Boleslav,27,2,2,48,2,2,0,0,563,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,46.78589714164651,4,True,0,12.183235867446394,2,True,2,4.7957371225577266,3,False,0,1.0,10,21
@@ -163,7 +163,7 @@ pátek,2020-07-31,7103,Konice,0,0,0,0,0,0,0,0,16,7103,Konice,10634,2373,CZ071,Ol
 pátek,2020-07-31,7104,Lipník nad Bečvou,1,0,0,1,0,0,0,0,25,7104,Lipník nad Bečvou,15130,2913,CZ071,Olomoucký kraj,CZ,ČR,6.609385327164574,0,True,0,0.0,0,False,0,4.0,3,True,2,0.0,0,5
 pátek,2020-07-31,7105,Litovel,0,0,0,0,0,0,0,0,25,7105,Litovel,23715,4914,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-31,7106,Mohelnice,0,0,0,0,0,0,0,0,16,7106,Mohelnice,18362,3710,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-07-31,7107,Olomouc,9,0,0,28,1,1,2,0,454,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,CZ,ČR,13.925468470923015,2,False,0,6.108362348054486,0,True,2,1.9823788546255507,0,False,0,0.6428571428571429,0,4
+pátek,2020-07-31,7107,Olomouc,9,0,0,27,1,1,2,0,454,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,CZ,ČR,13.925468470923015,2,False,0,6.108362348054486,0,True,2,1.9823788546255507,0,False,0,0.6428571428571429,0,4
 pátek,2020-07-31,7108,Prostějov,20,0,0,38,0,0,1,1,139,7108,Prostějov,98012,20139,CZ071,Olomoucký kraj,CZ,ČR,33.66934661061911,4,True,0,0.0,0,False,0,14.388489208633093,11,True,2,1.6666666666666667,25,42
 pátek,2020-07-31,7109,Přerov,3,0,0,6,1,0,0,0,105,7109,Přerov,80236,17534,CZ071,Olomoucký kraj,CZ,ČR,6.231616730644598,0,True,0,0.0,0,False,0,2.857142857142857,0,True,2,1.5,20,22
 pátek,2020-07-31,7110,Šternberk,2,0,0,3,0,0,0,0,37,7110,Šternberk,24164,4837,CZ071,Olomoucký kraj,CZ,ČR,8.276775368316503,0,True,0,0.0,0,False,0,5.405405405405405,3,True,2,0.0,0,5
