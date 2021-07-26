@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2021-06-15,1000,Praha,161,6,3,330,0,0,22,9,15469,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,35.34003837565705,4,False,0,7.564718154527285,0,True,2,1.0407912599392333,0,False,0,0.6652892561983471,0,6
+úterý,2021-06-15,1000,Praha,160,6,3,329,0,0,22,9,15469,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,35.34003837565705,4,False,0,7.564718154527285,0,True,2,1.034326717952033,0,False,0,0.6584362139917695,0,6
 úterý,2021-06-15,2101,Benešov,0,0,0,0,0,0,1,2,202,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,False,0,16.49484536082474,2,True,2,0.0,0,False,0,0.0,0,6
 úterý,2021-06-15,2102,Beroun,4,0,0,18,2,0,0,0,434,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,26.18325195989342,4,False,0,0.0,0,False,0,0.9216589861751152,0,False,0,0.4,0,4
 úterý,2021-06-15,2103,Brandýs n.L.- St.Boleslav,9,0,0,29,0,0,0,0,1324,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,22.951572182694516,2,False,0,18.27485380116959,2,True,2,0.6797583081570997,0,False,0,1.0,10,16
@@ -51,7 +51,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-06-15,3206,Kralovice,0,0,0,0,0,0,0,0,48,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-06-15,3207,Nepomuk,0,0,0,7,4,2,0,0,24,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,CZ,ČR,8.6333419666753,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2021-06-15,3208,Nýřany,7,0,0,0,0,0,1,1,194,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,19.093244462959106,2,False,0,0.0,0,False,0,3.608247422680412,3,True,2,0.875,5,12
-úterý,2021-06-15,3209,Plzeň,21,1,1,48,12,5,2,1,715,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,26.765493102738315,4,False,0,4.95221116228396,0,True,2,2.937062937062937,0,False,0,0.7,0,6
+úterý,2021-06-15,3209,Plzeň,21,1,1,49,12,5,2,1,715,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,26.765493102738315,4,False,0,4.95221116228396,0,True,2,2.937062937062937,0,False,0,0.7,0,6
 úterý,2021-06-15,3210,Přeštice,1,0,0,1,0,0,0,0,111,3210,Přeštice,22885,4449,CZ032,Plzeňský kraj,CZ,ČR,8.739348918505572,0,False,0,0.0,0,False,0,0.9009009009009009,0,False,0,0.5,0,0
 úterý,2021-06-15,3211,Rokycany,2,1,0,7,0,0,0,0,115,3211,Rokycany,49349,10085,CZ032,Plzeňský kraj,CZ,ČR,22.29021864678109,2,False,0,19.83143282102132,2,True,2,1.7391304347826086,0,False,0,0.4,0,6
 úterý,2021-06-15,3212,Stod,2,0,0,6,2,0,0,0,71,3212,Stod,23393,4517,CZ032,Plzeňský kraj,CZ,ČR,21.373915273799856,2,False,0,0.0,0,False,0,2.8169014084507045,0,False,0,0.5,0,2
