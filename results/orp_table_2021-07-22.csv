@@ -1,10 +1,10 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2021-07-22,1000,Praha,507,9,7,943,0,0,11,9,18462,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,80.19470246783716,7,True,0,8.361004276056473,0,True,2,2.7461813454663635,0,False,0,0.8741379310344828,5,14
+čtvrtek,2021-07-22,1000,Praha,505,9,7,941,0,0,11,9,18462,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,80.04367666281298,7,True,0,8.361004276056473,0,True,2,2.7353482829595923,0,False,0,0.8721934369602763,5,14
 čtvrtek,2021-07-22,2101,Benešov,11,2,0,14,0,0,0,0,355,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,52.44010356920455,7,False,0,16.49484536082474,2,True,2,3.0985915492957745,3,False,0,0.6111111111111112,0,14
 čtvrtek,2021-07-22,2102,Beroun,28,2,1,43,4,0,0,0,687,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,69.30860812912964,7,True,0,17.5561797752809,2,True,2,4.075691411935954,3,True,2,1.8666666666666667,25,41
 čtvrtek,2021-07-22,2103,Brandýs n.L.- St.Boleslav,34,1,1,69,0,0,0,0,1529,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,64.44095266679614,7,True,0,6.091617933723197,0,True,2,2.2236756049705693,0,False,0,0.8095238095238095,5,14
 čtvrtek,2021-07-22,2104,Čáslav,3,0,0,0,0,0,0,0,143,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,23.379963371390716,2,True,0,0.0,0,False,0,2.097902097902098,0,False,0,3.0,30,32
-čtvrtek,2021-07-22,2105,Černošice,51,1,0,117,13,6,1,2,2003,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,70.9799247344949,7,True,0,17.094747638787982,2,True,2,2.54618072890664,0,False,0,0.8225806451612904,5,16
+čtvrtek,2021-07-22,2105,Černošice,51,1,0,117,13,6,1,2,2004,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,70.9799247344949,7,True,0,17.094747638787982,2,True,2,2.5449101796407185,0,False,0,0.8225806451612904,5,16
 čtvrtek,2021-07-22,2106,Český Brod,2,0,0,7,0,0,0,0,173,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,37.14537772205971,4,False,0,0.0,0,False,0,1.1560693641618496,0,False,0,0.4,0,4
 čtvrtek,2021-07-22,2107,Dobříš,9,0,0,22,8,8,0,0,222,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,69.3270938948828,7,True,0,0.0,0,False,0,4.054054054054054,3,True,2,1.8,25,37
 čtvrtek,2021-07-22,2108,Hořovice,4,0,0,11,0,0,0,0,252,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,29.86956954631443,4,True,0,0.0,0,False,0,1.5873015873015872,0,False,0,0.8,5,9
@@ -176,7 +176,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-07-22,7204,Luhačovice,2,0,0,2,0,0,1,1,114,7204,Luhačovice,18624,3952,CZ072,Zlínský kraj,CZ,ČR,16.108247422680414,2,True,0,0.0,0,False,0,1.7543859649122806,0,True,2,2.0,30,34
 čtvrtek,2021-07-22,7205,Otrokovice,0,0,0,0,0,0,0,0,325,7205,Otrokovice,34276,7438,CZ072,Zlínský kraj,CZ,ČR,2.9174932897654333,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2021-07-22,7206,Rožnov pod Radhoštěm,1,0,0,0,0,0,0,0,168,7206,Rožnov pod Radhoštěm,35175,7559,CZ072,Zlínský kraj,CZ,ČR,8.528784648187633,0,False,0,0.0,0,False,0,0.5952380952380952,0,False,0,0.3333333333333333,0,0
-čtvrtek,2021-07-22,7207,Uherské Hradiště,5,0,0,10,1,2,0,0,679,7207,Uherské Hradiště,90117,18605,CZ072,Zlínský kraj,CZ,ČR,12.206353962071528,2,True,0,0.0,0,False,0,0.7363770250368188,0,False,0,1.6666666666666667,25,27
+čtvrtek,2021-07-22,7207,Uherské Hradiště,5,0,0,11,1,2,0,0,679,7207,Uherské Hradiště,90117,18605,CZ072,Zlínský kraj,CZ,ČR,12.206353962071528,2,True,0,0.0,0,False,0,0.7363770250368188,0,False,0,1.6666666666666667,25,27
 čtvrtek,2021-07-22,7208,Uherský Brod,1,0,0,0,0,0,0,0,324,7208,Uherský Brod,52109,10911,CZ072,Zlínský kraj,CZ,ČR,1.9190542900458654,0,False,0,0.0,0,False,0,0.30864197530864196,0,True,2,0.0,0,2
 čtvrtek,2021-07-22,7209,Valašské Klobouky,3,0,0,0,0,0,0,0,173,7209,Valašské Klobouky,23102,4300,CZ072,Zlínský kraj,CZ,ČR,12.985888667647822,2,True,0,0.0,0,False,0,1.7341040462427744,0,True,2,0.0,0,4
 čtvrtek,2021-07-22,7210,Valašské Meziříčí,1,0,0,0,0,0,0,0,235,7210,Valašské Meziříčí,41831,8296,CZ072,Zlínský kraj,CZ,ČR,7.171714756998399,0,True,0,0.0,0,False,0,0.425531914893617,0,False,0,1.0,10,10
