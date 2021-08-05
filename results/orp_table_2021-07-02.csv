@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2021-07-02,1000,Praha,376,8,6,501,0,0,9,6,23427,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,44.477099579619676,4,True,0,6.7684320329980965,0,True,2,1.6049857002603836,0,True,2,1.6347826086956523,25,33
+pátek,2021-07-02,1000,Praha,377,8,6,501,0,0,9,6,23427,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,44.55261248213176,4,True,0,6.7684320329980965,0,True,2,1.6092542792504376,0,True,2,1.6391304347826088,25,33
 pátek,2021-07-02,2101,Benešov,4,1,1,0,0,0,0,0,364,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,True,0,8.24742268041237,0,True,2,1.098901098901099,0,False,0,1.0,10,14
 pátek,2021-07-02,2102,Beroun,4,0,0,8,2,0,0,0,938,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,9.241147750550619,0,True,0,0.0,0,False,0,0.42643923240938164,0,False,0,2.0,30,30
 pátek,2021-07-02,2103,Brandýs n.L.- St.Boleslav,18,0,0,43,0,0,0,0,1873,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,31.779099945269326,4,True,0,0.0,0,False,0,0.9610250934329952,0,False,0,1.0588235294117647,10,14
@@ -70,7 +70,7 @@ pátek,2021-07-02,4202,Děčín,1,0,0,0,0,0,0,0,531,4202,Děčín,76842,16362,CZ
 pátek,2021-07-02,4203,Chomutov,2,0,0,0,0,0,0,0,506,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,4.898239083049644,0,True,0,0.0,0,False,0,0.3952569169960474,0,False,0,1.0,10,10
 pátek,2021-07-02,4204,Kadaň,0,0,0,0,0,0,0,0,182,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,2.310322521023935,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,4205,Litoměřice,2,0,0,4,1,0,0,0,398,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,3.3835222466587718,0,False,0,0.0,0,False,0,0.5025125628140703,0,True,2,0.0,0,2
-pátek,2021-07-02,4206,Litvínov,0,0,0,0,0,0,0,0,266,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+pátek,2021-07-02,4206,Litvínov,0,0,0,1,1,0,0,0,266,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,4207,Louny,1,0,0,0,0,0,0,0,235,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,2.2914757103574703,0,False,0,0.0,0,False,0,0.425531914893617,0,True,2,0.0,0,2
 pátek,2021-07-02,4208,Lovosice,0,0,0,6,1,0,0,0,145,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,4209,Most,0,0,0,0,0,0,0,0,412,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,1.3391721237930712,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
@@ -85,7 +85,7 @@ pátek,2021-07-02,5101,Česká Lípa,3,0,0,0,0,0,0,0,336,5101,Česká Lípa,7699
 pátek,2021-07-02,5102,Frýdlant,0,0,0,0,0,0,0,0,201,5102,Frýdlant,24479,4944,CZ051,Liberecký kraj,CZ,ČR,8.17026839331672,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2021-07-02,5103,Jablonec nad Nisou,1,0,0,0,0,0,0,0,710,5103,Jablonec nad Nisou,56206,11517,CZ051,Liberecký kraj,CZ,ČR,12.454186385795111,2,False,0,0.0,0,False,0,0.14084507042253522,0,False,0,0.25,0,2
 pátek,2021-07-02,5104,Jilemnice,0,0,0,0,0,0,0,0,121,5104,Jilemnice,22137,4768,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2021-07-02,5105,Liberec,21,0,0,10,0,0,0,0,1508,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,24.71237540844065,2,False,0,0.0,0,False,0,1.3925729442970822,0,False,0,1.6153846153846154,25,27
+pátek,2021-07-02,5105,Liberec,21,0,0,11,0,0,0,0,1508,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,24.71237540844065,2,False,0,0.0,0,False,0,1.3925729442970822,0,False,0,1.6153846153846154,25,27
 pátek,2021-07-02,5106,Nový Bor,2,0,0,0,0,0,0,0,111,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,7.603984487871645,0,True,0,0.0,0,False,0,1.8018018018018018,0,True,2,0.0,0,2
 pátek,2021-07-02,5107,Semily,0,0,0,0,0,0,0,0,140,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,11.684518013631937,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 pátek,2021-07-02,5108,Tanvald,2,0,0,5,0,0,0,0,141,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,34.293552812071326,4,False,0,0.0,0,False,0,1.4184397163120568,0,False,0,0.4,0,4
@@ -120,7 +120,7 @@ pátek,2021-07-02,5311,Přelouč,0,0,0,1,0,0,0,0,196,5311,Přelouč,25840,5172,C
 pátek,2021-07-02,5312,Svitavy,4,1,0,14,5,2,1,1,150,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,28.681602345517707,4,True,0,15.306903413439462,2,True,2,2.666666666666667,0,False,0,0.8,5,13
 pátek,2021-07-02,5313,Ústí nad Orlicí,0,0,0,3,0,1,0,0,179,5313,Ústí nad Orlicí,26573,5651,CZ053,Pardubický kraj,CZ,ČR,11.289654912881497,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 pátek,2021-07-02,5314,Vysoké Mýto,1,0,0,5,4,4,0,0,278,5314,Vysoké Mýto,32454,6661,CZ053,Pardubický kraj,CZ,ČR,3.0812842792876074,0,False,0,0.0,0,False,0,0.3597122302158274,0,True,2,1.0,10,12
-pátek,2021-07-02,5315,Žamberk,2,0,0,3,0,0,0,0,136,5315,Žamberk,29463,5651,CZ053,Pardubický kraj,CZ,ČR,6.788174999151479,0,True,0,0.0,0,False,0,1.4705882352941175,0,True,2,0.0,0,2
+pátek,2021-07-02,5315,Žamberk,2,0,0,4,0,0,0,0,136,5315,Žamberk,29463,5651,CZ053,Pardubický kraj,CZ,ČR,6.788174999151479,0,True,0,0.0,0,False,0,1.4705882352941175,0,True,2,0.0,0,2
 pátek,2021-07-02,6101,Bystřice nad Pernštejnem,0,0,0,10,8,6,0,0,125,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-02,6102,Havlíčkův Brod,4,0,0,14,8,5,0,0,213,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,15.113730824454016,2,False,0,0.0,0,False,0,1.8779342723004695,0,False,0,4.0,30,32
 pátek,2021-07-02,6103,Humpolec,0,0,0,2,0,0,0,0,52,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
