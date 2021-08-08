@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-06-23,1000,Praha,219,12,8,272,0,0,16,14,17513,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,28.9214416621296,4,False,0,10.351719579879441,2,True,2,1.2504996288471422,0,True,2,1.1116751269035532,10,20
+středa,2021-06-23,1000,Praha,219,12,8,268,0,0,16,14,17513,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,28.845928759617514,4,False,0,10.351719579879441,2,True,2,1.2504996288471422,0,True,2,1.1116751269035532,10,20
 středa,2021-06-23,2101,Benešov,6,0,0,0,0,0,0,0,380,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,11.471272655763494,2,False,0,0.0,0,False,0,1.5789473684210527,0,True,2,2.0,30,34
 středa,2021-06-23,2102,Beroun,0,0,0,6,2,0,0,0,363,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,6.1607651670337455,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-06-23,2103,Brandýs n.L.- St.Boleslav,9,0,0,24,0,0,0,0,1149,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,15.006797196377182,2,False,0,0.0,0,False,0,0.7832898172323759,0,True,2,1.0,10,14
@@ -10,7 +10,7 @@ středa,2021-06-23,2107,Dobříš,1,1,1,8,8,8,0,0,123,2107,Dobříš,23079,4340,
 středa,2021-06-23,2108,Hořovice,0,0,0,3,0,0,0,0,356,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-23,2109,Kladno,18,3,0,29,10,5,0,0,1712,2109,Kladno,125957,24239,CZ020,Středočeský kraj,CZ,ČR,21.4358868502743,2,True,0,16.502330954247288,2,True,2,1.0514018691588785,0,True,2,1.0,10,18
 středa,2021-06-23,2110,Kolín,3,0,0,25,15,11,0,0,305,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,8.383233532934131,0,False,0,0.0,0,False,0,0.9836065573770493,0,False,0,0.6,0,0
-středa,2021-06-23,2111,Kralupy nad Vltavou,2,0,0,4,1,0,0,0,226,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,6.151007227433492,0,False,0,0.0,0,False,0,0.8849557522123894,0,True,2,0.0,0,2
+středa,2021-06-23,2111,Kralupy nad Vltavou,2,0,0,5,1,0,0,0,226,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,6.151007227433492,0,False,0,0.0,0,False,0,0.8849557522123894,0,True,2,0.0,0,2
 středa,2021-06-23,2112,Kutná Hora,1,1,1,10,9,5,0,0,188,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,7.973686833449617,0,False,0,9.34317481080071,0,True,2,0.5319148936170213,0,False,0,1.0,10,12
 středa,2021-06-23,2113,Lysá nad Labem,0,0,0,1,0,0,0,0,104,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,22.29902999219534,2,False,0,29.00232018561485,4,True,2,0.0,0,False,0,0.0,0,8
 středa,2021-06-23,2114,Mělník,4,0,0,10,0,0,0,0,249,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,33.6322869955157,4,True,0,0.0,0,False,0,1.6064257028112447,0,False,0,0.3076923076923077,0,4
@@ -71,7 +71,7 @@ středa,2021-06-23,4203,Chomutov,2,0,0,0,0,0,0,0,277,4203,Chomutov,81662,14681,C
 středa,2021-06-23,4204,Kadaň,2,0,0,0,0,0,0,0,123,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,25.413547731263282,4,False,0,74.27581084426838,7,True,2,1.6260162601626018,0,False,0,0.4,0,13
 středa,2021-06-23,4205,Litoměřice,1,0,0,7,3,0,1,0,285,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,3.3835222466587718,0,False,0,0.0,0,False,0,0.3508771929824561,0,False,0,0.5,0,0
 středa,2021-06-23,4206,Litvínov,0,0,0,1,1,0,0,0,99,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2021-06-23,4207,Louny,1,0,0,6,3,0,0,0,156,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,4.582951420714941,0,False,0,0.0,0,False,0,0.641025641025641,0,True,2,0.5,0,2
+středa,2021-06-23,4207,Louny,1,0,0,7,3,0,0,0,156,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,4.582951420714941,0,False,0,0.0,0,False,0,0.641025641025641,0,True,2,0.5,0,2
 středa,2021-06-23,4208,Lovosice,0,0,0,8,2,0,0,0,77,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-23,4209,Most,2,0,0,7,0,0,1,0,186,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,10.71337699034457,2,False,0,0.0,0,False,0,1.0752688172043012,0,False,0,0.2857142857142857,0,2
 středa,2021-06-23,4210,Podbořany,0,0,0,1,1,0,0,0,38,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,6.378364587319811,0,False,0,32.19575016097875,4,True,2,0.0,0,False,0,0.0,0,6

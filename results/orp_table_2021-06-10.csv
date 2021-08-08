@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2021-06-10,1000,Praha,243,8,2,408,0,0,22,16,15410,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,42.664789919329564,4,False,0,10.351719579879441,2,True,2,1.5768981181051265,0,False,0,0.7838709677419354,0,8
+čtvrtek,2021-06-10,1000,Praha,244,8,2,407,0,0,22,16,15410,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,42.81581572435374,4,False,0,10.351719579879441,2,True,2,1.583387410772226,0,False,0,0.782051282051282,0,8
 čtvrtek,2021-06-10,2101,Benešov,7,2,2,7,0,0,2,2,181,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,36.05257120382812,4,False,0,16.49484536082474,2,True,2,3.867403314917127,3,False,0,0.7777777777777778,0,11
 čtvrtek,2021-06-10,2102,Beroun,10,0,0,27,2,0,1,0,340,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,38.50478229396091,4,False,0,0.0,0,False,0,2.941176470588235,0,False,0,0.5263157894736842,0,4
 čtvrtek,2021-06-10,2103,Brandýs n.L.- St.Boleslav,9,0,0,41,0,0,1,0,1053,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,35.310111050299255,4,False,0,18.27485380116959,2,True,2,0.8547008547008548,0,False,0,0.47368421052631576,0,8
@@ -10,7 +10,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-06-10,2108,Hořovice,3,0,0,12,0,0,0,0,390,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,29.86956954631443,4,False,0,0.0,0,False,0,0.7692307692307693,0,False,0,0.6,0,4
 čtvrtek,2021-06-10,2109,Kladno,14,2,0,24,9,5,2,1,1465,2109,Kladno,125957,24239,CZ020,Středočeský kraj,CZ,ČR,20.641965115078957,2,False,0,12.376748215685467,2,True,2,0.955631399317406,0,True,2,1.4,20,28
 čtvrtek,2021-06-10,2110,Kolín,5,0,0,30,15,11,0,0,243,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,15.568862275449101,2,False,0,5.935070330583418,0,True,2,2.05761316872428,0,False,0,0.5,0,4
-čtvrtek,2021-06-10,2111,Kralupy nad Vltavou,5,0,0,9,1,0,0,0,183,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,30.755036137167462,4,False,0,0.0,0,False,0,2.73224043715847,0,False,0,1.25,15,19
+čtvrtek,2021-06-10,2111,Kralupy nad Vltavou,5,0,0,10,1,0,0,0,183,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,30.755036137167462,4,False,0,0.0,0,False,0,2.73224043715847,0,False,0,1.25,15,19
 čtvrtek,2021-06-10,2112,Kutná Hora,5,0,0,34,8,4,0,0,187,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,57.80922954250971,7,False,0,0.0,0,False,0,2.6737967914438503,0,False,0,0.23809523809523808,0,7
 čtvrtek,2021-06-10,2113,Lysá nad Labem,6,0,0,9,0,0,0,0,123,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,44.59805998439068,4,False,0,0.0,0,False,0,4.878048780487805,3,False,0,1.2,15,22
 čtvrtek,2021-06-10,2114,Mělník,3,0,0,0,0,0,0,0,184,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,13.45291479820628,2,False,0,0.0,0,False,0,1.6304347826086956,0,False,0,1.5,20,22
@@ -71,7 +71,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-06-10,4204,Kadaň,4,2,2,0,0,0,0,0,97,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,36.96516033638296,4,False,0,24.75860361475613,2,True,2,4.123711340206185,3,False,0,0.36363636363636365,0,11
 čtvrtek,2021-06-10,4205,Litoměřice,3,0,0,16,3,0,2,2,275,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,20.30113347995263,2,False,0,0.0,0,False,0,1.090909090909091,0,False,0,0.42857142857142855,0,2
 čtvrtek,2021-06-10,4206,Litvínov,2,0,0,5,1,0,0,0,77,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,10.800594032671798,2,False,0,0.0,0,False,0,2.5974025974025974,0,False,0,1.0,10,12
-čtvrtek,2021-06-10,4207,Louny,1,0,0,9,3,0,0,0,135,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,20.623281393217233,2,False,0,0.0,0,False,0,0.7407407407407408,0,False,0,0.25,0,2
+čtvrtek,2021-06-10,4207,Louny,1,0,0,10,3,0,0,0,135,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,20.623281393217233,2,False,0,0.0,0,False,0,0.7407407407407408,0,False,0,0.25,0,2
 čtvrtek,2021-06-10,4208,Lovosice,2,0,0,14,4,2,1,0,55,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,18.01801801801802,2,False,0,17.22949689869056,2,True,2,3.6363636363636362,3,False,0,0.5,0,9
 čtvrtek,2021-06-10,4209,Most,7,0,0,21,0,0,2,2,177,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,34.81847521861985,4,False,0,22.01188641866608,2,True,2,3.954802259887006,3,False,0,0.3888888888888889,0,11
 čtvrtek,2021-06-10,4210,Podbořany,1,0,0,4,1,0,0,0,38,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,25.513458349279244,4,False,0,0.0,0,False,0,2.631578947368421,0,False,0,0.5,0,4

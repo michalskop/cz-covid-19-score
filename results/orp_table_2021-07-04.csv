@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2021-07-04,1000,Praha,434,14,9,584,0,0,3,8,25352,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,50.14056726802625,7,True,0,8.361004276056473,0,True,2,1.7118964973177657,0,True,2,1.4965517241379311,20,31
+neděle,2021-07-04,1000,Praha,434,14,9,583,0,0,3,8,25352,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,50.21608017053834,7,True,0,8.361004276056473,0,True,2,1.7118964973177657,0,True,2,1.4914089347079038,20,31
 neděle,2021-07-04,2101,Benešov,6,1,1,0,0,0,0,0,413,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,True,0,8.24742268041237,0,True,2,1.4527845036319613,0,False,0,1.5,20,24
 neděle,2021-07-04,2102,Beroun,10,0,0,14,2,0,0,0,962,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,18.482295501101238,2,True,0,0.0,0,False,0,1.0395010395010396,0,True,2,3.3333333333333335,30,34
 neděle,2021-07-04,2103,Brandýs n.L.- St.Boleslav,17,0,0,40,0,0,0,0,1704,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,30.013594392754364,4,True,0,0.0,0,False,0,0.9976525821596244,0,False,0,1.0,10,14
@@ -10,7 +10,7 @@ neděle,2021-07-04,2107,Dobříš,1,0,0,8,8,8,0,0,183,2107,Dobříš,23079,4340,
 neděle,2021-07-04,2108,Hořovice,0,0,0,3,0,0,0,0,272,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2021-07-04,2109,Kladno,18,1,1,45,10,7,0,0,1430,2109,Kladno,125957,24239,CZ020,Středočeský kraj,CZ,ČR,30.16902593742309,4,True,0,8.251165477123644,0,True,2,1.2587412587412588,0,False,0,0.782608695652174,0,6
 neděle,2021-07-04,2110,Kolín,1,0,0,20,15,11,0,0,650,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,2.3952095808383236,0,False,0,0.0,0,False,0,0.15384615384615385,0,False,0,0.0,0,0
-neděle,2021-07-04,2111,Kralupy nad Vltavou,3,0,0,6,1,0,0,0,375,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,12.302014454866985,2,True,0,0.0,0,False,0,0.8,0,True,2,0.0,0,4
+neděle,2021-07-04,2111,Kralupy nad Vltavou,3,0,0,7,1,0,0,0,375,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,12.302014454866985,2,True,0,0.0,0,False,0,0.8,0,True,2,0.0,0,4
 neděle,2021-07-04,2112,Kutná Hora,3,2,0,11,10,4,0,0,304,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,7.973686833449617,0,True,0,18.68634962160142,2,True,2,0.9868421052631579,0,True,2,3.0,30,36
 neděle,2021-07-04,2113,Lysá nad Labem,0,0,0,0,0,0,0,0,262,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2021-07-04,2114,Mělník,6,2,2,13,0,0,0,0,443,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,38.11659192825112,4,False,0,23.108030040439054,2,True,2,1.3544018058690745,0,False,0,0.6,0,8
@@ -71,7 +71,7 @@ neděle,2021-07-04,4203,Chomutov,2,0,0,0,0,0,0,0,535,4203,Chomutov,81662,14681,C
 neděle,2021-07-04,4204,Kadaň,0,0,0,0,0,0,0,0,189,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2021-07-04,4205,Litoměřice,3,0,0,8,3,0,0,0,418,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,5.075283369988157,0,True,0,0.0,0,False,0,0.7177033492822966,0,True,2,0.0,0,2
 neděle,2021-07-04,4206,Litvínov,0,0,0,1,1,0,0,0,283,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2021-07-04,4207,Louny,1,0,0,6,3,0,0,0,242,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,2.2914757103574703,0,False,0,0.0,0,False,0,0.4132231404958678,0,True,2,0.0,0,2
+neděle,2021-07-04,4207,Louny,1,0,0,7,3,0,0,0,242,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,2.2914757103574703,0,False,0,0.0,0,False,0,0.4132231404958678,0,True,2,0.0,0,2
 neděle,2021-07-04,4208,Lovosice,0,0,0,8,2,0,0,0,155,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2021-07-04,4209,Most,0,0,0,0,0,0,0,0,416,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,1.3391721237930712,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 neděle,2021-07-04,4210,Podbořany,0,0,0,1,1,0,0,0,43,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

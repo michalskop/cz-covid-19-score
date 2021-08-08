@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2021-07-06,1000,Praha,404,8,5,623,0,0,8,7,19001,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,52.405954343388885,7,True,0,5.972145911468909,0,True,2,2.126203884006105,0,True,2,1.1160220994475138,10,21
+úterý,2021-07-06,1000,Praha,404,8,5,622,0,0,8,7,19001,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,52.481467245900966,7,True,0,5.972145911468909,0,True,2,2.126203884006105,0,True,2,1.1160220994475138,10,21
 úterý,2021-07-06,2101,Benešov,12,1,1,2,0,0,0,0,326,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,26.220051784602276,4,True,0,8.24742268041237,0,True,2,3.6809815950920246,3,True,2,2.4,30,41
 úterý,2021-07-06,2102,Beroun,9,0,0,14,2,0,0,0,632,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,18.482295501101238,2,True,0,0.0,0,False,0,1.4240506329113924,0,True,2,1.8,25,29
 úterý,2021-07-06,2103,Brandýs n.L.- St.Boleslav,22,0,0,43,0,0,0,0,1246,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,34.42735827404177,4,True,0,0.0,0,False,0,1.7656500802568218,0,True,2,1.2222222222222223,15,21
@@ -10,7 +10,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-07-06,2108,Hořovice,0,0,0,3,0,0,0,0,208,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-07-06,2109,Kladno,21,1,1,51,10,7,0,0,1097,2109,Kladno,125957,24239,CZ020,Středočeský kraj,CZ,ČR,34.932556348595156,4,True,0,8.251165477123644,0,True,2,1.9143117593436645,0,True,2,1.1666666666666667,10,18
 úterý,2021-07-06,2110,Kolín,1,0,0,19,15,11,0,0,594,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,1.1976047904191618,0,False,0,0.0,0,False,0,0.16835016835016833,0,True,2,1.0,10,12
-úterý,2021-07-06,2111,Kralupy nad Vltavou,5,0,0,7,1,0,0,0,371,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,15.377518068583731,2,True,0,0.0,0,False,0,1.3477088948787064,0,True,2,2.5,30,34
+úterý,2021-07-06,2111,Kralupy nad Vltavou,5,0,0,8,1,0,0,0,371,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,15.377518068583731,2,True,0,0.0,0,False,0,1.3477088948787064,0,True,2,2.5,30,34
 úterý,2021-07-06,2112,Kutná Hora,3,2,0,10,10,4,0,0,233,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,7.973686833449617,0,True,0,18.68634962160142,2,True,2,1.2875536480686696,0,True,2,3.0,30,36
 úterý,2021-07-06,2113,Lysá nad Labem,1,0,0,0,0,0,0,0,211,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,3.7165049986992233,0,True,0,0.0,0,False,0,0.47393364928909953,0,True,2,0.0,0,2
 úterý,2021-07-06,2114,Mělník,5,2,2,11,0,0,0,0,377,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,33.6322869955157,4,False,0,23.108030040439054,2,True,2,1.3262599469496021,0,False,0,0.38461538461538464,0,8
@@ -71,7 +71,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-07-06,4204,Kadaň,0,0,0,0,0,0,0,0,164,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-07-06,4205,Litoměřice,4,0,0,9,3,0,0,0,370,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,6.7670444933175435,0,True,0,0.0,0,False,0,1.0810810810810811,0,True,2,0.0,0,2
 úterý,2021-07-06,4206,Litvínov,0,0,0,1,1,0,0,0,180,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2021-07-06,4207,Louny,1,0,0,6,3,0,0,0,196,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,2.2914757103574703,0,False,0,0.0,0,False,0,0.5102040816326531,0,True,2,1.0,10,12
+úterý,2021-07-06,4207,Louny,1,0,0,7,3,0,0,0,196,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,2.2914757103574703,0,False,0,0.0,0,False,0,0.5102040816326531,0,True,2,1.0,10,12
 úterý,2021-07-06,4208,Lovosice,1,0,0,9,2,0,0,0,136,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,3.6036036036036037,0,True,0,0.0,0,False,0,0.7352941176470588,0,True,2,0.0,0,2
 úterý,2021-07-06,4209,Most,0,0,0,0,0,0,0,0,320,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,1.3391721237930712,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2021-07-06,4210,Podbořany,0,0,0,1,1,0,0,0,40,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
