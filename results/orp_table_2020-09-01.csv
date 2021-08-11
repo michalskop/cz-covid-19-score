@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2020-09-01,1000,Praha,749,46,24,1256,83,46,24,20,11860,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,97.71369585064153,7,True,0,35.43473240804886,4,True,2,6.315345699831367,3,False,0,1.1964856230031948,10,26
+úterý,2020-09-01,1000,Praha,748,46,24,1256,83,46,24,20,11860,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,97.63818294812943,7,True,0,35.43473240804886,4,True,2,6.306913996627318,3,False,0,1.1968,10,26
 úterý,2020-09-01,2101,Benešov,11,1,0,16,1,0,0,0,320,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,24.581298548064634,2,True,0,8.24742268041237,0,True,2,3.4375000000000004,3,True,2,1.5714285714285714,20,29
 úterý,2020-09-01,2102,Beroun,29,1,1,41,1,1,0,0,308,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,64.68803425385433,7,True,0,8.77808988764045,0,True,2,9.415584415584416,7,True,2,1.7058823529411764,25,43
 úterý,2020-09-01,2103,Brandýs n.L.- St.Boleslav,52,1,0,74,2,1,3,4,714,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,64.44095266679614,7,True,0,6.091617933723197,0,True,2,7.282913165266107,7,True,2,1.793103448275862,25,43
@@ -114,7 +114,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-09-01,5306,Lanškroun,0,0,0,1,0,0,0,0,42,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,4.32152117545376,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-09-01,5307,Litomyšl,16,1,0,17,1,0,0,0,159,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,62.48851314096674,7,True,0,18.772292096865026,2,True,2,10.062893081761008,7,True,2,8.0,30,50
 úterý,2020-09-01,5308,Moravská Třebová,1,0,0,1,0,0,0,0,67,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,3.8258474252046826,0,True,0,0.0,0,False,0,1.4925373134328357,0,True,2,0.0,0,2
-úterý,2020-09-01,5309,Pardubice,37,3,0,84,5,1,1,0,703,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,59.98891344131338,7,False,0,18.98614011771407,2,True,2,5.263157894736842,3,False,0,0.925,5,19
+úterý,2020-09-01,5309,Pardubice,37,3,0,85,6,2,1,0,703,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,59.98891344131338,7,False,0,18.98614011771407,2,True,2,5.263157894736842,3,False,0,0.925,5,19
 úterý,2020-09-01,5310,Polička,4,0,0,13,0,0,0,0,106,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,66.28932741828565,7,True,0,0.0,0,False,0,3.7735849056603774,3,False,0,0.3076923076923077,0,10
 úterý,2020-09-01,5311,Přelouč,1,0,0,1,0,0,0,0,124,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,3.8699690402476783,0,False,0,0.0,0,False,0,0.8064516129032258,0,True,2,1.0,10,12
 úterý,2020-09-01,5312,Svitavy,3,1,0,4,1,0,0,0,108,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,12.74737882023009,2,True,0,15.306903413439462,2,True,2,2.7777777777777777,0,True,2,3.0,30,38

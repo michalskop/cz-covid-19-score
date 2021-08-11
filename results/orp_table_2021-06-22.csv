@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2021-06-22,1000,Praha,224,21,17,277,0,0,19,16,18701,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,29.07246746715377,4,False,0,10.749862640644036,2,True,2,1.1977969092561895,0,True,2,1.1978609625668448,10,20
+úterý,2021-06-22,1000,Praha,225,21,17,279,0,0,19,16,18701,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,29.07246746715377,4,False,0,10.749862640644036,2,True,2,1.2031442168867974,0,True,2,1.2032085561497325,15,25
 úterý,2021-06-22,2101,Benešov,6,0,0,0,0,0,0,0,398,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,9.832519419225852,0,False,0,0.0,0,False,0,1.507537688442211,0,True,2,3.0,30,32
 úterý,2021-06-22,2102,Beroun,0,0,0,6,2,0,0,0,398,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,6.1607651670337455,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2021-06-22,2103,Brandýs n.L.- St.Boleslav,10,0,0,26,0,0,0,0,1226,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,16.772302748892145,2,False,0,0.0,0,False,0,0.8156606851549755,0,True,2,1.0,10,14
@@ -15,7 +15,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-06-22,2113,Lysá nad Labem,0,0,0,3,0,0,0,0,109,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,22.29902999219534,2,False,0,29.00232018561485,4,True,2,0.0,0,False,0,0.0,0,8
 úterý,2021-06-22,2114,Mělník,6,0,0,10,0,0,0,0,245,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,33.6322869955157,4,True,0,0.0,0,False,0,2.4489795918367347,0,False,0,0.5,0,4
 úterý,2021-06-22,2115,Mladá Boleslav,2,0,0,4,0,0,0,0,385,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,3.5566936975387677,0,False,0,0.0,0,False,0,0.5194805194805194,0,False,0,2.0,30,30
-úterý,2021-06-22,2116,Mnichovo Hradiště,0,0,0,2,1,0,0,0,70,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,5.5862800960840175,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+úterý,2021-06-22,2116,Mnichovo Hradiště,0,0,0,3,1,0,0,0,70,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,5.5862800960840175,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2021-06-22,2117,Neratovice,2,0,0,0,0,0,0,0,204,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,12.42737751266039,2,False,0,0.0,0,False,0,0.9803921568627451,0,True,2,0.6666666666666666,0,4
 úterý,2021-06-22,2118,Nymburk,2,0,0,3,0,0,0,0,170,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,17.420302117811016,2,False,0,0.0,0,False,0,1.1764705882352942,0,False,0,0.4,0,2
 úterý,2021-06-22,2119,Poděbrady,3,0,0,14,0,3,0,0,160,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,CZ,ČR,54.17118093174431,7,False,0,0.0,0,False,0,1.875,0,False,0,0.25,0,7
@@ -69,7 +69,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-06-22,4202,Děčín,1,0,0,0,0,0,2,0,278,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,5.205486582858333,0,False,0,6.111722283339446,0,True,2,0.3597122302158274,0,False,0,0.3333333333333333,0,2
 úterý,2021-06-22,4203,Chomutov,1,0,0,0,0,0,0,0,277,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,4.898239083049644,0,False,0,0.0,0,False,0,0.36101083032490977,0,False,0,1.0,10,10
 úterý,2021-06-22,4204,Kadaň,2,0,0,0,0,0,0,0,126,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,25.413547731263282,4,False,0,74.27581084426838,7,True,2,1.5873015873015872,0,False,0,0.2857142857142857,0,13
-úterý,2021-06-22,4205,Litoměřice,1,0,0,7,3,0,1,0,280,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,3.3835222466587718,0,False,0,0.0,0,False,0,0.35714285714285715,0,False,0,0.5,0,0
+úterý,2021-06-22,4205,Litoměřice,1,0,0,3,0,0,1,0,280,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,3.3835222466587718,0,False,0,0.0,0,False,0,0.35714285714285715,0,False,0,0.5,0,0
 úterý,2021-06-22,4206,Litvínov,0,0,0,1,1,0,0,0,101,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-06-22,4207,Louny,1,0,0,7,3,0,0,0,159,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,4.582951420714941,0,False,0,0.0,0,False,0,0.628930817610063,0,True,2,1.0,10,12
 úterý,2021-06-22,4208,Lovosice,0,0,0,8,2,0,0,0,73,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -114,7 +114,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-06-22,5306,Lanškroun,2,1,1,1,2,0,0,0,60,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,8.64304235090752,0,True,0,22.381378692927484,2,True,2,3.3333333333333335,3,True,2,0.0,0,9
 úterý,2021-06-22,5307,Litomyšl,0,0,0,4,2,1,0,1,97,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,3.6757948906451023,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-06-22,5308,Moravská Třebová,0,0,0,0,0,0,0,0,43,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,3.8258474252046826,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2021-06-22,5309,Pardubice,12,1,1,34,16,9,1,0,965,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,15.187066694003388,2,True,0,7.594456047085628,0,True,2,1.2435233160621761,0,True,2,1.0909090909090908,10,16
+úterý,2021-06-22,5309,Pardubice,12,1,1,35,17,10,1,0,965,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,15.187066694003388,2,True,0,7.594456047085628,0,True,2,1.2435233160621761,0,True,2,1.0909090909090908,10,16
 úterý,2021-06-22,5310,Polička,2,0,0,14,8,5,0,0,65,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,10.19835806435164,2,False,0,0.0,0,False,0,3.076923076923077,3,True,2,2.0,30,37
 úterý,2021-06-22,5311,Přelouč,0,0,0,1,0,0,0,0,111,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-06-22,5312,Svitavy,2,0,0,8,4,2,0,0,99,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,9.560534115172567,0,False,0,0.0,0,False,0,2.0202020202020203,0,True,2,0.0,0,2
@@ -152,7 +152,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-06-22,6214,Rosice,4,1,1,1,0,0,0,1,128,6214,Rosice,26284,5080,CZ064,Jihomoravský kraj,CZ,ČR,26.63217166336935,4,True,0,59.05511811023622,7,True,2,3.125,3,True,2,0.8,5,23
 úterý,2021-06-22,6215,Slavkov u Brna,2,0,0,0,0,0,0,0,138,6215,Slavkov u Brna,24027,4191,CZ064,Jihomoravský kraj,CZ,ČR,8.323968868356433,0,True,0,0.0,0,False,0,1.4492753623188406,0,True,2,2.0,30,32
 úterý,2021-06-22,6216,Šlapanice,1,1,1,0,0,0,0,0,581,6216,Šlapanice,70414,12564,CZ064,Jihomoravský kraj,CZ,ČR,11.361376998892267,2,False,0,23.87774594078319,2,True,2,0.17211703958691912,0,False,0,0.3333333333333333,0,6
-úterý,2021-06-22,6217,Tišnov,1,0,0,5,1,0,1,0,128,6217,Tišnov,31725,6213,CZ064,Jihomoravský kraj,CZ,ČR,12.608353033884947,2,False,0,16.095284081764042,2,True,2,0.78125,0,False,0,1.0,10,16
+úterý,2021-06-22,6217,Tišnov,1,0,0,3,1,0,1,0,128,6217,Tišnov,31725,6213,CZ064,Jihomoravský kraj,CZ,ČR,12.608353033884947,2,False,0,16.095284081764042,2,True,2,0.78125,0,False,0,1.0,10,16
 úterý,2021-06-22,6218,Veselí nad Moravou,0,0,0,2,0,0,0,0,120,6218,Veselí nad Moravou,37715,8138,CZ064,Jihomoravský kraj,CZ,ČR,10.605859737504971,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 úterý,2021-06-22,6219,Vyškov,1,0,0,8,1,0,0,0,219,6219,Vyškov,52142,10312,CZ064,Jihomoravský kraj,CZ,ČR,11.507038471865291,2,False,0,0.0,0,False,0,0.45662100456621,0,False,0,0.3333333333333333,0,2
 úterý,2021-06-22,6220,Znojmo,2,0,0,0,0,0,0,0,238,6220,Znojmo,91899,18089,CZ064,Jihomoravský kraj,CZ,ČR,4.352604489711531,0,False,0,0.0,0,False,0,0.8403361344537815,0,False,0,1.0,10,10

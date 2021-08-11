@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2021-07-03,1000,Praha,398,9,6,538,0,0,1,6,24748,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,47.04453826503066,4,True,0,6.7684320329980965,0,True,2,1.6082107645062227,0,True,2,1.5075757575757576,20,28
+sobota,2021-07-03,1000,Praha,397,9,6,538,0,0,1,6,24748,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,46.89351246000648,4,True,0,6.7684320329980965,0,True,2,1.6041700339421368,0,True,2,1.5095057034220531,20,28
 sobota,2021-07-03,2101,Benešov,5,1,1,0,0,0,0,0,373,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,True,0,8.24742268041237,0,True,2,1.3404825737265416,0,False,0,1.6666666666666667,25,29
 sobota,2021-07-03,2102,Beroun,6,0,0,10,2,0,0,0,929,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,12.321530334067491,2,True,0,0.0,0,False,0,0.6458557588805167,0,True,2,3.0,30,34
 sobota,2021-07-03,2103,Brandýs n.L.- St.Boleslav,17,0,0,41,0,0,0,0,1637,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,32.66185272152681,4,True,0,0.0,0,False,0,1.0384850335980453,0,False,0,0.9444444444444444,5,9
@@ -15,7 +15,7 @@ sobota,2021-07-03,2112,Kutná Hora,3,2,0,11,10,4,0,0,304,2112,Kutná Hora,50165,
 sobota,2021-07-03,2113,Lysá nad Labem,0,0,0,0,0,0,0,0,256,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2021-07-03,2114,Mělník,6,2,2,12,0,0,0,0,442,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,35.874439461883405,4,False,0,23.108030040439054,2,True,2,1.3574660633484164,0,False,0,0.6666666666666666,0,8
 sobota,2021-07-03,2115,Mladá Boleslav,4,0,0,8,0,0,0,1,758,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,5.335040546308152,0,True,0,0.0,0,False,0,0.5277044854881267,0,False,0,4.0,30,30
-sobota,2021-07-03,2116,Mnichovo Hradiště,1,0,0,2,1,0,0,0,140,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,5.5862800960840175,0,True,0,0.0,0,False,0,0.7142857142857143,0,True,2,1.0,10,12
+sobota,2021-07-03,2116,Mnichovo Hradiště,1,0,0,3,1,0,0,0,140,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,5.5862800960840175,0,True,0,0.0,0,False,0,0.7142857142857143,0,True,2,1.0,10,12
 sobota,2021-07-03,2117,Neratovice,5,0,0,3,0,0,0,0,421,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,24.85475502532078,2,True,0,0.0,0,False,0,1.187648456057007,0,False,0,1.6666666666666667,25,27
 sobota,2021-07-03,2118,Nymburk,0,0,0,0,0,0,0,0,298,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2021-07-03,2119,Poděbrady,0,0,0,0,0,3,0,0,152,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,CZ,ČR,3.186540054808489,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -69,7 +69,7 @@ sobota,2021-07-03,4201,Bílina,0,0,0,0,0,0,0,0,91,4201,Bílina,22600,3935,CZ042,
 sobota,2021-07-03,4202,Děčín,0,0,0,0,0,0,0,0,596,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,1.3013716457145832,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2021-07-03,4203,Chomutov,2,0,0,0,0,0,0,0,540,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,4.898239083049644,0,True,0,0.0,0,False,0,0.3703703703703704,0,False,0,1.0,10,10
 sobota,2021-07-03,4204,Kadaň,0,0,0,0,0,0,0,0,190,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-sobota,2021-07-03,4205,Litoměřice,3,0,0,8,3,0,0,0,419,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,5.075283369988157,0,True,0,0.0,0,False,0,0.7159904534606205,0,True,2,0.0,0,2
+sobota,2021-07-03,4205,Litoměřice,3,0,0,4,0,0,0,0,419,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,5.075283369988157,0,True,0,0.0,0,False,0,0.7159904534606205,0,True,2,0.0,0,2
 sobota,2021-07-03,4206,Litvínov,0,0,0,1,1,0,0,0,285,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2021-07-03,4207,Louny,1,0,0,7,3,0,0,0,252,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,2.2914757103574703,0,False,0,0.0,0,False,0,0.3968253968253968,0,True,2,0.0,0,2
 sobota,2021-07-03,4208,Lovosice,0,0,0,8,2,0,0,0,151,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -114,7 +114,7 @@ sobota,2021-07-03,5305,Králíky,1,0,0,1,0,0,0,0,36,5305,Králíky,8676,1838,CZ0
 sobota,2021-07-03,5306,Lanškroun,0,0,0,1,2,0,0,0,77,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,8.64304235090752,0,False,0,22.381378692927484,2,True,2,0.0,0,False,0,0.0,0,4
 sobota,2021-07-03,5307,Litomyšl,0,0,0,3,2,1,0,0,208,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2021-07-03,5308,Moravská Třebová,2,0,0,0,0,0,0,0,49,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,7.651694850409365,0,True,0,0.0,0,False,0,4.081632653061225,3,True,2,2.0,30,35
-sobota,2021-07-03,5309,Pardubice,5,0,0,30,15,8,1,0,1630,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,12.149653355202709,2,False,0,3.797228023542814,0,True,2,0.3067484662576687,0,False,0,0.5555555555555556,0,4
+sobota,2021-07-03,5309,Pardubice,5,0,0,31,16,9,1,0,1630,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,12.149653355202709,2,False,0,3.797228023542814,0,True,2,0.3067484662576687,0,False,0,0.5555555555555556,0,4
 sobota,2021-07-03,5310,Polička,0,0,0,14,8,5,0,1,113,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,10.19835806435164,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 sobota,2021-07-03,5311,Přelouč,0,0,0,1,0,0,0,0,200,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2021-07-03,5312,Svitavy,4,1,0,14,5,2,1,1,154,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,28.681602345517707,4,True,0,15.306903413439462,2,True,2,2.5974025974025974,0,False,0,0.8,5,13
@@ -152,7 +152,7 @@ sobota,2021-07-03,6213,Pohořelice,1,0,0,2,0,0,0,0,90,6213,Pohořelice,14599,258
 sobota,2021-07-03,6214,Rosice,1,0,0,0,0,0,0,0,194,6214,Rosice,26284,5080,CZ064,Jihomoravský kraj,CZ,ČR,11.413787855729723,2,False,0,0.0,0,False,0,0.5154639175257731,0,False,0,0.5,0,2
 sobota,2021-07-03,6215,Slavkov u Brna,3,0,0,2,0,0,0,0,208,6215,Slavkov u Brna,24027,4191,CZ064,Jihomoravský kraj,CZ,ČR,16.647937736712866,2,True,0,0.0,0,False,0,1.4423076923076923,0,True,2,1.5,20,24
 sobota,2021-07-03,6216,Šlapanice,2,0,0,0,0,0,0,0,917,6216,Šlapanice,70414,12564,CZ064,Jihomoravský kraj,CZ,ČR,7.100860624307666,0,True,0,7.959248646927731,0,True,2,0.21810250817884408,0,False,0,0.5,0,2
-sobota,2021-07-03,6217,Tišnov,1,0,0,4,0,0,0,0,284,6217,Tišnov,31725,6213,CZ064,Jihomoravský kraj,CZ,ČR,6.304176516942474,0,False,0,0.0,0,False,0,0.35211267605633806,0,False,0,1.0,10,10
+sobota,2021-07-03,6217,Tišnov,1,0,0,2,0,0,0,0,284,6217,Tišnov,31725,6213,CZ064,Jihomoravský kraj,CZ,ČR,6.304176516942474,0,False,0,0.0,0,False,0,0.35211267605633806,0,False,0,1.0,10,10
 sobota,2021-07-03,6218,Veselí nad Moravou,0,0,0,0,0,0,0,0,229,6218,Veselí nad Moravou,37715,8138,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2021-07-03,6219,Vyškov,1,0,0,6,1,0,0,0,351,6219,Vyškov,52142,10312,CZ064,Jihomoravský kraj,CZ,ČR,5.753519235932646,0,False,0,0.0,0,False,0,0.2849002849002849,0,False,0,0.5,0,0
 sobota,2021-07-03,6220,Znojmo,2,1,1,0,0,0,0,1,320,6220,Znojmo,91899,18089,CZ064,Jihomoravský kraj,CZ,ČR,3.264453367283648,0,False,0,5.528221571120571,0,True,2,0.625,0,True,2,1.0,10,14
