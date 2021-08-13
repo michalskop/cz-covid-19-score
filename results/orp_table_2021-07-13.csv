@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2021-07-13,1000,Praha,570,15,6,866,0,0,5,6,17224,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,73.47405414426136,7,True,0,9.15729039758566,0,True,2,3.3093358104969806,3,True,2,1.261061946902655,15,29
+úterý,2021-07-13,1000,Praha,571,15,6,867,0,0,5,6,17224,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,73.54956704677345,7,True,0,9.15729039758566,0,True,2,3.3151416627960986,3,True,2,1.2632743362831858,15,29
 úterý,2021-07-13,2101,Benešov,20,0,0,18,0,0,0,0,311,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,52.44010356920455,7,True,0,8.24742268041237,0,True,2,6.430868167202572,3,True,2,1.1764705882352942,10,24
 úterý,2021-07-13,2102,Beroun,18,0,0,28,2,0,0,0,614,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,41.58516487747779,4,True,0,0.0,0,False,0,2.9315960912052117,0,True,2,1.5,20,26
 úterý,2021-07-13,2103,Brandýs n.L.- St.Boleslav,30,1,0,55,0,0,0,1,1307,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,45.90314436538903,4,True,0,6.091617933723197,0,True,2,2.295332823259373,0,True,2,1.4285714285714286,20,28
@@ -77,7 +77,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-07-13,4210,Podbořany,3,2,1,4,3,1,0,0,53,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,19.135093761959435,2,True,0,64.3915003219575,7,True,2,5.660377358490567,3,True,2,0.0,0,16
 úterý,2021-07-13,4211,Roudnice nad Labem,0,0,0,0,0,0,0,0,200,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-07-13,4212,Rumburk,0,0,0,0,0,0,0,0,148,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,6.098490623570666,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-úterý,2021-07-13,4213,Teplice,9,2,0,8,0,0,0,0,605,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,10.33135472236832,2,True,0,9.42729201037002,0,True,2,1.487603305785124,0,True,2,1.125,10,16
+úterý,2021-07-13,4213,Teplice,9,2,0,9,0,0,0,0,605,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,10.33135472236832,2,True,0,9.42729201037002,0,True,2,1.487603305785124,0,True,2,1.125,10,16
 úterý,2021-07-13,4214,Ústí nad Labem,8,1,0,27,6,0,1,0,1091,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,13.407296921349445,2,False,0,4.171707479871511,0,True,2,0.7332722273143905,0,False,0,1.1428571428571428,10,14
 úterý,2021-07-13,4215,Varnsdorf,3,1,1,1,0,0,0,0,54,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,20.09545340366742,2,True,0,23.747328425552126,2,True,2,5.555555555555555,3,True,2,1.0,10,21
 úterý,2021-07-13,4216,Žatec,0,0,0,4,2,1,0,0,124,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -113,7 +113,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-07-13,5305,Králíky,1,0,0,1,0,0,0,0,51,5305,Králíky,8676,1838,CZ053,Pardubický kraj,CZ,ČR,23.05209774089442,2,False,0,0.0,0,False,0,1.9607843137254901,0,False,0,0.0,0,2
 úterý,2021-07-13,5306,Lanškroun,1,0,0,0,1,0,0,0,109,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,4.32152117545376,0,False,0,0.0,0,False,0,0.9174311926605505,0,True,2,0.0,0,2
 úterý,2021-07-13,5307,Litomyšl,6,2,2,9,4,3,0,1,213,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,22.05476934387061,2,True,0,37.54458419373005,4,True,2,2.8169014084507045,0,True,2,0.0,0,10
-úterý,2021-07-13,5308,Moravská Třebová,2,0,0,1,0,0,0,0,77,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,15.30338970081873,2,True,0,0.0,0,False,0,2.5974025974025974,0,False,0,2.0,30,32
+úterý,2021-07-13,5308,Moravská Třebová,2,0,0,2,0,0,0,0,77,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,15.30338970081873,2,True,0,0.0,0,False,0,2.5974025974025974,0,False,0,2.0,30,32
 úterý,2021-07-13,5309,Pardubice,16,0,0,38,15,8,0,0,1509,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,15.946420028703555,2,True,0,0.0,0,False,0,1.0603048376408217,0,True,2,2.2857142857142856,30,34
 úterý,2021-07-13,5310,Polička,3,1,0,18,9,5,0,0,133,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,30.59507419305492,4,True,0,25.031289111389235,4,True,2,2.2556390977443606,0,False,0,0.75,0,10
 úterý,2021-07-13,5311,Přelouč,33,4,0,34,3,0,1,1,182,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,127.70897832817337,10,True,0,77.33952049497293,7,True,2,18.13186813186813,15,True,2,8.25,30,66
@@ -167,7 +167,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-07-13,7108,Prostějov,4,0,0,11,4,0,0,0,651,7108,Prostějov,98012,20139,CZ071,Olomoucký kraj,CZ,ČR,7.14198261437375,0,True,0,0.0,0,False,0,0.6144393241167435,0,True,2,4.0,30,32
 úterý,2021-07-13,7109,Přerov,4,0,0,0,0,0,1,1,576,7109,Přerov,80236,17534,CZ071,Olomoucký kraj,CZ,ČR,6.231616730644598,0,True,0,0.0,0,False,0,0.6944444444444444,0,True,2,1.0,10,12
 úterý,2021-07-13,7110,Šternberk,0,0,0,0,0,0,0,0,150,7110,Šternberk,24164,4837,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2021-07-13,7111,Šumperk,4,0,0,1,0,0,0,0,260,7111,Šumperk,68988,15147,CZ071,Olomoucký kraj,CZ,ČR,7.247637270249899,0,True,0,0.0,0,False,0,1.5384615384615385,0,True,2,4.0,30,32
+úterý,2021-07-13,7111,Šumperk,4,0,0,0,0,0,0,0,260,7111,Šumperk,68988,15147,CZ071,Olomoucký kraj,CZ,ČR,7.247637270249899,0,True,0,0.0,0,False,0,1.5384615384615385,0,True,2,4.0,30,32
 úterý,2021-07-13,7112,Uničov,0,0,0,0,0,0,0,0,105,7112,Uničov,22428,4534,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-07-13,7113,Zábřeh,2,0,0,0,0,0,0,0,188,7113,Zábřeh,33067,6892,CZ071,Olomoucký kraj,CZ,ČR,9.07248918861705,0,True,0,0.0,0,False,0,1.0638297872340425,0,True,2,2.0,30,32
 úterý,2021-07-13,7201,Bystřice pod Hostýnem,0,0,0,0,0,0,0,0,81,7201,Bystřice pod Hostýnem,15242,3294,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
