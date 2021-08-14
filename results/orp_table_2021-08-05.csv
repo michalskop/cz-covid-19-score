@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2021-08-05,1000,Praha,274,5,2,527,0,0,8,5,18132,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,45.45876731227681,4,False,0,6.370288972233503,0,True,2,1.5111405250386056,0,False,0,0.9319727891156463,5,11
+čtvrtek,2021-08-05,1000,Praha,273,5,2,526,0,0,8,5,18132,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,45.307741507252636,4,False,0,6.370288972233503,0,True,2,1.5056254136333553,0,False,0,0.931740614334471,5,11
 čtvrtek,2021-08-05,2101,Benešov,6,0,0,5,0,0,0,0,523,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,27.85880502113992,4,False,0,0.0,0,False,0,1.147227533460803,0,False,0,0.5,0,4
 čtvrtek,2021-08-05,2102,Beroun,4,1,1,15,3,0,1,1,705,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,23.102869376376546,2,False,0,8.77808988764045,0,True,2,0.5673758865248227,0,False,0,0.5,0,4
 čtvrtek,2021-08-05,2103,Brandýs n.L.- St.Boleslav,22,3,0,47,0,0,1,1,1638,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,40.60662770784414,4,False,0,18.27485380116959,2,True,2,1.3431013431013432,0,False,0,1.0,10,18
@@ -50,7 +50,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-08-05,3205,Klatovy,7,0,0,31,3,0,0,0,355,3205,Klatovy,50720,10750,CZ032,Plzeňský kraj,CZ,ČR,53.23343848580442,7,False,0,18.604651162790695,2,True,2,1.971830985915493,0,False,0,0.4666666666666667,0,11
 čtvrtek,2021-08-05,3206,Kralovice,5,0,0,11,0,0,0,0,139,3206,Kralovice,22367,4828,CZ032,Plzeňský kraj,CZ,ČR,62.59221174051057,7,False,0,0.0,0,False,0,3.597122302158273,3,False,0,0.45454545454545453,0,10
 čtvrtek,2021-08-05,3207,Nepomuk,0,0,0,9,4,2,0,0,90,3207,Nepomuk,11583,2650,CZ032,Plzeňský kraj,CZ,ČR,25.900025900025902,4,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,4
-čtvrtek,2021-08-05,3208,Nýřany,12,2,0,16,0,0,2,0,603,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,50.33673540234673,7,False,0,47.91107704101188,4,True,2,1.9900497512437811,0,False,0,0.8,5,18
+čtvrtek,2021-08-05,3208,Nýřany,12,2,0,15,0,0,2,0,603,3208,Nýřany,57612,10436,CZ032,Plzeňský kraj,CZ,ČR,50.33673540234673,7,False,0,47.91107704101188,4,True,2,1.9900497512437811,0,False,0,0.8,5,18
 čtvrtek,2021-08-05,3209,Plzeň,53,5,5,154,19,10,2,1,2156,3209,Plzeň,194280,40386,CZ032,Plzeňský kraj,CZ,ČR,71.54622194770434,7,False,0,19.80884464913584,2,True,2,2.458256029684601,0,False,0,0.5520833333333334,0,11
 čtvrtek,2021-08-05,3210,Přeštice,5,0,0,5,0,0,0,0,321,3210,Přeštice,22885,4449,CZ032,Plzeňský kraj,CZ,ČR,39.32707013327507,4,False,0,0.0,0,False,0,1.557632398753894,0,True,2,2.5,30,36
 čtvrtek,2021-08-05,3211,Rokycany,4,0,0,10,0,0,0,0,382,3211,Rokycany,49349,10085,CZ032,Plzeňský kraj,CZ,ČR,24.316602160124827,2,False,0,0.0,0,False,0,1.0471204188481675,0,False,0,0.5,0,2
@@ -76,7 +76,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-08-05,4209,Most,1,0,0,0,0,0,1,1,400,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,2.6783442475861423,0,False,0,0.0,0,False,0,0.25,0,False,0,1.0,10,10
 čtvrtek,2021-08-05,4210,Podbořany,4,0,0,7,1,0,1,0,62,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,38.27018752391887,4,True,0,0.0,0,False,0,6.451612903225806,3,True,2,2.0,30,39
 čtvrtek,2021-08-05,4211,Roudnice nad Labem,0,0,0,0,0,0,0,0,246,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,9.1441111923921,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-čtvrtek,2021-08-05,4212,Rumburk,2,0,0,1,0,0,0,0,161,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,24.393962494282665,2,False,0,0.0,0,False,0,1.2422360248447204,0,False,0,0.5,0,2
+čtvrtek,2021-08-05,4212,Rumburk,2,0,0,2,0,0,0,0,161,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,24.393962494282665,2,False,0,0.0,0,False,0,1.2422360248447204,0,False,0,0.5,0,2
 čtvrtek,2021-08-05,4213,Teplice,5,0,0,7,0,0,2,1,814,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,8.452926591028627,0,False,0,0.0,0,False,0,0.6142506142506142,0,True,2,1.25,15,17
 čtvrtek,2021-08-05,4214,Ústí nad Labem,3,0,0,18,5,0,0,0,1129,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,5.0277363455060415,0,False,0,0.0,0,False,0,0.2657218777679362,0,False,0,1.0,10,10
 čtvrtek,2021-08-05,4215,Varnsdorf,0,0,0,0,0,0,0,0,93,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,5.023863350916855,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
@@ -130,7 +130,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-08-05,6107,Náměšť nad Oslavou,1,0,0,1,0,0,0,0,106,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,7.440476190476192,0,False,0,0.0,0,False,0,0.9433962264150944,0,True,2,0.0,0,2
 čtvrtek,2021-08-05,6108,Nové Město na Moravě,2,0,0,15,10,5,0,0,268,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,15.475085112968122,2,True,0,0.0,0,False,0,0.7462686567164178,0,True,2,1.0,10,14
 čtvrtek,2021-08-05,6109,Pacov,0,0,0,0,0,0,0,0,21,6109,Pacov,9364,2205,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2021-08-05,6110,Pelhřimov,6,0,0,16,8,8,0,0,164,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,15.525883866388678,2,True,0,0.0,0,False,0,3.6585365853658534,3,True,2,2.0,30,37
+čtvrtek,2021-08-05,6110,Pelhřimov,6,0,0,17,8,8,0,0,164,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,15.525883866388678,2,True,0,0.0,0,False,0,3.6585365853658534,3,True,2,2.0,30,37
 čtvrtek,2021-08-05,6111,Světlá nad Sázavou,1,0,0,0,0,1,0,0,61,6111,Světlá nad Sázavou,19690,4322,CZ063,Kraj Vysočina,CZ,ČR,10.15744032503809,2,True,0,0.0,0,False,0,1.639344262295082,0,True,2,1.0,10,14
 čtvrtek,2021-08-05,6112,Telč,0,0,0,0,0,0,0,0,57,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-08-05,6113,Třebíč,2,0,0,4,0,0,1,0,416,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,9.424816889271865,0,False,0,0.0,0,False,0,0.4807692307692308,0,False,0,0.5,0,0

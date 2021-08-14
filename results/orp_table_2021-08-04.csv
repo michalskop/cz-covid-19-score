@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-08-04,1000,Praha,276,6,1,548,0,0,8,6,18420,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,47.49761568010318,4,False,0,5.175859789939721,0,True,2,1.498371335504886,0,False,0,0.9169435215946844,5,11
+středa,2021-08-04,1000,Praha,276,6,1,549,0,0,8,6,18420,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,47.49761568010318,4,False,0,5.175859789939721,0,True,2,1.498371335504886,0,False,0,0.92,5,11
 středa,2021-08-04,2101,Benešov,6,0,0,5,0,0,0,0,513,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,32.775064730752845,4,False,0,0.0,0,False,0,1.1695906432748537,0,False,0,0.5,0,4
 středa,2021-08-04,2102,Beroun,4,1,1,18,4,0,1,1,739,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,29.26363454341029,4,False,0,17.5561797752809,2,True,2,0.5412719891745602,0,False,0,0.4,0,8
 středa,2021-08-04,2103,Brandýs n.L.- St.Boleslav,19,3,0,44,0,0,1,1,1599,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,37.075616602814215,4,False,0,18.27485380116959,2,True,2,1.188242651657286,0,False,0,0.8636363636363636,5,13
@@ -76,7 +76,7 @@ středa,2021-08-04,4208,Lovosice,4,1,1,19,3,1,0,1,205,4208,Lovosice,27750,5804,C
 středa,2021-08-04,4209,Most,1,0,0,0,0,0,1,1,404,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,2.6783442475861423,0,False,0,0.0,0,False,0,0.24752475247524752,0,False,0,0.5,0,0
 středa,2021-08-04,4210,Podbořany,4,0,0,7,1,0,1,1,63,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,38.27018752391887,4,True,0,0.0,0,False,0,6.349206349206349,3,True,2,1.3333333333333333,15,24
 středa,2021-08-04,4211,Roudnice nad Labem,2,0,0,0,0,0,0,0,249,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,9.1441111923921,0,False,0,0.0,0,False,0,0.8032128514056224,0,True,2,1.0,10,12
-středa,2021-08-04,4212,Rumburk,3,0,0,2,0,0,0,0,187,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,30.492453117853334,4,True,0,0.0,0,False,0,1.6042780748663104,0,False,0,0.75,0,4
+středa,2021-08-04,4212,Rumburk,3,0,0,3,0,0,0,0,187,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,30.492453117853334,4,True,0,0.0,0,False,0,1.6042780748663104,0,False,0,0.75,0,4
 středa,2021-08-04,4213,Teplice,5,0,0,6,0,0,2,2,850,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,7.5137125253587795,0,False,0,0.0,0,False,0,0.5882352941176471,0,True,2,1.25,15,17
 středa,2021-08-04,4214,Ústí nad Labem,3,0,0,19,5,0,0,1,1165,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,5.865692403090382,0,False,0,0.0,0,False,0,0.2575107296137339,0,False,0,1.0,10,10
 středa,2021-08-04,4215,Varnsdorf,0,0,0,0,0,0,0,0,91,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,5.023863350916855,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
@@ -130,7 +130,7 @@ středa,2021-08-04,6106,Moravské Budějovice,0,0,0,0,0,0,0,0,69,6106,Moravské 
 středa,2021-08-04,6107,Náměšť nad Oslavou,0,0,0,0,0,0,0,0,106,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-08-04,6108,Nové Město na Moravě,2,0,0,15,10,5,0,0,235,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,15.475085112968122,2,True,0,0.0,0,False,0,0.851063829787234,0,True,2,1.0,10,14
 středa,2021-08-04,6109,Pacov,0,0,0,0,0,0,0,0,18,6109,Pacov,9364,2205,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2021-08-04,6110,Pelhřimov,5,0,0,15,8,8,0,0,179,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,13.307900456904584,2,True,0,0.0,0,False,0,2.793296089385475,0,True,2,2.5,30,34
+středa,2021-08-04,6110,Pelhřimov,5,0,0,16,8,8,0,0,179,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,13.307900456904584,2,True,0,0.0,0,False,0,2.793296089385475,0,True,2,2.5,30,34
 středa,2021-08-04,6111,Světlá nad Sázavou,0,0,0,0,0,1,0,0,71,6111,Světlá nad Sázavou,19690,4322,CZ063,Kraj Vysočina,CZ,ČR,5.078720162519045,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-08-04,6112,Telč,0,0,0,0,0,0,0,0,64,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-08-04,6113,Třebíč,4,0,0,6,0,0,0,0,418,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,10.771219302024988,2,False,0,0.0,0,False,0,0.9569377990430622,0,False,0,1.0,10,12

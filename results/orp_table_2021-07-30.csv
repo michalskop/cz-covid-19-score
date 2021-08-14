@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2021-07-30,1000,Praha,301,8,2,669,0,0,18,8,17994,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,58.67352525189217,7,False,0,7.564718154527285,0,True,2,1.6727798154940534,0,False,0,0.7149643705463183,0,9
+pátek,2021-07-30,1000,Praha,300,8,2,670,0,0,18,8,17994,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,58.67352525189217,7,False,0,7.564718154527285,0,True,2,1.6672224074691564,0,False,0,0.7109004739336493,0,9
 pátek,2021-07-30,2101,Benešov,12,0,0,8,0,0,0,0,376,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,36.05257120382812,4,False,0,16.49484536082474,2,True,2,3.1914893617021276,3,True,2,2.4,30,43
 pátek,2021-07-30,2102,Beroun,10,0,0,37,3,0,0,0,717,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,55.44688650330371,7,False,0,17.5561797752809,2,True,2,1.394700139470014,0,False,0,0.35714285714285715,0,11
 pátek,2021-07-30,2103,Brandýs n.L.- St.Boleslav,22,0,0,51,0,0,0,0,1430,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,45.90314436538903,4,False,0,0.0,0,False,0,1.5384615384615385,0,False,0,0.7857142857142857,0,4
@@ -76,7 +76,7 @@ pátek,2021-07-30,4208,Lovosice,9,1,1,19,3,1,1,1,189,4208,Lovosice,27750,5804,CZ
 pátek,2021-07-30,4209,Most,2,0,0,0,0,0,1,1,343,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,2.6783442475861423,0,False,0,0.0,0,False,0,0.5830903790087464,0,True,2,2.0,30,32
 pátek,2021-07-30,4210,Podbořany,3,0,0,5,1,0,1,1,66,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,31.891822936599056,4,False,0,32.19575016097875,4,True,2,4.545454545454546,3,True,2,1.0,10,25
 pátek,2021-07-30,4211,Roudnice nad Labem,2,0,0,0,0,0,0,0,243,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,12.192148256522799,2,True,0,0.0,0,False,0,0.823045267489712,0,False,0,1.0,10,12
-pátek,2021-07-30,4212,Rumburk,4,0,0,2,0,0,0,0,180,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,27.443207806068,4,True,0,0.0,0,False,0,2.2222222222222223,0,False,0,0.8,5,9
+pátek,2021-07-30,4212,Rumburk,4,0,0,3,0,0,0,0,180,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,27.443207806068,4,True,0,0.0,0,False,0,2.2222222222222223,0,False,0,0.8,5,9
 pátek,2021-07-30,4213,Teplice,4,0,0,10,0,0,1,1,677,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,11.270568788038169,2,False,0,0.0,0,False,0,0.5908419497784343,0,False,0,1.3333333333333333,15,17
 pátek,2021-07-30,4214,Ústí nad Labem,3,0,0,22,5,0,1,1,1107,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,7.541604518259063,0,False,0,0.0,0,False,0,0.27100271002710025,0,False,0,1.0,10,10
 pátek,2021-07-30,4215,Varnsdorf,1,0,0,0,0,0,0,0,86,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,5.023863350916855,0,False,0,0.0,0,False,0,1.1627906976744187,0,True,2,0.0,0,2
@@ -130,7 +130,7 @@ pátek,2021-07-30,6106,Moravské Budějovice,1,0,0,0,0,0,0,0,60,6106,Moravské B
 pátek,2021-07-30,6107,Náměšť nad Oslavou,0,0,0,1,0,0,0,0,100,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,7.440476190476192,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2021-07-30,6108,Nové Město na Moravě,2,0,0,14,10,5,0,0,264,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,10.316723408645414,2,True,0,0.0,0,False,0,0.7575757575757576,0,True,2,0.0,0,4
 pátek,2021-07-30,6109,Pacov,0,0,0,0,0,0,0,0,33,6109,Pacov,9364,2205,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2021-07-30,6110,Pelhřimov,2,0,0,11,8,8,0,0,212,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,4.435966818968194,0,True,0,0.0,0,False,0,0.9433962264150944,0,True,2,0.0,0,2
+pátek,2021-07-30,6110,Pelhřimov,2,0,0,12,8,8,0,0,212,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,4.435966818968194,0,True,0,0.0,0,False,0,0.9433962264150944,0,True,2,0.0,0,2
 pátek,2021-07-30,6111,Světlá nad Sázavou,1,0,0,0,0,1,0,0,66,6111,Světlá nad Sázavou,19690,4322,CZ063,Kraj Vysočina,CZ,ČR,5.078720162519045,0,True,0,0.0,0,False,0,1.5151515151515151,0,True,2,0.0,0,2
 pátek,2021-07-30,6112,Telč,0,0,0,0,0,0,0,0,55,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-07-30,6113,Třebíč,4,0,0,7,0,0,0,1,351,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,12.117621714778112,2,False,0,0.0,0,False,0,1.1396011396011396,0,False,0,1.0,10,12

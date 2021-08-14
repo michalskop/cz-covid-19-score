@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2021-08-03,1000,Praha,277,6,2,563,0,0,11,6,18806,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,48.70582212029658,4,False,0,5.175859789939721,0,True,2,1.472934169945762,0,False,0,0.8445121951219512,5,11
+úterý,2021-08-03,1000,Praha,277,6,2,564,0,0,11,6,18806,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,48.70582212029658,4,False,0,5.175859789939721,0,True,2,1.472934169945762,0,False,0,0.8470948012232415,5,11
 úterý,2021-08-03,2101,Benešov,11,0,0,8,0,0,0,0,502,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,32.775064730752845,4,False,0,0.0,0,False,0,2.1912350597609564,0,False,0,1.0,10,14
 úterý,2021-08-03,2102,Beroun,3,0,0,20,3,0,0,0,746,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,30.803825835168727,4,False,0,8.77808988764045,0,True,2,0.40214477211796246,0,False,0,0.2727272727272727,0,6
 úterý,2021-08-03,2103,Brandýs n.L.- St.Boleslav,21,3,0,45,0,0,1,1,1612,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,38.84112215532918,4,False,0,18.27485380116959,2,True,2,1.3027295285359801,0,False,0,0.875,5,13
@@ -76,7 +76,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-08-03,4209,Most,1,0,0,0,0,0,1,1,406,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,2.6783442475861423,0,False,0,0.0,0,False,0,0.24630541871921183,0,False,0,1.0,10,10
 úterý,2021-08-03,4210,Podbořany,3,0,0,7,1,0,1,1,67,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,38.27018752391887,4,True,0,0.0,0,False,0,4.477611940298507,3,False,0,1.5,20,27
 úterý,2021-08-03,4211,Roudnice nad Labem,2,0,0,0,0,0,0,0,250,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,9.1441111923921,0,False,0,0.0,0,False,0,0.8,0,True,2,0.6666666666666666,0,2
-úterý,2021-08-03,4212,Rumburk,4,0,0,2,0,0,0,0,172,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,27.443207806068,4,True,0,0.0,0,False,0,2.3255813953488373,0,False,0,0.6666666666666666,0,4
+úterý,2021-08-03,4212,Rumburk,4,0,0,3,0,0,0,0,172,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,27.443207806068,4,True,0,0.0,0,False,0,2.3255813953488373,0,False,0,0.6666666666666666,0,4
 úterý,2021-08-03,4213,Teplice,4,0,0,5,0,0,2,2,833,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,6.5744984596889315,0,False,0,0.0,0,False,0,0.4801920768307323,0,True,2,1.0,10,12
 úterý,2021-08-03,4214,Ústí nad Labem,4,0,0,20,5,0,0,1,1143,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,6.703648460674723,0,False,0,0.0,0,False,0,0.3499562554680665,0,False,0,1.3333333333333333,15,15
 úterý,2021-08-03,4215,Varnsdorf,0,0,0,0,0,0,0,0,85,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,5.023863350916855,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
@@ -130,7 +130,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-08-03,6107,Náměšť nad Oslavou,0,0,0,0,0,0,0,0,106,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-08-03,6108,Nové Město na Moravě,3,0,0,15,10,5,0,0,268,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,15.475085112968122,2,True,0,0.0,0,False,0,1.1194029850746268,0,True,2,3.0,30,34
 úterý,2021-08-03,6109,Pacov,0,0,0,0,0,0,0,0,26,6109,Pacov,9364,2205,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2021-08-03,6110,Pelhřimov,4,0,0,14,8,8,0,0,183,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,11.089917047420485,2,True,0,0.0,0,False,0,2.185792349726776,0,True,2,4.0,30,34
+úterý,2021-08-03,6110,Pelhřimov,4,0,0,15,8,8,0,0,183,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,11.089917047420485,2,True,0,0.0,0,False,0,2.185792349726776,0,True,2,4.0,30,34
 úterý,2021-08-03,6111,Světlá nad Sázavou,0,0,0,0,0,1,0,0,72,6111,Světlá nad Sázavou,19690,4322,CZ063,Kraj Vysočina,CZ,ČR,5.078720162519045,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2021-08-03,6112,Telč,0,0,0,0,0,0,0,0,54,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-08-03,6113,Třebíč,4,0,0,6,0,0,0,0,401,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,12.117621714778112,2,False,0,0.0,0,False,0,0.997506234413965,0,False,0,0.8,5,7
