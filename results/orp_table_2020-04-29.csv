@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-04-29,1000,Praha,60,15,10,418,131,95,60,10,5329,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.084248235074686,2,False,0,23.09229752434645,2,True,2,1.125914805779696,0,False,0,0.4838709677419355,0,6
+středa,2020-04-29,1000,Praha,59,15,10,417,131,95,60,10,5329,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.008735332562598,2,False,0,23.09229752434645,2,True,2,1.107149559016701,0,False,0,0.47580645161290325,0,6
 středa,2020-04-29,2101,Benešov,2,0,0,14,0,0,0,0,268,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,6.555012946150569,0,False,0,0.0,0,False,0,0.7462686567164178,0,False,0,0.6666666666666666,0,0
 středa,2020-04-29,2102,Beroun,0,0,0,2,0,0,0,0,197,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-04-29,2103,Brandýs n.L.- St.Boleslav,1,0,0,19,5,4,2,1,364,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,9.710280538832295,0,False,0,6.091617933723197,0,True,2,0.27472527472527475,0,False,0,0.1111111111111111,0,2
@@ -19,7 +19,7 @@ středa,2020-04-29,2116,Mnichovo Hradiště,2,0,0,2,0,0,0,0,64,2116,Mnichovo Hra
 středa,2020-04-29,2117,Neratovice,2,0,0,10,0,0,0,0,120,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,15.534221890825489,2,False,0,16.929067208396816,2,True,2,1.6666666666666667,0,False,0,0.6666666666666666,0,6
 středa,2020-04-29,2118,Nymburk,0,0,0,3,0,0,0,0,137,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,2.4886145882587165,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2020-04-29,2119,Poděbrady,0,0,0,0,0,0,0,0,104,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,CZ,ČR,3.186540054808489,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-středa,2020-04-29,2120,Příbram,1,0,0,6,1,0,1,1,270,2120,Příbram,69951,14592,CZ020,Středočeský kraj,CZ,ČR,1.4295721290617718,0,False,0,0.0,0,False,0,0.3703703703703704,0,True,2,0.0,0,2
+středa,2020-04-29,2120,Příbram,1,0,0,4,1,0,1,1,270,2120,Příbram,69951,14592,CZ020,Středočeský kraj,CZ,ČR,1.4295721290617718,0,False,0,0.0,0,False,0,0.3703703703703704,0,True,2,0.0,0,2
 středa,2020-04-29,2121,Rakovník,0,0,0,4,3,1,1,0,149,2121,Rakovník,55562,11623,CZ020,Středočeský kraj,CZ,ČR,5.399373672653972,0,False,0,25.810892196506924,4,True,2,0.0,0,False,0,,30,36
 středa,2020-04-29,2122,Říčany,1,0,0,26,2,1,1,0,272,2122,Říčany,71896,11376,CZ020,Středočeský kraj,CZ,ČR,16.690775564704573,2,False,0,0.0,0,False,0,0.3676470588235294,0,False,0,0.125,0,2
 středa,2020-04-29,2123,Sedlčany,0,0,0,0,0,0,0,0,101,2123,Sedlčany,22074,4717,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -109,7 +109,7 @@ středa,2020-04-29,5215,Vrchlabí,0,0,0,0,0,0,0,0,66,5215,Vrchlabí,27610,5935,C
 středa,2020-04-29,5301,Česká Třebová,0,0,0,1,0,0,0,0,48,5301,Česká Třebová,17969,3841,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-04-29,5302,Hlinsko,0,0,0,5,1,1,0,0,51,5302,Hlinsko,21017,4465,CZ053,Pardubický kraj,CZ,ČR,14.274159014131417,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 středa,2020-04-29,5303,Holice,0,0,0,6,0,0,0,0,72,5303,Holice,17910,3461,CZ053,Pardubický kraj,CZ,ČR,16.750418760469014,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
-středa,2020-04-29,5304,Chrudim,2,0,0,7,1,0,0,0,314,5304,Chrudim,83596,17211,CZ053,Pardubický kraj,CZ,ČR,3.588688453993014,0,True,0,0.0,0,False,0,0.6369426751592357,0,True,2,1.0,10,12
+středa,2020-04-29,5304,Chrudim,2,0,0,6,0,0,0,0,314,5304,Chrudim,83596,17211,CZ053,Pardubický kraj,CZ,ČR,3.588688453993014,0,True,0,0.0,0,False,0,0.6369426751592357,0,True,2,1.0,10,12
 středa,2020-04-29,5305,Králíky,0,0,0,0,0,0,0,0,25,5305,Králíky,8676,1838,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-04-29,5306,Lanškroun,0,0,0,1,0,0,0,0,64,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-04-29,5307,Litomyšl,4,0,0,17,5,5,2,0,160,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,22.05476934387061,2,False,0,18.772292096865026,2,False,0,2.5,0,True,2,4.0,30,36
