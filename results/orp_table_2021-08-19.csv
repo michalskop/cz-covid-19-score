@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2021-08-19,1000,Praha,376,17,5,564,0,0,18,16,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,55.653009151408654,7,True,0,12.342434883702412,2,True,2,0.0,0,False,0,0.9715762273901809,5,16
+čtvrtek,2021-08-19,1000,Praha,377,17,5,569,0,0,17,16,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,55.95506076145701,7,True,0,12.342434883702412,2,True,2,0.0,0,False,0,0.9716494845360825,5,16
 čtvrtek,2021-08-19,2101,Benešov,3,0,0,0,0,0,0,0,0,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,19.665038838451704,2,False,0,8.24742268041237,0,True,2,0.0,0,False,0,0.375,0,4
 čtvrtek,2021-08-19,2102,Beroun,10,0,0,20,0,0,1,0,0,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,33.8842084186856,4,True,0,0.0,0,False,0,0.0,0,False,0,0.9090909090909091,5,9
 čtvrtek,2021-08-19,2103,Brandýs n.L.- St.Boleslav,17,0,0,32,0,0,0,0,0,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,37.9583693790717,4,False,0,0.0,0,False,0,0.0,0,False,0,0.9444444444444444,5,9
@@ -15,7 +15,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-08-19,2113,Lysá nad Labem,5,0,0,8,0,0,0,0,0,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,48.3145649830899,4,False,0,0.0,0,False,0,0.0,0,False,0,0.7142857142857143,0,4
 čtvrtek,2021-08-19,2114,Mělník,8,1,0,1,0,0,0,0,0,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,22.42152466367713,2,True,0,23.108030040439054,2,True,2,0.0,0,False,0,1.3333333333333333,15,21
 čtvrtek,2021-08-19,2115,Mladá Boleslav,14,2,0,21,1,0,0,0,0,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,19.561815336463223,2,True,0,9.70732417609086,0,True,2,0.0,0,False,0,1.5555555555555556,20,24
-čtvrtek,2021-08-19,2116,Mnichovo Hradiště,2,0,0,4,1,0,0,0,0,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,16.758840288252053,2,True,0,0.0,0,False,0,0.0,0,False,0,2.0,30,32
+čtvrtek,2021-08-19,2116,Mnichovo Hradiště,3,0,0,5,1,0,0,0,0,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,22.34512038433607,2,True,0,0.0,0,False,0,0.0,0,False,0,3.0,30,32
 čtvrtek,2021-08-19,2117,Neratovice,4,0,0,7,0,0,1,1,0,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,43.49582129431136,4,True,0,0.0,0,False,0,0.0,0,False,0,0.5,0,4
 čtvrtek,2021-08-19,2118,Nymburk,6,1,0,8,0,0,1,1,0,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,32.35198964736332,4,True,0,12.244398187829068,2,True,2,0.0,0,False,0,0.6666666666666666,0,8
 čtvrtek,2021-08-19,2119,Poděbrady,6,0,0,5,0,2,0,0,0,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,CZ,ČR,28.6788604932764,4,False,0,14.52854859799506,2,True,2,0.0,0,False,0,1.2,15,23
@@ -163,7 +163,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-08-19,7104,Lipník nad Bečvou,0,0,0,0,0,0,0,0,0,7104,Lipník nad Bečvou,15130,2913,CZ071,Olomoucký kraj,CZ,ČR,6.609385327164574,0,False,0,0.0,0,False,0,,30,False,0,0.0,0,30
 čtvrtek,2021-08-19,7105,Litovel,0,0,0,5,0,0,0,0,0,7105,Litovel,23715,4914,CZ071,Olomoucký kraj,CZ,ČR,42.1674045962471,4,False,0,0.0,0,False,0,,30,False,0,0.0,0,34
 čtvrtek,2021-08-19,7106,Mohelnice,1,0,0,2,0,0,0,0,0,7106,Mohelnice,18362,3710,CZ071,Olomoucký kraj,CZ,ČR,32.676179065461284,4,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,4
-čtvrtek,2021-08-19,7107,Olomouc,22,1,1,35,0,0,2,2,0,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,CZ,ČR,36.32730905458178,4,True,0,3.054181174027243,0,True,2,0.0,0,False,0,0.6666666666666666,0,6
+čtvrtek,2021-08-19,7107,Olomouc,23,1,1,36,0,0,2,2,0,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,CZ,ČR,36.93276420549148,4,True,0,3.054181174027243,0,True,2,0.0,0,False,0,0.6764705882352942,0,6
 čtvrtek,2021-08-19,7108,Prostějov,4,0,0,9,2,0,0,0,0,7108,Prostějov,98012,20139,CZ071,Olomoucký kraj,CZ,ČR,10.202832306248213,2,True,0,4.965489845573266,0,True,2,0.0,0,False,0,0.5714285714285714,0,4
 čtvrtek,2021-08-19,7109,Přerov,2,1,1,0,0,0,0,0,0,7109,Přerov,80236,17534,CZ071,Olomoucký kraj,CZ,ČR,7.4779400767735185,0,False,0,5.703205201323144,0,True,2,0.0,0,False,0,1.0,10,12
 čtvrtek,2021-08-19,7110,Šternberk,2,0,0,0,0,0,0,0,0,7110,Šternberk,24164,4837,CZ071,Olomoucký kraj,CZ,ČR,8.276775368316503,0,False,0,0.0,0,False,0,0.0,0,False,0,2.0,30,30
