@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2021-08-24,1000,Praha,376,14,3,591,0,0,14,13,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,57.38980590918667,7,True,0,13.138721005231599,2,True,2,0.0,0,False,0,0.9947089947089947,5,16
+úterý,2021-08-24,1000,Praha,376,14,3,593,0,0,14,13,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,57.540831714210846,7,True,0,13.138721005231599,2,True,2,0.0,0,False,0,0.9947089947089947,5,16
 úterý,2021-08-24,2101,Benešov,3,0,0,0,0,0,0,0,0,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,8.193766182688211,0,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,10
 úterý,2021-08-24,2102,Beroun,15,1,0,22,0,0,1,1,0,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,36.964591002202475,4,True,0,8.77808988764045,0,True,2,0.0,0,False,0,1.5,20,26
 úterý,2021-08-24,2103,Brandýs n.L.- St.Boleslav,24,1,0,27,0,0,0,1,0,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,37.075616602814215,4,False,0,6.091617933723197,0,True,2,0.0,0,False,0,1.411764705882353,20,26
@@ -105,7 +105,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-08-24,5212,Nový Bydžov,1,0,0,4,0,0,0,0,0,5212,Nový Bydžov,17384,3627,CZ052,Královéhradecký kraj,CZ,ČR,40.26691210308329,4,False,0,0.0,0,False,0,0.0,0,False,0,0.2,0,4
 úterý,2021-08-24,5213,Rychnov nad Kněžnou,0,0,0,0,0,0,0,0,0,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 úterý,2021-08-24,5214,Trutnov,5,1,0,0,0,0,0,0,0,5214,Trutnov,63419,13537,CZ052,Královéhradecký kraj,CZ,ČR,7.884072596540469,0,True,0,7.387161113983896,0,True,2,0.0,0,False,0,5.0,30,32
-úterý,2021-08-24,5215,Vrchlabí,1,0,0,0,0,0,0,0,0,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,CZ,ČR,3.621876131836291,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+úterý,2021-08-24,5215,Vrchlabí,0,0,0,0,0,0,0,0,0,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 úterý,2021-08-24,5301,Česká Třebová,1,0,0,2,0,1,0,0,0,5301,Česká Třebová,17969,3841,CZ053,Pardubický kraj,CZ,ČR,16.69541988981023,2,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
 úterý,2021-08-24,5302,Hlinsko,0,0,0,0,0,0,0,0,0,5302,Hlinsko,21017,4465,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 úterý,2021-08-24,5303,Holice,1,0,0,0,0,0,0,0,0,5303,Holice,17910,3461,CZ053,Pardubický kraj,CZ,ČR,11.166945840312675,2,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
