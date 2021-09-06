@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-08-18,1000,Praha,382,19,5,555,0,0,19,17,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,54.67134141875151,7,True,0,13.536864065996193,2,True,2,0.0,0,False,0,0.9526184538653366,5,16
+středa,2021-08-18,1000,Praha,382,19,5,556,0,0,19,17,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,54.82236722377569,7,True,0,13.536864065996193,2,True,2,0.0,0,False,0,0.9502487562189055,5,16
 středa,2021-08-18,2101,Benešov,4,0,0,1,0,0,0,0,0,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,21.303792074989346,2,False,0,8.24742268041237,0,True,2,0.0,0,False,0,0.5,0,4
 středa,2021-08-18,2102,Beroun,9,0,0,22,0,0,1,0,0,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,32.34401712692716,4,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,14
 středa,2021-08-18,2103,Brandýs n.L.- St.Boleslav,16,0,0,31,0,0,0,0,0,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,39.72387493158666,4,False,0,0.0,0,False,0,0.0,0,False,0,0.6956521739130435,0,4
@@ -111,7 +111,7 @@ středa,2021-08-18,5302,Hlinsko,0,0,0,0,0,0,0,0,0,5302,Hlinsko,21017,4465,CZ053,
 středa,2021-08-18,5303,Holice,2,0,0,0,0,0,0,0,0,5303,Holice,17910,3461,CZ053,Pardubický kraj,CZ,ČR,11.166945840312675,2,True,0,0.0,0,False,0,0.0,0,False,0,2.0,30,32
 středa,2021-08-18,5304,Chrudim,3,0,0,0,0,0,1,1,0,5304,Chrudim,83596,17211,CZ053,Pardubický kraj,CZ,ČR,7.177376907986028,0,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,10
 středa,2021-08-18,5305,Králíky,1,0,0,0,0,0,0,0,0,5305,Králíky,8676,1838,CZ053,Pardubický kraj,CZ,ČR,23.05209774089442,2,True,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
-středa,2021-08-18,5306,Lanškroun,2,1,1,4,3,0,0,0,0,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,21.6076058772688,2,True,0,44.76275738585497,4,True,2,0.0,0,False,0,0.6666666666666666,0,8
+středa,2021-08-18,5306,Lanškroun,2,1,1,4,3,0,1,0,0,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,21.6076058772688,2,True,0,44.76275738585497,4,True,2,0.0,0,False,0,0.6666666666666666,0,8
 středa,2021-08-18,5307,Litomyšl,3,0,0,5,0,0,0,0,0,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,18.37897445322551,2,True,0,0.0,0,False,0,0.0,0,False,0,1.5,20,22
 středa,2021-08-18,5308,Moravská Třebová,1,0,0,1,0,0,0,0,0,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,11.477542275614049,2,False,0,0.0,0,False,0,0.0,0,False,0,0.3333333333333333,0,2
 středa,2021-08-18,5309,Pardubice,4,1,0,32,15,6,0,1,0,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,15.187066694003388,2,False,0,7.594456047085628,0,True,2,0.0,0,False,0,0.4,0,4
@@ -201,7 +201,7 @@ středa,2021-08-18,8115,Nový Jičín,5,1,1,12,0,0,0,0,0,8115,Nový Jičín,4873
 středa,2021-08-18,8116,Odry,3,1,0,7,4,0,0,0,0,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,23.629489603024574,2,True,0,29.958058717795087,4,True,2,0.0,0,False,0,3.0,30,38
 středa,2021-08-18,8117,Opava,3,0,0,14,4,2,0,0,0,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,7.92338090663286,0,False,0,0.0,0,False,0,0.0,0,False,0,0.75,0,0
 středa,2021-08-18,8118,Orlová,4,0,0,3,0,0,0,0,0,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,13.454242122541238,2,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
-středa,2021-08-18,8119,Ostrava,22,1,0,42,0,0,2,1,0,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,14.68084774086742,2,True,0,1.5471733143546742,0,True,2,0.0,0,False,0,0.9166666666666666,5,9
+středa,2021-08-18,8119,Ostrava,22,1,0,43,0,0,2,1,0,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,14.68084774086742,2,True,0,1.5471733143546742,0,True,2,0.0,0,False,0,0.9166666666666666,5,9
 středa,2021-08-18,8120,Rýmařov,4,1,0,1,0,0,0,0,0,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,CZ,ČR,32.806246309297286,4,True,0,28.401022436807725,4,True,2,0.0,0,False,0,2.0,30,40
 středa,2021-08-18,8121,Třinec,1,0,0,0,0,0,0,0,0,8121,Třinec,54613,11066,CZ080,Moravskoslezský kraj,CZ,ČR,1.8310658634391077,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-08-18,8122,Vítkov,0,0,0,0,0,0,0,0,0,8122,Vítkov,13274,2743,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
