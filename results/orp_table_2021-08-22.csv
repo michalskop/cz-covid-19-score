@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2021-08-22,1000,Praha,383,17,4,615,0,0,14,15,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,57.993909129283374,7,True,0,13.138721005231599,2,True,2,0.0,0,False,0,0.9922279792746114,5,16
+neděle,2021-08-22,1000,Praha,386,17,4,618,0,0,14,15,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,58.22044783681964,7,True,0,13.138721005231599,2,True,2,0.0,0,False,0,0.9974160206718347,5,16
 neděle,2021-08-22,2101,Benešov,2,0,0,0,0,0,0,0,0,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,13.110025892301138,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
 neděle,2021-08-22,2102,Beroun,8,0,0,16,0,0,2,1,0,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,24.643060668134982,2,False,0,0.0,0,False,0,0.0,0,False,0,0.8888888888888888,5,7
 neděle,2021-08-22,2103,Brandýs n.L.- St.Boleslav,19,0,0,29,0,0,1,1,0,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,34.42735827404177,4,False,0,0.0,0,False,0,0.0,0,False,0,1.0555555555555556,10,14
@@ -57,7 +57,7 @@ neděle,2021-08-22,3211,Rokycany,1,0,0,4,0,0,0,0,0,3211,Rokycany,49349,10085,CZ0
 neděle,2021-08-22,3212,Stod,0,0,0,3,4,0,3,0,0,3212,Stod,23393,4517,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 neděle,2021-08-22,3213,Stříbro,5,2,0,11,3,1,1,1,0,3213,Stříbro,17190,3184,CZ032,Plzeňský kraj,CZ,ČR,52.356020942408385,7,True,0,62.814070351758794,7,True,2,0.0,0,False,0,0.7142857142857143,0,16
 neděle,2021-08-22,3214,Sušice,1,0,0,0,0,0,0,0,0,3214,Sušice,24150,5546,CZ032,Plzeňský kraj,CZ,ČR,16.563146997929607,2,True,0,0.0,0,False,0,0.0,0,False,0,0.3333333333333333,0,2
-neděle,2021-08-22,3215,Tachov,1,0,0,9,0,0,0,0,0,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,13.460399504657298,2,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,2
+neděle,2021-08-22,3215,Tachov,1,0,0,10,0,0,0,0,0,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,13.460399504657298,2,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,2
 neděle,2021-08-22,4101,Aš,12,0,0,20,0,0,0,0,0,4101,Aš,17695,3278,CZ041,Karlovarský kraj,CZ,ČR,163.88810398417633,10,True,0,0.0,0,False,0,0.0,0,False,0,0.6,0,10
 neděle,2021-08-22,4102,Cheb,2,0,0,0,0,0,2,2,0,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,10.009008107296566,2,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
 neděle,2021-08-22,4103,Karlovy Vary,9,0,0,0,0,0,1,1,0,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,13.764309146383427,2,True,0,0.0,0,False,0,0.0,0,False,0,1.8,25,27
@@ -73,7 +73,7 @@ neděle,2021-08-22,4205,Litoměřice,9,1,0,13,0,0,0,3,0,4205,Litoměřice,59110,
 neděle,2021-08-22,4206,Litvínov,1,0,0,3,2,0,0,1,0,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,8.100445524503849,0,False,0,12.845215157353886,2,True,2,0.0,0,False,0,0.5,0,4
 neděle,2021-08-22,4207,Louny,3,0,0,10,2,0,0,0,0,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,16.040329972502292,2,True,0,0.0,0,False,0,0.0,0,False,0,0.5,0,2
 neděle,2021-08-22,4208,Lovosice,10,0,0,14,0,0,0,0,0,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,50.45045045045045,7,True,0,0.0,0,False,0,0.0,0,False,0,2.0,30,37
-neděle,2021-08-22,4209,Most,3,0,0,3,0,0,0,0,0,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,10.71337699034457,2,False,0,0.0,0,False,0,0.0,0,False,0,0.6,0,2
+neděle,2021-08-22,4209,Most,3,0,0,4,0,0,0,0,0,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,10.71337699034457,2,False,0,0.0,0,False,0,0.0,0,False,0,0.6,0,2
 neděle,2021-08-22,4210,Podbořany,1,0,0,2,0,0,0,0,0,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,12.756729174639622,2,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,2
 neděle,2021-08-22,4211,Roudnice nad Labem,5,0,0,0,0,0,0,1,0,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,30.480370641307,4,True,0,0.0,0,False,0,0.0,0,False,0,5.0,30,34
 neděle,2021-08-22,4212,Rumburk,0,0,0,0,0,0,0,0,0,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
@@ -138,7 +138,7 @@ neděle,2021-08-22,6114,Velké Meziříčí,3,0,0,12,5,5,0,0,0,6114,Velké Mezi�
 neděle,2021-08-22,6115,Žďár nad Sázavou,3,0,0,7,3,2,0,0,0,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,9.383723930841954,0,False,0,11.49029070435482,2,True,2,0.0,0,False,0,3.0,30,34
 neděle,2021-08-22,6201,Blansko,1,0,0,0,0,0,0,0,0,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,8.75258201169345,0,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,0
 neděle,2021-08-22,6202,Boskovice,3,0,0,0,0,0,2,1,0,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,15.381657373582003,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
-neděle,2021-08-22,6203,Brno,46,0,0,38,0,0,3,1,0,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,22.02724035390433,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
+neděle,2021-08-22,6203,Brno,46,0,0,39,0,0,3,1,0,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,22.02724035390433,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
 neděle,2021-08-22,6204,Břeclav,2,0,0,3,0,0,0,0,0,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,10.04772670183371,2,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,2
 neděle,2021-08-22,6205,Bučovice,0,0,0,1,0,0,0,0,0,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,12.413878716404943,2,False,0,0.0,0,False,0,,30,False,0,0.0,0,32
 neděle,2021-08-22,6206,Hodonín,2,0,0,6,0,0,0,0,0,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,8.239268352970257,0,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,0
