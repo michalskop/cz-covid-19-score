@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-08-25,1000,Praha,402,19,7,611,0,0,14,11,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,59.27762847198887,7,True,0,15.12943630905457,2,True,2,0.0,0,False,0,1.098360655737705,10,21
+středa,2021-08-25,1000,Praha,402,19,7,613,0,0,14,11,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,59.27762847198887,7,True,0,15.12943630905457,2,True,2,0.0,0,False,0,1.098360655737705,10,21
 středa,2021-08-25,2101,Benešov,1,0,0,0,0,0,0,0,0,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,8.193766182688211,0,False,0,0.0,0,False,0,0.0,0,False,0,0.3333333333333333,0,0
 středa,2021-08-25,2102,Beroun,15,2,0,24,1,0,1,1,0,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,36.964591002202475,4,True,0,17.5561797752809,2,True,2,0.0,0,False,0,1.5,20,28
 středa,2021-08-25,2103,Brandýs n.L.- St.Boleslav,20,1,0,24,0,0,0,1,0,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,31.779099945269326,4,False,0,6.091617933723197,0,True,2,0.0,0,False,0,1.0,10,16
@@ -40,7 +40,7 @@ středa,2021-08-25,3111,Strakonice,2,0,0,2,0,0,0,0,0,3111,Strakonice,45223,9454,
 středa,2021-08-25,3112,Tábor,6,0,0,12,0,0,1,0,0,3112,Tábor,80648,17257,CZ031,Jihočeský kraj,CZ,ČR,21.079258010118043,2,False,0,5.794749956539375,0,True,2,0.0,0,False,0,0.75,0,4
 středa,2021-08-25,3113,Trhové Sviny,7,1,0,8,0,0,1,1,0,3113,Trhové Sviny,19267,3657,CZ031,Jihočeský kraj,CZ,ČR,62.28265946955935,7,True,0,27.344818156959256,4,True,2,0.0,0,False,0,1.0,10,23
 středa,2021-08-25,3114,Třeboň,5,1,0,4,0,0,0,0,0,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,CZ,ČR,32.26326826907566,4,False,0,35.95182455509617,4,True,2,0.0,0,False,0,1.25,15,25
-středa,2021-08-25,3115,Týn nad Vltavou,5,0,0,6,0,0,0,0,0,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,63.90683803166939,7,True,0,38.55050115651503,4,True,2,0.0,0,False,0,0.7142857142857143,0,13
+středa,2021-08-25,3115,Týn nad Vltavou,5,0,0,7,0,0,0,0,0,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,63.90683803166939,7,True,0,38.55050115651503,4,True,2,0.0,0,False,0,0.7142857142857143,0,13
 středa,2021-08-25,3116,Vimperk,0,0,0,0,0,0,0,0,0,3116,Vimperk,17520,3591,CZ031,Jihočeský kraj,CZ,ČR,5.707762557077626,0,False,0,0.0,0,False,0,,30,False,0,0.0,0,30
 středa,2021-08-25,3117,Vodňany,5,0,0,7,0,0,0,0,0,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,67.33439946132481,7,True,0,0.0,0,False,0,0.0,0,False,0,0.8333333333333334,5,12
 středa,2021-08-25,3201,Blovice,0,0,0,14,1,0,1,1,0,3201,Blovice,12185,2566,CZ032,Plzeňský kraj,CZ,ČR,106.68855149774312,7,False,0,0.0,0,False,0,,30,False,0,0.0,0,37
@@ -125,7 +125,7 @@ středa,2021-08-25,6101,Bystřice nad Pernštejnem,1,0,0,14,8,6,2,2,0,6101,Byst�
 středa,2021-08-25,6102,Havlíčkův Brod,11,0,0,24,4,4,0,1,0,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,37.784327061135045,4,True,0,0.0,0,False,0,0.0,0,False,0,1.375,15,19
 středa,2021-08-25,6103,Humpolec,1,0,0,4,0,0,0,0,0,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,22.406453058480842,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
 středa,2021-08-25,6104,Chotěboř,6,0,0,5,0,0,1,1,0,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,32.004389173372346,4,True,0,0.0,0,False,0,0.0,0,False,0,6.0,30,34
-středa,2021-08-25,6105,Jihlava,10,0,0,25,0,0,1,2,0,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,28.69184953598354,4,False,0,0.0,0,False,0,0.0,0,False,0,0.625,0,4
+středa,2021-08-25,6105,Jihlava,10,0,0,26,0,0,1,2,0,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,28.69184953598354,4,False,0,0.0,0,False,0,0.0,0,False,0,0.625,0,4
 středa,2021-08-25,6106,Moravské Budějovice,0,0,0,0,0,0,0,0,0,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,4.329379167027448,0,False,0,0.0,0,False,0,,30,False,0,0.0,0,30
 středa,2021-08-25,6107,Náměšť nad Oslavou,2,0,0,3,0,0,0,0,0,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,22.32142857142857,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
 středa,2021-08-25,6108,Nové Město na Moravě,0,0,0,10,9,5,0,0,0,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
