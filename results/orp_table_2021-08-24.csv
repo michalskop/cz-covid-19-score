@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2021-08-24,1000,Praha,378,14,3,598,0,0,14,13,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,57.69185751923503,7,True,0,13.138721005231599,2,True,2,0.0,0,False,0,0.9921259842519685,5,16
+úterý,2021-08-24,1000,Praha,380,14,3,601,0,0,14,13,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,57.8428833242592,7,True,0,13.138721005231599,2,True,2,0.0,0,False,0,1.0,10,21
 úterý,2021-08-24,2101,Benešov,3,0,0,0,0,0,0,0,0,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,8.193766182688211,0,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,10
 úterý,2021-08-24,2102,Beroun,15,1,0,22,0,0,1,1,0,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,36.964591002202475,4,True,0,8.77808988764045,0,True,2,0.0,0,False,0,1.5,20,26
 úterý,2021-08-24,2103,Brandýs n.L.- St.Boleslav,24,1,0,27,0,0,0,1,0,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,37.075616602814215,4,False,0,6.091617933723197,0,True,2,0.0,0,False,0,1.411764705882353,20,26
@@ -138,7 +138,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-08-24,6115,Žďár nad Sázavou,2,0,0,6,2,1,0,0,0,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,7.037792948131466,0,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,10
 úterý,2021-08-24,6201,Blansko,3,0,0,0,0,0,0,0,0,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,8.75258201169345,0,False,0,0.0,0,False,0,0.0,0,False,0,1.5,20,20
 úterý,2021-08-24,6202,Boskovice,4,1,0,0,0,0,2,1,0,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,13.458950201884251,2,False,0,9.532888465204957,0,True,2,0.0,0,False,0,1.0,10,14
-úterý,2021-08-24,6203,Brno,49,1,0,46,0,0,2,2,0,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,24.911759924058465,2,True,0,1.2585423562429994,0,True,2,0.0,0,False,0,1.0888888888888888,10,14
+úterý,2021-08-24,6203,Brno,49,1,0,47,0,0,2,2,0,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,24.911759924058465,2,True,0,1.2585423562429994,0,True,2,0.0,0,False,0,1.0888888888888888,10,14
 úterý,2021-08-24,6204,Břeclav,6,2,2,4,0,0,1,2,0,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,16.74621116972285,2,True,0,16.371971185330715,2,True,2,0.0,0,False,0,2.0,30,36
 úterý,2021-08-24,6205,Bučovice,0,0,0,0,0,0,0,0,0,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,6.2069393582024714,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 úterý,2021-08-24,6206,Hodonín,1,0,0,6,0,0,0,0,0,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,8.239268352970257,0,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,10
