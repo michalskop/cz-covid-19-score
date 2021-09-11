@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2021-09-03,1000,Praha,353,23,12,564,0,0,6,6,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,56.48365107904162,7,False,0,15.925722430583757,2,True,2,0.0,0,False,0,0.9540540540540541,5,16
+pátek,2021-09-03,1000,Praha,352,23,12,565,0,0,6,6,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,56.55916398155371,7,False,0,15.925722430583757,2,True,2,0.0,0,False,0,0.9487870619946092,5,16
 pátek,2021-09-03,2101,Benešov,5,1,1,0,0,0,2,2,0,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,11.471272655763494,2,True,0,8.24742268041237,0,True,2,0.0,0,False,0,1.6666666666666667,25,29
 pátek,2021-09-03,2102,Beroun,23,3,2,40,4,0,0,0,0,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,64.68803425385433,7,True,0,43.890449438202246,4,True,2,0.0,0,False,0,1.0454545454545454,10,23
 pátek,2021-09-03,2103,Brandýs n.L.- St.Boleslav,26,0,0,33,0,0,0,1,0,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,41.48938048410162,4,True,0,6.091617933723197,0,True,2,0.0,0,False,0,1.04,10,16
@@ -111,7 +111,7 @@ pátek,2021-09-03,5302,Hlinsko,0,0,0,0,0,0,0,0,0,5302,Hlinsko,21017,4465,CZ053,P
 pátek,2021-09-03,5303,Holice,0,0,0,0,0,0,0,0,0,5303,Holice,17910,3461,CZ053,Pardubický kraj,CZ,ČR,5.583472920156337,0,False,0,0.0,0,False,0,,30,False,0,0.0,0,30
 pátek,2021-09-03,5304,Chrudim,2,0,0,0,0,0,0,0,0,5304,Chrudim,83596,17211,CZ053,Pardubický kraj,CZ,ČR,11.96229484664338,2,False,0,0.0,0,False,0,0.0,0,False,0,0.2857142857142857,0,2
 pátek,2021-09-03,5305,Králíky,0,0,0,0,0,0,0,0,0,5305,Králíky,8676,1838,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
-pátek,2021-09-03,5306,Lanškroun,2,0,0,1,1,0,0,0,0,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,8.64304235090752,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+pátek,2021-09-03,5306,Lanškroun,3,0,0,2,1,0,0,0,0,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,12.96456352636128,2,True,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 pátek,2021-09-03,5307,Litomyšl,1,0,0,5,0,0,0,0,0,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,18.37897445322551,2,False,0,0.0,0,False,0,0.0,0,False,0,0.25,0,2
 pátek,2021-09-03,5308,Moravská Třebová,7,0,0,6,0,0,1,1,0,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,30.60677940163746,4,True,0,0.0,0,False,0,0.0,0,False,0,7.0,30,34
 pátek,2021-09-03,5309,Pardubice,25,2,2,46,15,8,1,1,0,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,25.058660045105587,4,True,0,7.594456047085628,0,True,2,0.0,0,False,0,2.272727272727273,30,36
@@ -163,7 +163,7 @@ pátek,2021-09-03,7103,Konice,0,0,0,0,0,2,0,0,0,7103,Konice,10634,2373,CZ071,Olo
 pátek,2021-09-03,7104,Lipník nad Bečvou,0,0,0,0,0,0,0,0,0,7104,Lipník nad Bečvou,15130,2913,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 pátek,2021-09-03,7105,Litovel,6,0,0,3,0,0,0,0,0,7105,Litovel,23715,4914,CZ071,Olomoucký kraj,CZ,ČR,29.51718321737297,4,True,0,0.0,0,False,0,0.0,0,False,0,3.0,30,34
 pátek,2021-09-03,7106,Mohelnice,1,0,0,0,0,0,0,0,0,7106,Mohelnice,18362,3710,CZ071,Olomoucký kraj,CZ,ČR,10.892059688487093,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
-pátek,2021-09-03,7107,Olomouc,27,2,1,15,0,0,4,4,0,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,CZ,ČR,21.79638543274907,2,True,0,6.108362348054486,0,True,2,0.0,0,False,0,2.7,30,34
+pátek,2021-09-03,7107,Olomouc,26,2,1,14,0,0,4,4,0,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,CZ,ČR,21.190930281839375,2,True,0,6.108362348054486,0,True,2,0.0,0,False,0,2.6,30,34
 pátek,2021-09-03,7108,Prostějov,9,1,0,11,2,0,2,1,0,7108,Prostějov,98012,20139,CZ071,Olomoucký kraj,CZ,ČR,11.223115536873037,2,True,0,4.965489845573266,0,True,2,0.0,0,False,0,3.0,30,34
 pátek,2021-09-03,7109,Přerov,8,0,0,0,0,0,1,1,0,7109,Přerov,80236,17534,CZ071,Olomoucký kraj,CZ,ČR,12.463233461289196,2,True,0,0.0,0,False,0,0.0,0,False,0,8.0,30,32
 pátek,2021-09-03,7110,Šternberk,2,0,0,1,0,0,1,1,0,7110,Šternberk,24164,4837,CZ071,Olomoucký kraj,CZ,ČR,12.415163052474757,2,True,0,0.0,0,False,0,0.0,0,False,0,2.0,30,32
