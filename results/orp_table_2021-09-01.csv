@@ -1,10 +1,10 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-09-01,1000,Praha,347,15,6,585,0,0,6,5,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,56.55916398155371,7,False,0,13.536864065996193,2,True,2,0.0,0,False,0,0.8784810126582279,5,16
+středa,2021-09-01,1000,Praha,347,15,6,587,0,0,6,5,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,56.710189786577885,7,False,0,13.536864065996193,2,True,2,0.0,0,False,0,0.8740554156171285,5,16
 středa,2021-09-01,2101,Benešov,4,0,0,0,0,0,0,0,0,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,8.193766182688211,0,False,0,0.0,0,False,0,0.0,0,False,0,2.0,30,30
 středa,2021-09-01,2102,Beroun,23,3,2,37,4,0,0,0,0,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,58.52726908682058,7,True,0,43.890449438202246,4,True,2,0.0,0,False,0,1.2105263157894737,15,28
-středa,2021-09-01,2103,Brandýs n.L.- St.Boleslav,25,0,0,31,0,0,1,2,0,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,39.72387493158666,4,True,0,6.091617933723197,0,True,2,0.0,0,False,0,1.1904761904761905,10,16
+středa,2021-09-01,2103,Brandýs n.L.- St.Boleslav,25,0,0,32,0,0,1,2,0,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,39.72387493158666,4,True,0,6.091617933723197,0,True,2,0.0,0,False,0,1.1904761904761905,10,16
 středa,2021-09-01,2104,Čáslav,4,0,0,0,0,0,0,0,0,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,23.379963371390716,2,True,0,0.0,0,False,0,0.0,0,False,0,2.0,30,32
-středa,2021-09-01,2105,Černošice,37,2,1,78,4,3,0,0,0,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,52.90013258514243,7,False,0,8.547373819393991,0,True,2,0.0,0,False,0,0.8222222222222222,5,14
+středa,2021-09-01,2105,Černošice,37,2,1,79,4,3,0,0,0,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,52.90013258514243,7,False,0,8.547373819393991,0,True,2,0.0,0,False,0,0.8222222222222222,5,14
 středa,2021-09-01,2106,Český Brod,20,0,0,29,0,0,0,0,0,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,139.2951664577239,10,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,20
 středa,2021-09-01,2107,Dobříš,2,0,0,12,7,7,0,0,0,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,21.664716842150874,2,True,0,0.0,0,False,0,0.0,0,False,0,0.5,0,2
 středa,2021-09-01,2108,Hořovice,1,0,0,2,0,0,0,0,0,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,6.637682121403206,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
@@ -94,9 +94,9 @@ středa,2021-09-01,5110,Železný Brod,1,1,1,0,0,0,0,0,0,5110,Železný Brod,121
 středa,2021-09-01,5201,Broumov,0,0,0,0,0,0,0,0,0,5201,Broumov,15876,3561,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-09-01,5202,Dobruška,2,0,0,0,0,0,0,0,0,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,9.905894006934126,0,False,0,0.0,0,False,0,0.0,0,False,0,2.0,30,30
 středa,2021-09-01,5203,Dvůr Králové nad Labem,0,0,0,0,0,0,0,0,0,5203,Dvůr Králové nad Labem,26949,6223,CZ052,Královéhradecký kraj,CZ,ČR,3.710712827934246,0,False,0,0.0,0,False,0,,30,False,0,0.0,0,30
-středa,2021-09-01,5204,Hořice,0,0,0,0,0,0,0,0,0,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
+středa,2021-09-01,5204,Hořice,0,0,0,1,2,1,0,0,0,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-09-01,5205,Hradec Králové,8,0,0,0,0,0,0,0,0,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,13.614796560902388,2,False,0,0.0,0,False,0,0.0,0,False,0,0.5714285714285714,0,2
-středa,2021-09-01,5206,Jaroměř,4,0,0,3,0,0,0,0,0,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,20.754423286462927,2,True,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
+středa,2021-09-01,5206,Jaroměř,4,0,0,4,0,1,0,0,0,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,20.754423286462927,2,True,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 středa,2021-09-01,5207,Jičín,1,0,0,0,0,0,0,0,0,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,2.0668843784878677,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-09-01,5208,Kostelec nad Orlicí,0,0,0,0,0,0,0,0,0,5208,Kostelec nad Orlicí,24892,5311,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-09-01,5209,Náchod,1,0,0,0,0,0,1,1,0,5209,Náchod,60595,13494,CZ052,Královéhradecký kraj,CZ,ČR,3.300602359930687,0,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,0
@@ -139,7 +139,7 @@ středa,2021-09-01,6115,Žďár nad Sázavou,0,0,0,5,2,1,0,0,0,6115,Žďár nad 
 středa,2021-09-01,6201,Blansko,13,0,0,0,0,0,0,0,0,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,28.008262437419038,4,True,0,0.0,0,False,0,0.0,0,False,0,1.8571428571428572,25,29
 středa,2021-09-01,6202,Boskovice,4,3,1,0,0,0,1,1,0,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,15.381657373582003,2,False,0,38.13155386081983,4,True,2,0.0,0,False,0,0.8,5,13
 středa,2021-09-01,6203,Brno,71,6,4,72,0,0,9,8,0,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,31.467486219863325,4,True,0,13.843965918672993,2,True,2,0.0,0,False,0,1.1639344262295082,10,18
-středa,2021-09-01,6204,Břeclav,7,1,1,7,0,0,0,0,0,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,21.770074520639707,2,True,0,24.55795677799607,2,True,2,0.0,0,False,0,1.4,20,26
+středa,2021-09-01,6204,Břeclav,7,1,1,8,0,0,0,0,0,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,21.770074520639707,2,True,0,24.55795677799607,2,True,2,0.0,0,False,0,1.4,20,26
 středa,2021-09-01,6205,Bučovice,1,0,0,0,0,0,0,0,0,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,6.2069393582024714,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-09-01,6206,Hodonín,3,1,0,6,1,0,0,0,0,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,8.239268352970257,0,True,0,8.164598301763554,0,True,2,0.0,0,False,0,1.5,20,22
 středa,2021-09-01,6207,Hustopeče,2,0,0,8,1,1,0,0,0,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,16.523918371843244,2,False,0,0.0,0,False,0,0.0,0,False,0,0.4,0,2
