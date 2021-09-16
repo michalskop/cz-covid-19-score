@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2021-08-01,1000,Praha,290,8,2,554,0,0,13,9,18297,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,53.76518658860647,7,False,0,6.370288972233503,0,True,2,1.584959282942559,0,False,0,0.7795698924731183,0,9
+neděle,2021-08-01,1000,Praha,290,8,2,555,0,0,13,9,18297,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,53.84069949111855,7,False,0,6.370288972233503,0,True,2,1.584959282942559,0,False,0,0.7795698924731183,0,9
 neděle,2021-08-01,2101,Benešov,11,0,0,5,0,0,0,0,440,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,26.220051784602276,4,False,0,0.0,0,False,0,2.5,0,True,2,1.2222222222222223,15,21
 neděle,2021-08-01,2102,Beroun,7,0,0,34,0,0,0,0,700,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,53.90669521154527,7,False,0,8.77808988764045,0,True,2,1.0,0,False,0,0.4117647058823529,0,9
 neděle,2021-08-01,2103,Brandýs n.L.- St.Boleslav,25,1,0,42,0,0,0,0,1525,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,46.78589714164651,4,False,0,6.091617933723197,0,True,2,1.639344262295082,0,False,0,1.0869565217391304,10,16
@@ -11,7 +11,7 @@ neděle,2021-08-01,2108,Hořovice,2,0,0,7,0,0,0,0,282,2108,Hořovice,30131,6103,
 neděle,2021-08-01,2109,Kladno,8,1,1,23,7,4,0,1,1494,2109,Kladno,125957,24239,CZ020,Středočeský kraj,CZ,ČR,12.702747763125512,2,False,0,4.125582738561822,0,True,2,0.535475234270415,0,False,0,1.1428571428571428,10,14
 neděle,2021-08-01,2110,Kolín,7,0,0,30,15,12,0,0,661,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,17.964071856287426,2,True,0,5.935070330583418,0,True,2,1.059001512859304,0,False,0,1.4,20,24
 neděle,2021-08-01,2111,Kralupy nad Vltavou,6,0,0,13,1,0,1,1,377,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,36.906043364600954,4,False,0,0.0,0,False,0,1.5915119363395225,0,True,2,1.0,10,16
-neděle,2021-08-01,2112,Kutná Hora,4,0,0,23,7,4,0,0,290,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,35.88159075052327,4,False,0,0.0,0,False,0,1.3793103448275863,0,False,0,0.3333333333333333,0,4
+neděle,2021-08-01,2112,Kutná Hora,4,0,0,22,6,4,0,0,290,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,35.88159075052327,4,False,0,0.0,0,False,0,1.3793103448275863,0,False,0,0.3333333333333333,0,4
 neděle,2021-08-01,2113,Lysá nad Labem,5,0,0,4,0,0,0,0,249,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,29.732039989593787,4,False,0,0.0,0,False,0,2.0080321285140563,0,True,2,5.0,30,36
 neděle,2021-08-01,2114,Mělník,3,0,0,0,0,0,0,0,500,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,17.937219730941703,2,False,0,0.0,0,False,0,0.6,0,False,0,3.0,30,32
 neděle,2021-08-01,2115,Mladá Boleslav,10,3,3,16,2,2,0,0,1091,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,14.226774790155071,2,False,0,14.560986264136291,2,True,2,0.916590284142988,0,True,2,1.6666666666666667,25,33
@@ -128,7 +128,7 @@ neděle,2021-08-01,6104,Chotěboř,0,0,0,2,0,0,0,0,96,6104,Chotěboř,21872,4804
 neděle,2021-08-01,6105,Jihlava,11,3,1,11,0,0,2,2,719,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,15.829985950887467,2,True,0,20.297356269345915,2,True,2,1.52990264255911,0,True,2,1.0,10,18
 neděle,2021-08-01,6106,Moravské Budějovice,1,0,0,0,0,0,0,0,59,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,4.329379167027448,0,True,0,0.0,0,False,0,1.694915254237288,0,True,2,1.0,10,12
 neděle,2021-08-01,6107,Náměšť nad Oslavou,0,0,0,1,0,0,0,0,109,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,7.440476190476192,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2021-08-01,6108,Nové Město na Moravě,2,0,0,12,9,5,0,0,272,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,10.316723408645414,2,True,0,0.0,0,False,0,0.7352941176470588,0,True,2,0.0,0,4
+neděle,2021-08-01,6108,Nové Město na Moravě,2,0,0,13,9,5,0,0,272,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,10.316723408645414,2,True,0,0.0,0,False,0,0.7352941176470588,0,True,2,0.0,0,4
 neděle,2021-08-01,6109,Pacov,0,0,0,0,0,0,0,0,31,6109,Pacov,9364,2205,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2021-08-01,6110,Pelhřimov,3,0,0,12,8,8,0,0,203,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,6.653950228452292,0,True,0,0.0,0,False,0,1.477832512315271,0,True,2,3.0,30,32
 neděle,2021-08-01,6111,Světlá nad Sázavou,1,0,0,0,0,1,0,0,70,6111,Světlá nad Sázavou,19690,4322,CZ063,Kraj Vysočina,CZ,ČR,5.078720162519045,0,True,0,0.0,0,False,0,1.4285714285714286,0,True,2,1.0,10,12
