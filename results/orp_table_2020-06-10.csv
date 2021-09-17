@@ -1,9 +1,9 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-06-10,1000,Praha,76,17,14,205,43,24,23,13,3677,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,13.667835354687877,2,True,0,11.14800570140863,2,True,2,2.0669023660592876,0,False,0,0.7307692307692307,0,6
+středa,2020-06-10,1000,Praha,75,17,14,204,43,24,23,13,3677,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,13.592322452175791,2,True,0,11.14800570140863,2,True,2,2.0397062822953496,0,False,0,0.7281553398058253,0,6
 středa,2020-06-10,2101,Benešov,0,0,0,0,0,0,0,0,73,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,2102,Beroun,0,0,0,0,0,0,0,0,104,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,2103,Brandýs n.L.- St.Boleslav,5,0,0,7,0,0,0,0,197,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,5.296516657544888,0,True,0,0.0,0,False,0,2.5380710659898478,0,True,2,5.0,30,32
-středa,2020-06-10,2104,Čáslav,0,0,0,1,0,0,0,0,19,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,3.8966605618984533,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+středa,2020-06-10,2104,Čáslav,0,0,0,0,0,0,0,0,19,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,2105,Černošice,11,0,0,10,0,0,0,0,409,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,10.044328971862486,2,True,0,0.0,0,False,0,2.689486552567237,0,True,2,1.8333333333333333,25,29
 středa,2020-06-10,2106,Český Brod,0,0,0,1,0,0,0,0,23,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,2107,Dobříš,0,0,0,0,0,0,0,0,27,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -31,7 +31,7 @@ středa,2020-06-10,3102,České Budějovice,2,0,0,3,1,0,0,0,148,3102,České Bud
 středa,2020-06-10,3103,Český Krumlov,0,0,0,0,0,0,0,0,21,3103,Český Krumlov,41687,7954,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,3104,Dačice,0,0,0,0,0,0,0,0,12,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,3105,Jindřichův Hradec,0,0,0,0,0,0,0,0,28,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2020-06-10,3106,Kaplice,0,0,0,1,0,0,0,0,21,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,5.032965926820676,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+středa,2020-06-10,3106,Kaplice,0,0,0,2,0,0,0,0,21,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,10.065931853641352,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 středa,2020-06-10,3107,Milevsko,0,0,0,0,0,0,0,0,34,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-10,3108,Písek,1,0,0,4,0,0,0,0,99,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,7.497375918428549,0,True,0,0.0,0,False,0,1.0101010101010102,0,False,0,0.0,0,0
 středa,2020-06-10,3109,Prachatice,1,0,0,3,0,0,0,0,61,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,5.9776436128878,0,True,0,0.0,0,False,0,1.639344262295082,0,True,2,0.0,0,2

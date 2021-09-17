@@ -1,9 +1,9 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-06-11,1000,Praha,73,6,4,204,41,23,22,12,3693,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,13.818861159712055,2,True,0,10.749862640644036,2,True,2,1.9767126997021391,0,False,0,0.7684210526315789,0,6
+čtvrtek,2020-06-11,1000,Praha,72,6,4,203,41,23,22,12,3693,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,13.743348257199967,2,True,0,10.749862640644036,2,True,2,1.949634443541836,0,False,0,0.7659574468085106,0,6
 čtvrtek,2020-06-11,2101,Benešov,1,0,0,1,0,0,0,0,71,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,1.6387532365376423,0,True,0,0.0,0,False,0,1.4084507042253522,0,True,2,0.0,0,2
 čtvrtek,2020-06-11,2102,Beroun,2,1,0,2,1,0,0,0,95,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,3.0803825835168728,0,True,0,8.77808988764045,0,True,2,2.1052631578947367,0,True,2,0.0,0,4
 čtvrtek,2020-06-11,2103,Brandýs n.L.- St.Boleslav,9,0,0,11,0,0,0,0,198,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,8.827527762574814,0,True,0,0.0,0,False,0,4.545454545454546,3,True,2,0.0,0,5
-čtvrtek,2020-06-11,2104,Čáslav,0,0,0,1,0,0,0,0,21,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,3.8966605618984533,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+čtvrtek,2020-06-11,2104,Čáslav,0,0,0,0,0,0,0,0,21,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-11,2105,Černošice,10,0,0,13,0,0,0,0,412,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,11.383572834777484,2,True,0,0.0,0,False,0,2.4271844660194173,0,True,2,1.25,15,19
 čtvrtek,2020-06-11,2106,Český Brod,0,0,0,1,0,0,0,0,21,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-11,2107,Dobříš,0,0,0,0,0,0,0,0,24,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -31,7 +31,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-06-11,3103,Český Krumlov,0,0,0,0,0,0,0,0,25,3103,Český Krumlov,41687,7954,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-11,3104,Dačice,0,0,0,0,0,0,0,0,12,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-11,3105,Jindřichův Hradec,0,0,0,0,0,0,0,0,32,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-06-11,3106,Kaplice,0,0,0,0,0,0,0,0,19,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,5.032965926820676,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+čtvrtek,2020-06-11,3106,Kaplice,0,0,0,1,0,0,0,0,19,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,10.065931853641352,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 čtvrtek,2020-06-11,3107,Milevsko,0,0,0,0,0,0,0,0,28,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-11,3108,Písek,1,0,0,4,0,0,0,0,94,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,7.497375918428549,0,True,0,0.0,0,False,0,1.0638297872340425,0,False,0,0.0,0,0
 čtvrtek,2020-06-11,3109,Prachatice,1,0,0,3,0,0,0,0,44,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,2.9888218064439,0,False,0,0.0,0,False,0,2.272727272727273,0,True,2,0.0,0,2

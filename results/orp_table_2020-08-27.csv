@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-08-27,1000,Praha,628,51,31,1057,68,38,20,21,9329,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,80.72329278542178,7,True,0,29.860729557344545,4,True,2,6.7316968592560835,3,True,2,1.1694599627560522,10,28
+čtvrtek,2020-08-27,1000,Praha,628,51,31,1055,68,38,20,21,9329,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,80.72329278542178,7,True,0,29.860729557344545,4,True,2,6.7316968592560835,3,True,2,1.1694599627560522,10,28
 čtvrtek,2020-08-27,2101,Benešov,7,0,0,13,0,0,0,0,211,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,False,0,0.0,0,False,0,3.3175355450236967,3,True,2,1.4,20,27
 čtvrtek,2020-08-27,2102,Beroun,17,1,1,20,1,1,0,0,198,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,32.34401712692716,4,True,0,8.77808988764045,0,True,2,8.585858585858585,7,True,2,2.125,30,45
 čtvrtek,2020-08-27,2103,Brandýs n.L.- St.Boleslav,29,0,0,55,2,2,1,1,602,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,45.02039158913155,4,False,0,0.0,0,False,0,4.817275747508306,3,True,2,1.1153846153846154,10,19
@@ -33,7 +33,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-08-27,3105,Jindřichův Hradec,11,0,0,14,1,0,0,0,116,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,29.7157896971112,4,True,0,9.862905611993293,0,True,2,9.482758620689655,7,True,2,1.375,15,30
 čtvrtek,2020-08-27,3106,Kaplice,3,0,0,3,0,0,0,0,65,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,15.098897780462027,2,True,0,0.0,0,False,0,4.615384615384616,3,True,2,0.0,0,7
 čtvrtek,2020-08-27,3107,Milevsko,2,0,0,2,0,0,0,0,46,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,10.967918837400603,2,False,0,0.0,0,False,0,4.3478260869565215,3,True,2,2.0,30,37
-čtvrtek,2020-08-27,3108,Písek,12,2,2,21,2,2,1,1,254,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,39.36122357174988,4,False,0,17.61493746697199,2,True,2,4.724409448818897,3,True,2,1.0,10,23
+čtvrtek,2020-08-27,3108,Písek,11,2,2,20,2,2,1,1,254,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,37.48687959214275,4,False,0,17.61493746697199,2,True,2,4.330708661417323,3,True,2,0.9166666666666666,5,18
 čtvrtek,2020-08-27,3109,Prachatice,4,0,0,4,0,0,0,0,89,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,11.9552872257756,2,False,0,0.0,0,False,0,4.49438202247191,3,True,2,0.0,0,7
 čtvrtek,2020-08-27,3110,Soběslav,0,0,0,1,0,0,0,0,46,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,4.556431402925229,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-08-27,3111,Strakonice,3,1,1,12,7,3,1,1,145,3111,Strakonice,45223,9454,CZ031,Jihočeský kraj,CZ,ČR,24.323905977047076,2,False,0,74.0427332346097,7,True,2,2.0689655172413794,0,False,0,0.375,0,11
@@ -105,7 +105,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-08-27,5212,Nový Bydžov,8,3,0,12,3,0,0,0,45,5212,Nový Bydžov,17384,3627,CZ052,Královéhradecký kraj,CZ,ČR,57.524160147261846,7,True,0,82.71298593879239,7,True,2,17.77777777777778,15,True,2,2.0,30,63
 čtvrtek,2020-08-27,5213,Rychnov nad Kněžnou,2,0,0,10,0,0,0,0,180,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,29.1536689892423,4,False,0,0.0,0,False,0,1.1111111111111112,0,False,0,0.2857142857142857,0,4
 čtvrtek,2020-08-27,5214,Trutnov,1,1,0,3,1,0,0,0,106,5214,Trutnov,63419,13537,CZ052,Královéhradecký kraj,CZ,ČR,4.730443557924281,0,False,0,7.387161113983896,0,True,2,0.9433962264150944,0,False,0,0.5,0,2
-čtvrtek,2020-08-27,5215,Vrchlabí,2,0,0,3,1,1,1,0,64,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,CZ,ČR,7.243752263672582,0,True,0,0.0,0,False,0,3.125,3,True,2,0.0,0,5
+čtvrtek,2020-08-27,5215,Vrchlabí,3,0,0,4,1,1,1,0,64,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,CZ,ČR,10.865628395508875,2,True,0,0.0,0,False,0,4.6875,3,True,2,0.0,0,7
 čtvrtek,2020-08-27,5301,Česká Třebová,1,0,0,1,0,0,0,0,29,5301,Česká Třebová,17969,3841,CZ053,Pardubický kraj,CZ,ČR,5.565139963270076,0,True,0,0.0,0,False,0,3.4482758620689653,3,True,2,0.0,0,5
 čtvrtek,2020-08-27,5302,Hlinsko,3,0,0,7,1,0,1,2,71,5302,Hlinsko,21017,4465,CZ053,Pardubický kraj,CZ,ČR,33.3063710329733,4,True,0,22.396416573348265,2,True,2,4.225352112676056,3,False,0,0.75,0,11
 čtvrtek,2020-08-27,5303,Holice,5,4,0,10,4,0,0,1,46,5303,Holice,17910,3461,CZ053,Pardubický kraj,CZ,ČR,55.83472920156337,7,True,0,115.57353366079168,7,True,2,10.869565217391305,7,True,2,0.8333333333333334,5,30
