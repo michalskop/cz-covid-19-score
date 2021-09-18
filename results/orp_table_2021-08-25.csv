@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-08-25,1000,Praha,403,19,7,618,0,0,13,11,0,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,59.126602666964686,7,True,0,15.12943630905457,2,True,2,0.0,0,False,0,1.1071428571428572,10,21
+středa,2021-08-25,1000,Praha,405,19,7,621,0,0,13,11,10,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,59.27762847198887,7,True,0,15.12943630905457,2,True,2,4050.0,30,False,0,1.1095890410958904,10,51
 středa,2021-08-25,2101,Benešov,2,0,0,0,0,0,0,0,0,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,9.832519419225852,0,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,0
 středa,2021-08-25,2102,Beroun,16,2,0,25,1,0,1,1,0,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,38.50478229396091,4,True,0,17.5561797752809,2,True,2,0.0,0,False,0,1.6,25,33
 středa,2021-08-25,2103,Brandýs n.L.- St.Boleslav,20,1,0,23,0,0,0,1,0,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,31.779099945269326,4,False,0,6.091617933723197,0,True,2,0.0,0,False,0,1.0,10,16
@@ -12,11 +12,11 @@ středa,2021-08-25,2109,Kladno,13,1,0,37,7,3,0,0,0,2109,Kladno,125957,24239,CZ02
 středa,2021-08-25,2110,Kolín,3,0,0,27,14,11,0,0,0,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,14.371257485029941,2,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,2
 středa,2021-08-25,2111,Kralupy nad Vltavou,11,0,0,14,1,0,0,0,0,2111,Kralupy nad Vltavou,32515,5889,CZ020,Středočeský kraj,CZ,ČR,36.906043364600954,4,True,0,0.0,0,False,0,0.0,0,False,0,3.6666666666666665,30,34
 středa,2021-08-25,2112,Kutná Hora,4,1,0,9,7,4,1,1,0,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,9.967108541812019,0,False,0,9.34317481080071,0,True,2,0.0,0,False,0,4.0,30,32
-středa,2021-08-25,2113,Lysá nad Labem,3,0,0,5,0,0,0,0,0,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,33.44854498829301,4,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,14
+středa,2021-08-25,2113,Lysá nad Labem,3,0,0,4,0,0,0,0,0,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,33.44854498829301,4,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,14
 středa,2021-08-25,2114,Mělník,8,1,0,7,0,0,0,0,0,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,35.874439461883405,4,True,0,23.108030040439054,2,True,2,0.0,0,False,0,2.0,30,38
 středa,2021-08-25,2115,Mladá Boleslav,10,1,1,23,1,0,0,1,0,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,21.340162185232607,2,True,0,14.560986264136291,2,True,2,0.0,0,False,0,0.625,0,6
 středa,2021-08-25,2116,Mnichovo Hradiště,3,0,0,7,1,0,0,0,0,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,33.517680576504105,4,True,0,0.0,0,False,0,0.0,0,False,0,0.75,0,4
-středa,2021-08-25,2117,Neratovice,4,0,0,3,0,0,0,0,0,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,27.96159940348588,4,False,0,0.0,0,False,0,0.0,0,False,0,0.8,5,9
+středa,2021-08-25,2117,Neratovice,5,0,0,4,0,0,0,0,0,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,31.068443781650977,4,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,14
 středa,2021-08-25,2118,Nymburk,3,0,0,3,0,0,1,1,0,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,19.908916706069732,2,False,0,12.244398187829068,2,True,2,0.0,0,False,0,0.6,0,6
 středa,2021-08-25,2119,Poděbrady,2,0,0,4,0,2,0,0,0,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,CZ,ČR,25.49232043846791,4,False,0,0.0,0,False,0,0.0,0,False,0,0.3333333333333333,0,4
 středa,2021-08-25,2120,Příbram,4,1,1,30,21,14,1,1,0,2120,Příbram,69951,14592,CZ020,Středočeský kraj,CZ,ČR,11.436577032494174,2,True,0,6.853070175438596,0,True,2,0.0,0,False,0,1.3333333333333333,15,19
@@ -37,7 +37,7 @@ středa,2021-08-25,3108,Písek,7,0,0,31,10,5,1,0,0,3108,Písek,53352,11354,CZ031
 středa,2021-08-25,3109,Prachatice,1,0,0,0,0,0,0,0,0,3109,Prachatice,33458,6497,CZ031,Jihočeský kraj,CZ,ČR,14.944109032219501,2,False,0,0.0,0,False,0,0.0,0,False,0,0.25,0,2
 středa,2021-08-25,3110,Soběslav,4,0,0,2,0,0,0,0,0,3110,Soběslav,21947,4860,CZ031,Jihočeský kraj,CZ,ČR,22.782157014626147,2,True,0,0.0,0,False,0,0.0,0,False,0,2.0,30,32
 středa,2021-08-25,3111,Strakonice,2,0,0,1,0,0,0,0,0,3111,Strakonice,45223,9454,CZ031,Jihočeský kraj,CZ,ČR,17.69011343785242,2,False,0,0.0,0,False,0,0.0,0,False,0,0.4,0,2
-středa,2021-08-25,3112,Tábor,6,0,0,12,0,0,1,0,0,3112,Tábor,80648,17257,CZ031,Jihočeský kraj,CZ,ČR,21.079258010118043,2,False,0,5.794749956539375,0,True,2,0.0,0,False,0,0.75,0,4
+středa,2021-08-25,3112,Tábor,7,0,0,13,0,0,1,0,0,3112,Tábor,80648,17257,CZ031,Jihočeský kraj,CZ,ČR,22.3192143636544,2,False,0,5.794749956539375,0,True,2,0.0,0,False,0,0.875,5,9
 středa,2021-08-25,3113,Trhové Sviny,7,1,0,8,0,0,1,1,0,3113,Trhové Sviny,19267,3657,CZ031,Jihočeský kraj,CZ,ČR,62.28265946955935,7,True,0,27.344818156959256,4,True,2,0.0,0,False,0,1.0,10,23
 středa,2021-08-25,3114,Třeboň,5,1,0,4,0,0,0,0,0,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,CZ,ČR,32.26326826907566,4,False,0,35.95182455509617,4,True,2,0.0,0,False,0,1.25,15,25
 středa,2021-08-25,3115,Týn nad Vltavou,5,0,0,7,0,0,0,0,0,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,63.90683803166939,7,True,0,38.55050115651503,4,True,2,0.0,0,False,0,0.7142857142857143,0,13
@@ -60,13 +60,13 @@ středa,2021-08-25,3214,Sušice,0,0,0,0,0,0,0,0,0,3214,Sušice,24150,5546,CZ032,
 středa,2021-08-25,3215,Tachov,9,0,0,15,0,0,0,0,0,3215,Tachov,37146,6444,CZ032,Plzeňský kraj,CZ,ČR,29.612878910246057,4,True,0,0.0,0,False,0,0.0,0,False,0,0.0,0,4
 středa,2021-08-25,4101,Aš,6,0,0,11,0,0,0,0,0,4101,Aš,17695,3278,CZ041,Karlovarský kraj,CZ,ČR,135.63153433173213,10,False,0,0.0,0,False,0,0.0,0,False,0,0.42857142857142855,0,10
 středa,2021-08-25,4102,Cheb,3,0,0,0,0,0,2,2,0,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,10.009008107296566,2,True,0,0.0,0,False,0,0.0,0,False,0,1.5,20,22
-středa,2021-08-25,4103,Karlovy Vary,14,0,0,0,0,0,1,1,0,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,19.49943795737652,2,True,0,0.0,0,False,0,0.0,0,False,0,2.8,30,32
+středa,2021-08-25,4103,Karlovy Vary,14,0,0,0,0,0,1,1,2,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,19.49943795737652,2,True,0,0.0,0,False,0,700.0,30,True,2,2.8,30,64
 středa,2021-08-25,4104,Kraslice,2,0,0,0,0,0,0,0,0,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,15.169902912621358,2,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
 středa,2021-08-25,4105,Mariánské Lázně,1,0,0,0,0,0,0,0,0,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,12.508338892595065,2,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,2
 středa,2021-08-25,4106,Ostrov,2,0,0,7,3,2,0,0,0,4106,Ostrov,27636,5453,CZ041,Karlovarský kraj,CZ,ČR,10.855405992184108,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 středa,2021-08-25,4107,Sokolov,5,1,0,14,6,2,0,0,0,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,13.328357413232393,2,False,0,7.03135986499789,0,True,2,0.0,0,False,0,1.0,10,14
-středa,2021-08-25,4201,Bílina,1,0,0,1,0,0,0,0,0,4201,Bílina,22600,3935,CZ042,Ústecký kraj,CZ,ČR,8.849557522123893,0,False,0,0.0,0,False,0,0.0,0,False,0,0.5,0,0
-středa,2021-08-25,4202,Děčín,8,1,1,0,0,0,2,2,0,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,16.917831394289582,2,True,0,6.111722283339446,0,True,2,0.0,0,False,0,2.0,30,34
+středa,2021-08-25,4201,Bílina,1,0,0,1,0,0,0,0,1,4201,Bílina,22600,3935,CZ042,Ústecký kraj,CZ,ČR,8.849557522123893,0,False,0,0.0,0,False,0,100.0,30,True,2,0.5,0,32
+středa,2021-08-25,4202,Děčín,9,1,1,0,0,0,2,2,0,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,18.219203040004164,2,True,0,6.111722283339446,0,True,2,0.0,0,False,0,1.8,25,29
 středa,2021-08-25,4203,Chomutov,0,0,0,0,0,0,0,0,0,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,3.6736793122872324,0,False,0,0.0,0,False,0,,30,False,0,0.0,0,30
 středa,2021-08-25,4204,Kadaň,2,0,0,0,0,0,0,0,0,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,16.172257647167545,2,False,0,0.0,0,False,0,0.0,0,False,0,0.4,0,2
 středa,2021-08-25,4205,Litoměřice,9,0,0,11,0,0,2,0,0,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,27.068177973270174,4,True,0,8.577800651912849,0,True,2,0.0,0,False,0,2.25,30,36
@@ -78,14 +78,14 @@ středa,2021-08-25,4210,Podbořany,0,0,0,1,0,0,0,0,0,4210,Podbořany,15678,3106,
 středa,2021-08-25,4211,Roudnice nad Labem,3,0,0,0,0,0,1,1,0,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,15.2401853206535,2,False,0,0.0,0,False,0,0.0,0,False,0,0.75,0,2
 středa,2021-08-25,4212,Rumburk,0,0,0,0,0,0,0,0,0,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-08-25,4213,Teplice,6,0,0,10,0,0,1,1,0,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,11.270568788038169,2,True,0,0.0,0,False,0,0.0,0,False,0,0.8571428571428571,5,7
-středa,2021-08-25,4214,Ústí nad Labem,10,1,0,28,8,0,0,0,0,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,14.245252978933786,2,True,0,8.343414959743022,0,True,2,0.0,0,False,0,2.0,30,34
+středa,2021-08-25,4214,Ústí nad Labem,10,1,0,28,8,0,0,0,1,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,14.245252978933786,2,True,0,8.343414959743022,0,True,2,1000.0,30,True,2,2.0,30,66
 středa,2021-08-25,4215,Varnsdorf,0,0,0,0,0,0,1,1,0,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-08-25,4216,Žatec,3,0,0,10,2,1,0,0,0,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,21.91940963723377,2,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
 středa,2021-08-25,5101,Česká Lípa,4,0,0,0,0,0,0,0,0,5101,Česká Lípa,76998,14036,CZ051,Liberecký kraj,CZ,ČR,15.584820384945063,2,False,0,7.124536905101169,0,True,2,0.0,0,False,0,0.5714285714285714,0,4
 středa,2021-08-25,5102,Frýdlant,0,0,0,0,0,0,0,0,0,5102,Frýdlant,24479,4944,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-08-25,5103,Jablonec nad Nisou,10,1,1,0,0,0,0,0,0,5103,Jablonec nad Nisou,56206,11517,CZ051,Liberecký kraj,CZ,ČR,44.479237092125395,4,True,0,8.682816705739342,0,True,2,0.0,0,False,0,0.5555555555555556,0,6
 středa,2021-08-25,5104,Jilemnice,1,0,0,0,0,0,0,0,0,5104,Jilemnice,22137,4768,CZ051,Liberecký kraj,CZ,ČR,13.55197181189863,2,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
-středa,2021-08-25,5105,Liberec,17,0,0,22,0,0,0,0,0,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,35.00919849529092,4,True,0,0.0,0,False,0,0.0,0,False,0,0.4473684210526316,0,4
+středa,2021-08-25,5105,Liberec,18,0,0,24,0,0,0,0,0,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,36.38210824020429,4,True,0,0.0,0,False,0,0.0,0,False,0,0.45,0,4
 středa,2021-08-25,5106,Nový Bor,2,2,1,0,0,0,1,1,0,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,15.20796897574329,2,True,0,52.30125523012552,7,True,2,0.0,0,False,0,0.6666666666666666,0,11
 středa,2021-08-25,5107,Semily,4,0,0,13,0,0,1,0,0,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,81.79162609542357,7,True,0,53.58099660653688,7,True,2,0.0,0,False,0,0.25,0,16
 středa,2021-08-25,5108,Tanvald,7,0,0,5,0,0,0,0,0,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,39.19263178522438,4,True,0,0.0,0,False,0,0.0,0,False,0,3.5,30,34
@@ -97,13 +97,13 @@ středa,2021-08-25,5203,Dvůr Králové nad Labem,1,0,0,0,0,0,0,0,0,5203,Dvůr K
 středa,2021-08-25,5204,Hořice,0,0,0,3,3,2,0,0,0,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,5.441584589432443,0,False,0,0.0,0,False,0,,30,False,0,0.0,0,30
 středa,2021-08-25,5205,Hradec Králové,12,0,0,8,0,0,0,0,0,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,20.422194841353583,2,True,0,6.156877231867996,0,True,2,0.0,0,False,0,0.8,5,9
 středa,2021-08-25,5206,Jaroměř,0,0,0,1,0,1,0,0,0,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,10.377211643231464,2,False,0,0.0,0,False,0,,30,False,0,0.0,0,32
-středa,2021-08-25,5207,Jičín,0,0,0,0,0,0,0,0,0,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,12.401306270927204,2,False,0,0.0,0,False,0,,30,False,0,0.0,0,32
+středa,2021-08-25,5207,Jičín,2,0,0,0,0,0,0,0,0,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,16.53507502790294,2,False,0,0.0,0,False,0,0.0,0,False,0,0.6666666666666666,0,2
 středa,2021-08-25,5208,Kostelec nad Orlicí,0,0,0,0,0,0,0,0,0,5208,Kostelec nad Orlicí,24892,5311,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-08-25,5209,Náchod,1,0,0,1,0,0,0,0,0,5209,Náchod,60595,13494,CZ052,Královéhradecký kraj,CZ,ČR,6.601204719861374,0,False,0,7.410701052319549,0,True,2,0.0,0,False,0,0.5,0,2
 středa,2021-08-25,5210,Nová Paka,1,0,0,2,0,0,0,0,0,5210,Nová Paka,13286,2887,CZ052,Královéhradecký kraj,CZ,ČR,30.106879421947916,4,True,0,0.0,0,False,0,0.0,0,False,0,0.5,0,4
 středa,2021-08-25,5211,Nové Město nad Metují,0,0,0,0,0,0,0,0,0,5211,Nové Město nad Metují,14214,3321,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-08-25,5212,Nový Bydžov,1,0,0,3,0,0,0,0,0,5212,Nový Bydžov,17384,3627,CZ052,Královéhradecký kraj,CZ,ČR,34.514496088357106,4,False,0,0.0,0,False,0,0.0,0,False,0,0.3333333333333333,0,4
-středa,2021-08-25,5213,Rychnov nad Kněžnou,1,0,0,2,0,0,0,0,0,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,5.830733797848459,0,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,10
+středa,2021-08-25,5213,Rychnov nad Kněžnou,1,0,0,2,0,0,0,0,1,5213,Rychnov nad Kněžnou,34301,6810,CZ052,Královéhradecký kraj,CZ,ČR,5.830733797848459,0,True,0,0.0,0,False,0,100.0,30,True,2,1.0,10,42
 středa,2021-08-25,5214,Trutnov,4,1,0,0,0,0,0,0,0,5214,Trutnov,63419,13537,CZ052,Královéhradecký kraj,CZ,ČR,7.884072596540469,0,True,0,7.387161113983896,0,True,2,0.0,0,False,0,2.0,30,32
 středa,2021-08-25,5215,Vrchlabí,0,0,0,0,0,0,0,0,0,5215,Vrchlabí,27610,5935,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-08-25,5301,Česká Třebová,1,0,0,2,0,1,0,0,0,5301,Česká Třebová,17969,3841,CZ053,Pardubický kraj,CZ,ČR,11.130279926540153,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
@@ -123,24 +123,24 @@ středa,2021-08-25,5314,Vysoké Mýto,2,0,0,8,3,3,0,0,0,5314,Vysoké Mýto,32454
 středa,2021-08-25,5315,Žamberk,0,0,0,5,0,0,0,0,0,5315,Žamberk,29463,5651,CZ053,Pardubický kraj,CZ,ČR,13.576349998302957,2,False,0,0.0,0,False,0,,30,False,0,0.0,0,32
 středa,2021-08-25,6101,Bystřice nad Pernštejnem,1,0,0,14,8,6,2,2,0,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,30.372057706909644,4,False,0,0.0,0,False,0,0.0,0,False,0,0.2,0,4
 středa,2021-08-25,6102,Havlíčkův Brod,11,0,0,24,4,4,0,1,0,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,37.784327061135045,4,True,0,0.0,0,False,0,0.0,0,False,0,1.375,15,19
-středa,2021-08-25,6103,Humpolec,1,0,0,4,0,0,0,0,0,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,22.406453058480842,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
+středa,2021-08-25,6103,Humpolec,1,0,0,4,0,0,0,0,1,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,22.406453058480842,2,False,0,0.0,0,False,0,100.0,30,True,2,1.0,10,44
 středa,2021-08-25,6104,Chotěboř,6,0,0,5,0,0,1,1,0,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,32.004389173372346,4,True,0,0.0,0,False,0,0.0,0,False,0,6.0,30,34
-středa,2021-08-25,6105,Jihlava,10,0,0,26,0,0,1,2,0,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,28.69184953598354,4,False,0,0.0,0,False,0,0.0,0,False,0,0.625,0,4
+středa,2021-08-25,6105,Jihlava,10,0,0,26,0,0,1,2,5,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,28.69184953598354,4,False,0,0.0,0,False,0,200.0,30,True,2,0.625,0,36
 středa,2021-08-25,6106,Moravské Budějovice,0,0,0,0,0,0,0,0,0,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,4.329379167027448,0,False,0,0.0,0,False,0,,30,False,0,0.0,0,30
 středa,2021-08-25,6107,Náměšť nad Oslavou,2,0,0,3,0,0,0,0,0,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,22.32142857142857,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
 středa,2021-08-25,6108,Nové Město na Moravě,0,0,0,11,9,5,0,0,0,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-08-25,6109,Pacov,0,0,0,0,0,0,0,0,0,6109,Pacov,9364,2205,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-08-25,6110,Pelhřimov,2,2,0,12,10,8,1,1,0,6110,Pelhřimov,45086,9648,CZ063,Kraj Vysočina,CZ,ČR,6.653950228452292,0,False,0,20.729684908789388,2,True,2,0.0,0,False,0,2.0,30,34
 středa,2021-08-25,6111,Světlá nad Sázavou,0,0,0,0,0,1,0,0,0,6111,Světlá nad Sázavou,19690,4322,CZ063,Kraj Vysočina,CZ,ČR,5.078720162519045,0,False,0,0.0,0,False,0,,30,False,0,0.0,0,30
-středa,2021-08-25,6112,Telč,0,0,0,1,0,0,0,0,0,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,7.707129094412332,0,False,0,0.0,0,False,0,,30,False,0,0.0,0,30
-středa,2021-08-25,6113,Třebíč,6,0,0,10,0,0,0,0,0,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,17.503231365790608,2,True,0,0.0,0,False,0,0.0,0,False,0,1.2,15,17
+středa,2021-08-25,6112,Telč,0,0,0,1,0,0,0,0,1,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,7.707129094412332,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+středa,2021-08-25,6113,Třebíč,6,0,0,10,0,0,0,0,2,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,17.503231365790608,2,True,0,0.0,0,False,0,300.0,30,True,2,1.2,15,49
 středa,2021-08-25,6114,Velké Meziříčí,2,1,1,13,7,6,0,1,0,6114,Velké Meziříčí,36390,6564,CZ063,Kraj Vysočina,CZ,ČR,16.488046166529266,2,False,0,15.234613040828764,2,True,2,0.0,0,False,0,0.6666666666666666,0,6
 středa,2021-08-25,6115,Žďár nad Sázavou,3,0,0,6,1,1,0,0,0,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,9.383723930841954,0,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,10
-středa,2021-08-25,6201,Blansko,3,0,0,0,0,0,0,0,0,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,10.50309841403214,2,False,0,0.0,0,False,0,0.0,0,False,0,1.5,20,22
+středa,2021-08-25,6201,Blansko,3,0,0,0,0,0,0,0,3,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,10.50309841403214,2,False,0,0.0,0,False,0,100.0,30,True,2,1.5,20,54
 středa,2021-08-25,6202,Boskovice,4,1,0,0,0,0,2,1,0,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,15.381657373582003,2,False,0,9.532888465204957,0,True,2,0.0,0,False,0,2.0,30,34
-středa,2021-08-25,6203,Brno,49,5,3,45,0,0,1,2,0,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,25.69844707955505,4,True,0,6.292711781214997,0,True,2,0.0,0,False,0,1.0888888888888888,10,16
+středa,2021-08-25,6203,Brno,49,5,3,45,0,0,1,2,2,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,25.69844707955505,4,True,0,6.292711781214997,0,True,2,2450.0,30,True,2,1.0888888888888888,10,48
 středa,2021-08-25,6204,Břeclav,6,2,2,5,0,0,1,2,0,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,13.39696893577828,2,True,0,16.371971185330715,2,True,2,0.0,0,False,0,2.0,30,36
-středa,2021-08-25,6205,Bučovice,0,0,0,0,0,0,0,0,0,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,6.2069393582024714,0,False,0,0.0,0,False,0,,30,False,0,,30,60
+středa,2021-08-25,6205,Bučovice,0,0,0,0,0,0,0,0,1,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,6.2069393582024714,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-08-25,6206,Hodonín,2,0,0,4,0,0,0,0,0,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,6.591414682376205,0,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,10
 středa,2021-08-25,6207,Hustopeče,4,0,0,8,1,1,0,0,0,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,16.523918371843244,2,True,0,0.0,0,False,0,0.0,0,False,0,4.0,30,32
 středa,2021-08-25,6208,Ivančice,4,0,0,0,0,0,0,0,0,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,CZ,ČR,16.35389836052169,2,True,0,0.0,0,False,0,0.0,0,False,0,4.0,30,32
@@ -151,7 +151,7 @@ středa,2021-08-25,6212,Moravský Krumlov,0,0,0,0,0,0,0,0,0,6212,Moravský Kruml
 středa,2021-08-25,6213,Pohořelice,1,0,0,3,1,1,1,0,0,6213,Pohořelice,14599,2588,CZ064,Jihomoravský kraj,CZ,ČR,20.549352695390095,2,True,0,38.639876352395675,4,True,2,0.0,0,False,0,0.5,0,8
 středa,2021-08-25,6214,Rosice,2,0,0,0,0,0,0,0,0,6214,Rosice,26284,5080,CZ064,Jihomoravský kraj,CZ,ČR,11.413787855729723,2,True,0,0.0,0,False,0,0.0,0,False,0,2.0,30,32
 středa,2021-08-25,6215,Slavkov u Brna,1,0,0,3,0,0,0,0,0,6215,Slavkov u Brna,24027,4191,CZ064,Jihomoravský kraj,CZ,ČR,20.80992217089108,2,True,0,0.0,0,False,0,0.0,0,False,0,0.25,0,2
-středa,2021-08-25,6216,Šlapanice,10,0,0,7,0,0,1,1,0,6216,Šlapanice,70414,12564,CZ064,Jihomoravský kraj,CZ,ČR,26.98327037236913,4,False,0,0.0,0,False,0,0.0,0,False,0,1.1111111111111112,10,14
+středa,2021-08-25,6216,Šlapanice,10,0,0,7,0,0,1,1,1,6216,Šlapanice,70414,12564,CZ064,Jihomoravský kraj,CZ,ČR,26.98327037236913,4,False,0,0.0,0,False,0,1000.0,30,True,2,1.1111111111111112,10,46
 středa,2021-08-25,6217,Tišnov,4,0,0,2,0,0,1,0,0,6217,Tišnov,31725,6213,CZ064,Jihomoravský kraj,CZ,ČR,22.06461780929866,2,False,0,0.0,0,False,0,0.0,0,False,0,2.0,30,32
 středa,2021-08-25,6218,Veselí nad Moravou,3,0,0,3,0,0,0,0,0,6218,Veselí nad Moravou,37715,8138,CZ064,Jihomoravský kraj,CZ,ČR,7.954394803128729,0,True,0,0.0,0,False,0,0.0,0,False,0,3.0,30,30
 středa,2021-08-25,6219,Vyškov,6,2,2,12,2,2,0,0,0,6219,Vyškov,52142,10312,CZ064,Jihomoravský kraj,CZ,ČR,23.014076943730583,2,True,0,19.39487975174554,2,True,2,0.0,0,False,0,1.2,15,21
@@ -177,17 +177,17 @@ středa,2021-08-25,7204,Luhačovice,3,0,0,3,0,0,0,0,0,7204,Luhačovice,18624,395
 středa,2021-08-25,7205,Otrokovice,0,0,0,0,0,0,0,0,0,7205,Otrokovice,34276,7438,CZ072,Zlínský kraj,CZ,ČR,2.9174932897654333,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-08-25,7206,Rožnov pod Radhoštěm,5,0,0,1,0,0,0,0,0,7206,Rožnov pod Radhoštěm,35175,7559,CZ072,Zlínský kraj,CZ,ČR,19.90049751243781,2,True,0,0.0,0,False,0,0.0,0,False,0,1.25,15,17
 středa,2021-08-25,7207,Uherské Hradiště,7,1,1,10,2,3,0,0,0,7207,Uherské Hradiště,90117,18605,CZ072,Zlínský kraj,CZ,ČR,9.987016878058524,0,True,0,5.374899220639613,0,True,2,0.0,0,False,0,2.3333333333333335,30,32
-středa,2021-08-25,7208,Uherský Brod,3,0,0,0,0,0,0,0,0,7208,Uherský Brod,52109,10911,CZ072,Zlínský kraj,CZ,ČR,9.595271450229328,0,False,0,9.165062780680048,0,True,2,0.0,0,False,0,1.5,20,22
+středa,2021-08-25,7208,Uherský Brod,3,0,0,0,0,0,0,0,1,7208,Uherský Brod,52109,10911,CZ072,Zlínský kraj,CZ,ČR,9.595271450229328,0,False,0,9.165062780680048,0,True,2,300.0,30,True,2,1.5,20,54
 středa,2021-08-25,7209,Valašské Klobouky,2,0,0,0,0,0,0,0,0,7209,Valašské Klobouky,23102,4300,CZ072,Zlínský kraj,CZ,ČR,8.657259111765216,0,True,0,0.0,0,False,0,0.0,0,False,0,2.0,30,30
 středa,2021-08-25,7210,Valašské Meziříčí,3,0,0,2,0,0,1,0,0,7210,Valašské Meziříčí,41831,8296,CZ072,Zlínský kraj,CZ,ČR,14.343429513996798,2,True,0,12.054001928640309,2,True,2,0.0,0,False,0,1.5,20,26
 středa,2021-08-25,7211,Vizovice,0,0,0,1,1,1,0,0,0,7211,Vizovice,17153,3096,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
-středa,2021-08-25,7212,Vsetín,0,0,0,0,0,0,0,0,0,7212,Vsetín,65522,13208,CZ072,Zlínský kraj,CZ,ČR,6.104819755196727,0,False,0,7.571168988491823,0,True,2,,30,False,0,0.0,0,32
+středa,2021-08-25,7212,Vsetín,1,0,0,0,0,0,0,0,0,7212,Vsetín,65522,13208,CZ072,Zlínský kraj,CZ,ČR,7.6310246939959105,0,False,0,7.571168988491823,0,True,2,0.0,0,False,0,0.5,0,2
 středa,2021-08-25,7213,Zlín,13,2,1,11,0,0,0,0,0,7213,Zlín,99303,21713,CZ072,Zlínský kraj,CZ,ČR,18.126340593939762,2,True,0,9.211071708193248,0,True,2,0.0,0,False,0,1.4444444444444444,20,24
 středa,2021-08-25,8101,Bílovec,1,0,0,2,0,0,0,0,0,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,11.708687846382016,2,True,0,0.0,0,False,0,0.0,0,False,0,0.5,0,2
 středa,2021-08-25,8102,Bohumín,0,0,0,1,1,0,0,0,0,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
 středa,2021-08-25,8103,Bruntál,4,0,0,3,0,0,1,2,0,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,19.22126421000604,2,True,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
 středa,2021-08-25,8104,Český Těšín,2,0,0,0,0,0,0,0,0,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,CZ,ČR,11.679059446412582,2,False,0,0.0,0,False,0,0.0,0,False,0,2.0,30,32
-středa,2021-08-25,8105,Frenštát pod Radhoštěm,0,0,0,0,0,0,0,0,0,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,,30,False,0,,30,60
+středa,2021-08-25,8105,Frenštát pod Radhoštěm,0,0,0,0,0,0,0,0,1,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-08-25,8106,Frýdek-Místek,8,2,0,17,5,0,1,1,0,8106,Frýdek-Místek,112433,21794,CZ080,Moravskoslezský kraj,CZ,ČR,15.120115980183753,2,True,0,13.765256492612645,2,True,2,0.0,0,False,0,0.6153846153846154,0,6
 středa,2021-08-25,8107,Frýdlant nad Ostravicí,3,0,0,0,0,0,0,0,0,8107,Frýdlant nad Ostravicí,24950,5239,CZ080,Moravskoslezský kraj,CZ,ČR,16.03206412825651,2,False,0,0.0,0,False,0,0.0,0,False,0,3.0,30,32
 středa,2021-08-25,8108,Havířov,5,0,0,8,0,0,0,0,0,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,CZ,ČR,12.717645154577196,2,False,0,0.0,0,False,0,0.0,0,False,0,1.0,10,12
