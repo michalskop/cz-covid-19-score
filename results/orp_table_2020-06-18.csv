@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-06-18,1000,Praha,121,19,14,239,40,25,33,21,3731,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,14.573990184832931,2,True,0,9.953576519114849,0,True,2,3.243098365049585,3,True,2,1.198019801980198,10,19
+čtvrtek,2020-06-18,1000,Praha,121,19,14,240,41,26,33,21,3731,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,14.573990184832931,2,True,0,9.953576519114849,0,True,2,3.243098365049585,3,True,2,1.1862745098039216,10,19
 čtvrtek,2020-06-18,2101,Benešov,0,0,0,1,0,0,0,0,64,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,1.6387532365376423,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-06-18,2102,Beroun,4,2,1,6,3,1,1,1,68,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,9.241147750550619,0,True,0,26.334269662921347,4,True,2,5.88235294117647,3,True,2,2.0,30,41
 čtvrtek,2020-06-18,2103,Brandýs n.L.- St.Boleslav,8,0,0,18,0,0,0,0,198,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,15.006797196377182,2,True,0,0.0,0,False,0,4.040404040404041,3,False,0,0.6666666666666666,0,5
@@ -64,7 +64,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-06-18,4104,Kraslice,1,0,0,1,0,0,0,0,19,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,7.584951456310679,0,False,0,0.0,0,False,0,5.263157894736842,3,True,2,1.0,10,15
 čtvrtek,2020-06-18,4105,Mariánské Lázně,0,0,0,0,0,0,0,0,30,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-18,4106,Ostrov,0,0,0,1,0,0,0,0,25,4106,Ostrov,27636,5453,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-06-18,4107,Sokolov,1,0,0,3,0,0,0,0,58,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,2.6656714826464785,0,True,0,0.0,0,False,0,1.7241379310344827,0,True,2,0.0,0,2
+čtvrtek,2020-06-18,4107,Sokolov,0,0,0,2,0,0,0,0,58,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,1.3328357413232392,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-18,4201,Bílina,0,0,0,0,0,0,0,0,11,4201,Bílina,22600,3935,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-18,4202,Děčín,0,0,0,0,0,0,0,0,67,4202,Děčín,76842,16362,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-18,4203,Chomutov,0,0,0,0,0,0,0,0,72,4203,Chomutov,81662,14681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -93,7 +93,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-06-18,5110,Železný Brod,0,0,0,0,0,0,0,0,7,5110,Železný Brod,12182,2797,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-18,5201,Broumov,0,0,0,0,0,0,0,0,9,5201,Broumov,15876,3561,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-18,5202,Dobruška,0,0,0,0,0,0,0,0,8,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-06-18,5203,Dvůr Králové nad Labem,0,0,0,0,0,0,0,0,19,5203,Dvůr Králové nad Labem,26949,6223,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+čtvrtek,2020-06-18,5203,Dvůr Králové nad Labem,1,0,0,1,0,0,0,0,19,5203,Dvůr Králové nad Labem,26949,6223,CZ052,Královéhradecký kraj,CZ,ČR,3.710712827934246,0,True,0,0.0,0,False,0,5.263157894736842,3,True,2,0.0,0,5
 čtvrtek,2020-06-18,5204,Hořice,0,0,0,0,0,0,0,0,15,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-06-18,5205,Hradec Králové,2,0,0,4,0,0,0,0,195,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,1.361479656090239,0,False,0,0.0,0,False,0,1.0256410256410255,0,True,2,1.0,10,12
 čtvrtek,2020-06-18,5206,Jaroměř,0,0,0,2,2,1,0,0,28,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2020-07-03,1000,Praha,73,6,3,243,25,15,14,4,3696,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.384116011982385,2,False,0,3.1851444861167515,0,True,2,1.9751082251082253,0,False,0,0.7448979591836735,0,4
+pátek,2020-07-03,1000,Praha,73,6,3,242,26,16,14,4,3696,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.3086031094703,2,False,0,3.1851444861167515,0,True,2,1.9751082251082253,0,False,0,0.7525773195876289,0,4
 pátek,2020-07-03,2101,Benešov,0,0,0,2,0,0,0,0,85,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2020-07-03,2102,Beroun,1,0,0,10,3,1,0,0,118,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,6.1607651670337455,0,False,0,0.0,0,False,0,0.847457627118644,0,False,0,1.0,10,10
 pátek,2020-07-03,2103,Brandýs n.L.- St.Boleslav,6,0,0,16,0,0,0,0,228,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,11.475786091347258,2,True,0,0.0,0,False,0,2.631578947368421,0,True,2,0.75,0,4
@@ -138,7 +138,7 @@ pátek,2020-07-03,6114,Velké Meziříčí,0,0,0,2,0,0,0,0,47,6114,Velké Meziř
 pátek,2020-07-03,6115,Žďár nad Sázavou,0,0,0,0,0,0,0,0,31,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-03,6201,Blansko,1,0,0,4,0,0,0,0,73,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,1.7505164023386899,0,True,0,0.0,0,False,0,1.36986301369863,0,True,2,0.0,0,2
 pátek,2020-07-03,6202,Boskovice,0,0,0,0,0,0,0,0,73,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-07-03,6203,Brno,8,1,0,54,10,8,10,1,638,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,8.653558710462415,0,False,0,6.292711781214997,0,True,2,1.2539184952978055,0,False,0,0.34782608695652173,0,2
+pátek,2020-07-03,6203,Brno,8,1,0,55,10,8,10,1,638,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,8.91578776229461,0,False,0,6.292711781214997,0,True,2,1.2539184952978055,0,False,0,0.3333333333333333,0,2
 pátek,2020-07-03,6204,Břeclav,0,0,0,0,0,0,0,0,59,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-03,6205,Bučovice,0,0,0,0,0,0,0,0,11,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-03,6206,Hodonín,0,0,0,0,0,0,0,0,64,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -176,7 +176,7 @@ pátek,2020-07-03,7203,Kroměříž,0,0,0,0,0,0,0,0,39,7203,Kroměříž,68561,1
 pátek,2020-07-03,7204,Luhačovice,0,0,0,0,0,0,0,0,22,7204,Luhačovice,18624,3952,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-03,7205,Otrokovice,0,0,0,1,1,0,0,0,27,7205,Otrokovice,34276,7438,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-03,7206,Rožnov pod Radhoštěm,0,0,0,0,0,0,0,0,53,7206,Rožnov pod Radhoštěm,35175,7559,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pátek,2020-07-03,7207,Uherské Hradiště,1,0,0,1,0,0,0,0,59,7207,Uherské Hradiště,90117,18605,CZ072,Zlínský kraj,CZ,ČR,1.1096685420065027,0,True,0,0.0,0,False,0,1.694915254237288,0,True,2,0.0,0,2
+pátek,2020-07-03,7207,Uherské Hradiště,1,0,0,1,0,0,0,0,59,7207,Uherské Hradiště,90117,18605,CZ072,Zlínský kraj,CZ,ČR,1.1096685420065027,0,False,0,0.0,0,False,0,1.694915254237288,0,True,2,0.0,0,2
 pátek,2020-07-03,7208,Uherský Brod,0,0,0,0,0,0,0,0,42,7208,Uherský Brod,52109,10911,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-03,7209,Valašské Klobouky,0,0,0,0,0,0,0,0,24,7209,Valašské Klobouky,23102,4300,CZ072,Zlínský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2020-07-03,7210,Valašské Meziříčí,0,0,0,2,0,0,0,0,42,7210,Valašské Meziříčí,41831,8296,CZ072,Zlínský kraj,CZ,ČR,4.781143171332266,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0

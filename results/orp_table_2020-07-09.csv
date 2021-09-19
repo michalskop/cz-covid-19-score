@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2020-07-09,1000,Praha,70,3,1,172,13,5,8,6,3037,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,10.722832156716457,2,False,0,3.1851444861167515,0,True,2,2.304906157392163,0,True,2,1.09375,10,16
+čtvrtek,2020-07-09,1000,Praha,70,3,1,171,14,6,8,6,3037,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,10.722832156716457,2,False,0,3.1851444861167515,0,True,2,2.304906157392163,0,True,2,1.09375,10,16
 čtvrtek,2020-07-09,2101,Benešov,1,0,0,2,0,0,0,0,79,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,1.2658227848101267,0,True,2,0.0,0,2
 čtvrtek,2020-07-09,2102,Beroun,1,0,0,10,3,1,0,0,69,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,3.0803825835168728,0,False,0,0.0,0,False,0,1.4492753623188406,0,True,2,0.5,0,2
 čtvrtek,2020-07-09,2103,Brandýs n.L.- St.Boleslav,9,0,0,13,0,0,0,0,205,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,12.358538867604738,2,True,0,0.0,0,False,0,4.390243902439024,3,True,2,1.2857142857142858,15,22
@@ -119,7 +119,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-09,5311,Přelouč,0,0,0,1,1,0,0,0,24,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,5312,Svitavy,0,0,0,0,0,0,0,0,27,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,5313,Ústí nad Orlicí,0,0,0,0,0,0,0,0,13,5313,Ústí nad Orlicí,26573,5651,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-07-09,5314,Vysoké Mýto,1,0,0,0,0,0,0,0,37,5314,Vysoké Mýto,32454,6661,CZ053,Pardubický kraj,CZ,ČR,3.0812842792876074,0,False,0,0.0,0,False,0,2.7027027027027026,0,True,2,0.0,0,2
+čtvrtek,2020-07-09,5314,Vysoké Mýto,1,0,0,0,0,0,0,0,37,5314,Vysoké Mýto,32454,6661,CZ053,Pardubický kraj,CZ,ČR,3.0812842792876074,0,True,0,0.0,0,False,0,2.7027027027027026,0,True,2,0.0,0,2
 čtvrtek,2020-07-09,5315,Žamberk,0,0,0,0,0,0,0,0,17,5315,Žamberk,29463,5651,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,6101,Bystřice nad Pernštejnem,1,0,0,1,0,0,0,0,18,6101,Bystřice nad Pernštejnem,19755,4235,CZ063,Kraj Vysočina,CZ,ČR,5.0620096178182745,0,True,0,0.0,0,False,0,5.555555555555555,3,True,2,0.0,0,5
 čtvrtek,2020-07-09,6102,Havlíčkův Brod,0,0,0,0,0,0,0,0,46,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -138,7 +138,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2020-07-09,6115,Žďár nad Sázavou,0,0,0,0,0,0,0,0,18,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,6201,Blansko,0,0,0,1,0,0,0,0,54,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,1.7505164023386899,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 čtvrtek,2020-07-09,6202,Boskovice,0,0,0,0,0,0,0,0,41,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2020-07-09,6203,Brno,13,3,0,24,3,0,1,2,512,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,5.506810088476082,0,False,0,5.0341694249719975,0,True,2,2.5390625,0,True,2,1.0833333333333333,10,14
+čtvrtek,2020-07-09,6203,Brno,13,3,0,25,3,0,1,2,512,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,5.506810088476082,0,False,0,5.0341694249719975,0,True,2,2.5390625,0,True,2,1.0833333333333333,10,14
 čtvrtek,2020-07-09,6204,Břeclav,1,0,0,1,0,0,0,0,54,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,1.674621116972285,0,True,0,0.0,0,False,0,1.8518518518518516,0,True,2,0.0,0,2
 čtvrtek,2020-07-09,6205,Bučovice,0,0,0,0,0,0,0,0,8,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2020-07-09,6206,Hodonín,0,0,0,0,0,0,0,0,45,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
