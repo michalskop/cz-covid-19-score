@@ -1,6 +1,6 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2020-08-04,1000,Praha,367,20,11,758,43,17,16,15,8536,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,57.38980590918667,7,True,0,17.51829467364213,2,True,2,4.2994376757263355,3,False,0,0.9267676767676768,5,19
-úterý,2020-08-04,2101,Benešov,6,0,0,17,1,0,0,0,244,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,27.85880502113992,4,True,0,8.24742268041237,0,True,2,2.459016393442623,0,False,0,0.8571428571428571,5,11
+úterý,2020-08-04,1000,Praha,366,20,11,757,43,17,16,15,8536,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,57.31429300667458,7,True,0,17.51829467364213,2,True,2,4.287722586691658,3,False,0,0.9242424242424242,5,19
+úterý,2020-08-04,2101,Benešov,6,0,0,18,1,0,0,0,244,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,29.49755825767756,4,True,0,8.24742268041237,0,True,2,2.459016393442623,0,False,0,0.8571428571428571,5,11
 úterý,2020-08-04,2102,Beroun,10,0,0,20,1,1,0,0,233,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,30.803825835168727,4,True,0,8.77808988764045,0,True,2,4.291845493562231,3,False,0,0.7692307692307693,0,9
 úterý,2020-08-04,2103,Brandýs n.L.- St.Boleslav,18,1,1,49,2,2,1,1,578,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,45.02039158913155,4,True,0,12.183235867446394,2,True,2,3.1141868512110724,3,False,0,0.6,0,11
 úterý,2020-08-04,2104,Čáslav,1,0,0,2,0,0,0,0,75,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,3.8966605618984533,0,False,0,0.0,0,False,0,1.3333333333333335,0,True,2,0.0,0,2
@@ -114,7 +114,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-08-04,5306,Lanškroun,4,0,0,13,0,0,0,0,91,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,60.501296456352634,7,True,0,0.0,0,False,0,4.395604395604396,3,False,0,0.5,0,10
 úterý,2020-08-04,5307,Litomyšl,12,0,0,26,1,0,1,1,185,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,84.54328248483735,7,True,0,0.0,0,False,0,6.486486486486487,3,False,0,0.631578947368421,0,10
 úterý,2020-08-04,5308,Moravská Třebová,0,0,0,0,0,0,0,0,26,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2020-08-04,5309,Pardubice,14,0,0,18,0,0,0,0,391,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,13.668360024603047,2,True,0,0.0,0,False,0,3.580562659846547,3,True,2,2.0,30,37
+úterý,2020-08-04,5309,Pardubice,14,0,0,19,0,0,0,0,391,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,14.427713359303217,2,True,0,0.0,0,False,0,3.580562659846547,3,True,2,2.0,30,37
 úterý,2020-08-04,5310,Polička,0,0,0,0,0,0,0,0,55,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-08-04,5311,Přelouč,1,0,0,1,0,0,0,0,47,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,3.8699690402476783,0,True,0,0.0,0,False,0,2.127659574468085,0,True,2,0.0,0,2
 úterý,2020-08-04,5312,Svitavy,0,0,0,4,1,1,1,0,77,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,12.74737882023009,2,False,0,15.306903413439462,2,True,2,0.0,0,False,0,0.0,0,6
@@ -138,7 +138,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-08-04,6115,Žďár nad Sázavou,5,0,0,7,1,1,0,1,91,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,18.76744786168391,2,True,0,11.49029070435482,2,True,2,5.4945054945054945,3,True,2,5.0,30,41
 úterý,2020-08-04,6201,Blansko,3,0,0,3,0,0,0,0,62,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,5.25154920701607,0,True,0,0.0,0,False,0,4.838709677419355,3,True,2,1.0,10,15
 úterý,2020-08-04,6202,Boskovice,2,0,0,2,0,0,0,0,58,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,3.845414343395501,0,True,0,0.0,0,False,0,3.4482758620689653,3,True,2,0.0,0,5
-úterý,2020-08-04,6203,Brno,71,1,0,118,4,2,4,1,946,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,30.418570012534552,4,True,0,6.292711781214997,0,True,2,7.505285412262157,7,True,2,1.0289855072463767,10,25
+úterý,2020-08-04,6203,Brno,71,1,0,118,4,2,4,1,946,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,30.680799064366745,4,True,0,6.292711781214997,0,True,2,7.505285412262157,7,True,2,1.0289855072463767,10,25
 úterý,2020-08-04,6204,Břeclav,11,4,2,22,5,3,3,3,120,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,31.817801222473417,4,True,0,40.92992796332678,4,True,2,9.166666666666666,7,True,2,0.9166666666666666,5,24
 úterý,2020-08-04,6205,Bučovice,0,0,0,0,0,0,0,0,25,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-08-04,6206,Hodonín,6,2,0,12,5,1,0,0,157,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,21.422097717722664,2,True,0,48.98758981058132,4,True,2,3.821656050955414,3,False,0,1.0,10,21

@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2021-09-04,1000,Praha,359,26,14,581,0,0,7,7,49452,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,56.48365107904162,7,False,0,16.32386549134835,2,True,2,0.7259564830542748,0,False,0,0.9472295514511874,5,16
+sobota,2021-09-04,1000,Praha,358,26,14,583,0,0,7,7,49452,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,56.408138176529526,7,False,0,16.32386549134835,2,True,2,0.7239343201488312,0,False,0,0.9445910290237467,5,16
 sobota,2021-09-04,2101,Benešov,5,1,1,0,0,0,2,2,959,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,13.110025892301138,2,True,0,8.24742268041237,0,True,2,0.5213764337851928,0,True,2,1.25,15,21
 sobota,2021-09-04,2102,Beroun,24,2,1,44,4,0,1,1,1398,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,70.84879942088807,7,True,0,43.890449438202246,4,True,2,1.7167381974248928,0,False,0,1.0,10,23
 sobota,2021-09-04,2103,Brandýs n.L.- St.Boleslav,22,0,0,35,0,0,0,1,3285,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,41.48938048410162,4,False,0,6.091617933723197,0,True,2,0.669710806697108,0,False,0,0.88,5,11
@@ -85,7 +85,7 @@ sobota,2021-09-04,5101,Česká Lípa,6,0,0,0,0,0,0,0,790,5101,Česká Lípa,7699
 sobota,2021-09-04,5102,Frýdlant,0,0,0,0,0,0,0,0,275,5102,Frýdlant,24479,4944,CZ051,Liberecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2021-09-04,5103,Jablonec nad Nisou,6,0,0,0,0,0,0,0,4504,5103,Jablonec nad Nisou,56206,11517,CZ051,Liberecký kraj,CZ,ČR,26.687542255275236,4,False,0,8.682816705739342,0,True,2,0.13321492007104796,0,False,0,0.6,0,6
 sobota,2021-09-04,5104,Jilemnice,2,0,0,5,0,0,0,0,363,5104,Jilemnice,22137,4768,CZ051,Liberecký kraj,CZ,ČR,40.655915435695896,4,True,0,0.0,0,False,0,0.5509641873278237,0,False,0,0.3333333333333333,0,4
-sobota,2021-09-04,5105,Liberec,13,0,0,0,0,0,1,1,2664,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,19.907191301243856,2,False,0,0.0,0,False,0,0.487987987987988,0,False,0,1.1818181818181819,10,12
+sobota,2021-09-04,5105,Liberec,13,0,0,1,0,0,1,1,2664,5105,Liberec,145676,28910,CZ051,Liberecký kraj,CZ,ČR,19.907191301243856,2,False,0,0.0,0,False,0,0.487987987987988,0,False,0,1.1818181818181819,10,12
 sobota,2021-09-04,5106,Nový Bor,2,2,1,0,0,0,1,1,321,5106,Nový Bor,26302,5736,CZ051,Liberecký kraj,CZ,ČR,15.20796897574329,2,False,0,69.73500697350069,7,True,2,0.6230529595015576,0,False,0,2.0,30,41
 sobota,2021-09-04,5107,Semily,13,0,0,11,0,0,0,0,387,5107,Semily,25675,5599,CZ051,Liberecký kraj,CZ,ČR,74.00194741966894,7,False,0,0.0,0,False,0,3.359173126614987,3,True,2,1.625,25,37
 sobota,2021-09-04,5108,Tanvald,5,0,0,10,0,0,0,0,560,5108,Tanvald,20412,4465,CZ051,Liberecký kraj,CZ,ČR,63.68802665098961,7,True,0,0.0,0,False,0,0.8928571428571428,0,False,0,0.5,0,7
