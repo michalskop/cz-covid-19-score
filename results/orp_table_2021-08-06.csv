@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pátek,2021-08-06,1000,Praha,286,7,2,438,0,0,10,8,42327,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,44.40158667710758,4,False,0,5.972145911468909,0,True,2,0.6756916389066081,0,False,0,0.9930555555555556,5,11
+pátek,2021-08-06,1000,Praha,285,7,2,437,0,0,10,8,42327,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,44.32607377459549,4,False,0,5.972145911468909,0,True,2,0.673329080728613,0,False,0,0.9895833333333334,5,11
 pátek,2021-08-06,2101,Benešov,6,0,0,5,0,0,0,0,1342,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,31.136311494215203,4,False,0,0.0,0,False,0,0.44709388971684055,0,False,0,0.5,0,4
 pátek,2021-08-06,2102,Beroun,9,1,1,16,0,0,2,2,1698,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,30.803825835168727,4,False,0,8.77808988764045,0,True,2,0.5300353356890459,0,False,0,1.0,10,16
 pátek,2021-08-06,2103,Brandýs n.L.- St.Boleslav,23,3,0,35,0,0,1,1,4073,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,40.60662770784414,4,False,0,18.27485380116959,2,True,2,0.5646943285047876,0,False,0,0.8846153846153846,5,13
@@ -27,7 +27,7 @@ pátek,2021-08-06,2124,Slaný,2,0,0,11,2,0,0,0,786,2124,Slaný,40526,7771,CZ020,
 pátek,2021-08-06,2125,Vlašim,0,0,0,0,0,0,0,0,411,2125,Vlašim,25947,5665,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-08-06,2126,Votice,0,0,0,0,0,0,0,0,177,2126,Votice,12445,2654,CZ020,Středočeský kraj,CZ,ČR,24.106066693451186,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 pátek,2021-08-06,3101,Blatná,2,0,0,0,0,0,2,1,206,3101,Blatná,13668,3093,CZ031,Jihočeský kraj,CZ,ČR,29.2654375182909,4,False,0,0.0,0,False,0,0.9708737864077669,0,False,0,1.0,10,14
-pátek,2021-08-06,3102,České Budějovice,39,0,0,22,0,0,0,0,2611,3102,České Budějovice,162553,31763,CZ031,Jihočeský kraj,CZ,ČR,36.295854275221004,4,True,0,0.0,0,False,0,1.493680582152432,0,True,2,2.1666666666666665,30,36
+pátek,2021-08-06,3102,České Budějovice,39,0,0,23,0,0,0,0,2611,3102,České Budějovice,162553,31763,CZ031,Jihočeský kraj,CZ,ČR,36.295854275221004,4,True,0,0.0,0,False,0,1.493680582152432,0,True,2,2.1666666666666665,30,36
 pátek,2021-08-06,3103,Český Krumlov,0,0,0,1,1,0,0,0,396,3103,Český Krumlov,41687,7954,CZ031,Jihočeský kraj,CZ,ČR,7.196488113800466,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2021-08-06,3104,Dačice,0,0,0,0,0,0,0,0,214,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pátek,2021-08-06,3105,Jindřichův Hradec,5,1,0,11,1,0,0,0,501,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,23.34812047630166,2,True,0,9.862905611993293,0,True,2,0.998003992015968,0,True,2,0.8333333333333334,5,11
@@ -190,7 +190,7 @@ pátek,2021-08-06,8104,Český Těšín,1,0,0,0,0,0,0,0,449,8104,Český Těší
 pátek,2021-08-06,8105,Frenštát pod Radhoštěm,1,0,0,0,0,0,0,0,401,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,10.234890742541323,2,False,0,0.0,0,False,0,0.24937655860349126,0,False,0,1.0,10,12
 pátek,2021-08-06,8106,Frýdek-Místek,9,0,0,15,2,0,0,0,2595,8106,Frýdek-Místek,112433,21794,CZ080,Moravskoslezský kraj,CZ,ČR,13.341278806044487,2,True,0,0.0,0,False,0,0.3468208092485549,0,True,2,1.2857142857142858,15,19
 pátek,2021-08-06,8107,Frýdlant nad Ostravicí,0,0,0,0,0,0,0,0,552,8107,Frýdlant nad Ostravicí,24950,5239,CZ080,Moravskoslezský kraj,CZ,ČR,8.016032064128256,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-pátek,2021-08-06,8108,Havířov,4,0,0,6,1,0,2,0,1507,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,CZ,ČR,8.093046916549124,0,False,0,10.835997182640732,2,True,2,0.26542800265428,0,True,2,0.8,5,11
+pátek,2021-08-06,8108,Havířov,4,0,0,5,0,0,2,0,1507,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,CZ,ČR,8.093046916549124,0,False,0,10.835997182640732,2,True,2,0.26542800265428,0,True,2,0.8,5,11
 pátek,2021-08-06,8109,Hlučín,2,0,0,6,1,0,0,0,836,8109,Hlučín,40639,7899,CZ080,Moravskoslezský kraj,CZ,ČR,12.303452348729055,2,True,0,0.0,0,False,0,0.23923444976076555,0,False,0,0.4,0,2
 pátek,2021-08-06,8110,Jablunkov,0,0,0,1,0,0,0,0,326,8110,Jablunkov,22664,3972,CZ080,Moravskoslezský kraj,CZ,ČR,4.412283798093894,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pátek,2021-08-06,8111,Karviná,1,0,0,0,0,0,0,0,1137,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,3.143962020938787,0,False,0,0.0,0,False,0,0.08795074758135445,0,True,2,1.0,10,12
