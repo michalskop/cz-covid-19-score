@@ -1,12 +1,12 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-06-30,1000,Praha,330,7,5,366,0,0,17,9,44631,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,41.2300447715999,4,True,0,7.564718154527285,0,True,2,0.7393963836795052,0,True,2,1.5566037735849056,20,28
+středa,2021-06-30,1000,Praha,330,7,5,366,0,0,17,9,44631,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,41.15453186908781,4,True,0,7.564718154527285,0,True,2,0.7393963836795052,0,True,2,1.5566037735849056,20,28
 středa,2021-06-30,2101,Benešov,3,0,0,0,0,0,0,0,615,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,14.74877912883878,2,True,0,0.0,0,False,0,0.4878048780487805,0,False,0,0.5,0,2
 středa,2021-06-30,2102,Beroun,5,0,0,6,0,0,0,0,1558,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,9.241147750550619,0,True,0,0.0,0,False,0,0.3209242618741977,0,True,2,1.6666666666666667,25,27
 středa,2021-06-30,2103,Brandýs n.L.- St.Boleslav,21,0,0,23,0,0,0,0,4026,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,27.36533606398192,4,True,0,0.0,0,False,0,0.5216095380029807,0,True,2,1.105263157894737,10,16
 středa,2021-06-30,2104,Čáslav,4,0,0,0,0,0,0,0,647,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,19.483302809492265,2,True,0,0.0,0,False,0,0.6182380216383307,0,True,2,1.3333333333333333,15,19
 středa,2021-06-30,2105,Černošice,40,0,0,43,2,2,0,0,6422,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,36.15958429870495,4,True,0,4.273686909696996,0,True,2,0.6228589224540642,0,True,2,2.0,30,38
 středa,2021-06-30,2106,Český Brod,0,0,0,0,0,0,0,0,1010,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2021-06-30,2107,Dobříš,1,0,0,6,7,7,0,0,337,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,8.66588673686035,0,False,0,23.04147465437788,2,True,2,0.2967359050445104,0,False,0,0.5,0,4
+středa,2021-06-30,2107,Dobříš,1,0,0,4,7,7,0,0,337,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,8.66588673686035,0,False,0,23.04147465437788,2,True,2,0.2967359050445104,0,False,0,0.5,0,4
 středa,2021-06-30,2108,Hořovice,0,0,0,0,0,0,0,0,474,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-30,2109,Kladno,22,1,1,35,6,2,0,2,3564,2109,Kladno,125957,24239,CZ020,Středočeský kraj,CZ,ČR,31.75686940781378,4,True,0,16.502330954247288,2,True,2,0.6172839506172839,0,True,2,1.4666666666666666,20,30
 středa,2021-06-30,2110,Kolín,1,1,0,21,15,11,0,0,988,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,4.790419161676647,0,False,0,5.935070330583418,0,True,2,0.10121457489878542,0,False,0,0.5,0,2
@@ -14,7 +14,7 @@ středa,2021-06-30,2111,Kralupy nad Vltavou,0,0,0,5,1,0,0,0,568,2111,Kralupy nad
 středa,2021-06-30,2112,Kutná Hora,1,0,0,6,7,5,0,0,577,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,3.9868434167248084,0,False,0,9.34317481080071,0,True,2,0.17331022530329288,0,False,0,1.0,10,12
 středa,2021-06-30,2113,Lysá nad Labem,0,0,0,0,0,0,0,0,399,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-30,2114,Mělník,10,0,0,5,0,0,0,0,698,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,33.6322869955157,4,False,0,0.0,0,False,0,1.4326647564469914,0,True,2,1.0,10,16
-středa,2021-06-30,2115,Mladá Boleslav,3,0,0,3,0,0,1,1,921,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,4.44586712192346,0,True,0,0.0,0,False,0,0.32573289902280134,0,True,2,1.5,20,22
+středa,2021-06-30,2115,Mladá Boleslav,3,0,0,4,0,0,1,1,921,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,4.44586712192346,0,True,0,0.0,0,False,0,0.32573289902280134,0,True,2,1.5,20,22
 středa,2021-06-30,2116,Mnichovo Hradiště,1,0,0,2,1,0,0,0,179,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,5.5862800960840175,0,False,0,0.0,0,False,0,0.5586592178770949,0,True,2,0.0,0,2
 středa,2021-06-30,2117,Neratovice,5,0,0,1,0,0,1,1,578,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,21.74791064715568,2,True,0,0.0,0,False,0,0.8650519031141869,0,True,2,1.6666666666666667,25,29
 středa,2021-06-30,2118,Nymburk,0,0,0,0,0,0,0,0,498,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,4.977229176517433,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30

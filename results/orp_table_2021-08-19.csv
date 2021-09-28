@@ -1,12 +1,12 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2021-08-19,1000,Praha,383,17,5,586,0,0,18,16,44330,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,56.18159946899326,7,True,0,12.342434883702412,2,True,2,0.8639747349424768,0,True,2,0.9948051948051948,5,18
+čtvrtek,2021-08-19,1000,Praha,382,17,5,584,0,0,18,16,44330,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,56.03057366396909,7,True,0,12.342434883702412,2,True,2,0.8617189262350553,0,True,2,0.9947916666666666,5,18
 čtvrtek,2021-08-19,2101,Benešov,3,0,0,0,0,0,0,0,1804,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,19.665038838451704,2,False,0,8.24742268041237,0,True,2,0.1662971175166297,0,False,0,0.375,0,4
 čtvrtek,2021-08-19,2102,Beroun,9,0,0,20,0,0,1,0,1776,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,33.8842084186856,4,True,0,0.0,0,False,0,0.5067567567567568,0,False,0,0.75,0,4
 čtvrtek,2021-08-19,2103,Brandýs n.L.- St.Boleslav,18,0,0,32,0,0,0,0,4402,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,38.84112215532918,4,False,0,0.0,0,False,0,0.408905043162199,0,False,0,1.0,10,14
 čtvrtek,2021-08-19,2104,Čáslav,2,0,0,0,0,0,0,0,306,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,11.689981685695358,2,True,0,0.0,0,False,0,0.6535947712418301,0,True,2,2.0,30,34
 čtvrtek,2021-08-19,2105,Černošice,35,1,0,74,7,2,0,0,5495,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,49.552022927854935,4,True,0,21.368434548484977,2,True,2,0.6369426751592357,0,False,0,0.7,0,8
 čtvrtek,2021-08-19,2106,Český Brod,0,0,0,0,0,0,0,0,637,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,9.286344430514928,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-čtvrtek,2021-08-19,2107,Dobříš,0,0,0,10,7,7,0,0,477,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,21.664716842150874,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
+čtvrtek,2021-08-19,2107,Dobříš,0,0,0,7,7,7,0,0,477,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,21.664716842150874,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 čtvrtek,2021-08-19,2108,Hořovice,3,0,0,3,0,0,0,0,555,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,9.956523182104808,0,False,0,0.0,0,False,0,0.5405405405405406,0,True,2,3.0,30,32
 čtvrtek,2021-08-19,2109,Kladno,18,0,0,29,4,1,0,0,3587,2109,Kladno,125957,24239,CZ020,Středočeský kraj,CZ,ČR,18.260199909492922,2,True,0,0.0,0,False,0,0.5018120992472819,0,True,2,2.25,30,34
 čtvrtek,2021-08-19,2110,Kolín,9,0,0,33,14,11,0,0,1495,2110,Kolín,83500,16849,CZ020,Středočeský kraj,CZ,ČR,21.556886227544908,2,False,0,0.0,0,False,0,0.6020066889632106,0,True,2,0.75,0,4
@@ -14,7 +14,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-08-19,2112,Kutná Hora,1,0,0,9,6,4,0,0,753,2112,Kutná Hora,50165,10703,CZ020,Středočeský kraj,CZ,ČR,9.967108541812019,0,False,0,0.0,0,False,0,0.13280212483399734,0,False,0,0.25,0,0
 čtvrtek,2021-08-19,2113,Lysá nad Labem,5,0,0,7,0,0,0,0,709,2113,Lysá nad Labem,26907,3448,CZ020,Středočeský kraj,CZ,ČR,48.3145649830899,4,False,0,0.0,0,False,0,0.7052186177715092,0,False,0,0.7142857142857143,0,4
 čtvrtek,2021-08-19,2114,Mělník,8,1,0,1,0,0,0,0,1027,2114,Mělník,44600,8655,CZ020,Středočeský kraj,CZ,ČR,22.42152466367713,2,True,0,23.108030040439054,2,True,2,0.7789678675754625,0,True,2,1.3333333333333333,15,23
-čtvrtek,2021-08-19,2115,Mladá Boleslav,14,2,0,20,0,0,0,0,2956,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,19.561815336463223,2,True,0,9.70732417609086,0,True,2,0.4736129905277402,0,True,2,1.5555555555555556,20,26
+čtvrtek,2021-08-19,2115,Mladá Boleslav,14,2,0,21,0,0,0,0,2956,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,19.561815336463223,2,True,0,9.70732417609086,0,True,2,0.4736129905277402,0,True,2,1.5555555555555556,20,26
 čtvrtek,2021-08-19,2116,Mnichovo Hradiště,3,0,0,5,1,0,0,0,497,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,22.34512038433607,2,True,0,0.0,0,False,0,0.6036217303822937,0,True,2,3.0,30,34
 čtvrtek,2021-08-19,2117,Neratovice,4,0,0,8,0,0,1,1,956,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,43.49582129431136,4,True,0,0.0,0,False,0,0.41841004184100417,0,False,0,0.5,0,4
 čtvrtek,2021-08-19,2118,Nymburk,6,1,0,8,0,0,1,1,818,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,32.35198964736332,4,True,0,12.244398187829068,2,True,2,0.7334963325183375,0,False,0,0.6666666666666666,0,8
@@ -77,7 +77,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-08-19,4210,Podbořany,1,0,0,3,0,0,0,0,135,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,19.135093761959435,2,False,0,0.0,0,False,0,0.7407407407407408,0,False,0,1.0,10,12
 čtvrtek,2021-08-19,4211,Roudnice nad Labem,2,0,0,0,0,0,1,1,597,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,21.3362594489149,2,True,0,0.0,0,False,0,0.33500837520938026,0,False,0,0.4,0,2
 čtvrtek,2021-08-19,4212,Rumburk,0,0,0,0,0,0,0,0,310,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,3.049245311785333,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-čtvrtek,2021-08-19,4213,Teplice,7,0,0,6,0,0,0,0,2199,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,7.5137125253587795,0,True,0,0.0,0,False,0,0.3183265120509322,0,True,2,3.5,30,32
+čtvrtek,2021-08-19,4213,Teplice,7,0,0,8,0,0,0,0,2199,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,7.5137125253587795,0,True,0,0.0,0,False,0,0.3183265120509322,0,True,2,3.5,30,32
 čtvrtek,2021-08-19,4214,Ústí nad Labem,7,1,1,22,6,0,0,0,2384,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,10.055472691012083,2,True,0,4.171707479871511,0,True,2,0.2936241610738255,0,True,2,1.4,20,26
 čtvrtek,2021-08-19,4215,Varnsdorf,0,0,0,0,0,0,0,0,199,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,15.071590052750564,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 čtvrtek,2021-08-19,4216,Žatec,3,0,0,8,2,1,0,0,367,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,14.612939758155846,2,True,0,0.0,0,False,0,0.8174386920980926,0,True,2,1.0,10,14
