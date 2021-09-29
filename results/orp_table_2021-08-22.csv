@@ -1,8 +1,8 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2021-08-22,1000,Praha,388,17,4,630,0,0,14,15,41689,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,58.06942203179546,7,True,0,13.138721005231599,2,True,2,0.930701144186716,0,True,2,1.0077922077922077,10,23
+neděle,2021-08-22,1000,Praha,389,17,4,631,0,0,14,15,41689,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,58.14493493430754,7,True,0,13.138721005231599,2,True,2,0.933099858475857,0,True,2,1.0103896103896104,10,23
 neděle,2021-08-22,2101,Benešov,3,0,0,0,0,0,0,0,1591,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,14.74877912883878,2,False,0,0.0,0,False,0,0.18856065367693275,0,False,0,1.5,20,22
-neděle,2021-08-22,2102,Beroun,7,0,0,16,0,0,2,1,1739,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,24.643060668134982,2,False,0,0.0,0,False,0,0.4025301897642324,0,False,0,0.7777777777777778,0,2
-neděle,2021-08-22,2103,Brandýs n.L.- St.Boleslav,19,0,0,30,0,0,1,1,4086,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,35.310111050299255,4,False,0,0.0,0,False,0,0.46500244738130203,0,False,0,1.0,10,14
+neděle,2021-08-22,2102,Beroun,7,0,0,17,0,0,2,1,1739,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,24.643060668134982,2,False,0,0.0,0,False,0,0.4025301897642324,0,False,0,0.7777777777777778,0,2
+neděle,2021-08-22,2103,Brandýs n.L.- St.Boleslav,19,0,0,31,0,0,1,1,4086,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,35.310111050299255,4,False,0,0.0,0,False,0,0.46500244738130203,0,False,0,1.0,10,14
 neděle,2021-08-22,2104,Čáslav,2,0,0,0,0,0,0,0,262,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,11.689981685695358,2,True,0,0.0,0,False,0,0.7633587786259541,0,True,2,2.0,30,34
 neděle,2021-08-22,2105,Černošice,33,0,0,75,6,2,0,0,5002,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,50.89126679076993,7,True,0,21.368434548484977,2,True,2,0.659736105557777,0,False,0,0.7857142857142857,0,11
 neděle,2021-08-22,2106,Český Brod,0,0,0,0,0,0,0,0,570,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,4.643172215257464,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -77,7 +77,7 @@ neděle,2021-08-22,4209,Most,3,0,0,5,0,0,0,0,1041,4209,Most,74673,13629,CZ042,Ú
 neděle,2021-08-22,4210,Podbořany,1,0,0,2,0,0,0,0,107,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,12.756729174639622,2,False,0,0.0,0,False,0,0.9345794392523363,0,True,2,0.5,0,4
 neděle,2021-08-22,4211,Roudnice nad Labem,5,0,0,0,0,0,0,1,522,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,30.480370641307,4,True,0,0.0,0,False,0,0.9578544061302682,0,True,2,5.0,30,36
 neděle,2021-08-22,4212,Rumburk,0,0,0,0,0,0,0,0,273,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-neděle,2021-08-22,4213,Teplice,8,0,0,9,0,0,0,0,1878,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,8.452926591028627,0,True,0,0.0,0,False,0,0.42598509052183176,0,True,2,1.3333333333333333,15,17
+neděle,2021-08-22,4213,Teplice,8,0,0,7,0,0,0,0,1878,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,8.452926591028627,0,True,0,0.0,0,False,0,0.42598509052183176,0,True,2,1.3333333333333333,15,17
 neděle,2021-08-22,4214,Ústí nad Labem,9,1,1,25,6,0,0,0,2231,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,11.731384806180763,2,True,0,4.171707479871511,0,True,2,0.4034065441506051,0,True,2,1.5,20,26
 neděle,2021-08-22,4215,Varnsdorf,0,0,0,0,0,0,0,0,181,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,10.04772670183371,2,False,0,0.0,0,False,0,0.0,0,False,0,,30,32
 neděle,2021-08-22,4216,Žatec,2,0,0,9,2,1,0,0,277,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,18.266174697694808,2,True,0,0.0,0,False,0,0.7220216606498195,0,False,0,0.5,0,2
