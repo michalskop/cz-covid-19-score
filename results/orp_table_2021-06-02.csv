@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-06-02,1000,Praha,298,20,6,490,0,0,28,17,30680,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,54.897880126287774,7,False,0,21.49972528128807,2,True,2,0.9713168187744459,0,False,0,0.772020725388601,0,11
+středa,2021-06-02,1000,Praha,298,20,6,492,0,0,28,17,30680,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,54.897880126287774,7,False,0,21.49972528128807,2,True,2,0.9713168187744459,0,False,0,0.772020725388601,0,11
 středa,2021-06-02,2101,Benešov,15,0,0,19,0,0,0,0,448,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,58.99511651535512,7,False,0,16.49484536082474,2,True,2,3.3482142857142856,3,False,0,0.75,0,14
 středa,2021-06-02,2102,Beroun,21,1,1,43,3,0,1,1,663,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,64.68803425385433,7,False,0,35.1123595505618,4,True,2,3.167420814479638,3,False,0,1.05,10,26
 středa,2021-06-02,2103,Brandýs n.L.- St.Boleslav,29,0,0,41,0,0,1,1,2873,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,44.137638812874066,4,False,0,18.27485380116959,2,True,2,1.0093978419770275,0,False,0,1.1153846153846154,10,18
@@ -24,7 +24,7 @@ středa,2021-06-02,2121,Rakovník,9,0,0,30,18,9,3,1,404,2121,Rakovník,55562,116
 středa,2021-06-02,2122,Říčany,8,0,0,0,0,0,0,0,4132,2122,Říčany,71896,11376,CZ020,Středočeský kraj,CZ,ČR,25.03616334705686,4,False,0,0.0,0,False,0,0.1936108422071636,0,False,0,1.0,10,14
 středa,2021-06-02,2123,Sedlčany,3,0,0,20,12,8,1,1,650,2123,Sedlčany,22074,4717,CZ020,Středočeský kraj,CZ,ČR,36.24173235480656,4,False,0,21.1999152003392,2,True,2,0.46153846153846156,0,False,0,0.6,0,8
 středa,2021-06-02,2124,Slaný,9,1,0,26,3,0,1,2,860,2124,Slaný,40526,7771,CZ020,Středočeský kraj,CZ,ČR,56.75368898978434,7,False,0,12.868356710848026,2,True,2,1.0465116279069768,0,False,0,0.75,0,11
-středa,2021-06-02,2125,Vlašim,0,0,0,0,0,0,0,0,85,2125,Vlašim,25947,5665,CZ020,Středočeský kraj,CZ,ČR,3.854010097506455,0,False,0,17.6522506619594,2,True,2,0.0,0,False,0,0.0,0,4
+středa,2021-06-02,2125,Vlašim,0,0,0,0,0,0,0,0,85,2125,Vlašim,25947,5665,CZ020,Středočeský kraj,CZ,ČR,7.70802019501291,0,False,0,17.6522506619594,2,True,2,0.0,0,False,0,0.0,0,4
 středa,2021-06-02,2126,Votice,0,0,0,0,0,0,1,0,68,2126,Votice,12445,2654,CZ020,Středočeský kraj,CZ,ČR,8.035355564483728,0,False,0,37.67897513187641,4,True,2,0.0,0,False,0,,30,36
 středa,2021-06-02,3101,Blatná,0,0,0,0,0,0,0,0,41,3101,Blatná,13668,3093,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-02,3102,České Budějovice,100,8,2,183,0,0,10,4,1442,3102,České Budějovice,162553,31763,CZ031,Jihočeský kraj,CZ,ČR,132.87973768555486,10,False,0,69.26297893775777,7,True,2,6.934812760055478,3,True,2,0.7936507936507936,0,24
