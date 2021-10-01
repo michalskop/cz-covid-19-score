@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2021-08-26,1000,Praha,416,19,7,627,0,0,14,10,38070,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,60.259296204646006,7,True,0,14.333150187525382,2,True,2,1.0927239296033624,0,True,2,1.1122994652406417,10,23
+čtvrtek,2021-08-26,1000,Praha,416,19,7,631,0,0,14,10,38070,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,60.334809107158094,7,True,0,14.333150187525382,2,True,2,1.0927239296033624,0,True,2,1.1093333333333333,10,23
 čtvrtek,2021-08-26,2101,Benešov,3,0,0,0,0,0,0,0,1267,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,9.832519419225852,0,False,0,0.0,0,False,0,0.23677979479084454,0,True,2,1.0,10,12
 čtvrtek,2021-08-26,2102,Beroun,17,2,0,27,1,0,0,1,1569,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,40.04497358571935,4,True,0,17.5561797752809,2,True,2,1.0834926704907584,0,True,2,2.4285714285714284,30,40
 čtvrtek,2021-08-26,2103,Brandýs n.L.- St.Boleslav,19,1,0,28,0,0,0,1,3573,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,32.66185272152681,4,False,0,6.091617933723197,0,True,2,0.531766022949902,0,True,2,0.8260869565217391,5,13
@@ -30,7 +30,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-08-26,3102,České Budějovice,36,1,1,51,0,0,0,0,2217,3102,České Budějovice,162553,31763,CZ031,Jihočeský kraj,CZ,ČR,57.21210928128057,7,False,0,6.296634448887071,0,True,2,1.6238159675236805,0,False,0,0.75,0,9
 čtvrtek,2021-08-26,3103,Český Krumlov,3,0,0,2,1,0,0,0,390,3103,Český Krumlov,41687,7954,CZ031,Jihočeský kraj,CZ,ČR,9.595317485067287,0,False,0,0.0,0,False,0,0.7692307692307693,0,True,2,1.5,20,22
 čtvrtek,2021-08-26,3104,Dačice,1,1,1,2,0,1,1,0,136,3104,Dačice,18783,3961,CZ031,Jihočeský kraj,CZ,ČR,10.64792631634989,2,True,0,25.246149962130776,4,True,2,0.7352941176470588,0,True,2,0.5,0,10
-čtvrtek,2021-08-26,3105,Jindřichův Hradec,2,0,0,4,0,0,0,1,405,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,8.490225627746058,0,True,0,0.0,0,False,0,0.49382716049382713,0,False,0,1.0,10,10
+čtvrtek,2021-08-26,3105,Jindřichův Hradec,2,0,0,5,0,0,0,1,405,3105,Jindřichův Hradec,47113,10139,CZ031,Jihočeský kraj,CZ,ČR,8.490225627746058,0,True,0,0.0,0,False,0,0.49382716049382713,0,False,0,1.0,10,10
 čtvrtek,2021-08-26,3106,Kaplice,1,0,0,0,0,0,0,0,123,3106,Kaplice,19869,3447,CZ031,Jihočeský kraj,CZ,ČR,5.032965926820676,0,False,0,0.0,0,False,0,0.8130081300813009,0,True,2,0.0,0,2
 čtvrtek,2021-08-26,3107,Milevsko,7,0,0,9,2,2,0,0,294,3107,Milevsko,18235,4397,CZ031,Jihočeský kraj,CZ,ČR,43.87167534960241,4,True,0,0.0,0,False,0,2.380952380952381,0,True,2,3.5,30,36
 čtvrtek,2021-08-26,3108,Písek,9,1,0,32,10,4,1,0,734,3108,Písek,53352,11354,CZ031,Jihočeský kraj,CZ,ČR,37.48687959214275,4,True,0,8.807468733485996,0,True,2,1.226158038147139,0,True,2,1.0,10,18
@@ -94,9 +94,9 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-08-26,5201,Broumov,0,0,0,0,0,0,0,0,142,5201,Broumov,15876,3561,CZ052,Královéhradecký kraj,CZ,ČR,6.298815822625347,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-08-26,5202,Dobruška,1,0,0,0,0,0,0,0,269,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,9.905894006934126,0,False,0,0.0,0,False,0,0.37174721189591076,0,True,2,1.0,10,12
 čtvrtek,2021-08-26,5203,Dvůr Králové nad Labem,1,0,0,0,0,0,0,0,201,5203,Dvůr Králové nad Labem,26949,6223,CZ052,Královéhradecký kraj,CZ,ČR,7.421425655868492,0,True,0,0.0,0,False,0,0.4975124378109453,0,True,2,1.0,10,12
-čtvrtek,2021-08-26,5204,Hořice,0,0,0,3,3,2,0,0,214,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,5.441584589432443,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-čtvrtek,2021-08-26,5205,Hradec Králové,16,0,0,11,0,0,0,0,3307,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,21.102934669398703,2,True,0,6.156877231867996,0,True,2,0.48382219534321136,0,True,2,1.0,10,16
-čtvrtek,2021-08-26,5206,Jaroměř,0,0,0,1,0,1,0,0,273,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,5.188605821615732,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+čtvrtek,2021-08-26,5204,Hořice,0,0,0,0,0,0,0,0,214,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,5.441584589432443,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
+čtvrtek,2021-08-26,5205,Hradec Králové,16,0,0,3,0,0,0,0,3307,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,21.102934669398703,2,True,0,6.156877231867996,0,True,2,0.48382219534321136,0,True,2,1.0,10,16
+čtvrtek,2021-08-26,5206,Jaroměř,0,0,0,0,0,0,0,0,273,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,5.188605821615732,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-08-26,5207,Jičín,2,0,0,0,0,0,0,0,628,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,12.401306270927204,2,False,0,0.0,0,False,0,0.3184713375796179,0,False,0,0.6666666666666666,0,2
 čtvrtek,2021-08-26,5208,Kostelec nad Orlicí,0,0,0,0,0,0,0,0,379,5208,Kostelec nad Orlicí,24892,5311,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-08-26,5209,Náchod,1,0,0,0,0,0,0,0,903,5209,Náchod,60595,13494,CZ052,Královéhradecký kraj,CZ,ČR,4.950903539896031,0,False,0,7.410701052319549,0,True,2,0.11074197120708748,0,False,0,0.5,0,2
