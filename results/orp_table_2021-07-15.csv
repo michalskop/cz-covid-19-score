@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2021-07-15,1000,Praha,554,11,2,820,0,0,5,6,38849,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,76.11700573218442,7,True,0,9.555433458350254,0,True,2,1.4260341321526937,0,True,2,1.1589958158995817,10,21
+čtvrtek,2021-07-15,1000,Praha,553,11,2,818,0,0,5,6,38849,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,76.04149282967234,7,True,0,9.555433458350254,0,True,2,1.4234600633220933,0,True,2,1.1569037656903767,10,21
 čtvrtek,2021-07-15,2101,Benešov,21,0,0,21,0,0,0,0,730,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,62.272622988430406,7,True,0,0.0,0,False,0,2.8767123287671232,0,True,2,0.9545454545454546,5,14
 čtvrtek,2021-07-15,2102,Beroun,18,1,1,30,0,0,0,1,1451,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,46.20573875275309,4,True,0,8.77808988764045,0,True,2,1.2405237767057202,0,True,2,1.0588235294117647,10,18
 čtvrtek,2021-07-15,2103,Brandýs n.L.- St.Boleslav,40,0,0,46,0,0,0,0,2972,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,52.965166575448876,7,True,0,0.0,0,False,0,1.3458950201884252,0,True,2,1.7391304347826086,25,34
@@ -95,7 +95,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-07-15,5202,Dobruška,1,0,0,0,0,0,0,0,299,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,4.952947003467063,0,True,0,0.0,0,False,0,0.33444816053511706,0,True,2,0.0,0,2
 čtvrtek,2021-07-15,5203,Dvůr Králové nad Labem,0,0,0,0,0,0,0,0,295,5203,Dvůr Králové nad Labem,26949,6223,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-07-15,5204,Hořice,2,0,0,1,0,0,0,0,191,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,10.883169178864886,2,True,0,0.0,0,False,0,1.0471204188481675,0,True,2,0.0,0,4
-čtvrtek,2021-07-15,5205,Hradec Králové,16,0,0,1,0,0,1,1,3184,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,18.379975357218225,2,True,0,0.0,0,False,0,0.5025125628140703,0,True,2,1.1428571428571428,10,14
+čtvrtek,2021-07-15,5205,Hradec Králové,17,0,0,2,0,0,1,1,3184,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,19.060715185263344,2,True,0,0.0,0,False,0,0.5339195979899497,0,True,2,1.2142857142857142,15,19
 čtvrtek,2021-07-15,5206,Jaroměř,0,0,0,0,0,0,0,0,260,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-07-15,5207,Jičín,1,0,0,0,0,0,0,0,482,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,6.200653135463602,0,False,0,0.0,0,False,0,0.2074688796680498,0,False,0,0.3333333333333333,0,0
 čtvrtek,2021-07-15,5208,Kostelec nad Orlicí,3,1,0,1,0,0,1,1,369,5208,Kostelec nad Orlicí,24892,5311,CZ052,Královéhradecký kraj,CZ,ČR,24.104129840912744,2,True,0,18.828845791752965,2,True,2,0.8130081300813009,0,False,0,1.5,20,26
@@ -135,7 +135,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-07-15,6112,Telč,1,0,0,1,0,0,0,0,221,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,15.414258188824665,2,False,0,0.0,0,False,0,0.4524886877828055,0,False,0,1.0,10,12
 čtvrtek,2021-07-15,6113,Třebíč,23,0,0,25,0,0,0,0,950,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,36.35286514433434,4,True,0,0.0,0,False,0,2.4210526315789473,0,True,2,1.9166666666666667,30,36
 čtvrtek,2021-07-15,6114,Velké Meziříčí,3,1,0,13,7,5,0,0,758,6114,Velké Meziříčí,36390,6564,CZ063,Kraj Vysočina,CZ,ČR,16.488046166529266,2,True,0,15.234613040828764,2,True,2,0.395778364116095,0,False,0,0.75,0,6
-čtvrtek,2021-07-15,6115,Žďár nad Sázavou,0,0,0,7,1,1,0,0,1133,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,37.53489572336782,4,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,4
+čtvrtek,2021-07-15,6115,Žďár nad Sázavou,0,0,0,8,1,1,0,0,1133,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,37.53489572336782,4,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,4
 čtvrtek,2021-07-15,6201,Blansko,0,0,0,0,0,0,0,1,879,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 čtvrtek,2021-07-15,6202,Boskovice,4,2,1,0,0,0,1,1,650,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,7.690828686791002,0,True,0,19.065776930409914,2,True,2,0.6153846153846154,0,True,2,4.0,30,36
 čtvrtek,2021-07-15,6203,Brno,40,1,0,25,0,0,2,1,10416,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,18.356033628253606,2,True,0,3.775627068728998,0,True,2,0.38402457757296465,0,True,2,1.2903225806451613,15,21

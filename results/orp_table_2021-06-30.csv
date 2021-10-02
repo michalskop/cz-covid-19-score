@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-06-30,1000,Praha,330,7,5,370,0,0,17,9,44631,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,41.15453186908781,4,True,0,7.564718154527285,0,True,2,0.7393963836795052,0,True,2,1.5566037735849056,20,28
+středa,2021-06-30,1000,Praha,330,7,5,369,0,0,17,9,44631,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,41.2300447715999,4,True,0,7.564718154527285,0,True,2,0.7393963836795052,0,True,2,1.5566037735849056,20,28
 středa,2021-06-30,2101,Benešov,3,0,0,0,0,0,0,0,615,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,14.74877912883878,2,True,0,0.0,0,False,0,0.4878048780487805,0,False,0,0.5,0,2
 středa,2021-06-30,2102,Beroun,5,0,0,7,0,0,0,0,1558,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,9.241147750550619,0,True,0,0.0,0,False,0,0.3209242618741977,0,True,2,1.6666666666666667,25,27
 středa,2021-06-30,2103,Brandýs n.L.- St.Boleslav,21,0,0,24,0,0,0,0,4026,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,27.36533606398192,4,True,0,0.0,0,False,0,0.5216095380029807,0,True,2,1.105263157894737,10,16
@@ -40,7 +40,7 @@ středa,2021-06-30,3111,Strakonice,0,0,0,0,0,0,0,0,431,3111,Strakonice,45223,945
 středa,2021-06-30,3112,Tábor,1,0,0,0,0,0,0,0,847,3112,Tábor,80648,17257,CZ031,Jihočeský kraj,CZ,ČR,2.479912707072711,0,False,0,0.0,0,False,0,0.11806375442739078,0,False,0,1.0,10,10
 středa,2021-06-30,3113,Trhové Sviny,3,0,0,1,0,0,0,0,160,3113,Trhové Sviny,19267,3657,CZ031,Jihočeský kraj,CZ,ČR,25.951108112316394,4,True,0,0.0,0,False,0,1.875,0,True,2,0.75,0,6
 středa,2021-06-30,3114,Třeboň,1,0,0,0,0,0,0,0,144,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,CZ,ČR,8.065817067268915,0,False,0,0.0,0,False,0,0.6944444444444444,0,True,2,1.0,10,12
-středa,2021-06-30,3115,Týn nad Vltavou,1,0,0,0,0,0,0,0,105,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,14.201519562593198,2,False,0,0.0,0,False,0,0.9523809523809524,0,False,0,1.0,10,12
+středa,2021-06-30,3115,Týn nad Vltavou,1,0,0,1,0,0,0,0,105,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,14.201519562593198,2,False,0,0.0,0,False,0,0.9523809523809524,0,False,0,1.0,10,12
 středa,2021-06-30,3116,Vimperk,0,0,0,0,0,0,0,0,111,3116,Vimperk,17520,3591,CZ031,Jihočeský kraj,CZ,ČR,5.707762557077626,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-30,3117,Vodňany,0,0,0,0,0,0,0,0,128,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,8.416799932665601,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-06-30,3201,Blovice,0,0,0,2,1,0,0,0,104,3201,Blovice,12185,2566,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -135,7 +135,7 @@ středa,2021-06-30,6111,Světlá nad Sázavou,1,0,0,0,0,1,0,0,194,6111,Světlá 
 středa,2021-06-30,6112,Telč,1,0,0,1,0,0,0,0,98,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,15.414258188824665,2,False,0,0.0,0,False,0,1.0204081632653061,0,True,2,1.0,10,14
 středa,2021-06-30,6113,Třebíč,1,0,0,0,0,0,0,0,749,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,1.3464024127531236,0,False,0,0.0,0,False,0,0.13351134846461948,0,True,2,1.0,10,12
 středa,2021-06-30,6114,Velké Meziříčí,0,0,0,8,6,5,0,0,605,6114,Velké Meziříčí,36390,6564,CZ063,Kraj Vysočina,CZ,ČR,2.7480076944215446,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-středa,2021-06-30,6115,Žďár nad Sázavou,1,0,0,0,1,1,0,0,941,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,18.76744786168391,2,False,0,0.0,0,False,0,0.10626992561105207,0,False,0,0.25,0,2
+středa,2021-06-30,6115,Žďár nad Sázavou,1,0,0,1,1,1,0,0,941,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,18.76744786168391,2,False,0,0.0,0,False,0,0.10626992561105207,0,False,0,0.25,0,2
 středa,2021-06-30,6201,Blansko,1,0,0,0,0,0,0,0,789,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,1.7505164023386899,0,False,0,0.0,0,False,0,0.12674271229404308,0,True,2,1.0,10,12
 středa,2021-06-30,6202,Boskovice,1,0,0,0,0,0,0,0,471,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,7.690828686791002,0,False,0,0.0,0,False,0,0.21231422505307856,0,False,0,0.3333333333333333,0,0
 středa,2021-06-30,6203,Brno,27,3,2,6,0,0,6,4,10464,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,15.47151405809947,2,False,0,11.326881206186993,2,True,2,0.25802752293577985,0,False,0,0.9642857142857143,5,11

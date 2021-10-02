@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-neděle,2021-07-25,1000,Praha,424,8,6,829,0,0,10,11,39210,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,75.05982509701519,7,False,0,7.564718154527285,0,True,2,1.0813567967355266,0,False,0,0.7667269439421338,0,9
+neděle,2021-07-25,1000,Praha,424,8,6,827,0,0,10,11,39210,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,74.98431219450312,7,False,0,7.564718154527285,0,True,2,1.0813567967355266,0,False,0,0.7667269439421338,0,9
 neděle,2021-07-25,2101,Benešov,5,0,0,13,0,0,0,0,646,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,44.24633738651634,4,False,0,16.49484536082474,2,True,2,0.7739938080495357,0,False,0,0.3125,0,8
 neděle,2021-07-25,2102,Beroun,29,1,0,41,1,0,0,0,1470,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,63.14784296209589,7,True,0,17.5561797752809,2,True,2,1.9727891156462583,0,True,2,1.0740740740740742,10,23
 neděle,2021-07-25,2103,Brandýs n.L.- St.Boleslav,29,0,0,52,0,0,0,0,3231,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,61.7926943380237,7,True,0,6.091617933723197,0,True,2,0.897554936552151,0,False,0,0.6170212765957447,0,9
@@ -95,7 +95,7 @@ neděle,2021-07-25,5201,Broumov,1,0,0,1,0,0,0,0,214,5201,Broumov,15876,3561,CZ05
 neděle,2021-07-25,5202,Dobruška,2,0,0,0,0,0,0,0,270,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,19.811788013868252,2,True,0,0.0,0,False,0,0.7407407407407408,0,False,0,1.0,10,12
 neděle,2021-07-25,5203,Dvůr Králové nad Labem,0,0,0,0,0,0,0,0,257,5203,Dvůr Králové nad Labem,26949,6223,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2021-07-25,5204,Hořice,0,0,0,1,0,0,0,0,238,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,10.883169178864886,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
-neděle,2021-07-25,5205,Hradec Králové,6,0,0,0,0,0,0,0,3450,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,14.295536388947509,2,False,0,0.0,0,False,0,0.17391304347826086,0,False,0,0.5454545454545454,0,2
+neděle,2021-07-25,5205,Hradec Králové,6,0,0,0,0,0,0,0,3450,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,14.976276216992627,2,False,0,0.0,0,False,0,0.17391304347826086,0,False,0,0.5454545454545454,0,2
 neděle,2021-07-25,5206,Jaroměř,1,0,0,0,0,0,0,0,244,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,5.188605821615732,0,True,0,0.0,0,False,0,0.4098360655737705,0,True,2,1.0,10,12
 neděle,2021-07-25,5207,Jičín,2,0,0,0,0,0,0,0,595,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,4.133768756975735,0,False,0,0.0,0,False,0,0.33613445378151263,0,True,2,2.0,30,32
 neděle,2021-07-25,5208,Kostelec nad Orlicí,2,0,0,1,0,0,1,0,392,5208,Kostelec nad Orlicí,24892,5311,CZ052,Královéhradecký kraj,CZ,ČR,20.086774867427287,2,False,0,18.828845791752965,2,True,2,0.5102040816326531,0,False,0,0.6666666666666666,0,6
@@ -135,7 +135,7 @@ neděle,2021-07-25,6111,Světlá nad Sázavou,0,0,0,0,0,1,0,0,195,6111,Světlá 
 neděle,2021-07-25,6112,Telč,0,0,0,0,0,0,0,0,144,6112,Telč,12975,2736,CZ063,Kraj Vysočina,CZ,ČR,7.707129094412332,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2021-07-25,6113,Třebíč,4,0,0,18,0,0,1,1,1010,6113,Třebíč,74272,15148,CZ063,Kraj Vysočina,CZ,ČR,26.92804825506247,4,False,0,0.0,0,False,0,0.39603960396039606,0,False,0,0.4,0,4
 neděle,2021-07-25,6114,Velké Meziříčí,2,0,0,11,7,5,0,0,882,6114,Velké Meziříčí,36390,6564,CZ063,Kraj Vysočina,CZ,ČR,8.244023083264633,0,False,0,15.234613040828764,2,True,2,0.22675736961451248,0,True,2,1.0,10,16
-neděle,2021-07-25,6115,Žďár nad Sázavou,0,0,0,2,1,1,0,0,1138,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+neděle,2021-07-25,6115,Žďár nad Sázavou,0,0,0,3,1,1,0,0,1138,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 neděle,2021-07-25,6201,Blansko,2,0,0,0,0,0,0,0,1154,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,5.25154920701607,0,True,0,0.0,0,False,0,0.17331022530329288,0,True,2,1.0,10,12
 neděle,2021-07-25,6202,Boskovice,2,0,0,0,0,0,1,0,731,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,9.613535858488753,0,True,0,19.065776930409914,2,True,2,0.27359781121751026,0,False,0,0.0,0,4
 neděle,2021-07-25,6203,Brno,44,1,1,31,0,0,1,2,11033,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,21.240553198407746,2,True,0,2.5170847124859987,0,True,2,0.3988035892323031,0,True,2,1.0476190476190477,10,16
