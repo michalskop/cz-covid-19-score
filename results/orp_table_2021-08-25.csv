@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-08-25,1000,Praha,406,19,7,636,0,0,14,11,39689,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,59.65519298454931,7,True,0,15.12943630905457,2,True,2,1.022953463176195,0,True,2,1.100271002710027,10,23
+středa,2021-08-25,1000,Praha,406,19,7,635,0,0,14,11,39689,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,59.65519298454931,7,True,0,15.12943630905457,2,True,2,1.022953463176195,0,True,2,1.100271002710027,10,23
 středa,2021-08-25,2101,Benešov,2,0,0,0,0,0,0,0,1265,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,9.832519419225852,0,False,0,0.0,0,False,0,0.15810276679841898,0,False,0,0.5,0,0
 středa,2021-08-25,2102,Beroun,16,2,0,26,1,0,1,1,1658,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,38.50478229396091,4,True,0,17.5561797752809,2,True,2,0.9650180940892641,0,True,2,1.7777777777777777,25,35
 středa,2021-08-25,2103,Brandýs n.L.- St.Boleslav,20,1,0,26,0,0,0,1,3829,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,32.66185272152681,4,False,0,6.091617933723197,0,True,2,0.5223295899712719,0,True,2,1.0,10,18
@@ -95,7 +95,7 @@ středa,2021-08-25,5201,Broumov,0,0,0,0,0,0,0,0,153,5201,Broumov,15876,3561,CZ05
 středa,2021-08-25,5202,Dobruška,0,0,0,0,0,0,0,0,278,5202,Dobruška,20190,4276,CZ052,Královéhradecký kraj,CZ,ČR,4.952947003467063,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-08-25,5203,Dvůr Králové nad Labem,1,0,0,0,0,0,0,0,200,5203,Dvůr Králové nad Labem,26949,6223,CZ052,Královéhradecký kraj,CZ,ČR,7.421425655868492,0,True,0,0.0,0,False,0,0.5,0,True,2,0.0,0,2
 středa,2021-08-25,5204,Hořice,0,0,0,0,0,0,0,0,226,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,5.441584589432443,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
-středa,2021-08-25,5205,Hradec Králové,12,0,0,0,0,0,0,0,3537,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,20.422194841353583,2,True,0,6.156877231867996,0,True,2,0.33927056827820185,0,False,0,0.8,5,9
+středa,2021-08-25,5205,Hradec Králové,12,0,0,1,0,0,0,0,3537,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,20.422194841353583,2,True,0,6.156877231867996,0,True,2,0.33927056827820185,0,False,0,0.8,5,9
 středa,2021-08-25,5206,Jaroměř,0,0,0,0,0,0,0,0,285,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,10.377211643231464,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 středa,2021-08-25,5207,Jičín,2,0,0,0,0,0,0,0,647,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,16.53507502790294,2,False,0,0.0,0,False,0,0.3091190108191654,0,False,0,0.6666666666666666,0,2
 středa,2021-08-25,5208,Kostelec nad Orlicí,0,0,0,0,0,0,0,0,391,5208,Kostelec nad Orlicí,24892,5311,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -114,7 +114,7 @@ středa,2021-08-25,5305,Králíky,0,0,0,0,0,0,0,0,59,5305,Králíky,8676,1838,CZ
 středa,2021-08-25,5306,Lanškroun,0,0,0,1,2,0,0,0,285,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,8.64304235090752,0,False,0,22.381378692927484,2,True,2,0.0,0,False,0,0.0,0,4
 středa,2021-08-25,5307,Litomyšl,3,0,0,7,0,0,0,0,483,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,25.730564234515715,4,True,0,0.0,0,False,0,0.6211180124223602,0,False,0,0.75,0,4
 středa,2021-08-25,5308,Moravská Třebová,1,0,0,0,0,0,0,0,142,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,7.651694850409365,0,False,0,0.0,0,False,0,0.7042253521126761,0,True,2,0.0,0,2
-středa,2021-08-25,5309,Pardubice,7,1,0,27,15,6,1,0,3268,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,9.112240016402032,0,False,0,7.594456047085628,0,True,2,0.21419828641370867,0,True,2,1.75,25,29
+středa,2021-08-25,5309,Pardubice,7,1,0,28,15,6,1,0,3268,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,9.112240016402032,0,False,0,7.594456047085628,0,True,2,0.21419828641370867,0,True,2,1.75,25,29
 středa,2021-08-25,5310,Polička,2,0,0,13,8,5,0,0,180,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,10.19835806435164,2,False,0,0.0,0,False,0,1.1111111111111112,0,True,2,2.0,30,34
 středa,2021-08-25,5311,Přelouč,0,0,0,0,0,0,0,0,462,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-08-25,5312,Svitavy,4,2,2,11,7,5,0,1,311,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,22.30791293540266,2,True,0,61.22761365375785,7,True,2,1.2861736334405145,0,True,2,2.0,30,43
