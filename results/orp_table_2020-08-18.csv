@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2020-08-18,1000,Praha,487,27,13,880,47,19,13,17,7884,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,66.90443162570973,7,True,0,17.51829467364213,2,True,2,6.177067478437341,3,True,2,0.9979508196721312,5,21
+úterý,2020-08-18,1000,Praha,488,27,13,882,47,19,13,17,7884,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,67.05545743073391,7,True,0,17.51829467364213,2,True,2,6.1897513952308465,3,True,2,0.9979550102249489,5,21
 úterý,2020-08-18,2101,Benešov,7,0,0,18,1,1,0,1,232,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,27.85880502113992,4,True,0,8.24742268041237,0,True,2,3.0172413793103448,3,False,0,0.7,0,9
 úterý,2020-08-18,2102,Beroun,7,1,0,14,1,0,0,0,176,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,23.102869376376546,2,False,0,8.77808988764045,0,True,2,3.977272727272727,3,False,0,0.6363636363636364,0,7
 úterý,2020-08-18,2103,Brandýs n.L.- St.Boleslav,27,2,1,60,3,2,0,0,511,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,49.43415547041895,4,True,0,12.183235867446394,2,True,2,5.283757338551859,3,True,2,0.7714285714285715,0,13
@@ -42,7 +42,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-08-18,3114,Třeboň,0,0,0,2,1,1,0,1,41,3114,Třeboň,24796,5563,CZ031,Jihočeský kraj,CZ,ČR,8.065817067268915,0,False,0,17.975912277548083,2,True,2,0.0,0,False,0,0.0,0,4
 úterý,2020-08-18,3115,Týn nad Vltavou,0,0,0,0,0,0,0,0,16,3115,Týn nad Vltavou,14083,2594,CZ031,Jihočeský kraj,CZ,ČR,14.201519562593198,2,False,0,0.0,0,False,0,0.0,0,False,0,,30,32
 úterý,2020-08-18,3116,Vimperk,0,0,0,0,0,0,0,0,24,3116,Vimperk,17520,3591,CZ031,Jihočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2020-08-18,3117,Vodňany,10,0,0,13,0,0,0,0,56,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,109.41839912465281,7,True,0,0.0,0,False,0,17.857142857142858,15,True,2,2.0,30,54
+úterý,2020-08-18,3117,Vodňany,10,0,0,12,0,0,0,0,56,3117,Vodňany,11881,2251,CZ031,Jihočeský kraj,CZ,ČR,101.00159919198721,7,True,0,0.0,0,False,0,17.857142857142858,15,True,2,2.5,30,54
 úterý,2020-08-18,3201,Blovice,0,0,0,0,0,0,0,0,23,3201,Blovice,12185,2566,CZ032,Plzeňský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-08-18,3202,Domažlice,3,2,1,4,2,1,2,2,68,3202,Domažlice,40679,8358,CZ032,Plzeňský kraj,CZ,ČR,12.291354261412524,2,True,0,23.929169657812874,2,True,2,4.411764705882353,3,True,2,3.0,30,41
 úterý,2020-08-18,3203,Horažďovice,21,7,5,50,22,15,1,1,209,3203,Horažďovice,11535,2662,CZ032,Plzeňský kraj,CZ,ČR,442.1326397919376,13,True,0,901.5777610818933,16,True,2,10.047846889952153,7,False,0,0.5526315789473685,0,38
