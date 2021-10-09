@@ -1,10 +1,10 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2021-08-02,1000,Praha,275,6,2,519,0,0,13,6,39970,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,51.80185112329219,7,False,0,5.972145911468909,0,True,2,0.6880160120090067,0,False,0,0.7681564245810056,0,9
+pondělí,2021-08-02,1000,Praha,274,6,2,518,0,0,13,6,39970,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,51.72633822078009,7,False,0,5.972145911468909,0,True,2,0.6855141356017013,0,False,0,0.7675070028011205,0,9
 pondělí,2021-08-02,2101,Benešov,11,0,0,4,0,0,0,0,1013,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,29.49755825767756,4,False,0,0.0,0,False,0,1.085883514313919,0,True,2,0.7333333333333333,0,6
 pondělí,2021-08-02,2102,Beroun,5,0,0,22,0,0,0,0,1565,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,46.20573875275309,4,False,0,8.77808988764045,0,True,2,0.3194888178913738,0,False,0,0.3125,0,6
 pondělí,2021-08-02,2103,Brandýs n.L.- St.Boleslav,21,2,0,34,0,0,1,1,3480,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,45.90314436538903,4,False,0,12.183235867446394,2,True,2,0.603448275862069,0,False,0,0.9130434782608695,5,13
 pondělí,2021-08-02,2104,Čáslav,0,0,0,0,0,0,0,0,320,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,11.689981685695358,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
-pondělí,2021-08-02,2105,Černošice,32,1,0,72,4,2,0,0,4228,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,50.221644859312434,7,False,0,8.547373819393991,0,True,2,0.7568590350047304,0,False,0,0.8421052631578947,5,14
+pondělí,2021-08-02,2105,Černošice,32,1,0,73,4,2,0,0,4228,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,50.221644859312434,7,False,0,8.547373819393991,0,True,2,0.7568590350047304,0,False,0,0.8421052631578947,5,14
 pondělí,2021-08-02,2106,Český Brod,0,0,0,3,0,0,0,0,484,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,23.215861076287318,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 pondělí,2021-08-02,2107,Dobříš,6,0,0,19,7,7,0,0,620,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,64.99415052645261,7,True,0,0.0,0,False,0,0.967741935483871,0,False,0,1.2,15,22
 pondělí,2021-08-02,2108,Hořovice,3,0,0,6,0,0,0,0,615,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,26.550728485612822,4,False,0,0.0,0,False,0,0.4878048780487805,0,False,0,0.75,0,4
@@ -125,7 +125,7 @@ pondělí,2021-08-02,6101,Bystřice nad Pernštejnem,0,0,0,9,8,6,0,0,342,6101,By
 pondělí,2021-08-02,6102,Havlíčkův Brod,11,0,0,27,5,4,1,1,1178,6102,Havlíčkův Brod,52932,10770,CZ063,Kraj Vysočina,CZ,ČR,47.2304088264188,4,False,0,18.570102135561743,2,True,2,0.9337860780984719,0,False,0,1.1,10,18
 pondělí,2021-08-02,6103,Humpolec,0,0,0,2,0,0,0,0,168,6103,Humpolec,17852,3773,CZ063,Kraj Vysočina,CZ,ČR,5.601613264620211,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2021-08-02,6104,Chotěboř,0,0,0,2,0,0,0,0,354,6104,Chotěboř,21872,4804,CZ063,Kraj Vysočina,CZ,ČR,18.2882223847842,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
-pondělí,2021-08-02,6105,Jihlava,12,3,1,11,0,0,3,2,2768,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,16.819360072817936,2,True,0,20.297356269345915,2,True,2,0.4335260115606936,0,True,2,1.2,15,23
+pondělí,2021-08-02,6105,Jihlava,12,3,1,12,0,0,3,2,2768,6105,Jihlava,101074,19707,CZ063,Kraj Vysočina,CZ,ČR,16.819360072817936,2,True,0,20.297356269345915,2,True,2,0.4335260115606936,0,True,2,1.2,15,23
 pondělí,2021-08-02,6106,Moravské Budějovice,1,0,0,0,0,0,0,0,178,6106,Moravské Budějovice,23098,4818,CZ063,Kraj Vysočina,CZ,ČR,4.329379167027448,0,True,0,0.0,0,False,0,0.5617977528089888,0,True,2,1.0,10,12
 pondělí,2021-08-02,6107,Náměšť nad Oslavou,0,0,0,0,0,0,0,0,258,6107,Náměšť nad Oslavou,13440,2841,CZ063,Kraj Vysočina,CZ,ČR,7.440476190476192,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2021-08-02,6108,Nové Město na Moravě,3,0,0,14,9,5,0,0,630,6108,Nové Město na Moravě,19386,4017,CZ063,Kraj Vysočina,CZ,ČR,15.475085112968122,2,True,0,0.0,0,False,0,0.4761904761904762,0,True,2,3.0,30,34
