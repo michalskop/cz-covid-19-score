@@ -1,8 +1,8 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2021-07-10,1000,Praha,478,14,7,715,0,0,6,8,28724,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,65.7717380880284,7,True,0,9.15729039758566,0,True,2,1.6641136331987187,0,True,2,1.1518072289156627,10,21
+sobota,2021-07-10,1000,Praha,478,14,7,717,0,0,6,8,28724,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,65.7717380880284,7,True,0,9.15729039758566,0,True,2,1.6641136331987187,0,True,2,1.1518072289156627,10,21
 sobota,2021-07-10,2101,Benešov,22,0,0,11,0,0,0,0,565,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,44.24633738651634,4,True,0,8.24742268041237,0,True,2,3.893805309734513,3,True,2,2.2,30,41
 sobota,2021-07-10,2102,Beroun,17,1,1,25,0,0,0,1,1099,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,36.964591002202475,4,True,0,8.77808988764045,0,True,2,1.5468607825295724,0,True,2,1.5454545454545454,20,28
-sobota,2021-07-10,2103,Brandýs n.L.- St.Boleslav,23,0,0,32,0,0,0,0,2175,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,35.310111050299255,4,True,0,0.0,0,False,0,1.0574712643678161,0,True,2,1.3529411764705883,15,21
+sobota,2021-07-10,2103,Brandýs n.L.- St.Boleslav,23,0,0,31,0,0,0,0,2175,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,35.310111050299255,4,True,0,0.0,0,False,0,1.0574712643678161,0,True,2,1.3529411764705883,15,21
 sobota,2021-07-10,2104,Čáslav,2,0,0,0,0,0,0,0,245,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,15.586642247593813,2,False,0,0.0,0,False,0,0.8163265306122449,0,True,2,0.0,0,4
 sobota,2021-07-10,2105,Černošice,49,0,0,89,2,2,0,0,3096,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,63.61408348846241,7,True,0,0.0,0,False,0,1.5826873385012918,0,True,2,1.065217391304348,10,19
 sobota,2021-07-10,2106,Český Brod,4,0,0,3,0,0,0,0,292,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,18.572688861029857,2,True,0,0.0,0,False,0,1.36986301369863,0,True,2,4.0,30,34
@@ -71,7 +71,7 @@ sobota,2021-07-10,4203,Chomutov,3,0,0,0,0,0,0,0,807,4203,Chomutov,81662,14681,CZ
 sobota,2021-07-10,4204,Kadaň,4,0,0,0,0,0,0,0,359,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,9.24129008409574,0,True,0,0.0,0,False,0,1.1142061281337048,0,True,2,0.0,0,2
 sobota,2021-07-10,4205,Litoměřice,5,0,0,6,0,0,0,0,814,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,13.534088986635087,2,True,0,0.0,0,False,0,0.6142506142506142,0,True,2,1.6666666666666667,25,29
 sobota,2021-07-10,4206,Litvínov,0,0,0,0,1,0,0,0,305,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-sobota,2021-07-10,4207,Louny,1,0,0,6,2,0,0,0,555,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,4.582951420714941,0,True,0,0.0,0,False,0,0.18018018018018017,0,True,2,1.0,10,12
+sobota,2021-07-10,4207,Louny,1,0,0,7,2,0,0,0,555,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,4.582951420714941,0,True,0,0.0,0,False,0,0.18018018018018017,0,True,2,1.0,10,12
 sobota,2021-07-10,4208,Lovosice,3,0,0,4,0,0,0,0,325,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,10.81081081081081,2,True,0,0.0,0,False,0,0.9230769230769231,0,True,2,0.0,0,4
 sobota,2021-07-10,4209,Most,1,0,0,0,0,0,0,0,478,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,1.3391721237930712,0,False,0,0.0,0,False,0,0.20920502092050208,0,True,2,0.0,0,2
 sobota,2021-07-10,4210,Podbořany,0,0,0,0,0,0,0,0,104,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
