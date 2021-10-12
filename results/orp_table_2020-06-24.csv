@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2020-06-24,1000,Praha,109,6,2,273,35,21,20,6,3664,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.612838552659298,2,True,0,9.555433458350254,0,True,2,2.9748908296943233,0,True,2,0.872,5,11
+středa,2020-06-24,1000,Praha,109,6,2,274,35,21,20,6,3664,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.688351455171386,2,True,0,9.555433458350254,0,True,2,2.9748908296943233,0,True,2,0.8650793650793651,5,11
 středa,2020-06-24,2101,Benešov,0,0,0,1,0,0,0,0,83,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,1.6387532365376423,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-24,2102,Beroun,5,0,0,9,3,1,1,0,89,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,13.861721625825927,2,True,0,26.334269662921347,4,True,2,5.617977528089887,3,True,2,1.25,15,28
 středa,2020-06-24,2103,Brandýs n.L.- St.Boleslav,7,0,0,23,0,0,1,1,228,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,15.889549972634663,2,True,0,0.0,0,False,0,3.070175438596491,3,False,0,1.4,20,25
@@ -193,7 +193,7 @@ středa,2020-06-24,8107,Frýdlant nad Ostravicí,5,0,0,7,0,0,1,0,91,8107,Frýdla
 středa,2020-06-24,8108,Havířov,77,7,3,156,9,5,2,2,842,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,CZ,ČR,109.8342081531667,7,True,0,43.34398873056293,4,True,2,9.144893111638956,7,True,2,1.75,25,47
 středa,2020-06-24,8109,Hlučín,0,0,0,2,1,0,0,1,83,8109,Hlučín,40639,7899,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-24,8110,Jablunkov,5,0,0,11,2,0,0,0,307,8110,Jablunkov,22664,3972,CZ080,Moravskoslezský kraj,CZ,ČR,22.061418990469466,2,True,0,0.0,0,False,0,1.6286644951140066,0,True,2,2.5,30,34
-středa,2020-06-24,8111,Karviná,77,5,2,191,13,7,6,4,650,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,187.06574024585782,10,True,0,59.68812952324106,7,True,2,11.846153846153847,11,True,2,1.0694444444444444,10,42
+středa,2020-06-24,8111,Karviná,78,5,2,192,13,7,6,4,650,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,188.6377212563272,10,True,0,59.68812952324106,7,True,2,12.0,11,True,2,1.0684931506849316,10,42
 středa,2020-06-24,8112,Kopřivnice,0,0,0,1,0,0,0,0,60,8112,Kopřivnice,40755,7907,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-24,8113,Kravaře,0,0,0,1,0,0,0,0,25,8113,Kravaře,21356,3656,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-24,8114,Krnov,0,0,0,0,0,0,0,0,35,8114,Krnov,39938,8666,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -201,7 +201,7 @@ středa,2020-06-24,8115,Nový Jičín,1,0,0,2,0,0,0,0,57,8115,Nový Jičín,4873
 středa,2020-06-24,8116,Odry,1,0,0,5,0,0,0,0,40,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,17.722117202268432,2,False,0,0.0,0,False,0,2.5,0,False,0,0.5,0,2
 středa,2020-06-24,8117,Opava,0,0,0,1,0,0,0,0,98,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,0.9904226133291075,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-24,8118,Orlová,13,3,1,41,3,1,2,2,300,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,53.81696849016495,7,False,0,44.30005906674542,4,True,2,4.333333333333334,3,True,2,1.1818181818181819,10,28
-středa,2020-06-24,8119,Ostrava,18,0,0,41,1,1,2,1,875,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,6.871886176576239,0,True,0,0.0,0,False,0,2.057142857142857,0,True,2,3.6,30,32
+středa,2020-06-24,8119,Ostrava,18,0,0,42,1,1,2,1,875,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,6.871886176576239,0,True,0,0.0,0,False,0,2.057142857142857,0,True,2,3.6,30,32
 středa,2020-06-24,8120,Rýmařov,0,0,0,0,0,0,0,0,17,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2020-06-24,8121,Třinec,43,29,25,54,31,25,4,3,704,8121,Třinec,54613,11066,CZ080,Moravskoslezský kraj,CZ,ČR,89.7222273085163,7,True,0,271.1006687149828,13,True,2,6.107954545454546,3,True,2,1.1944444444444444,10,37
 středa,2020-06-24,8122,Vítkov,1,0,0,1,0,0,0,0,15,8122,Vítkov,13274,2743,CZ080,Moravskoslezský kraj,CZ,ČR,7.533524182612626,0,True,0,0.0,0,False,0,6.666666666666667,3,True,2,0.0,0,5
