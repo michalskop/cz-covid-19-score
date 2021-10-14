@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2020-06-23,1000,Praha,104,7,2,275,41,27,22,9,3690,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.612838552659298,2,True,0,9.953576519114849,0,True,2,2.8184281842818426,0,False,0,0.8524590163934426,5,9
+úterý,2020-06-23,1000,Praha,104,7,2,273,40,26,22,9,3690,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,16.537325650147213,2,True,0,9.953576519114849,0,True,2,2.8184281842818426,0,False,0,0.859504132231405,5,9
 úterý,2020-06-23,2101,Benešov,0,0,0,1,0,0,0,0,72,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,1.6387532365376423,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-06-23,2102,Beroun,5,0,0,9,3,1,1,0,87,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,13.861721625825927,2,True,0,26.334269662921347,4,True,2,5.747126436781609,3,True,2,1.25,15,28
 úterý,2020-06-23,2103,Brandýs n.L.- St.Boleslav,4,0,0,19,0,0,1,1,211,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,15.006797196377182,2,True,0,0.0,0,False,0,1.8957345971563981,0,False,0,0.5,0,2
@@ -186,14 +186,14 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-06-23,8101,Bílovec,1,0,0,2,0,0,0,0,69,8101,Bílovec,25622,5035,CZ080,Moravskoslezský kraj,CZ,ČR,3.9028959487940056,0,True,0,0.0,0,False,0,1.4492753623188406,0,True,2,0.0,0,2
 úterý,2020-06-23,8102,Bohumín,5,0,0,18,1,0,1,1,176,8102,Bohumín,33366,6681,CZ080,Moravskoslezský kraj,CZ,ČR,14.98531439189594,2,True,0,0.0,0,False,0,2.840909090909091,0,True,2,0.0,0,4
 úterý,2020-06-23,8103,Bruntál,1,0,0,2,0,0,0,0,25,8103,Bruntál,36418,7282,CZ080,Moravskoslezský kraj,CZ,ČR,2.74589488714372,0,True,0,0.0,0,False,0,4.0,3,True,2,1.0,10,15
-úterý,2020-06-23,8104,Český Těšín,8,0,0,19,0,0,0,0,208,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,CZ,ČR,38.930198154708606,4,True,0,0.0,0,False,0,3.8461538461538463,3,True,2,4.0,30,39
+úterý,2020-06-23,8104,Český Těšín,8,0,0,18,0,0,0,0,208,8104,Český Těšín,25687,4960,CZ080,Moravskoslezský kraj,CZ,ČR,38.930198154708606,4,True,0,0.0,0,False,0,3.8461538461538463,3,True,2,4.0,30,39
 úterý,2020-06-23,8105,Frenštát pod Radhoštěm,0,0,0,0,0,0,0,0,36,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-06-23,8106,Frýdek-Místek,14,1,0,22,1,1,2,2,542,8106,Frýdek-Místek,112433,21794,CZ080,Moravskoslezský kraj,CZ,ČR,15.120115980183753,2,True,0,4.588418830870882,0,True,2,2.5830258302583027,0,True,2,1.1666666666666667,10,16
 úterý,2020-06-23,8107,Frýdlant nad Ostravicí,3,0,0,5,0,0,1,0,90,8107,Frýdlant nad Ostravicí,24950,5239,CZ080,Moravskoslezský kraj,CZ,ČR,16.03206412825651,2,True,0,0.0,0,False,0,3.3333333333333335,3,True,2,0.0,0,7
 úterý,2020-06-23,8108,Havířov,65,7,3,148,9,5,1,1,823,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,CZ,ČR,99.42886211760354,7,True,0,43.34398873056293,4,True,2,7.897934386391252,7,True,2,1.5853658536585367,20,42
 úterý,2020-06-23,8109,Hlučín,0,0,0,2,1,0,0,1,82,8109,Hlučín,40639,7899,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-06-23,8110,Jablunkov,4,0,0,11,2,0,0,0,245,8110,Jablunkov,22664,3972,CZ080,Moravskoslezský kraj,CZ,ČR,17.649135192375574,2,True,0,0.0,0,False,0,1.6326530612244898,0,True,2,0.0,0,4
-úterý,2020-06-23,8111,Karviná,78,7,3,186,13,7,5,3,619,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,176.0618731725721,10,True,0,59.68812952324106,7,True,2,12.60096930533118,11,True,2,1.278688524590164,15,47
+úterý,2020-06-23,8111,Karviná,77,7,3,185,13,7,5,3,619,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,174.48989216210268,10,True,0,59.68812952324106,7,True,2,12.439418416801292,11,True,2,1.2833333333333334,15,47
 úterý,2020-06-23,8112,Kopřivnice,0,0,0,1,0,0,0,0,65,8112,Kopřivnice,40755,7907,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-06-23,8113,Kravaře,0,0,0,1,0,0,0,0,27,8113,Kravaře,21356,3656,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-06-23,8114,Krnov,0,0,0,0,0,0,0,0,34,8114,Krnov,39938,8666,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -201,7 +201,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-06-23,8116,Odry,1,0,0,5,0,0,0,0,53,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,17.722117202268432,2,False,0,0.0,0,False,0,1.8867924528301887,0,False,0,0.5,0,2
 úterý,2020-06-23,8117,Opava,0,0,0,3,0,0,0,0,112,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,0.9904226133291075,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2020-06-23,8118,Orlová,12,3,1,46,3,1,2,2,271,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,61.88951376368969,7,False,0,44.30005906674542,4,True,2,4.428044280442804,3,True,2,1.7142857142857142,25,43
-úterý,2020-06-23,8119,Ostrava,17,0,0,42,1,1,2,1,869,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,7.184244639147885,0,True,0,0.0,0,False,0,1.9562715765247412,0,True,2,5.666666666666667,30,32
+úterý,2020-06-23,8119,Ostrava,17,0,0,41,1,1,2,1,869,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,6.871886176576239,0,True,0,0.0,0,False,0,1.9562715765247412,0,True,2,5.666666666666667,30,32
 úterý,2020-06-23,8120,Rýmařov,0,0,0,0,0,0,0,0,17,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-06-23,8121,Třinec,40,29,25,54,31,25,4,3,677,8121,Třinec,54613,11066,CZ080,Moravskoslezský kraj,CZ,ČR,82.39796385475985,7,True,0,271.1006687149828,13,True,2,5.908419497784342,3,True,2,2.6666666666666665,30,57
 úterý,2020-06-23,8122,Vítkov,1,0,0,1,0,0,0,0,10,8122,Vítkov,13274,2743,CZ080,Moravskoslezský kraj,CZ,ČR,7.533524182612626,0,True,0,0.0,0,False,0,10.0,7,True,2,0.0,0,9

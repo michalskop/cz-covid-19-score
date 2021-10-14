@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2020-05-26,1000,Praha,58,5,1,259,53,35,27,10,5682,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,14.196425672272493,2,False,0,7.962861215291879,0,True,2,1.0207673354452658,0,False,0,0.5178571428571429,0,4
+úterý,2020-05-26,1000,Praha,57,4,0,257,52,34,27,10,5682,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,14.045399867248316,2,False,0,7.564718154527285,0,True,2,1.0031678986272439,0,False,0,0.5181818181818182,0,4
 úterý,2020-05-26,2101,Benešov,1,0,0,4,1,0,0,0,187,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,6.555012946150569,0,False,0,8.24742268041237,0,True,2,0.53475935828877,0,False,0,0.3333333333333333,0,2
 úterý,2020-05-26,2102,Beroun,1,1,1,1,1,1,1,1,180,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,1.5401912917584364,0,True,0,8.77808988764045,0,True,2,0.5555555555555556,0,True,2,0.0,0,4
 úterý,2020-05-26,2103,Brandýs n.L.- St.Boleslav,4,0,0,13,1,1,1,0,367,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,9.710280538832295,0,False,0,0.0,0,False,0,1.08991825613079,0,False,0,0.5714285714285714,0,0
@@ -62,7 +62,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2020-05-26,4102,Cheb,6,1,1,21,5,3,2,2,410,4102,Cheb,49955,9806,CZ041,Karlovarský kraj,CZ,ČR,22.019817836052447,2,False,0,10.197838058331634,2,True,2,1.4634146341463417,0,True,2,1.5,20,28
 úterý,2020-05-26,4103,Karlovy Vary,0,0,0,0,0,0,0,0,363,4103,Karlovy Vary,87182,19250,CZ041,Karlovarský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2020-05-26,4104,Kraslice,1,0,0,1,0,0,0,0,97,4104,Kraslice,13184,2750,CZ041,Karlovarský kraj,CZ,ČR,7.584951456310679,0,True,0,0.0,0,False,0,1.0309278350515463,0,True,2,1.0,10,12
-úterý,2020-05-26,4105,Mariánské Lázně,2,1,0,14,9,5,2,1,136,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,12.508338892595065,2,False,0,36.90717844620779,4,True,2,1.4705882352941175,0,True,2,2.0,30,40
+úterý,2020-05-26,4105,Mariánské Lázně,2,1,0,12,9,5,2,1,136,4105,Mariánské Lázně,23984,5419,CZ041,Karlovarský kraj,CZ,ČR,12.508338892595065,2,False,0,36.90717844620779,4,True,2,1.4705882352941175,0,True,2,2.0,30,40
 úterý,2020-05-26,4106,Ostrov,1,1,1,1,1,1,0,0,147,4106,Ostrov,27636,5453,CZ041,Karlovarský kraj,CZ,ČR,3.618468664061369,0,True,0,18.338529249954153,2,True,2,0.6802721088435374,0,True,2,1.0,10,16
 úterý,2020-05-26,4107,Sokolov,2,0,0,3,0,0,0,0,472,4107,Sokolov,75028,14222,CZ041,Karlovarský kraj,CZ,ČR,5.331342965292957,0,False,0,0.0,0,False,0,0.423728813559322,0,False,0,1.0,10,10
 úterý,2020-05-26,4201,Bílina,0,0,0,1,1,0,0,0,80,4201,Bílina,22600,3935,CZ042,Ústecký kraj,CZ,ČR,4.424778761061947,0,False,0,25.412960609911053,4,True,2,0.0,0,False,0,0.0,0,6

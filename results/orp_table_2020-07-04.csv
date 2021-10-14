@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-sobota,2020-07-04,1000,Praha,64,5,3,230,25,15,12,4,3644,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,12.006551499421949,2,False,0,3.1851444861167515,0,True,2,1.756311745334797,0,False,0,0.6956521739130435,0,4
+sobota,2020-07-04,1000,Praha,64,5,3,227,24,14,12,4,3644,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,11.931038596909861,2,False,0,3.1851444861167515,0,True,2,1.756311745334797,0,False,0,0.7032967032967034,0,4
 sobota,2020-07-04,2101,Benešov,0,0,0,2,0,0,0,0,86,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,3.2775064730752845,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 sobota,2020-07-04,2102,Beroun,2,0,0,11,3,1,0,0,106,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,4.620573875275309,0,False,0,0.0,0,False,0,1.8867924528301887,0,True,2,2.0,30,32
 sobota,2020-07-04,2103,Brandýs n.L.- St.Boleslav,7,0,0,17,0,0,0,0,231,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,12.358538867604738,2,True,0,0.0,0,False,0,3.0303030303030303,3,True,2,0.875,5,12
@@ -97,7 +97,7 @@ sobota,2020-07-04,5203,Dvůr Králové nad Labem,0,0,0,0,0,0,0,0,11,5203,Dvůr K
 sobota,2020-07-04,5204,Hořice,0,0,0,0,0,0,0,0,14,5204,Hořice,18377,4041,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-07-04,5205,Hradec Králové,1,0,0,10,5,0,2,1,194,5205,Hradec Králové,146899,32484,CZ052,Královéhradecký kraj,CZ,ČR,4.0844389682707165,0,False,0,15.392193079669992,2,True,2,0.5154639175257731,0,False,0,0.25,0,4
 sobota,2020-07-04,5206,Jaroměř,0,0,0,2,2,1,0,0,10,5206,Jaroměř,19273,3792,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-sobota,2020-07-04,5207,Jičín,3,0,0,7,2,2,0,0,82,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,8.26753751395147,0,True,0,9.893153937475267,0,True,2,3.6585365853658534,3,True,2,3.0,30,37
+sobota,2020-07-04,5207,Jičín,2,0,0,6,2,2,0,0,82,5207,Jičín,48382,10108,CZ052,Královéhradecký kraj,CZ,ČR,6.200653135463602,0,True,0,9.893153937475267,0,True,2,2.4390243902439024,0,True,2,2.0,30,34
 sobota,2020-07-04,5208,Kostelec nad Orlicí,0,0,0,0,0,0,0,0,16,5208,Kostelec nad Orlicí,24892,5311,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 sobota,2020-07-04,5209,Náchod,1,0,0,2,1,0,0,0,60,5209,Náchod,60595,13494,CZ052,Královéhradecký kraj,CZ,ČR,3.300602359930687,0,True,0,7.410701052319549,0,True,2,1.6666666666666667,0,False,0,1.0,10,12
 sobota,2020-07-04,5210,Nová Paka,0,0,0,0,0,0,0,0,14,5210,Nová Paka,13286,2887,CZ052,Královéhradecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -190,7 +190,7 @@ sobota,2020-07-04,8104,Český Těšín,39,4,2,75,4,2,3,4,260,8104,Český Těš
 sobota,2020-07-04,8105,Frenštát pod Radhoštěm,0,0,0,3,0,0,0,0,48,8105,Frenštát pod Radhoštěm,19541,3851,CZ080,Moravskoslezský kraj,CZ,ČR,15.352336113811985,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
 sobota,2020-07-04,8106,Frýdek-Místek,29,2,2,56,3,3,1,1,1195,8106,Frýdek-Místek,112433,21794,CZ080,Moravskoslezský kraj,CZ,ČR,42.69209217934236,4,True,0,9.176837661741764,0,True,2,2.426778242677824,0,True,2,0.8055555555555556,5,13
 sobota,2020-07-04,8107,Frýdlant nad Ostravicí,5,1,1,15,1,1,1,1,205,8107,Frýdlant nad Ostravicí,24950,5239,CZ080,Moravskoslezský kraj,CZ,ČR,56.11222444889779,7,True,0,19.08761213972132,2,True,2,2.4390243902439024,0,False,0,0.5555555555555556,0,11
-sobota,2020-07-04,8108,Havířov,223,10,3,404,20,6,11,8,1825,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,CZ,ČR,416.21384142252646,13,True,0,97.52397464376659,7,True,2,12.219178082191782,11,True,2,0.9653679653679653,5,40
+sobota,2020-07-04,8108,Havířov,222,10,3,402,20,6,11,8,1825,8108,Havířov,86494,18457,CZ080,Moravskoslezský kraj,CZ,ČR,413.9015423035124,13,True,0,97.52397464376659,7,True,2,12.164383561643834,11,True,2,0.9652173913043478,5,40
 sobota,2020-07-04,8109,Hlučín,6,2,2,10,3,2,0,0,109,8109,Hlučín,40639,7899,CZ080,Moravskoslezský kraj,CZ,ČR,22.146214227712296,2,True,0,25.319660716546398,4,True,2,5.5045871559633035,3,True,2,1.2,15,28
 sobota,2020-07-04,8110,Jablunkov,5,0,0,15,1,0,0,0,253,8110,Jablunkov,22664,3972,CZ080,Moravskoslezský kraj,CZ,ČR,61.77197317331451,7,True,0,0.0,0,False,0,1.9762845849802373,0,False,0,0.5,0,7
 sobota,2020-07-04,8111,Karviná,245,6,3,440,15,9,11,8,1250,8111,Karviná,63614,13403,CZ080,Moravskoslezský kraj,CZ,ČR,619.3605181249411,16,True,0,74.61016190405132,7,True,2,19.6,20,True,2,0.8566433566433567,5,52
