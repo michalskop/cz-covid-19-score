@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-čtvrtek,2021-05-27,1000,Praha,412,31,13,797,0,0,47,32,33723,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,78.68444441759542,7,False,0,32.6477309826967,4,True,2,1.221718115232927,0,False,0,0.7091222030981067,0,13
+čtvrtek,2021-05-27,1000,Praha,412,31,13,796,0,0,47,32,33723,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,78.60893151508333,7,False,0,32.6477309826967,4,True,2,1.221718115232927,0,False,0,0.7103448275862069,0,13
 čtvrtek,2021-05-27,2101,Benešov,21,2,2,44,0,0,3,1,396,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,108.15771361148438,7,False,0,16.49484536082474,2,True,2,5.303030303030303,3,False,0,0.7,0,14
 čtvrtek,2021-05-27,2102,Beroun,24,3,3,48,4,0,2,2,569,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,77.00956458792182,7,False,0,52.668539325842694,7,True,2,4.21792618629174,3,True,2,1.1428571428571428,10,31
 čtvrtek,2021-05-27,2103,Brandýs n.L.- St.Boleslav,20,3,0,50,0,0,3,0,2169,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,53.84791935170636,7,False,0,24.366471734892787,2,True,2,0.9220839096357769,0,False,0,0.5555555555555556,0,11
@@ -111,7 +111,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 čtvrtek,2021-05-27,5303,Holice,3,2,1,6,0,0,1,1,138,5303,Holice,17910,3461,CZ053,Pardubický kraj,CZ,ČR,55.83472920156337,7,False,0,86.68015024559377,7,True,2,2.1739130434782608,0,False,0,0.5,0,16
 čtvrtek,2021-05-27,5304,Chrudim,26,2,2,40,0,0,2,3,977,5304,Chrudim,83596,17211,CZ053,Pardubický kraj,CZ,ČR,64.59639217187426,7,False,0,29.051188193597117,4,True,2,2.6612077789150463,0,False,0,0.8387096774193549,5,18
 čtvrtek,2021-05-27,5305,Králíky,2,0,0,7,0,0,0,0,38,5305,Králíky,8676,1838,CZ053,Pardubický kraj,CZ,ČR,92.20839096357768,7,False,0,0.0,0,False,0,5.263157894736842,3,False,0,0.5,0,10
-čtvrtek,2021-05-27,5306,Lanškroun,0,0,0,6,2,0,0,0,102,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,30.250648228176317,4,False,0,22.381378692927484,2,True,2,0.0,0,False,0,0.0,0,8
+čtvrtek,2021-05-27,5306,Lanškroun,0,0,0,7,2,0,0,0,102,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,34.57216940363008,4,False,0,22.381378692927484,2,True,2,0.0,0,False,0,0.0,0,8
 čtvrtek,2021-05-27,5307,Litomyšl,6,0,0,16,1,0,1,0,150,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,62.48851314096674,7,False,0,18.772292096865026,2,True,2,4.0,3,False,0,0.6666666666666666,0,14
 čtvrtek,2021-05-27,5308,Moravská Třebová,15,1,0,32,2,0,4,0,120,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,122.42711760654984,10,False,0,36.52300949598247,4,True,2,12.5,11,False,0,0.8823529411764706,5,32
 čtvrtek,2021-05-27,5309,Pardubice,19,10,5,67,29,15,7,4,1078,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,44.80184674730999,4,False,0,72.14733244731346,7,True,2,1.7625231910946195,0,False,0,0.5277777777777778,0,13
