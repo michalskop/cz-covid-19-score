@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-pondělí,2021-07-12,1000,Praha,503,13,4,758,0,0,5,5,32540,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,69.32084450609653,7,True,0,9.15729039758566,0,True,2,1.5457897971727106,0,True,2,1.1510297482837528,10,21
+pondělí,2021-07-12,1000,Praha,502,13,4,759,0,0,5,5,32540,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,69.24533160358445,7,True,0,9.15729039758566,0,True,2,1.5427166564228643,0,True,2,1.151376146788991,10,21
 pondělí,2021-07-12,2101,Benešov,19,0,0,13,0,0,0,0,550,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,49.16259709612927,4,True,0,8.24742268041237,0,True,2,3.4545454545454546,3,True,2,1.3571428571428572,15,26
 pondělí,2021-07-12,2102,Beroun,16,1,1,27,0,0,0,1,1108,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,41.58516487747779,4,True,0,8.77808988764045,0,True,2,1.444043321299639,0,True,2,1.7777777777777777,25,33
 pondělí,2021-07-12,2103,Brandýs n.L.- St.Boleslav,29,0,0,37,0,0,0,0,2463,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,40.60662770784414,4,True,0,0.0,0,False,0,1.1774259033698742,0,True,2,1.2608695652173914,15,21
@@ -17,7 +17,7 @@ pondělí,2021-07-12,2114,Mělník,4,0,0,0,0,0,0,0,715,2114,Mělník,44600,8655,
 pondělí,2021-07-12,2115,Mladá Boleslav,23,0,0,26,0,0,1,1,986,2115,Mladá Boleslav,112464,20603,CZ020,Středočeský kraj,CZ,ČR,24.896855882771376,2,True,0,0.0,0,False,0,2.332657200811359,0,True,2,2.3,30,34
 pondělí,2021-07-12,2116,Mnichovo Hradiště,0,0,0,1,1,0,0,0,195,2116,Mnichovo Hradiště,17901,3388,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2021-07-12,2117,Neratovice,12,1,0,10,0,0,0,0,860,2117,Neratovice,32187,5907,CZ020,Středočeský kraj,CZ,ČR,49.70951005064156,4,True,0,16.929067208396816,2,True,2,1.3953488372093024,0,True,2,2.4,30,40
-pondělí,2021-07-12,2118,Nymburk,5,1,1,1,0,0,0,0,460,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,12.44307294129358,2,True,0,12.244398187829068,2,True,2,1.0869565217391304,0,True,2,5.0,30,38
+pondělí,2021-07-12,2118,Nymburk,5,1,1,2,0,0,0,0,460,2118,Nymburk,40183,8167,CZ020,Středočeský kraj,CZ,ČR,12.44307294129358,2,True,0,12.244398187829068,2,True,2,1.0869565217391304,0,True,2,5.0,30,38
 pondělí,2021-07-12,2119,Poděbrady,5,0,0,1,0,2,0,0,295,2119,Poděbrady,31382,6883,CZ020,Středočeský kraj,CZ,ČR,19.119240328850932,2,True,0,0.0,0,False,0,1.694915254237288,0,True,2,5.0,30,34
 pondělí,2021-07-12,2120,Příbram,5,0,0,30,21,13,0,0,855,2120,Příbram,69951,14592,CZ020,Středočeský kraj,CZ,ČR,8.577432774370632,0,True,0,0.0,0,False,0,0.5847953216374269,0,True,2,2.5,30,32
 pondělí,2021-07-12,2121,Rakovník,3,0,0,20,13,8,0,0,533,2121,Rakovník,55562,11623,CZ020,Středočeský kraj,CZ,ČR,12.598538569525935,2,True,0,0.0,0,False,0,0.5628517823639775,0,True,2,0.75,0,4
@@ -144,7 +144,7 @@ pondělí,2021-07-12,6205,Bučovice,0,0,0,0,0,0,0,1,167,6205,Bučovice,16111,317
 pondělí,2021-07-12,6206,Hodonín,0,0,0,2,0,0,1,0,685,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,1.6478536705940512,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 pondělí,2021-07-12,6207,Hustopeče,1,0,0,3,1,1,0,0,386,6207,Hustopeče,36311,6981,CZ064,Jihomoravský kraj,CZ,ČR,11.015945581228829,2,False,0,0.0,0,False,0,0.2590673575129534,0,True,2,0.5,0,4
 pondělí,2021-07-12,6208,Ivančice,0,0,0,0,0,0,0,0,280,6208,Ivančice,24459,4805,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-pondělí,2021-07-12,6209,Kuřim,1,0,0,5,0,1,1,0,375,6209,Kuřim,23345,4177,CZ064,Jihomoravský kraj,CZ,ČR,21.417862497322766,2,False,0,0.0,0,False,0,0.26666666666666666,0,False,0,0.5,0,2
+pondělí,2021-07-12,6209,Kuřim,1,0,0,6,0,1,1,0,375,6209,Kuřim,23345,4177,CZ064,Jihomoravský kraj,CZ,ČR,21.417862497322766,2,False,0,0.0,0,False,0,0.26666666666666666,0,False,0,0.5,0,2
 pondělí,2021-07-12,6210,Kyjov,0,0,0,0,0,0,0,0,648,6210,Kyjov,55543,11542,CZ064,Jihomoravský kraj,CZ,ČR,1.8004068919575826,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 pondělí,2021-07-12,6211,Mikulov,4,0,0,7,0,0,0,0,199,6211,Mikulov,20265,3954,CZ064,Jihomoravský kraj,CZ,ČR,34.542314335060446,4,True,0,0.0,0,False,0,2.0100502512562812,0,True,2,1.3333333333333333,15,21
 pondělí,2021-07-12,6212,Moravský Krumlov,1,0,0,0,0,0,0,0,249,6212,Moravský Krumlov,22452,4592,CZ064,Jihomoravský kraj,CZ,ČR,4.453946196329948,0,True,0,0.0,0,False,0,0.4016064257028112,0,True,2,0.0,0,2
