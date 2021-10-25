@@ -1,10 +1,10 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2021-07-06,1000,Praha,404,8,5,567,0,0,8,7,40351,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,52.2549285383647,7,True,0,5.972145911468909,0,True,2,1.001214344130257,0,True,2,1.1222222222222222,10,21
+úterý,2021-07-06,1000,Praha,404,8,5,565,0,0,8,7,40351,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,52.2549285383647,7,True,0,5.972145911468909,0,True,2,1.001214344130257,0,True,2,1.1222222222222222,10,21
 úterý,2021-07-06,2101,Benešov,13,1,1,1,0,0,0,0,664,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,27.85880502113992,4,True,0,8.24742268041237,0,True,2,1.957831325301205,0,True,2,2.1666666666666665,30,38
 úterý,2021-07-06,2102,Beroun,10,0,0,15,0,0,0,0,1440,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,21.56267808461811,2,True,0,0.0,0,False,0,0.6944444444444444,0,True,2,1.6666666666666667,25,29
 úterý,2021-07-06,2103,Brandýs n.L.- St.Boleslav,22,0,0,30,0,0,0,0,2827,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,34.42735827404177,4,True,0,0.0,0,False,0,0.7782101167315175,0,True,2,1.2222222222222223,15,21
 úterý,2021-07-06,2104,Čáslav,0,0,0,0,0,0,0,0,1203,2104,Čáslav,25663,5212,CZ020,Středočeský kraj,CZ,ČR,15.586642247593813,2,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,2
-úterý,2021-07-06,2105,Černošice,43,0,0,70,2,2,0,0,4250,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,51.56088872222743,7,True,0,0.0,0,False,0,1.011764705882353,0,True,2,1.162162162162162,10,19
+úterý,2021-07-06,2105,Černošice,43,0,0,72,2,2,0,0,4250,2105,Černošice,149338,23399,CZ020,Středočeský kraj,CZ,ČR,51.56088872222743,7,True,0,0.0,0,False,0,1.011764705882353,0,True,2,1.162162162162162,10,19
 úterý,2021-07-06,2106,Český Brod,1,0,0,0,0,0,0,0,393,2106,Český Brod,21537,3709,CZ020,Středočeský kraj,CZ,ČR,4.643172215257464,0,True,0,0.0,0,False,0,0.2544529262086514,0,True,2,0.0,0,2
 úterý,2021-07-06,2107,Dobříš,1,0,0,4,7,7,0,0,391,2107,Dobříš,23079,4340,CZ020,Středočeský kraj,CZ,ČR,8.66588673686035,0,False,0,0.0,0,False,0,0.2557544757033248,0,False,0,0.0,0,0
 úterý,2021-07-06,2108,Hořovice,0,0,0,0,0,0,0,0,482,2108,Hořovice,30131,6103,CZ020,Středočeský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -138,7 +138,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-07-06,6115,Žďár nad Sázavou,2,0,0,0,1,1,0,0,930,6115,Žďár nad Sázavou,42627,8703,CZ063,Kraj Vysočina,CZ,ČR,7.037792948131466,0,False,0,0.0,0,False,0,0.21505376344086022,0,True,2,1.0,10,12
 úterý,2021-07-06,6201,Blansko,0,0,0,0,0,0,0,0,1040,6201,Blansko,57126,11918,CZ064,Jihomoravský kraj,CZ,ČR,1.7505164023386899,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-07-06,6202,Boskovice,2,0,0,0,0,0,0,0,555,6202,Boskovice,52010,10490,CZ064,Jihomoravský kraj,CZ,ČR,5.7681215150932506,0,False,0,0.0,0,False,0,0.36036036036036034,0,True,2,1.0,10,12
-úterý,2021-07-06,6203,Brno,23,1,1,17,0,0,4,2,9790,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,14.684826902602884,2,False,0,6.292711781214997,0,True,2,0.23493360572012256,0,False,0,0.696969696969697,0,4
+úterý,2021-07-06,6203,Brno,23,1,1,18,0,0,4,2,9790,6203,Brno,381346,79457,CZ064,Jihomoravský kraj,CZ,ČR,14.684826902602884,2,False,0,6.292711781214997,0,True,2,0.23493360572012256,0,False,0,0.696969696969697,0,4
 úterý,2021-07-06,6204,Břeclav,0,0,0,0,0,0,1,0,651,6204,Břeclav,59715,12216,CZ064,Jihomoravský kraj,CZ,ČR,5.023863350916855,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2021-07-06,6205,Bučovice,0,0,0,0,0,0,0,0,189,6205,Bučovice,16111,3177,CZ064,Jihomoravský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-07-06,6206,Hodonín,1,0,0,2,0,0,1,2,737,6206,Hodonín,60685,12248,CZ064,Jihomoravský kraj,CZ,ČR,1.6478536705940512,0,False,0,0.0,0,False,0,0.13568521031207598,0,True,2,0.0,0,2
