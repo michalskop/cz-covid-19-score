@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-středa,2021-06-30,1000,Praha,330,7,5,396,0,0,17,9,44631,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,41.2300447715999,4,True,0,7.564718154527285,0,True,2,0.7393963836795052,0,True,2,1.5566037735849056,20,28
+středa,2021-06-30,1000,Praha,330,7,5,395,0,0,17,9,44631,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,41.15453186908781,4,True,0,7.564718154527285,0,True,2,0.7393963836795052,0,True,2,1.5566037735849056,20,28
 středa,2021-06-30,2101,Benešov,4,0,0,0,0,0,0,0,615,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,16.387532365376423,2,True,0,0.0,0,False,0,0.6504065040650406,0,True,2,0.6666666666666666,0,4
 středa,2021-06-30,2102,Beroun,5,0,0,7,0,0,0,0,1558,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,9.241147750550619,0,True,0,0.0,0,False,0,0.3209242618741977,0,True,2,1.6666666666666667,25,27
 středa,2021-06-30,2103,Brandýs n.L.- St.Boleslav,21,0,0,24,0,0,0,0,4026,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,27.36533606398192,4,True,0,0.0,0,False,0,0.5216095380029807,0,True,2,1.105263157894737,10,16
@@ -71,7 +71,7 @@ středa,2021-06-30,4203,Chomutov,1,0,0,0,0,0,0,0,949,4203,Chomutov,81662,14681,C
 středa,2021-06-30,4204,Kadaň,0,0,0,0,0,0,0,0,453,4204,Kadaň,43284,8078,CZ042,Ústecký kraj,CZ,ČR,4.62064504204787,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-06-30,4205,Litoměřice,0,0,0,0,0,0,0,0,883,4205,Litoměřice,59110,11658,CZ042,Ústecký kraj,CZ,ČR,1.6917611233293859,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-30,4206,Litvínov,0,0,0,0,1,0,0,0,870,4206,Litvínov,37035,7785,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-středa,2021-06-30,4207,Louny,0,0,0,7,2,0,0,0,489,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,2.2914757103574703,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+středa,2021-06-30,4207,Louny,0,0,0,8,2,0,0,0,489,4207,Louny,43640,8545,CZ042,Ústecký kraj,CZ,ČR,2.2914757103574703,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-30,4208,Lovosice,0,0,0,1,0,0,0,0,309,4208,Lovosice,27750,5804,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-30,4209,Most,1,0,0,0,0,0,0,0,733,4209,Most,74673,13629,CZ042,Ústecký kraj,CZ,ČR,4.017516371379214,0,False,0,0.0,0,False,0,0.1364256480218281,0,False,0,1.0,10,10
 středa,2021-06-30,4210,Podbořany,0,0,0,1,0,0,0,0,82,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
@@ -164,7 +164,7 @@ středa,2021-06-30,7104,Lipník nad Bečvou,0,0,0,0,0,0,1,0,182,7104,Lipník nad
 středa,2021-06-30,7105,Litovel,0,0,0,0,0,0,1,0,496,7105,Litovel,23715,4914,CZ071,Olomoucký kraj,CZ,ČR,8.433480919249421,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-06-30,7106,Mohelnice,0,0,0,0,0,0,0,0,297,7106,Mohelnice,18362,3710,CZ071,Olomoucký kraj,CZ,ČR,5.446029844243546,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 středa,2021-06-30,7107,Olomouc,5,0,0,0,0,0,0,0,2787,7107,Olomouc,165165,32742,CZ071,Olomoucký kraj,CZ,ČR,5.449096358187267,0,False,0,0.0,0,False,0,0.1794043774668102,0,False,0,1.0,10,10
-středa,2021-06-30,7108,Prostějov,0,0,0,4,1,0,1,0,1055,7108,Prostějov,98012,20139,CZ071,Olomoucký kraj,CZ,ČR,2.0405664612496426,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+středa,2021-06-30,7108,Prostějov,0,0,0,5,1,0,1,0,1055,7108,Prostějov,98012,20139,CZ071,Olomoucký kraj,CZ,ČR,2.0405664612496426,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-30,7109,Přerov,0,0,0,0,0,0,0,0,1124,7109,Přerov,80236,17534,CZ071,Olomoucký kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-30,7110,Šternberk,0,0,0,0,0,0,0,0,291,7110,Šternberk,24164,4837,CZ071,Olomoucký kraj,CZ,ČR,12.415163052474757,2,False,0,20.67397146991937,2,True,2,0.0,0,False,0,0.0,0,6
 středa,2021-06-30,7111,Šumperk,1,0,0,0,0,0,0,0,545,7111,Šumperk,68988,15147,CZ071,Olomoucký kraj,CZ,ČR,5.7981098161999185,0,False,0,6.601967386281111,0,True,2,0.1834862385321101,0,False,0,0.3333333333333333,0,2
@@ -201,7 +201,7 @@ středa,2021-06-30,8115,Nový Jičín,3,0,0,6,0,0,0,0,2931,8115,Nový Jičín,48
 středa,2021-06-30,8116,Odry,1,0,0,4,3,0,0,0,1097,8116,Odry,16928,3338,CZ080,Moravskoslezský kraj,CZ,ČR,5.9073724007561434,0,False,0,0.0,0,False,0,0.09115770282588878,0,True,2,0.0,0,2
 středa,2021-06-30,8117,Opava,5,0,0,14,4,2,1,1,1093,8117,Opava,100967,20360,CZ080,Moravskoslezský kraj,CZ,ČR,8.913803519961968,0,False,0,0.0,0,False,0,0.4574565416285453,0,True,2,1.0,10,12
 středa,2021-06-30,8118,Orlová,1,0,0,2,0,0,1,0,459,8118,Orlová,37163,6772,CZ080,Moravskoslezský kraj,CZ,ČR,10.76339369803299,2,False,0,14.766686355581808,2,True,2,0.2178649237472767,0,False,0,0.5,0,6
-středa,2021-06-30,8119,Ostrava,44,1,1,89,2,0,7,5,5829,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,29.049337019163193,4,True,0,10.830213200482717,2,True,2,0.7548464573683308,0,False,0,0.9565217391304348,5,13
+středa,2021-06-30,8119,Ostrava,44,1,1,90,3,0,7,5,5829,8119,Ostrava,320145,64634,CZ080,Moravskoslezský kraj,CZ,ČR,29.049337019163193,4,True,0,10.830213200482717,2,True,2,0.7548464573683308,0,False,0,0.9565217391304348,5,13
 středa,2021-06-30,8120,Rýmařov,0,0,0,0,0,0,0,0,109,8120,Rýmařov,15241,3521,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 středa,2021-06-30,8121,Třinec,1,0,0,0,0,0,0,0,649,8121,Třinec,54613,11066,CZ080,Moravskoslezský kraj,CZ,ČR,3.6621317268782154,0,True,0,0.0,0,False,0,0.15408320493066258,0,False,0,0.0,0,0
 středa,2021-06-30,8122,Vítkov,0,0,0,0,0,0,0,0,211,8122,Vítkov,13274,2743,CZ080,Moravskoslezský kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
