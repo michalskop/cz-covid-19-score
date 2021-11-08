@@ -1,5 +1,5 @@
 den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence,prevalence_65,prevalence_75,aktualni_pocet_hospitalizovanych_osob,nove_hosp_7,testy_7,code,name,population,population_65,code_region,name_region,code_cz,name_cz,value_1,score_1,value_2,score_2,value_3,score_3,value_4,score_4,value_5,score_5,value_6,score_6,value_7,score_7,score
-úterý,2021-07-27,1000,Praha,373,7,4,810,0,0,16,12,38981,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,70.00046062870533,7,False,0,6.7684320329980965,0,True,2,0.9568764269772453,0,False,0,0.728515625,0,9
+úterý,2021-07-27,1000,Praha,373,7,4,811,0,0,16,12,38981,1000,Praha,1324277,251166,CZ010,Praha,CZ,ČR,70.00046062870533,7,False,0,6.7684320329980965,0,True,2,0.9568764269772453,0,False,0,0.728515625,0,9
 úterý,2021-07-27,2101,Benešov,10,0,0,10,0,0,0,0,692,2101,Benešov,61022,12125,CZ020,Středočeský kraj,CZ,ČR,42.60758414997869,4,False,0,16.49484536082474,2,True,2,1.4450867052023122,0,False,0,0.8333333333333334,5,13
 úterý,2021-07-27,2102,Beroun,18,1,0,45,1,0,0,0,1486,2102,Beroun,64927,11392,CZ020,Středočeský kraj,CZ,ČR,69.30860812912964,7,False,0,17.5561797752809,2,True,2,1.2113055181695829,0,False,0,0.6206896551724138,0,11
 úterý,2021-07-27,2103,Brandýs n.L.- St.Boleslav,23,0,0,60,0,0,0,0,3223,2103,Brandýs nad Labem-Stará Boleslav,113282,16416,CZ020,Středočeský kraj,CZ,ČR,61.7926943380237,7,False,0,6.091617933723197,0,True,2,0.7136208501396215,0,False,0,0.6388888888888888,0,9
@@ -77,7 +77,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-07-27,4210,Podbořany,3,0,0,4,0,0,0,0,139,4210,Podbořany,15678,3106,CZ042,Ústecký kraj,CZ,ČR,25.513458349279244,4,False,0,32.19575016097875,4,True,2,2.158273381294964,0,True,2,1.5,20,32
 úterý,2021-07-27,4211,Roudnice nad Labem,1,0,0,0,0,0,0,0,571,4211,Roudnice nad Labem,32808,6650,CZ042,Ústecký kraj,CZ,ČR,9.1441111923921,0,True,0,0.0,0,False,0,0.17513134851138354,0,False,0,0.5,0,0
 úterý,2021-07-27,4212,Rumburk,5,0,0,0,0,0,0,0,399,4212,Rumburk,32795,6681,CZ042,Ústecký kraj,CZ,ČR,18.295471870712,2,True,0,0.0,0,False,0,1.2531328320802004,0,True,2,1.6666666666666667,25,29
-úterý,2021-07-27,4213,Teplice,4,0,0,13,0,0,0,0,1873,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,17.8450672477271,2,False,0,0.0,0,False,0,0.21356113187399892,0,False,0,0.4,0,2
+úterý,2021-07-27,4213,Teplice,4,0,0,14,0,0,0,0,1873,4213,Teplice,106472,21215,CZ042,Ústecký kraj,CZ,ČR,17.8450672477271,2,False,0,0.0,0,False,0,0.21356113187399892,0,False,0,0.4,0,2
 úterý,2021-07-27,4214,Ústí nad Labem,4,0,0,20,5,0,1,0,2564,4214,Ústí nad Labem,119338,23971,CZ042,Ústecký kraj,CZ,ČR,6.703648460674723,0,False,0,0.0,0,False,0,0.15600624024961,0,False,0,0.8,5,5
 úterý,2021-07-27,4215,Varnsdorf,1,0,0,0,0,0,0,0,206,4215,Varnsdorf,19905,4211,CZ042,Ústecký kraj,CZ,ČR,5.023863350916855,0,False,0,0.0,0,False,0,0.48543689320388345,0,True,2,0.0,0,2
 úterý,2021-07-27,4216,Žatec,6,0,0,11,2,1,0,0,285,4216,Žatec,27373,5216,CZ042,Ústecký kraj,CZ,ČR,21.91940963723377,2,True,0,0.0,0,False,0,2.1052631578947367,0,True,2,3.0,30,34
@@ -114,7 +114,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-07-27,5306,Lanškroun,0,0,0,1,1,0,0,0,290,5306,Lanškroun,23140,4468,CZ053,Pardubický kraj,CZ,ČR,4.32152117545376,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2021-07-27,5307,Litomyšl,1,0,0,3,0,0,0,0,591,5307,Litomyšl,27205,5327,CZ053,Pardubický kraj,CZ,ČR,11.027384671935305,2,False,0,0.0,0,False,0,0.1692047377326565,0,False,0,0.5,0,2
 úterý,2021-07-27,5308,Moravská Třebová,0,0,0,0,0,0,0,0,209,5308,Moravská Třebová,26138,5476,CZ053,Pardubický kraj,CZ,ČR,0.0,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
-úterý,2021-07-27,5309,Pardubice,15,1,1,61,13,6,1,1,3724,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,26.577366714505928,4,False,0,3.797228023542814,0,True,2,0.4027926960257788,0,False,0,0.75,0,6
+úterý,2021-07-27,5309,Pardubice,15,1,1,63,14,6,1,1,3724,5309,Pardubice,131691,26335,CZ053,Pardubický kraj,CZ,ČR,26.577366714505928,4,False,0,3.797228023542814,0,True,2,0.4027926960257788,0,False,0,0.75,0,6
 úterý,2021-07-27,5310,Polička,2,1,0,13,9,5,1,1,273,5310,Polička,19611,3995,CZ053,Pardubický kraj,CZ,ČR,10.19835806435164,2,False,0,25.031289111389235,4,True,2,0.7326007326007326,0,True,2,0.0,0,10
 úterý,2021-07-27,5311,Přelouč,5,0,0,14,0,0,0,0,553,5311,Přelouč,25840,5172,CZ053,Pardubický kraj,CZ,ČR,50.309597523219814,7,False,0,58.0046403712297,7,True,2,0.9041591320072333,0,False,0,1.25,15,31
 úterý,2021-07-27,5312,Svitavy,3,0,0,10,4,2,0,0,373,5312,Svitavy,31379,6533,CZ053,Pardubický kraj,CZ,ČR,15.934223525287614,2,False,0,0.0,0,False,0,0.8042895442359249,0,True,2,3.0,30,34
@@ -150,7 +150,7 @@ den,datum,orp_kod,orp_nazev,incidence_7,incidence_65_7,incidence_75_7,prevalence
 úterý,2021-07-27,6212,Moravský Krumlov,0,0,0,0,0,0,0,0,240,6212,Moravský Krumlov,22452,4592,CZ064,Jihomoravský kraj,CZ,ČR,4.453946196329948,0,False,0,0.0,0,False,0,0.0,0,False,0,0.0,0,0
 úterý,2021-07-27,6213,Pohořelice,1,0,0,1,0,0,0,0,221,6213,Pohořelice,14599,2588,CZ064,Jihomoravský kraj,CZ,ČR,6.849784231796698,0,False,0,0.0,0,False,0,0.4524886877828055,0,True,2,1.0,10,12
 úterý,2021-07-27,6214,Rosice,3,0,0,0,0,0,0,0,574,6214,Rosice,26284,5080,CZ064,Jihomoravský kraj,CZ,ČR,22.827575711459446,2,True,0,0.0,0,False,0,0.5226480836236934,0,False,0,1.5,20,22
-úterý,2021-07-27,6215,Slavkov u Brna,0,0,0,0,0,0,0,0,467,6215,Slavkov u Brna,24027,4191,CZ064,Jihomoravský kraj,CZ,ČR,8.323968868356433,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
+úterý,2021-07-27,6215,Slavkov u Brna,0,0,0,1,0,0,0,0,467,6215,Slavkov u Brna,24027,4191,CZ064,Jihomoravský kraj,CZ,ČR,8.323968868356433,0,False,0,0.0,0,False,0,0.0,0,False,0,,30,30
 úterý,2021-07-27,6216,Šlapanice,3,1,1,0,0,0,1,1,2053,6216,Šlapanice,70414,12564,CZ064,Jihomoravský kraj,CZ,ČR,7.100860624307666,0,False,0,7.959248646927731,0,True,2,0.14612761811982464,0,True,2,1.5,20,24
 úterý,2021-07-27,6217,Tišnov,1,0,0,0,0,0,0,0,580,6217,Tišnov,31725,6213,CZ064,Jihomoravský kraj,CZ,ČR,6.304176516942474,0,False,0,0.0,0,False,0,0.1724137931034483,0,False,0,1.0,10,10
 úterý,2021-07-27,6218,Veselí nad Moravou,2,0,0,4,0,0,0,0,443,6218,Veselí nad Moravou,37715,8138,CZ064,Jihomoravský kraj,CZ,ČR,7.954394803128729,0,True,0,0.0,0,False,0,0.4514672686230248,0,True,2,2.0,30,32
